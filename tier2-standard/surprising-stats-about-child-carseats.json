@@ -1,0 +1,4163 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9821,
+  "title": "Surprising stats about child carseats",
+  "author": "Steven Levitt",
+  "url": "https://www.ted.com/talks/steven_levitt_surprising_stats_about_child_carseats",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T04:25:58.627579Z",
+  "updated_at": "2026-05-07T04:25:58.627579Z",
+  "lead_time": 165.422,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Once upon a time",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "08C5A1A2EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Once upon a time, there was a dread disease that afflicted children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "301FF8FA0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And in fact, among all the diseases that existed in this land, it was the worst.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A7A8B2654",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It killed the most children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "967F25CF7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And along came a brilliant inventor, a scientist, who came up with a partial cure for that disease.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4B491AE08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And it wasn't perfect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9395AA63AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Many children still died, but it was certainly better than what they had before.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26D8AF0AB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And one of the good things about this cure was that it was free, virtually free, and was very easy to use.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "34320868BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And one of the good things about this cure was that it was free, virtually free, and was very easy to use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97DA7C529B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 38,
+        "endOffset": 116,
+        "text": "you couldn't use it on the youngest children, on infants, and on one-year-olds",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1901CA2275",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "And so, as a consequence, a few years later, another scientist -- perhaps maybe this scientist not quite as brilliant as the one who had preceded him, but building on the invention of the first one -- came up with a second cure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1AF351B96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "And the beauty of the second cure for this disease was that it could be used on infants and one-year-olds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7CB783553",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 4,
+        "endOffset": 14,
+        "text": "the beauty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0902914E03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And the problem with this cure was it was very expensive, and it was very complicated to use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48C4F7AC37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And although parents tried as hard as they could to use it properly, almost all of them ended up using it wrong in the end.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0E9C99AC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "But what they did, of course, since it was so complicated and expensive, they only used it on the zero-year-olds and the one-year-olds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A74D0A7E6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And they kept on using the existing cure that they had on the two-year-olds and up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F3C739033",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And this went on for quite some time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5C0279529",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "People were happy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C7907A3AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "They had their two cures.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "708AADC1B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Until a particular mother, whose child had just turned two, died of this disease.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C71D0D1AF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 139,
+        "endOffset": 147,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1D09D6A4C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 98,
+        "endOffset": 114,
+        "text": "and she wondered",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BE94CC388F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 116,
+        "endOffset": 157,
+        "text": "like all parents who lose children wonder",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7566596873",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 50,
+        "endOffset": 174,
+        "text": "How could it possibly be that something that's cheap and simple works as well as something that's complicated and expensive?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3D7FCB0A72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 25,
+        "endOffset": 33,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "41DF080E49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "It probably is the wrong thing to do to switch and use the cheap and simple solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28F66E3C7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 85,
+        "endOffset": 97,
+        "text": "you're right",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "04CCE42427",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "you're right",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B752D14A64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And the people were happy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62BA3AB80E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "They were satisfied.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "334688BD07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "For many years this went along, and everything was fine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06A45CF5E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "But then along came a lowly economist, who had children himself, and he used the expensive and complicated treatment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E87C68C026",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "But he knew about the cheap and simple one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE8FD18492",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And he thought about it, and the expensive one didn't seem that great to him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8EF00C5F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 57,
+        "endOffset": 87,
+        "text": "I do know something about data",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "19E41F7521",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 16,
+        "endOffset": 56,
+        "text": "I don't know anything about science, but",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDD0658C45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 4,
+        "endOffset": 17,
+        "text": "lo and behold",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4F3CEE44D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 268,
+        "text": "And lo and behold, when he went through the data, he found that it didn't look like the expensive, complicated solution was any better than the cheap one, at least for the children who were two and older -- the cheap one still didn't work on the kids who were younger.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50A81CE544",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 65,
+        "endOffset": 82,
+        "text": "wonderful finding",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1C23BBDF26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 271,
+        "text": "And so, he went forth to the people and he said, \"I've made this wonderful finding: it looks as if we could just use the cheap and simple solution, and by doing so we could save ourselves 300 million dollars a year, and we could spend that on our children in other ways.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD5A4061B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "And the parents were very unhappy, and they said, \"This is a terrible thing, because how can the cheap and easy thing be as good as the hard thing?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1F096581A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And the government was very upset.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C19632E25C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "And in particular, the people who made this expensive solution were very upset because they thought, \"How can we hope to compete with something that's essentially free?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFA9AAD2AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "essentially free",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2378C7E0B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "We would lose all of our market.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBF3F8BB42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And people were very angry, and they called him horrible names.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72C85F6705",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "And he decided that maybe he should leave the country for a few days, and seek out some more intelligent, open-minded people in a place called Oxford, and come and try and tell the story at that place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07A1309713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And so, anyway, here I am.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97DD1F568F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's not a fairy tale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3773B06DFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "It's a true story about the United States today, and the disease I'm referring to is actually motor vehicle accidents for children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D70477C511",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "free cure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1881190E0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 46,
+        "endOffset": 60,
+        "text": "expensive cure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3975517E3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "And the free cure is adult seatbelts, and the expensive cure -- the 300-million-dollar-a-year cure -- is child car seats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52BBFE6D3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 4,
+        "endOffset": 44,
+        "text": "what I'd like to talk to you about today",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3658C51C5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 361,
+        "text": "And what I'd like to talk to you about today is some of the evidence why I believe this to be true: that for children two years old and up, there really is no real benefit -- proven benefit -- of car seats, in spite of the incredible energy that has been devoted toward expanding the laws and making it socially unacceptable to put your children into seatbelts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "806D59E979",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 27,
+        "endOffset": 59,
+        "text": "what is it that makes that true?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "555864C8FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And then talk about why -- what is it that makes that true?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB85BF2BCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 264,
+        "text": "And then, finally talk a little bit about a third way, about another technology, which is probably better than anything we have, but which -- there hasn't been any enthusiasm for adoption precisely because people are so enamored with the current car seat solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A3E28816F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1840181BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 63,
+        "endOffset": 82,
+        "text": "complicated stories",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "14DAA5A7D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "So, many times when you try to do research on data, it records complicated stories -- it's hard to find in the data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA909C468C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "It doesn't turn out to be the case when you look at seatbelts versus car seats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAA6B6C0D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "So the United States keeps a data set of every fatal accident that's happened since 1975.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAF9A45420",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "So in every car crash in which at least one person dies, they have information on all of the people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4598B717A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So if you look at that data",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9283F0177B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 271,
+        "text": "So if you look at that data -- it's right up on the National Highway Transportation Safety Administration's website -- you can just look at the raw data, and begin to get a sense of the limited amount of evidence that's in favor of car seats for children aged two and up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C840E19450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So, here is the data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E94D2FCEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 230,
+        "text": "Here I have, among two- to six-year-olds -- anyone above six, basically no one uses car seats, so you can't compare -- 29.3 percent of the children who are unrestrained in a crash in which at least one person dies, themselves die.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CC1E7ACE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "If you put a child in a car seat, 18.2 percent of the children die.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DCD04B695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "If they're wearing a lap-and-shoulder belt, in this raw data, 19.4 percent die.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "558F9EBC8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And interestingly, wearing a lap-only seatbelt, 16.7 percent die.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BB4934ED6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And actually, the theory tells you that the lap-only seatbelt's got to be worse than the lap-and-shoulder belt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3302B91CC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And that just reminds you that when you deal with raw data, there are hundreds of confounding variables that may be getting in the way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E5D8939DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 87,
+        "endOffset": 107,
+        "text": "turned into a figure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "79126232A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "So what we do in the study is -- and this is just presenting the same information, but turned into a figure to make it easier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B175BF0569",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So the yellow bar represents car seats, the orange bar lap-and-shoulder, and the red bar lap-only seatbelts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "422EFFA7CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And this is all relative to unrestrained -- the bigger the bar, the better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81568F1854",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D95659998B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So, this is the data I just showed, OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "649ACDB3DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 22,
+        "endOffset": 50,
+        "text": "what you're striving to beat",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "684B290224",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "So the highest bar is what you're striving to beat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73B4295DEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "So you can control for the basic things, like how hard the crash was, what seat the child was sitting in, etc., the age of the child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27FBBC0BBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And that's that middle set of bars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83BCA8DE71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And so, you can see that the lap-only seatbelts start to look worse once you do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A2A3902C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "And then finally, the last set of bars, which are really controlling for everything you could possibly imagine about the crash, 50, 75, 100 different characteristics of the crash.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A7E40F71E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "And what you find is that the car seats and the lap-and-shoulder belts, when it comes to saving lives, fatalities look exactly identical.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B35DA8F324",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And the standard error bands are relatively small around these estimates as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43AEDA7D18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And it's not just overall.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70274FF0D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "It's very robust to anything you want to look at.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4BC8B3788",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 45,
+        "endOffset": 67,
+        "text": "frontal-impact crashes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6D7BF3B7CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "One thing that's interesting: if you look at frontal-impact crashes -- when the car crashes, the front hits into something -- indeed, what you see is that the car seats look a little bit better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2A647602E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And I think this isn't just chance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FA4E400DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 40,
+        "endOffset": 56,
+        "text": "you need to pass",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E352C3391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "In order to have the car seat approved, you need to pass certain federal standards, all of which involve slamming your car into a direct frontal crash.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDBCD4B14E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 9,
+        "endOffset": 17,
+        "text": "you look",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B252A3B846",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "But when you look at other types of crashes, like rear-impact crashes, indeed, the car seats don't perform as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5C9124C7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "And I think that's because they've been optimized to pass, as we always expect people to do, to optimize relative to bright-line rules about how affected the car will be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "593AF493AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 20,
+        "endOffset": 35,
+        "text": "you might argue",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CFE3006C07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And the other thing you might argue is, \"Well, car seats have got a lot better over time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B1409117C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "And so if we look at recent crashes -- the whole data set is almost 30 years' worth of data -- you won't see it in the recent crashes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EB0669717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "The new car seats are far, far better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3003957094",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "But indeed, in recent crashes the lap-and-shoulder seatbelts, actually, are doing even better than the car seats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4FB3BE3AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 11,
+        "endOffset": 50,
+        "text": "Well, that's impossible, that can't be.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E6549CB422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "They say, \"Well, that's impossible, that can't be.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBA872E124",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 29,
+        "endOffset": 44,
+        "text": "you ask parents",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57C5B021AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 243,
+        "text": "And the line of argument, if you ask parents, is, \"But car seats are so expensive and complicated, and they have this big tangle of latches, how could they possibly not work better than seatbelts because they are so expensive and complicated?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7A91C5411",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It's kind of an interesting logic, I think, that people use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F97793291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And the other logic, they say, \"Well, the government wouldn't have told us [to] use them if they weren't much better.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F6DCE1715",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "But what's interesting is the government telling us to use them is not actually based on very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F658E0503",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "It really is based on some impassioned pleas of parents whose children died after they turned two, which has led to the passage of all these laws -- not very much on data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D29D70B9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 3,
+        "endOffset": 19,
+        "text": "you can only get",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "483CE8ABD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "So you can only get so far, I think, in telling your story by using these abstract statistics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B56A45185",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "And so I had some friends over to dinner, and I was asking -- we had a cookout -- I was asking them what advice they might have for me about proving my point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14A0CE20B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "They said, \"Why don't you run some crash tests?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18FA80AD82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And I said, \"That's a great idea.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F30ED253A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "So we actually tried to commission some crash tests.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A80FB431D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 258,
+        "text": "And it turns out that as we called around to the independent crash test companies around the country, none of them wanted to do our crash test because they said, some explicitly, some not so explicitly, \"All of our business comes from car seat manufacturers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF4F22F529",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 204,
+        "endOffset": 257,
+        "text": "All of our business comes from car seat manufacturers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "39C09D1B17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "We can't risk alienating them by testing seatbelts relative to car seats.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2A9CD00C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now, eventually, one did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE6DFAB661",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "Under the conditions of anonymity, they said they would be happy to do this test for us -- so anonymity, and 1,500 dollars per seat that we crashed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13A78CAC18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And so, we went to Buffalo, New York, and here is the precursor to it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DFC75E7A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 34,
+        "endOffset": 83,
+        "text": "waiting for their chance to take the center stage",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "15BDB3C12F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And then, here's how the crash test works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBC6F1FE07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Here, they don't actually crash the entire car, you know -- it's not worth ruining a whole car to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F6F5C2B70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "So they just have these bench seats, and they strap the car seat and the seatbelt onto it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "069427FC41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "So I just wanted you to look at this.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0BB31A1A6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And I think this gives you a good idea of why parents think car seats are so great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "627CA20D9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 23,
+        "endOffset": 26,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "362A3DD047",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Look at the kid in the car seat.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8BBCBACD96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 39,
+        "endOffset": 69,
+        "text": "like he could survive anything",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "87C4EDC350",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Does he not look content, ready to go",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "03521EF983",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 10,
+        "endOffset": 40,
+        "text": "if you look at the kid in back",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A9B614A580",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 22,
+        "endOffset": 43,
+        "text": "when you look at this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2CF73DA5A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "So this is going to be a crash where they're going to slam this thing forward into a wall at 30 miles an hour, and see what happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CC9CF2FD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F5D5C0AD89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So, let me show you what happens.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7AAD6AA3E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "These are three-year-old dummies, by the way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91A2D096F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So here -- this is the car seat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "992CE0EBC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 22,
+        "endOffset": 83,
+        "text": "watch how the head goes forward, and basically hits the knees",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2C88DF9643",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 4,
+        "endOffset": 20,
+        "text": "watch two things",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "20DF4AA3CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "The car seat's moving all over the place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EB4A10CF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Bear in mind there are two things about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9D9165B58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "This is a car seat that was installed by someone who has installed 1,000 car seats, who knew exactly how to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AA9FC1665",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And also it turned out these bench seats are the very best way to install car seats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D85E708DCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Having a flat back makes it much easier to install them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D886EE7FB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 39,
+        "endOffset": 70,
+        "text": "rigged in favor of the car seat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ECABDCB308",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 72,
+        "endOffset": 75,
+        "text": "OK?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "97669EDB7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So, that kid in this crash fared very well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF7D74D204",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "The federal standards are that you have to score below a 1,000 to be an approved car seat on this crash, in some metric of units which are not important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39B2B50656",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And this crash would have been about a 450.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EAACAE1DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "So this car seat was actually an above-average car seat from Consumer Reports, and did quite well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0FABCC3AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "So the next one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFAEA4B682",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Now, this is the kid, same crash, who is in the seatbelt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61D46D2725",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "He hardly moves at all, actually, relative to the other child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91D5CED6E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "The funny thing is",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "07B0DA8354",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 20,
+        "endOffset": 205,
+        "text": "the cam work is terrible because they've only set it up to do the car seats, and so, they actually don't even have a way to move the camera so you can see the kid that's on the rebound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDF75577B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Anyway, it turns out that those two crashes, that actually the three-year-old did slightly worse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7D79CF2C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 34,
+        "endOffset": 42,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E0BE04E203",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "So, he gets about a 500 out of -- you know, on this range -- relative to a 400 and something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB4278C9DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "But still, if you just took that data from that crash to the federal government, and said, \"I have invented a new car seat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A555651F43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "I would like you to approve it for selling,\" then they would say, \"This is a fantastic new car seat, it works great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31EEF2D672",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 67,
+        "endOffset": 116,
+        "text": "This is a fantastic new car seat, it works great.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "994023030C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "It only got a 500, it could have gotten as high up as a 1,000.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF6B0B353D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And this seatbelt would have passed with flying colors into being approved as a car seat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BB49DCA35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "So, in some sense, what this is suggesting is that it's not just that people are setting up their car seats wrong, which is putting children at risk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9D8313886",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "It's just that, fundamentally, the car seats aren't doing much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "407FD19967",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So here's the crash.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6B1F149A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 205,
+        "text": "So these are timed at the same time, so you can see that it takes much longer with the car seat -- at rebound, it takes a lot longer -- but there's just a lot less movement for child who's in the seatbelt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A5DCAFF06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "So, I'll show you the six-year-old crashes as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2B44232EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "The six-year-old is in a car seat, and it turns out that looks terrible, but that's great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74C64098AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "That's like a 400, OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE233941CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So that kid would do fine in the crash.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D5C5836D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Nothing about that would have been problematic to the child at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF8CE1F07E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And then here's the six-year-old in the seatbelt, and in fact, they get exactly within, you know, within one or two points of the same.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1D8CCDA81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "So really, for the six-year-old, the car seat did absolutely nothing whatsoever.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "982876139F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "That's some more evidence, so in some sense -- I was criticized by a scientist, who said, \"You could never publish a study with an n of 4,\" meaning those four crashes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAA3DBD212",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "So I wrote him back and I said, \"What about an n of 45,004?\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "ED42127F47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Because I had the other 45,000 other real-world crashes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CB1FDA061",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 398,
+        "text": "And I just think that it's interesting that the idea of using real-world crashes, which is very much something that economists think would be the right thing to do, is something that scientists don't actually, usually think -- they would rather use a laboratory, a very imperfect science of looking at the dummies, than actually 30 years of data of what we've seen with children and with car seats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C6F0D3022",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 34,
+        "endOffset": 40,
+        "text": "puzzle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84704DD4FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 199,
+        "text": "And so I think the answer to this puzzle is that there's a much better solution out there, that's gotten nobody excited because everyone is so delighted with the way car seats are presumably working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA1FF5968E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "And if you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9EA1A5318D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "And if you think from a design perspective, about going back to square one, and say, \"I just want to protect kids in the back seat.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A74570A6D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "I don't there's anyone in this room who'd say, \"Well, the right way to start would be, let's make a great seat belt for adults.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B20DB23162",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 87,
+        "endOffset": 98,
+        "text": "daisy chain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6DC1144F0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And then, let's make this really big contraption that you have to rig up to it in this daisy chain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67360D1B0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 25,
+        "endOffset": 79,
+        "text": "who's sitting in the back seat anyway except for kids?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4F153F7D10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "I mean, why not start -- who's sitting in the back seat anyway except for kids?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1874B8D0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "But essentially, do something like this, which I don't know exactly how much it would cost to do, but there's no reason I could see why this should be much more expensive than a regular car seat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E67CFD9F84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "It's just actually -- you see, this is folding up -- it's behind the seat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31A99F03A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "You've got a regular seat for adults, and then you fold it down, and the kid sits on top, and it's integrated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C62613FD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "It seems to me that this can't be a very expensive solution, and it's got to work better than what we already have.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D027FC97D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "So the question is, is there any hope",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1740851E55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "So the question is, is there any hope for adoption of something like this, which would presumably save a lot of lives?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57345D1587",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And I think the answer, perhaps, lies in a story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90CE6F1A7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "The answer both to why has a car seat been so successful, and why this may someday be adopted or not, lies in a story that my dad told me, relating to when he was a doctor in the U.S.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F78E4326C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Air Force in England.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD69FE26A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And this is a long time ago: you were allowed to do things then you can't do today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4529B0E097",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "So, my father would have patients come in who he thought were not really sick.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBFC31773F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "And he had a big jar full of placebo pills that he would give them, and he'd say, \"Come back in a week, if you still feel lousy.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1715487DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "OK, and most of them would not come back, but some of them would come back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51489B23E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And when they came back, he, still convinced they were not sick, had another jar of pills.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88012190D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "In this jar were huge horse pills.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FC52472C3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "They were almost impossible to swallow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F226FE880B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And these, to me, are the analogy for the car seats.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2B50420789",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "People would look at these and say, \"Man, this thing is so big and so hard to swallow.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BFE06AD748",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "If this doesn't make me feel better, you know, what possibly could?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D6916A6B26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And it turned out that most people wouldn't come back, because it worked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B0F60DD0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "But every once in a while, there was still a patient convinced that he was sick, and he'd come back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C45587FAAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And my dad had a third jar of pills.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15E930F61D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And the jar of pills he had, he said, were the tiniest little pills he could find, so small you could barely see them.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4149284CCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "And he would say, listen, I know I gave you that huge pill, that complicated, hard-to-swallow pill before, but now I've got one that's so potent, that is really tiny and small and almost invisible.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "447077224D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "It's almost like this thing here, which you can't even see.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "59574BB5AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "And it turned out that never, in all the times my dad gave out this pill, the really tiny pill, did anyone ever come back still complaining of sickness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2691180117",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 50,
+        "endOffset": 78,
+        "text": "little, teeny, powerful pill",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "949AA8F500",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "So, my dad always took that as evidence that this little, teeny, powerful pill had the ultimate placebo effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BB09D9C71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 19,
+        "endOffset": 44,
+        "text": "if that's the right story",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "509BDFAF25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 75,
+        "endOffset": 101,
+        "text": "you will see, very quickly",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BB5EA48EB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "And in some sense, if that's the right story, I think integrated car seats you will see, very quickly, becoming something that everyone has.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4F4EE455F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "The other possible conclusion is, well, maybe after coming to my father three times, getting sent home with placebos, he still felt sick, he went and found another doctor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8750B4EBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And that's completely possible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FCCA82F6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 77,
+        "endOffset": 100,
+        "text": "for a long time to come",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E07C2003A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And if that's the case, then I think we're stuck with conventional car seats for a long time to come.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7E41B2D7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFA6153842",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "(Applause) (Audience: I just wanted to ask you, when we wear seatbelts we don't necessarily wear them just to prevent loss of life, it's also to prevent lots of serious injury.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C66DE2FAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Your data",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6CC73CA3A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Your data looks at fatalities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9EF410813",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It doesn't look at serious injury.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6278AA899C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Is there any data",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "607A8BC543",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Is there any data to show that child seats are actually less effective, or just as effective as seatbelts for serious injury?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8605E80965",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Because that would prove your case.) Steven Levitt: Yeah, that's a great question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C748B9AEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "In my data, and in another data set I've looked at for New Jersey crashes, I find very small differences in injury.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B69FB24FC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "So in this data, it's statistically insignificant differences in injury between car seats and lap-and-shoulder belts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "822C1D9DBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 235,
+        "text": "In the New Jersey data, which is different, because it's not just fatal crashes, but all crashes in New Jersey that are reported, it turns out that there is a 10 percent difference in injuries, but generally they're the minor injuries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55FEC230D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "Now, what's interesting, I should say this as a disclaimer, there is medical literature that is very difficult to resolve with this other data, which suggests that car seats are dramatically better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A54047301",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "And they use a completely different methodology that involves -- after the crash occurs, they get from the insurance companies the names of the people who were in the crash, and they call them on the phone, and they asked them what happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B216E72A77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "And I really can't resolve, yet, and I'd like to work with these medical researchers to try to understand how there can be these differences, which are completely at odds with one another.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3230F234A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "But it's obviously a critical question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF2816DF5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "The question is",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "643ACD28FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 16,
+        "endOffset": 90,
+        "text": "even if -- are there enough serious injuries to make these cost-effective?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B756E236B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "It's kind of tricky.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6E260EEB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Even if they're right, it's not so clear that they're so cost-effective.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "620D6DC206",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

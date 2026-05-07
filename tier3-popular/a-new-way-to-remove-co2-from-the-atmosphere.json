@@ -1,0 +1,2276 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10241,
+  "title": "A new way to remove CO2 from the atmosphere",
+  "author": "Jennifer Wilcox",
+  "url": "https://www.ted.com/talks/jennifer_wilcox_a_new_way_to_remove_co2_from_the_atmosphere",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T04:08:56.589178Z",
+  "updated_at": "2026-05-07T04:08:56.589178Z",
+  "lead_time": 89.104,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Four hundred parts per million: that's the approximate concentration of CO2 in the air today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52550FA1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "What does this even mean?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "617528CD6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "For every 400 molecules of carbon dioxide, we have another million molecules of oxygen and nitrogen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2ABEE39A1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "In this room today, there are about 1,800 of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79D3D3DC2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Imagine just one of us was wearing a green shirt, and you're asked to find that single person.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "42371A40F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "That's the challenge we're facing when capturing CO2 directly out of the air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3B15F276E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Sounds pretty easy, pulling CO2 out of the air.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "71345A1924",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's actually really difficult.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "996580C5C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "But I'll tell you what is easy: avoiding CO2 emissions to begin with.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ED2E023963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "But we're not doing that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE30E97E95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "So now what we have to think about is going back; pulling CO2 back out of the air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6054195A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Even though it's difficult, it's actually possible to do this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "195E2BFAD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And I'm going to share with you today where this technology is at and where it just may be heading in the near future.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "921C3A1DDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Now, the earth naturally removes CO2 from the air by seawater, soils, plants and even rocks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "954FD595C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And although engineers and scientists are doing the invaluable work to accelerate these natural processes, it simply won't be enough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6C5A59B24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "The good news is, we have more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A0FA082E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Thanks to human ingenuity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C4A5D55B60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "I like to think of this as a synthetic forest.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4278F016D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "There are two basic approaches to growing or building such a forest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CAD83B5CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "One is using CO2-grabbing chemicals dissolved in water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69E5FF9658",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Another is using solid materials with CO2-grabbing chemicals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05DA3F50A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 10,
+        "endOffset": 35,
+        "text": "which approach you choose",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C05D262B61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 3,
+        "endOffset": 28,
+        "text": "what I'm showing you here",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "214410477D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This is called an air contactor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4C6F0BBC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 203,
+        "text": "You can see it has to be really, really wide in order to have a high enough surface area to process all of the air required, because remember, we're trying to capture just 400 molecules out of a million.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DD09ABEB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 296,
+        "text": "Using the liquid-based approach to do this, you take this high surface area packing material, you fill the contactor with the packing material, you use pumps to distribute liquid across the packing material, and you can use fans, as you can see in the front, to bubble the air through the liquid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D20B08C587",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "The CO2 in the air is separated [by] the liquid by reacting with the really strong-binding CO2 molecules in solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEA8B60C20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And in order to capture a lot of CO2, you have to make this contactor deeper.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA8371995B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "But there's an optimization, because the deeper you make that contactor, the more energy you're spending on bubbling all that air through.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E72DC9F31E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "So air contactors for direct air capture have this unique characteristic design, where they have this huge surface area, but a relatively thin thickness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91494BB115",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 112,
+        "endOffset": 131,
+        "text": "over and over again",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F7C5E5E5B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "And now once you've captured the CO2, you have to be able to recycle that material that you used to capture it, over and over again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66ED61D2AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 93,
+        "endOffset": 127,
+        "text": "you can't use a material just once",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D7586CCB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "The scale of carbon capture is so enormous that the capture process must be sustainable, and you can’t use a material just once.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "944CB24E80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 75,
+        "endOffset": 89,
+        "text": "think about it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "13BC2AA46C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 226,
+        "text": "And so recycling the material requires an enormous amount of heat, because think about it: CO2 is so dilute in the air, that material is binding it really strong, and so you need a lot of heat in order to recycle the material.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37DB7E6E29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And to recycle the material with that heat, what happens is that concentrated CO2 that you got from dilute CO2 in the air is now released, and you produce high-purity CO2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0F7ED3A91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "And that's really important, because high-purity CO2 is easier to liquify, easier to transport, whether it's in a pipeline or a truck, or even easier to use directly, say, as a fuel or a chemical.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08B8C83620",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So I want to talk a little bit more about that energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "711AD059C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "The heat required to regenerate or recycle these materials absolutely dictates the energy and the subsequent cost of doing this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C9DFC42C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 21,
+        "endOffset": 58,
+        "text": "How much energy do you think it takes",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1808F51110",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "So I ask a question: How much energy do you think it takes to remove a million tons of CO2 from the air in a given year?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62FF42C5EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "The answer is: a power plant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3A004D911",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It takes a power plant to capture CO2 directly from the air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43443D9ED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Depending on which approach you choose, the power plant could be on the order of 300 to 500 megawatts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE641E223D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And you have to be careful about what kind of power plant you choose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "371AD11DF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "If you choose coal, you end up emitting more CO2 than you capture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE60A9D251",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Now let's talk about costs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "925B2A8548",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 47,
+        "endOffset": 72,
+        "text": "could cost you as much as",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "23E72CEF32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "An energy-intensive version of this technology could cost you as much as $1,000 a ton just to capture it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E08DBABC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Let's translate that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F658CA43EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "If you were to take that very expensive CO2 and convert it to a liquid fuel",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84F780A5A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "That's way too expensive; it's not feasible.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "37D9780183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So how could we bring these costs down?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "625F8D76E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "That's, in part, the work that I do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E62CD2BBDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "There's a company today, a commercial-scale company, that can do this as low as 600 dollars a ton.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB1D33B9D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "There are several other companies that are developing technologies that can do this even cheaper than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B86B6900A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "I'm going to talk to you a little bit about a few of these different companies.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4CEF09FC88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "One is called Carbon Engineering.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A2E7A8A2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "They're based out of Canada.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ED90D052F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "They use a liquid-based approach for separation combined with burning super-abundant, cheap natural gas to supply the heat required.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "23EE3C83E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "They have a clever approach that allows them to co-capture the CO2 from the air and the CO2 that they generate from burning the natural gas.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B5A9B7386D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And so by doing this, they offset excess pollution and they reduce costs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60A0686EF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Switzerland-based Climeworks and US-based Global Thermostat use a different approach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E8CD9763D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "They use solid materials for capture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E91EB48C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Climeworks uses heat from the earth, or geothermal, or even excess steam from other industrial processes to cut down on pollution and costs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0329C54DD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Global Thermostat takes a different approach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F81F669E0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 235,
+        "text": "They focus on the heat required and the speed in which it moves through the material so that they're able to release and produce that CO2 at a really fast rate, which allows them to have a more compact design and overall cheaper costs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F967F0B4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And there's more still.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "043FABC232",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "A synthetic forest has a significant advantage over a real forest: size.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "23E3591997",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "This next image that I'm showing you is a map of the Amazon rainforest.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1FD7D1F234",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "The Amazon is capable of capturing 1.6 billion tons of CO2 each year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ADF24DE0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "This is the equivalent of roughly 25 percent of our annual emissions in the US.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "687CD79708",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "The land area required for a synthetic forest or a manufactured direct air capture plant to capture the same is 500 times smaller.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05AE8C04D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 37,
+        "endOffset": 78,
+        "text": "you don't have to build it on arable land",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3D0871F58C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "I want to step back, and I want to bring up the concept of negative emissions again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86F2DD3B67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "Negative emissions require that the CO2 separated be permanently removed from the atmosphere forever, which means putting it back underground, where it came from in the first place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "656C4DD133",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "But let's face it, nobody gets paid to do that today -- at least not enough.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "CC326A81BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "So the companies that are developing these technologies are actually interested in taking the CO2 and making something useful out of it, a marketable product.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD55A8C3C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It could be liquid fuels, plastics or even synthetic gravel.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B68AC3FD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And don't get me wrong -- these carbon markets are great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "146678857B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "But I also don't want you to be disillusioned.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0F2FFB41BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "These are not large enough to solve our climate crisis, and so what we need to do is we need to actually think about what it could take.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5384C07641",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "One thing I'll absolutely say is positive about the carbon markets is that they allow for new capture plants to be built, and with every capture plant built, we learn more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73F2C1DB5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And when we learn more, we have an opportunity to bring costs down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D90B1FF31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "But we also need to be willing to invest as a global society.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD2B0CFEC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "We could have all of the clever thinking and technology in the world, but it's not going to be enough in order for this technology to have a significant impact on climate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD79AF8104",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "We really need regulation, we need subsidies, taxes on carbon.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D44036491F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 211,
+        "text": "There are a few of us that would absolutely be willing to pay more, but what will be required is for carbon-neutral, carbon-negative paths to be affordable for the majority of society in order to impact climate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16B4EE0810",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In addition to those kinds of investments, we also need investments in research and development.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26F653EA59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "So what might that look like?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC1F6316EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In 1966, the US invested about a half a percent of gross domestic product in the Apollo program.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33F7BB1C8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "It got people safely to the moon and back to the earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DCD6552B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Half a percent of GDP today is about 100 billion dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A890A4790D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "So knowing that direct air capture is one front in our fight against climate change, imagine that we could invest 20 percent, 20 billion dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7C6B40738",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Further, let's imagine that we could get the costs down to a 100 dollars a ton.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC01A496CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "That's going to be hard, but it's part of what makes my job fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA80A88334",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And so what does that look like, 20 billion dollars,100 dollars a ton?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4D2BD68716",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "That requires us to build 200 synthetic forests, each capable of capturing a million tons of CO2 per year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "847DB30D76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "That adds up to about five percent of US annual emissions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C21EB6DD50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "It doesn't sound like much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67CAC93F1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Turns out, it's actually significant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39B313FDBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "If you look at the emissions associated with long-haul trucking and commercial aircraft, they add up to about five percent.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "48F09683A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Our dependence on liquid fuels makes these emissions really difficult to avoid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0037B8850F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "So this investment could absolutely be significant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F5AE40E9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Now, what would it take in terms of land area to do this, 200 plants?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B76FA685E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It turns out that they would take up about half the land area of Vancouver.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5944E32F57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "That's if they were fueled by natural gas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0B0FAE83A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "But remember the downside of natural gas -- it also emits CO2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA68741881",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "So if you use natural gas to do direct air capture, you only end up capturing about a third of what's intended, unless you have that clever approach of co-capture that Carbon Engineering does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C90FE7955",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 105,
+        "endOffset": 120,
+        "text": "15 times larger",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "841A549C15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "And so if we had an alternative approach and used wind or solar to do this, the land area would be about 15 times larger, looking at the state of New Jersey now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88A318E674",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 257,
+        "endOffset": 264,
+        "text": "you can",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DF3BDDDDDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 415,
+        "text": "One of the things that I think about in my work and my research is optimizing and figuring out where we should put these plants and think about the local resources available -- whether it's land, water, cheap and clean electricity -- because, for instance, you can use clean electricity to split water to produce hydrogen, which is an excellent, carbon-free replacement for natural gas, to supply the heat required.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9E45FA31C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "But I want us to reflect a little bit again on negative emissions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB172FCB90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 46,
+        "endOffset": 59,
+        "text": "silver bullet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "288D86C249",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Negative emissions should not be considered a silver bullet, but they may help us if we continue to stall at cutting down on CO2 pollution worldwide.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ACC3C77AEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "But that's also why we have to be careful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A64825743",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 20,
+        "endOffset": 28,
+        "text": "alluring",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C5654016E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "This approach is so alluring that it can even be risky, as some may cling onto it as some kind of total solution to our climate crisis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D96DAE31A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "It may tempt people to continue to burn fossil fuels 24 hours a day, 365 days a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D5A2AF5F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 91,
+        "endOffset": 101,
+        "text": "but rather",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0D667B0E97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 315,
+        "text": "I argue that we should not see negative emissions as a replacement for stopping pollution, but rather, as an addition to an existing portfolio that includes everything, from increased energy efficiency to low-energy carbon to improved farming -- will all collectively get us on a path to net-zero emissions one day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF550A7811",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "A little bit of self-reflection: my husband is an emergency physician.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70F2FCE0B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And I find myself amazed by the lifesaving work that he and his colleagues do each and every day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "273F7817C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "Yet when I talk to them about my work on carbon capture, I find that they're equally amazed, and that's because combatting climate change by capturing carbon isn't just about saving a polar bear or a glacier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7949739685",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 175,
+        "endOffset": 207,
+        "text": "saving a polar bear or a glacier",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A077B5355E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It's about saving human lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B16DDC0CD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 2,
+        "endOffset": 18,
+        "text": "synthetic forest",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "952EBAA920",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 38,
+        "endOffset": 44,
+        "text": "pretty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B97751B853",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 234,
+        "text": "A synthetic forest may not ever be as pretty as a real one, but it could just enable us to preserve not only the Amazon, but all of the people that we love and cherish, as well as all of our future generations and modern civilization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC72A5EEA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68B1438505",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B8BE89A00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

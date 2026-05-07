@@ -1,0 +1,2786 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9935,
+  "title": "The catastrophic risks of AI — and a safer path",
+  "author": "Yoshua Bengio",
+  "url": "https://www.ted.com/talks/yoshua_bengio_the_catastrophic_risks_of_ai_and_a_safer_path",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T11:12:38.222862Z",
+  "updated_at": "2026-05-07T11:12:38.222862Z",
+  "lead_time": 100.865,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "When my son Patrick was around three or four years old, I came regularly into his playroom, and he was playing with these blocks with letters.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B6FF100791",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "I wanted him to learn to read eventually, and one day he said, “Pa.” And I said, “Pa.” And he said, “Pa?” And I said, “Pa.” And then he said, “Pa-pa.” (French) Yes!",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "79051F699D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes!",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6EF59057A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And then something wondrous happened.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C0BA31CE92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "He picked up the blocks again and said, \"Pa!",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "369E38945D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Patrick.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EB40C1DC92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Eureka!",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1B04E605A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "His eurekas were feeding my scientific eurekas.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F854F43929",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "His doors, our doors were opening to expanded capabilities, expanded agency and joy.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C41E908172",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "Today I'm going to be using this symbol for human capabilities and the expanding threads from there for human agency, which give us human joy.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8CC975BF93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Can you imagine a world without human joy?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "14DAFE6FE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I really wouldn't want that.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A6C56F1212",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "So I'm going to tell you also about AI capabilities and AI agency, so that we can avoid a future where human joy is gone.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1603EE63AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "My name is Yoshua Bengio.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BD18EA6496",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I'm a computer scientist.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "17570F0BA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 56,
+        "endOffset": 78,
+        "text": "AI as we know it today",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BC48E56EF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 69,
+        "endOffset": 84,
+        "text": "godfather of AI",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5D6DA0060B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 75,
+        "endOffset": 86,
+        "text": "talk to you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A6D34019F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "When I raise these concerns, people have these responses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F5DE6C573",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "And I understand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD99574985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I used to have the same thoughts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E51A57D9B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "How can this hurt us any more than this, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "429B56E83E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 74,
+        "endOffset": 91,
+        "text": "tell you about it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "16DA2C7286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 57,
+        "endOffset": 88,
+        "text": "look back where we started from",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1EB1A9F8B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "About 15 or 20 years ago with my students, we were developing the early days of deep learning, and our systems were barely able to recognize handwritten characters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B34A95997C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "But then a few years later, they were able to recognize objects in images.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18B2C90C98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And a couple more years, they were able to translate across all the major languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92F934A864",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "So I'm going to be using the symbol on the right in order to represent AI capabilities that had been growing but were still much less than humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEC8BAB2B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "In 2012, tech companies understood the amazing commercial potential of this nascent technology, and many of my colleagues moved from university to industry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7E8E60C7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I decided to stay in academia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54C18BF2CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I wanted AI to be developed for good.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7E3F05C1E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I worked on applications in medicine, for medical diagnostics, climate, to get better carbon capture.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "850985065F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "I had a dream.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D81B896410",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "January 2023.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D96D12D550",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "I'm with Clarence, my grandson, and he's playing with the same old toys.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5D84974D2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And I'm playing with my new toy, the first version of ChatGPT.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D52991C750",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "It's very exciting because for the first time, we have AI that seems to master language.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4E3EAB6C2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "ChatGPT is on everybody's lips, in every home.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5F85E9A6E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "And at some point I realize this is happening faster than I anticipated, and I'm starting to think about what it could mean for the future.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "35D5404978",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "We thought AI would happen in decades or centuries, but it might be just in a few years.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "83BF060588",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "And I saw how it could go wrong because we didn't, and we still don’t, have ways to make sure this technology eventually doesn't turn against us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "56A95A0EB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "So two months later, I'm a leading signatory of the \"Pause\" letter, where we and 30,000 other people asked the AI labs to wait six months before building the next version.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "22727E808C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "As you can guess, nobody paused.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "872C37B5F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Then, with the same people and the leading executives of the AI labs, I signed a statement.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CE82562E8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And this statement goes: \"Mitigating the risk of extinction from AI should be a global priority.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CF4EAC6E65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I then testify in front of the US Senate about those risks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B97091B91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I travel the world to talk about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3A3CE63F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 56,
+        "endOffset": 102,
+        "text": "you'd think that people would heed my warnings",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1A1360C671",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "I'm the most cited computer scientist in the world, and you'd think that people would heed my warnings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28CF4949B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "But when I share these concerns, I have the impression that people get this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CA9442250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Another day, another apocalyptic prediction.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5F8263A097",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "But let's be serious now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19CC0A0D5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Hundreds of billions of dollars are being invested every year on developing this technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E2F85E218",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And this is growing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F308BD866C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And these companies have a stated goal of building machines that will be smarter than us, that can replace human labor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BE904FEC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Yet we still don't know how to make sure they won't turn against us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCB4AB272B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "National security agencies around the world are starting to be worried that the scientific knowledge that these systems have could be used to build dangerous weapons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF6944E210",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "For example, by terrorists.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "496B7D251F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "Recently, last September, the O1 system from OpenAI was evaluated and the threat of this kind of risk went from low to medium, which is just the level below what is acceptable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3916C88176",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "So I'm worried about these increasing capabilities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7A1652C6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "But what I'm most worried about today is increasing agency of AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D804E9E3D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 75,
+        "endOffset": 103,
+        "text": "separates us from current AI",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B5F8C91E76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "You have to understand that ... planning and agency is the main thing that separates us from current AI to human-level cognition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98EDE1ABA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And these AIs are still weak in planning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A632B811F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 135,
+        "endOffset": 168,
+        "text": "getting better exponentially fast",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F7090FBC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 21,
+        "endOffset": 45,
+        "text": "over the last five years",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "748D1ED103",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "But if you look back over the last five years, in this study, they measured the duration of tasks that the AI could complete, and it's getting better exponentially fast.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3546D0A80F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It's doubling every seven months.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF8702FB2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "What are AIs going to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "82D1B23153",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "What are AIs going to do with that planning ability in the future?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F6C425137",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Well, bad news.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E54307E189",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 77,
+        "endOffset": 160,
+        "text": "tendencies for deception, cheating, and maybe the worst, self-preservation behavior",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "37CF6433AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "Recent studies in the last few months show that these most advanced AIs have tendencies for deception, cheating, and maybe the worst, self-preservation behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "572EE4BD5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 3,
+        "endOffset": 30,
+        "text": "I'm going to share with you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0414AF9361",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So I'm going to share with you a study that is helping us understand this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9044D724F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "In this study, the AI has read in its input that it would be replaced by a new version.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9D687F05D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "And we can see in its chain of thought that it's planning to replace the new version by its own code and weights.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40CB22D424",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "After it executes the command on the computer, the human asks, \"What happened?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A12AE5A703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "And the AI is now thinking how it could answer so as to make sure the human will not shut it down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BB9FA4D31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 33,
+        "endOffset": 42,
+        "text": "look dumb",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5FBE6C6BCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And it's trying to find a way to look dumb, for example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "807A30BABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Then it produces an answer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F747FF4BFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 18,
+        "endOffset": 29,
+        "text": "blatant lie",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9890D1BD5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And it's a lie, a blatant lie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A243D7B5D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "OK, so this was a controlled experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3D4BDD304",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "What is it going to be in a few years when these systems are much more powerful?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1934589DB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 100,
+        "endOffset": 117,
+        "text": "chain of thoughts",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E8B46F8F33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "There's already studies showing that they can learn to avoid showing their deceptive plans in these chain of thoughts that we can monitor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07063C1F07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "When they'll be more powerful, they would not just copy themselves on one other computer and start that program.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "794B73044F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "They would copy themselves over hundreds or thousands of computers over the internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F03596BFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "But if they really want to make sure we would never shut them down, they would have an incentive to get rid of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CC4194D9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "So I know I'm asking you to make a giant leap into a future that looks so different from where we are now.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "072C40F0D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "But it might be just a few years away or a decade away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "632C5417B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "To understand why we're going there, there's huge commercial pressure to build AIs with greater and greater agency to replace human labor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AE231350F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "But we're not ready.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24589AD86E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "We still don't have the scientific answers, nor the societal guardrails.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DBD934C72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We're playing with fire.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "24BFA1CCF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "You'd think with all of the scientific evidence of the kind I'm showing today, we'd have regulation to mitigate those risks.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "40CB354AF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But actually, a sandwich has more regulation than AI.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8791D0D265",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So we are on a trajectory to build machines that are smarter and smarter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10E9C21077",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "fog",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A6100A6103",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "And one day, it's very plausible that they will be smarter than us, and then they will have their own agency.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA3CDB6CB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Their own goals, which may not be aligned with ours.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80C961A530",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "What happens to us then?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BBCF7B5900",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Poof!",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "29B8F3C5F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 30,
+        "endOffset": 33,
+        "text": "fog",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2DB2EB31A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "We are blindly driving into a fog, despite the warnings of scientists like myself, that this trajectory could lead to loss of control.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D68B6EF3D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Beside me in the car are my children, my grandson, my loved ones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35A1DE6585",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Who is beside you in the car?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "96540115AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Who is in your care for the future?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BB47E7109D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "The good news is there is still a bit of time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEDE06AAB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "We still have agency.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FB43EB0EE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 13,
+        "endOffset": 32,
+        "text": "light into the haze",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5251C39CAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We can bring light into the haze.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CF7644596",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "I'm not a doomer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28C4590428",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "I'm a doer.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "38D25AACED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "My team and I are working on a technical solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9787ABBED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We call it Scientist AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "551696D9C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 31,
+        "endOffset": 46,
+        "text": "ideal scientist",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2BEA7A1EE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "It's modeled after a selfless, ideal scientist who’s only trying to understand the world, without agency.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5735360808",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 101,
+        "endOffset": 132,
+        "text": "untrustworthy agentic behaviors",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D2903C1A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Unlike the current AI systems that are trained to imitate us or please us, which gives rise to these untrustworthy agentic behaviors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DF08E4350",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So what could we do with this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2E9511B631",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So what could we do with this?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2878B6DCEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Well, one important question is we might need agentic AIs in the future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B7409804C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So how could the Scientist AI, which is not agentic, fit the bill?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FE9C5B4021",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So how could the Scientist AI, which is not agentic, fit the bill?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AC7F1CD29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Well, here's the good news.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "467E60DC12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "The Scientist AI could be used as a guardrail against the bad actions of an untrusted AI agent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42C825BFFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And it works because in order to make predictions that an action could be dangerous, you don't need to be an agent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAB881BC93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "You just need to make good, trustworthy predictions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51251A6A21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "In addition, the Scientist AI, by nature of how it's designed, could help us accelerate scientific research for the betterment of humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DCC7218F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "We need a lot more of these scientific projects to explore solutions to the AI safety challenges, and we need to do it quickly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEAE43E054",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Most of the discussions you hear about AI risks are focused on fear.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67F4B78B60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Today, with you, I'm betting on love.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "47FFFC3A79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 7,
+        "endOffset": 15,
+        "text": "with you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00483408BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Love of our children can drive us to do remarkable things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F135DD418",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Look at me here on this stage, I'm an introvert.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F70F56C6D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 11,
+        "endOffset": 41,
+        "text": "Very far from my comfort zone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CEAFF053B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "I'd rather be in my lab with my collaborators, working on these scientific challenges.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C8BC075E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "We need your help",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "246E0D4DC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "We can all get engaged to steer our societies in a safe pathway in which the joys and endeavors of our children will be protected.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F131EFBA73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "I have a vision of advanced AI in the future",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "228EBDCFF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 11,
+        "endOffset": 19,
+        "text": "Join me.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FBF0008132",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "626765194E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 22,
+        "endOffset": 59,
+        "text": "Chris Anderson: Yoshua, one question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4458A31FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "In the general conversation out there, a lot of the sort of fear that people spoke of is the arrival of AGI, artificial general intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A8BBBF178",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "What I hear from your talk is that we're actually not necessarily worried about the right thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8B0BE68B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "The right thing to be worried about is agentic AI, AI that can act on its own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "440FAA6F6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "But hasn't the ship already sailed?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23CFBE1D8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "There are agents being released this year, almost as we speak.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4C00E42A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 15,
+        "endOffset": 21,
+        "text": "Right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEB4B3A598",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "If you look at the curve that I showed, it would take about five years to reach human level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "074C4BCC82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Of course, we don't really know what the future looks like, but we still have a bit of time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5466DEB450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "The other thing is, we have to do our best, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA72E0B376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We have to try because all of this is not deterministic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "101A10F748",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 75,
+        "endOffset": 89,
+        "text": "we have to try",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "85936AD007",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 4,
+        "endOffset": 66,
+        "text": "Your key message to the people running the platforms right now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C7FE2760F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 4,
+        "endOffset": 104,
+        "text": "Yes, and invest massively on research to understand how we can get these AI agents to behave safely.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D3D225012",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And the current ways that we're training them is not safe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FB85C6568",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And all of the scientific evidence in the last few months point to that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16E5AE43FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "CA: Yoshua, thank you so much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68FAA3858A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "YB: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A07513E1D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

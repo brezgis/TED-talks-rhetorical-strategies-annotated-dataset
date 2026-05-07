@@ -1,0 +1,4333 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7986,
+  "title": "Discovering ancient climates in oceans and ice",
+  "author": "Rob Dunbar",
+  "url": "https://www.ted.com/talks/rob_dunbar_discovering_ancient_climates_in_oceans_and_ice",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T02:07:52.796165Z",
+  "updated_at": "2026-05-07T02:07:52.796165Z",
+  "lead_time": 158.754,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "If you really want to understand",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0A9E9D29BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 80,
+        "endOffset": 97,
+        "text": "you have to think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0F45D10271",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We can't solve the problems unless we start studying the ocean in a very much more interdisciplinary way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90B25EF476",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "So I'm going to demonstrate that through discussion of some of the climate change things that are going on in the ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E989AA484C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We'll look at sea level rise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1959B6C27A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We'll look at ocean warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FD2AFA62A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And then the last thing on the list there, ocean acidification -- if you were to ask me, you know, \"What do you worry about the most?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB4A168D5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "What frightens you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DBF0DCE604",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "for me, it's ocean acidification.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C575A9B3A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And this has come onto the stage pretty recently.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2709FEC1E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "So I will spend a little time at the end.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68CE533482",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "I was in Copenhagen in December like a number of you in this room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10D1521336",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And I think we all found it, simultaneously, an eye-opening and a very frustrating experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CBDB7D423",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "I sat in this large negotiation hall, at one point, for three or four hours, without hearing the word \"oceans\" one time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F2218B23D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "It really wasn't on the radar screen.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B836AB818A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "The nations that brought it up when we had the speeches of the national leaders -- it tended to be the leaders of the small island states, the low-lying island states.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4691943599",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 12,
+        "endOffset": 23,
+        "text": "weird quirk",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "61CDBC79AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "And by this weird quirk of alphabetical order of the nations, a lot of the low-lying states, like Kiribati and Nauru, they were seated at the very end of these immensely long rows.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B082B365A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8E4FB4789A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "You know, they were marginalized in the negotiation room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EB7D7FE75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "One of the problems is coming up with the right target.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C2B8A3110",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "It's not clear what the target should be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC4794DA98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 12,
+        "endOffset": 15,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "66989AA68A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And how can you figure out how to fix something if you don't have a clear target?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3E017DAB8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Now, you've heard about \"two degrees\": that we should limit temperature rise to no more than two degrees.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3606B5F6AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "But there's not a lot of science behind that number.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86F5FFDCF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "We've also talked about concentrations of carbon dioxide in the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DD02EC251",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Should it be 450?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "438CA057C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Should it be 400?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E67B0FF1E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "There's not a lot of science behind that one either.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B71CE20A6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "Most of the science that is behind these numbers, these potential targets, is based on studies on land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53D9398D57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And I would say, for the people that work in the ocean and think about what the targets should be, we would argue that they must be much lower.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06FAC6E4A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2B4DED695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "You know, from an oceanic perspective, 450 is way too high.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BFCC635EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Now there's compelling evidence that it really needs to be 350.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F254989CF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "We are, right now, at 390 parts per million of CO2 in the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33E0022CB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 19,
+        "endOffset": 36,
+        "text": "put the brakes on",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "14B9EC3D58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 135,
+        "endOffset": 151,
+        "text": "as we go forward",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "992DEBFF38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 230,
+        "text": "We're not going to put the brakes on in time to stop at 450, so we've got to accept we're going to do an overshoot, and the discussion as we go forward has to focus on how far the overshoot goes and what's the pathway back to 350.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CEF299E5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Now, why is this so complicated?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6ABCF97B22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Why don't we know some of these things a little bit better?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FE2B8747B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Well, the problem is that we've got very complicated forces in the climate system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CFEFAE12F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "There's all kinds of natural causes of climate change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC456622F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "There's air-sea interactions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A96E7B7074",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Here in Galapagos, we're affected by El Ninos and La Nina.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4619D88B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "But the entire planet warms up when there's a big El Nino.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3918BBFDD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Volcanoes eject aerosols into the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "783D6863D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "That changes our climate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCFC23216B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "The ocean contains most of the exchangeable heat on the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E38B45C5D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "So anything that influences how ocean surface waters mix with the deep water changes the ocean of the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0BB923A8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And we know the solar output's not constant through time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E347371B11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So those are all natural causes of climate change.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8ED43AFABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And then we have the human-induced causes of climate change as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA1810871D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "We're changing the characteristics of the surface of the land, the reflectivity.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "51C2BA61B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "We inject our own aerosols into the atmosphere, and we have trace gases, and not just carbon dioxide -- it's methane, ozone, oxides of sulfur and nitrogen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F56444EBEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So here's the thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5614A616C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It sounds like a simple question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE5E2352F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Is CO2 produced by man's activities causing the planet to warm up?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FA0EB55416",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 76,
+        "endOffset": 144,
+        "text": "you have to know something about all of these other agents of change",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8329093286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But the fact is we do know a lot about all of those things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A796BEDBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "You know, thousands of scientists have been working on understanding all of these man-made causes and the natural causes.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1763FDF781",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And we've got it worked out, and we can say, \"Yes, CO2 is causing the planet to warm up now.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00151EF9F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Now, we have many ways to study natural variability.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22D51A6E05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "I'll show you a few examples of this now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4C669EAD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "This is the ship that I spent the last three months on in the Antarctic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "698A27A302",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It's a scientific drilling vessel.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FCE91C82D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 69,
+        "endOffset": 124,
+        "text": "sediments that tell us stories of climate change, right",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "312A73EDA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 39,
+        "endOffset": 56,
+        "text": "greenhouse future",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "069B861F76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "Like one of the ways to understand our greenhouse future is to drill down in time to the last period where we had CO2 double what it is today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "598E53F263",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And so that's what we've done with this ship.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F710E84CE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "This was -- this is south of the Antarctic Circle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D69091BBF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 9,
+        "endOffset": 27,
+        "text": "downright tropical",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "29FC027B60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It looks downright tropical there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA6C8B0F5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "One day where we had calm seas and sun, which was the reason I could get off the ship.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "125B82A78E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Most of the time it looked like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "478FE7BB9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 9,
+        "endOffset": 27,
+        "text": "waves up to 50 ft.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3D064C6284",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 32,
+        "endOffset": 110,
+        "text": "winds averaging about 40 knots for most of the voyage and up to 70 or 80 knots",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C1AACBA4D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "We had a waves up to 50 ft. and winds averaging about 40 knots for most of the voyage and up to 70 or 80 knots.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB7F99AE1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "So that trip just ended, and I can't show you too many results from that right now, but we'll go back one more year, to another drilling expedition I've been involved in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2DC4B44A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "This was led by Ross Powell and Tim Naish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD7F4FBF92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's the ANDRILL project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74177BB07D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And we made the very first bore hole through the largest floating ice shelf on the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A13256DB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 10,
+        "endOffset": 21,
+        "text": "crazy thing",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "22E1EB122A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 55,
+        "endOffset": 62,
+        "text": "blanket",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "564CF8C726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "This is a crazy thing, this big drill rig wrapped in a blanket to keep everybody warm, drilling at temperatures of minus 40.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5880ABE17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And we drilled in the Ross Sea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B201AE0127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "That's the Ross Sea Ice Shelf on the right there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C29B3CFBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 37,
+        "endOffset": 51,
+        "text": "size of Alaska",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9300DAD864",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "So, this huge floating ice shelf the size of Alaska comes from West Antarctica.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47347B6C82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "Now, West Antarctica is the part of the continent where the ice is grounded on sea floor as much as 2,000 meters deep.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF47DBB369",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "So that ice sheet is partly floating, and it's exposed to the ocean, to the ocean heat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7F5461D47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "This is the part of Antarctica that we worry about.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DC4FF075C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 30,
+        "endOffset": 45,
+        "text": "you can imagine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5911666DA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Because it's partly floating, you can imagine, is sea level rises a little bit, the ice lifts off the bed, and then it can break off and float north.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A42374F52E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "When that ice melts, sea level rises by six meters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BB502157B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "So we drill back in time to see how often that's happened, and exactly how fast that ice can melt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "370B4FC1DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Here's the cartoon on the left there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3B8B3A401",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "We drilled through a hundred meters of floating ice shelf then through 900 meters of water and then 1,300 meters into the sea floor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CE2728BF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So it's the deepest geological bore hole ever drilled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4131EFC29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "It took about 10 years to put this project together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E74A607ABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And here's what we found.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD619CBFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Now, there's 40 scientists working on this project, and people are doing all kinds of really complicated and expensive analyses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A1D73088C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 28,
+        "endOffset": 62,
+        "text": "the thing that told the best story",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "247DC7C004",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 18,
+        "endOffset": 26,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "88FDE8C94E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "27F6A199F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "We saw these alternations between sediments that look like this -- there's gravel and cobbles in there and a bunch of sand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C9A23A155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "That's the kind of material in the deep sea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5450C94E5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "It can only get there if it's carried out by ice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D6345694A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "So we know there's an ice shelf overhead.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB9D6A58AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And that alternates with a sediment that looks like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCA0D43D54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "This is absolutely beautiful stuff.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9414EB6D6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "This sediment is 100 percent made up of the shells of microscopic plants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AB3F335F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And these plants need sunlight, so we know when we find that sediment there's no ice overhead.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB2104DBFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 33,
+        "endOffset": 116,
+        "text": "between open water and ice-covered water, between gravels and these plant sediments",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1F59A9CB9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "So what that means is, what it tells us is that the Ross Sea region, this ice shelf, melted back and formed anew about 35 times.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CB04E2A6AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And this is in the past four million years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87FA5E5AD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "This was completely unexpected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6AA38CD15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Nobody imagined that the West Antarctic Ice Sheet was this dynamic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FA819137B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 44,
+        "endOffset": 126,
+        "text": "The ice formed many tens of millions of years ago, and it's been there ever since.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "59AFF1FCBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And now we know that in our recent past it melted back and formed again, and sea level went up and down, six meters at a time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1E7782437",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "What caused it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "16E7C643F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "Well, we're pretty sure that it's very small changes in the amount of sunlight reaching Antarctica, just caused by natural changes in the orbit of the Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "428CA950B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 26,
+        "endOffset": 34,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C0DD69D116",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 87,
+        "endOffset": 105,
+        "text": "passed a threshold",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C4ABD06B6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And you know what?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "176C582179",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "We've actually changed the temperature in the last century just the right amount.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C8FDC9D24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "So many of us are convinced now that West Antarctica, the West Antarctic Ice Sheet, is starting to melt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D50D0B459",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "We do expect to see a sea-level rise on the order of one to two meters by the end of this century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A752A273A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And it could be larger than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A742B8FD45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 57,
+        "endOffset": 65,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F2D4B02F02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "This is a serious consequence for nations like Kiribati, you know, where the average elevation is about a little over a meter above sea level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D52012215F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Okay, the second story takes place here in Galapagos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAC5BB8C80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "This is a bleached coral, coral that died during the 1982-'83 El Nino.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6DB15BDF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "This is from Champion Island.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ECE1B8EE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's about a meter tall Pavona clavus colony.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F4F789B2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "And it's covered with algae.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DFD787107",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "That's what happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED859DAE35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "When these things die, immediately, organisms come in and encrust and live on that dead surface.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E4CFBFA4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 74,
+        "endOffset": 90,
+        "text": "indelible record",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D2F3B48A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And so, when a coral colony is killed by an El Nino event, it leaves this indelible record.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C8819964A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You can go then",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2640D87FA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 48,
+        "endOffset": 73,
+        "text": "how often do you see this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AAC6684489",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "You can go then and study corals and figure out how often do you see this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78948C0B50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "So one of the things thought of in the '80s was to go back and take cores of coral heads throughout the Galapagos and find out how often was there a devastating event.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF7B9146F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 4,
+        "endOffset": 20,
+        "text": "just so you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D54F74D9CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And just so you know, 1982-'83, that El Nino killed 95 percent of all the corals here in Galapagos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9336DE6191",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Then there was similar mortality in '97-'98.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94DC3D2890",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And what we found after drilling back in time two to 400 years was that these were unique events.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C8F1C9350",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "We saw no other mass mortality events.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "925B5C87CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "So these events in our recent past really are unique.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "934DC3FC88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "So they're either just truly monster El Ninos, or they're just very strong El Ninos that occurred against a backdrop of global warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD1C4A4FF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Either case, it's bad news for the corals of the Galapagos Islands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4E2B6201E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Here's how we sample the corals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE1DE93BD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "This is actually Easter Island.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01038C5B1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 13,
+        "endOffset": 20,
+        "text": "monster",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5EA1198DD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Look at this monster.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71D8927A9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "This coral is eight meters tall, right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F44E10D9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And it been growing for about 600 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A419EC900E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 18,
+        "endOffset": 55,
+        "text": "turned me on to this exact same coral",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E1498A1495",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And she was diving here with John Lauret -- I think it was 1994 -- and collected a little nugget and sent it to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F10A5A673",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And we started working on it, and we figured out we could tell the temperature of the ancient ocean from analyzing a coral like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC082CB090",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So we have a diamond drill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38CB58C9BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "We're not killing the colony; we're taking a small core sample out of the top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "738B137A3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The core comes up as these cylindrical tubes of limestone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E98B949CE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And that material then we take back to the lab and analyze it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "111F172E77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "You can see some of the coral cores there on the right.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0F93CDCD72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So we've done that all over the Eastern Pacific.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55B7AEC9F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "We're starting to do it in the Western Pacific as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D8BF91630",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "I'll take you back here to the Galapagos Islands.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "32436F751B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And we've been working at this fascinating uplift here in Urbina Bay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE06704D40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "That the place where, during an earthquake in 1954, this marine terrace was lifted up out of the ocean very quickly, and it was lifted up about six to seven meters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45C0599690",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And so now you can walk through a coral reef without getting wet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "822279542F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 67,
+        "endOffset": 82,
+        "text": "grandaddy coral",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C69BB651D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "It's 11 meters in diameter, and we know that it started growing in the year 1584.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF27AEA4F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Imagine that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AE8F93D71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And that coral was growing happily in those shallow waters, until 1954, when the earthquake happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFB95E6207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Now the reason we know it's 1584 is that these corals have growth bands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC58869268",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "When you cut them, slice those cores in half and x-ray them, you see these light and dark bands.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EA8595C557",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "When you cut them",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6B65029B5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Each one of those is a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D46ABD5BD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "We know these corals grow about a centimeter and a half a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCEED38170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And we just count on down to the bottom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7651C4D8EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Then their other attribute is that they have this great chemistry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDD63A7557",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "We can analyze the carbonate that makes up the coral, and there's a whole bunch of things we can do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62A6BF38DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "But in this case, we measured the different isotopes of oxygen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF20663A52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Their ratio tells us the water temperature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E068D457B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "In this example here, we had monitored this reef in Galapagos with temperature recorders, so we know the temperature of the water the coral's growing in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B43D0D521",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 58,
+        "endOffset": 73,
+        "text": "now you can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BA20AEF896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 42,
+        "endOffset": 107,
+        "text": "corals are instrumental-quality recorders of change in the water.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F6A3AD7951",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 32,
+        "endOffset": 40,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0FA857C111",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And of course, our thermometers only take us back 50 years or so here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A912B37925",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "The coral can take us back hundreds and thousands of years.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C7046D4515",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "So, what we do: we've merged a lot of different data sets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29C565EC39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "It's not just my group; there's maybe 30 groups worldwide doing this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC91E97F22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "But we get these instrumental- and near-instrumental-quality records of temperature change that go back hundreds of years, and we put them together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5227520F9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Here's a synthetic diagram.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "202729CF10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "There's a whole family of curves here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C85450BFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "But what's happening: we're looking at the last thousand years of temperature on the planet.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CE513BEFB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 54,
+        "endOffset": 156,
+        "text": "But each one of those compilations reflects input from hundreds of these kinds of records from corals.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3DD40D44E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "We do similar things with ice cores.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1859EC3B0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We work with tree rings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F88798AE84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And that's how we discover what is truly natural and how different is the last century, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "92ACDFB948",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And I chose this one because it's complicated and messy looking, right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EF0226DF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This is as messy as it gets.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "65443219BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "You can see there's some signals there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "139B32BB6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Some of the records show lower temperatures than others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F50B9C6568",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Some of them show greater variability.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F780FF0580",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But they all tell us what the natural variability is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8FB0BA653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Some of them are from the northern hemisphere; some are from the entire globe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F25C60C37B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "But here's what we can say: what's natural in the last thousand years is that the planet was cooling down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EEDC1B317",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "It was cooling down until about 1900 or so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42B8180403",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 33,
+        "endOffset": 70,
+        "text": "caused by the Sun, caused by El Ninos",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9CE5EE34FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "A century-scale, decadal-scale variability, and we know the magnitude; it's about two-tenths to four-tenths of a degree Centigrade.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC8CDB1EEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "But then at the very end is where we have the instrumental record in black.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F687D90FF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And there's the temperature up there in 2009.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BA756A29D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "You know, we've warmed the globe about a degree Centigrade in the last century, and there's nothing in the natural part of that record that resembles what we've seen in the last century.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C61EA80C15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "You know, that's the strength of our argument, that we are doing something that's truly different.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84921FFF58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "So I'll close with a short discussion of ocean acidification.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F09A14285",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 74,
+        "endOffset": 118,
+        "text": "you are a hard-bitten global warming skeptic",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9205BDAEF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 120,
+        "endOffset": 229,
+        "text": "and I talk to that community fairly often, you cannot deny the simple physics of CO2 dissolving in the ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D50FEC0D46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "You know, we're pumping out lots of CO2 into the atmosphere, from fossil fuels, from cement production.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1CBDF0A5A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 85,
+        "endOffset": 91,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A9022BF2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Right now, about a third of that carbon dioxide is dissolving straight into the sea, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABA3C869D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And as it does so, it makes the ocean more acidic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4C05DFB7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "So, you cannot argue with that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CADACD9220",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "That is what's happening right now, and it's a very different issue than the global warming issue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29C004ED6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It has many consequences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CAD3E2F20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "There's consequences for carbonate organisms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CCE635D03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "There are many organisms that build their shells out of calcium carbonate -- plants and animals both.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94B9AB3F1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "The main framework material of coral reefs is calcium carbonate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16900A0717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "That material is more soluble in acidic fluid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21AF78EECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "So one of the things we're seeing is organisms are having to spend more metabolic energy to build and maintain their shells.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B10A37D950",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "At some point, as this transience, as this CO2 uptake in the ocean continues, that material's actually going to start to dissolve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62EE0CD897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And on coral reefs, where some of the main framework organisms disappear, we will see a major loss of marine biodiversity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07BF78B16A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "But it's not just the carbonate producers that are affected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF5C2DEAD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "There's many physiological processes that are influenced by the acidity of the ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "110FF3DDD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "So many reactions involving enzymes and proteins are sensitive to the acid content of the ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33430FC6DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "So, all of these things -- greater metabolic demands, reduced reproductive success, changes in respiration and metabolism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83C40B9C94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "You know,",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "40B43976E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 10,
+        "endOffset": 119,
+        "text": "these are things that we have good physiological reasons to expect to see stressed caused by this transience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA88B49557",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "So we figured out some pretty interesting ways to track CO2 levels in the atmosphere, going back millions of years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19876B8323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "We used to do it just with ice cores, but in this case, we're going back 20 million years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "261A8DF017",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And we take samples of the sediment, and it tells us the CO2 level of the ocean, and therefore the CO2 level of the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11737DC699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And here's the thing:",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B97D750A6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 22,
+        "endOffset": 127,
+        "text": "you have to go back about 15 million years to find a time when CO2 levels were about what they are today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "120CAFCD1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "You have to go back about 30 million years to find a time when CO2 levels were double what they are today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3386E18DB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "Now, what that means is that all of the organisms that live in the sea have evolved in this chemostatted ocean, with CO2 levels lower than they are today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "058DC391AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "That's the reason that they're not able to respond or adapt to this rapid acidification that's going on right now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EAE506393",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "So, Charlie Veron came up with this statement last year: \"The prospect of ocean acidification may well be the most serious of all of the predicted outcomes of anthropogenic CO2 release.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9941FE4005",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And I think that may very well be true, so I'll close with this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3B9976E9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "You know,",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1F9D77883E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 10,
+        "endOffset": 144,
+        "text": "we do need the protected areas, absolutely, but for the sake of the oceans, we have to cap or limit CO2 emissions as soon as possible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "539A1838FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "522A9E15D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31EF783A59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

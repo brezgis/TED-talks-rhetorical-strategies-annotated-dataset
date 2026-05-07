@@ -1,0 +1,2735 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7741,
+  "title": "Meet Milo, the virtual boy",
+  "author": "Peter Molyneux",
+  "url": "https://www.ted.com/talks/peter_molyneux_meet_milo_the_virtual_boy",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T08:45:54.888875Z",
+  "updated_at": "2026-05-07T08:45:54.888875Z",
+  "lead_time": 91.542,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 253,
+        "endOffset": 272,
+        "text": "look me in the eyes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F66965D690",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 292,
+        "endOffset": 306,
+        "text": "sculpt a story",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D1F1ED7125",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 330,
+        "text": "When I saw a piece of technology called Kinect -- it was called Natal -- I was inspired, and I thought for a moment, maybe it's possible to address that one problem of storytelling, to create a character which seemed alive, which noticed me, that could look me in the eyes and feel real, and sculpt a story about our relationship.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2E0EDC33F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And so a year ago, I showed this off at a computer show called E3.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E0C0B53A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And this was a piece of technology with someone called Claire interacting with this boy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90E9AA05E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And there was a huge row online about, \"Hey, this can't be real.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C3F3F2CCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And so I waited till now to have an actual demo of the real tech.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE9E4880F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Now, this tech incorporates three big elements.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "868156138E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 103,
+        "endOffset": 115,
+        "text": "dusty vaults",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CC0ED75DF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 213,
+        "endOffset": 245,
+        "text": "mixing all those things together",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "067562A599",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 328,
+        "text": "The first is a Kinect camera, which will be out in November, some incredible AI that was hidden in the dusty vaults, collecting dust in Microsoft, plus our quite crude attempts at AI at a company called Lionhead, mixing all those things together just to get to this one simple idea: to create a real, living being in a computer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31396E8629",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 74,
+        "endOffset": 86,
+        "text": "it's a trick",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "25C069505C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Now, I'll be honest with you and say that most of it is just a trick, but it's a trick that actually works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05AD25BB0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "So why don't we go over and have a look at the demo now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A04B07A6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "This is Dimitri.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1825034884",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Dimitri, just waggle your arm around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A68DC7D58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Now, you notice he's sitting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29C2F48794",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "There are no controllers, no keyboards, or mice, or joysticks, or joypads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "307C956DCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 24,
+        "endOffset": 56,
+        "text": "his hand, his body and his voice",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5263580199",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 58,
+        "endOffset": 116,
+        "text": "just like humans interact with their hands, body and voice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6DB1D459F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "He is just going to use his hand, his body and his voice, just like humans interact with their hands, body and voice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72F73E3AD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So let's move forward.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C3C644080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "You're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C2236C06F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 124,
+        "endOffset": 145,
+        "text": "to be honest with you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0E0F423C17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 15,
+        "endOffset": 26,
+        "text": "know-it-all",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BCC2BE173A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 53,
+        "endOffset": 67,
+        "text": "make you laugh",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4B8BA7C778",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "So the problem we introduced to him was this: he's just moved house.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "961FCE753A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "He's moved from London to New England, over in America.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0ADCF1E3A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 85,
+        "endOffset": 101,
+        "text": "conjuring you up",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5D063F7EA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 95,
+        "endOffset": 98,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "51A6D9919A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So here he is walking through the grass.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "242E07D373",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 4,
+        "endOffset": 10,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9CC4DA648A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "The cool thing is, what we're doing is we're changing the mind of Milo constantly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C9F153DE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "That means no two people's Milos can be the same.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5316583100",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 16,
+        "endOffset": 39,
+        "text": "sculpting a human being",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D19DFFD68C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So, he's discovering the garden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F0B95BB71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "You're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BD49B48BE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Very simple at the start.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C84DE1C885",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 12,
+        "endOffset": 22,
+        "text": "if you are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0542757867",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 43,
+        "endOffset": 52,
+        "text": "if you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B3C9157330",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 109,
+        "endOffset": 126,
+        "text": "girls hate snails",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "17B4389ED8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 47,
+        "endOffset": 61,
+        "text": "you've met him",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6E4DDBB16E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 85,
+        "endOffset": 96,
+        "text": "draw you in",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "181C91AB6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 101,
+        "endOffset": 122,
+        "text": "make you more curious",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D14B1D610",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "His face, by the way, is fully AI-driven.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB07E147D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "We have complete control over his blush responses, the diameter of his nostrils to denote stress.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "429D1AB3D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "We actually do something called body matching.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C90A01BFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 3,
+        "endOffset": 25,
+        "text": "you're leaning forward",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0DDB2B6FEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 143,
+        "endOffset": 170,
+        "text": "how can we make you believe",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "08158C560B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Now we've used the hand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C31B19A47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "The other thing to use is your body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A21756C71A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Why not just, instead of pushing left and right",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4D17C85520",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 79,
+        "endOffset": 145,
+        "text": "why not use your body just to lean on the chair -- again, relaxed?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6EBCA3A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "You can lean back, but the camera will change its perspective depending on which way you're looking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FEE552ADA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "So Dimitri's now going to use -- he's used his hand; he's used his body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52668E6FC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "He's now going to use the other thing which is essential, and that's his voice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "729584EA1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 86,
+        "endOffset": 95,
+        "text": "isn't it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F4A68D99AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Now, the thing about voice is, our experience with voice recognition is pretty awful",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "693D1ADECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "It never works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB882DAF82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "You order an airline ticket; you end up in Timbuktu.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "58078DD182",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "So we've tackled that problem, and we've come up with a solution, which we'll see in a second.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5E63E8C0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Milo: I could just squish it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72BA5A489B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 16,
+        "endOffset": 50,
+        "text": "What are you going to do, Dimitri?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9E3200D554",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 14,
+        "endOffset": 54,
+        "text": "Squashing a snail may not seem important",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B893201F88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 70,
+        "endOffset": 116,
+        "text": "even this choice will affect how Milo develops",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6C77F1ECC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Do you want Milo to squash it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "376A26B311",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "When you see the microphone, say ...",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C05760DC6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "(PM: Squash.) ... yes to decide.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D43199415F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Dimitri: Go on, Milo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB0CE01CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Squash it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7D075B99C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "PM: No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A2F25824D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "That's the wrong thing to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE4E61FC13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now look at his response.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8053D568D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "He said, \"Go on, Milo.\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "36E10A35BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Squash it.\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9419BEF228",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "What we're using there is, we're using something, a piece of technology called Tellme.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30640EA7B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "It's a company that Microsoft acquired some years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "138AC44D17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "It's a company that Microsoft acquired some years ago",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C313EF438F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "We've got a database of words which we recognize.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9BA4E2388",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We pick those words out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C20990DAD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "We also reference that with the tonation database that we build up of Dimitri's voice, or the user's voice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E8630BD18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Now we need to have a bit more engagement",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0DFFE44CD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 43,
+        "endOffset": 96,
+        "text": "and again, what we can do is we can look at the body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA4D5F0A6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And we'll do that in a second.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "035535AC90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Milo: I wonder how deep it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "384FF41112",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Deep.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "492DAF39B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "PM: Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2951314248",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "So what we're going to do now is teach Milo to skim stones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "658EFE01B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We're actually teaching him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A47DC41A21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "It's very, very interesting that men, more than women, tend to be more competitive here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D3D697775",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "They're fine with teaching Milo for the first few throws, but then they want to beat Milo, where women, they're more nurturing about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE3A923C4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Okay, this is skimming stones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A02377F6AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "How do you skim stones?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C21E3F6100",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "You stand up, and you skim the stone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30FC683519",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It's that simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BABA1C96E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 5,
+        "endOffset": 26,
+        "text": "recognizing your body",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA95369675",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 44,
+        "endOffset": 58,
+        "text": "body's motions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2A590C5B34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 7,
+        "endOffset": 18,
+        "text": "all of this",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FB9333CB91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 41,
+        "endOffset": 57,
+        "text": "humans do things",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "35E793F4F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 14,
+        "endOffset": 40,
+        "text": "See if you can inspire him",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "558238D163",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Try hitting the boat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34438602D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Milo: Ahhh.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBC0EC9B58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "So close.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "197D7B10E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "PM: That's Dimitri at his most competitive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1BB918A15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Now beaten an 11-year-old child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1564211D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Well done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72B22C5897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Milo: Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAC0C6897B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "PM: So, Milo's being called back in by his parents, giving us time to be alone and to help him out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE394B42BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Basically -- the bit that we missed at the start -- his parents had asked him to clean up his room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD0F38A71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And we're going to help him with this now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7888188D80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "But this is going to be an introduction, and this is all about the deep psychology that we're trying to use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DAC83C8CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 76,
+        "endOffset": 98,
+        "text": "you being able to talk",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E02846F02E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 51,
+        "endOffset": 74,
+        "text": "the most wonderful part",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6830FB1D79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 37,
+        "endOffset": 60,
+        "text": "like a magician's trick",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4BCD22B516",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And what we did was, we needed to give Milo this big problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D113D6DDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 33,
+        "endOffset": 49,
+        "text": "you can overhear",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F4CF4CBE28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Milo's Mom: Oh, you've got gravy all over the floor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC8E413863",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 1,
+        "endOffset": 63,
+        "text": "Milo: I didn't mean to!) Milo's Mom: That carpet is brand new.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF0223D4CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "PM: So he's just spilled a plate of sausages on the floor, on the brand-new carpet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5914A44F15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "we've all done it as parents; we've all done it as children",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2DA5FB3164",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Now's a chance for Dimitri to kind of reassure and calm Milo down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "810DAC1E2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's all been too much for him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF7749343A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "He's just moved house.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "064532CE0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "He's got no friends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6F94BFC5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 45,
+        "endOffset": 62,
+        "text": "allow you to talk",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57A712D8AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 14,
+        "endOffset": 38,
+        "text": "Why don't you try saying",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F9112CC464",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Dimitri: Come on, Milo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64EAABC816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0135F37199",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "You know what parents are like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD0C8E6531",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "They're always getting stressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4688E0E0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Milo: What do they want to come here for anyway?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF5CEF70A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "We don't know anyone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AAD7B80DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Dimitri: Well, you've got a new school to go to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "842CE716EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "You're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A1BE8B3B14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "You're going to meet loads of cool, new friends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60C9ACF8A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Milo: I just really miss my old house, that's all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BECD1A7BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Dimitri: Well, this is a pretty awesome house, Milo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4BA34C6795",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "You've got a cool garden to play in and a pond.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40564327E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Milo: It was good skimming stones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95CD99DC66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "This looks nice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75728DA406",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "You",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "74117454EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "You cleaned up my room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6624EF1B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Thanks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C61B79C703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "PM: So after three-quarters of an hour, he recognizes you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3ECF0E8B7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 22,
+        "endOffset": 28,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B0E3855E0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And I promise you, if you're sitting in front of this screen, that is a truly wonderful moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D64BE78E55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 98,
+        "endOffset": 106,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A80DA5A207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "And we're ready now to tell a story about his childhood and his life, and it goes on, and he has, you know, many adventures.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40A3C3C0BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Some of those adventures are a little bit dark or on the darker side.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80FCCA1502",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Some of those adventures are wonderfully encouraging -- he's got to go to school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "984BA10A53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 44,
+        "endOffset": 68,
+        "text": "as you interact with him",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4DBF73C740",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "The cool thing is that we're doing as well: as you interact with him, you're able to put things into his world; he recognizes objects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A91FBE5C1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "His mind is based in a cloud.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5410F8C1FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "That means Milo's mind, as millions of people use it, will get smarter and cleverer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52436DEC91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "He'll recognize more objects and thus understand more words.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "917D97063E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 115,
+        "endOffset": 157,
+        "text": "restrained by the finger I hold in my hand",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FD98C45BDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 279,
+        "text": "But for me, this is a wonderful opportunity where technology, at last, can be connected with, where I am no longer restrained by the finger I hold in my hand -- as far as a computer game's concerned -- or by the blandness of not being noticed if you're watching a film or a book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8D81F3DD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And I love those revolutions, and I love the future that Milo brings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74C39D5F5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Thank you very much indeed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E2B8046A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "970EC1E82E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

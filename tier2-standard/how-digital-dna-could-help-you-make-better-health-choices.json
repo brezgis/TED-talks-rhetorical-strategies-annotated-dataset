@@ -1,0 +1,3415 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9519,
+  "title": "How digital DNA could help you make better health choices",
+  "author": "Jun Wang",
+  "url": "https://www.ted.com/talks/jun_wang_how_digital_dna_could_help_you_make_better_health_choices",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:17:29.102776Z",
+  "updated_at": "2026-05-07T05:17:29.102776Z",
+  "lead_time": 119.008,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 29,
+        "endOffset": 48,
+        "text": "pose you a question",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B0816E4876",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Today I'm here, actually, to pose you a question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22E4798AA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "What is life?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF79796DFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "It has been really puzzling me for more than 25 years, and will probably continue doing so for the next 25 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C529FD7762",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "This is the thesis I did when I was still in undergraduate school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE9532E13D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "While my colleagues still treated computers as big calculators, I started to teach computers to learn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "225DE1CF54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "I built digital lady beetles and tried to learn from real lady beetles, just to do one thing: search for food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAB6DB504D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And after very simple neural network -- genetic algorithms and so on -- look at the pattern.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBCEC48391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "They're almost identical to real life.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "022D4FEA1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "They're almost identical to real life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "586C0D2872",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "A very striking learning experience for a twenty-year-old.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94EC2CF80D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Life is a learning program.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2136634D0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Life is a learning program.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C4A2B9556",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "When you look at all of this wonderful world, every species has its own learning program.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A3D64ADAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "The learning program is genome, and the code of that program is DNA.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAF746399E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "The learning program is genome, and the code of that program is DNA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "720407D886",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "The different genomes of each species represent different survival strategies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE9BA9EF6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "They represent hundreds of millions of years of evolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B2178F3C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "The interaction between every species' ancestor and the environment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7D2E69A5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 73,
+        "endOffset": 93,
+        "text": "the language of life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DCD706A049",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 95,
+        "endOffset": 118,
+        "text": "the program of learning",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BCC2419A87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "I was really fascinated about the world, about the DNA, about, you know, the language of life, the program of learning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C9B27C549",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "So I decided to co-found the institute to read them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48342BB548",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I read many of them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA866DA921",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "We probably read more than half of the prior animal genomes in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7483362526",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "I mean, up to date.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13068163F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "We did learn a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC6D1B7561",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "We did sequence, also, one species many, many times ... human genome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A21ED6015",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We sequenced the first Asian.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A436AF5D15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 22,
+        "endOffset": 38,
+        "text": "many, many times",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F59C6738CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "I sequenced it myself many, many times, just to take advantage of that platform.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE34014043",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Look at all those repeating base pairs: ATCG.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "621EB8A0AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "You don't understand anything there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "62A2130369",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But look at that one base pair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86AE58F9E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Those five letters, the AGGAA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EC5F22C9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "These five SNPs represent a very specific haplotype in the Tibetan population around the gene called EPAS1.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93DC268D21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 34,
+        "endOffset": 50,
+        "text": "highly selective",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "773040CC13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "That gene has been proved -- it's highly selective -- it's the most significant signature of positive selection of Tibetans for the higher altitude adaptation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2617A8E09D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "You know what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "80C38728DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "These five SNPs were the result of integration of Denisovans, or Denisovan-like individuals into humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67BC9CC62D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "This is the reason why we need to read those genomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00A071327C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "To understand history, to understand what kind of learning process the genome has been through for the millions of years.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E638A60FD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 21,
+        "endOffset": 93,
+        "text": "it can give you a lot of information -- tells you the bugs in the genome",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2CA75BE7E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "By reading a genome, it can give you a lot of information -- tells you the bugs in the genome -- I mean, birth defects, monogenetic disorders.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7A6BD24D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Reading a drop of blood could tell you why you got a fever, or it tells you which medicine and dosage needs to be used when you're sick, especially for cancer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEB477CCAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "A lot of things could be studied, but look at that: 30 years ago, we were still poor in China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "633258340F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Only .67 percent of the Chinese adult population had diabetes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5406033354",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Look at now: 11 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "314E6A5E69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Genetics cannot change over 30 years -- only one generation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83526E2CFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It must be something different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A52CA79B64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Diet?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4BF01FA92E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "The environment?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5EB6979F2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Lifestyle?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8103309B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Even identical twins could develop totally differently.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC656D216C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "It could be one becomes very obese, the other is not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB456C0DD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "One develops a cancer and the other does not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4920144A3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Not mentioning living in a very stressed environment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05FB0AC434",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "I moved to Shenzhen 10 years ago ... for some reason, people may know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C329DD9E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "If the gene's under stress, it behaves totally differently.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FC0F88DAB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Life is a journey.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "31E409D73B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "A gene is just a starting point, not the end.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "03D411D065",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "You have this statistical risk of certain diseases when you are born.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C8042BAE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "But every day you make different choices, and those choices will increase or decrease the risk of certain diseases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81A908D3A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "But do you know where you are on the curve?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C179F9F68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "What's the past curve look like?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00685768FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "What kind of decisions are you facing every day?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C0844062C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And what kind of decision is the right one to make your own right curve over your life journey?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B93E60CD42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "What's that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C34DB7E96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "The only thing you cannot change, you cannot reverse back, is time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67A64B7506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Probably not yet; maybe in the future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB563B915E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 11,
+        "endOffset": 91,
+        "text": "Well, you cannot change the decision you've made, but can we do something there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC742490E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Can we actually try to run multiple options on me, and try to predict right on the consequence, and be able to make the right choice?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2555E5DF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "After all, we are our choices.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D39D66658",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "These lady beetles came to me afterwards. 25 years ago, I made the digital lady beetles to try to simulate real lady beetles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EF6B4089D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Can I make a digital me ... to simulate me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D6E9C513E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "I understand the neural network could become much more sophisticated and complicated there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFCF1EB08A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Can I make that one, and try to run multiple options on that digital me -- to compute that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0EFBBDB7CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Then I could live in different universes, in parallel, at the same time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5834238A08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Then I would choose whatever is good for me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C64AEF1D3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "I probably have the most comprehensive digital me on the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D2EA3BA0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I've spent a lot of dollars on me, on myself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FC77BDFD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "And the digital me told me I have a genetic risk of gout by all of those things there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5D0ADA1F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "You need different technology to do that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D34F719F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "You need the proteins, genes, you need metabolized antibodies, you need to screen all your body about the bacterias and viruses covering you, or in you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DE6631557",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "You need to have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8E4B2171E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 48,
+        "endOffset": 111,
+        "text": "smart cars, smart house, smart tables, smart watch, smart phone",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B274CA0C47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 128,
+        "endOffset": 149,
+        "text": "your activities there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "519AA8B3B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 32,
+        "endOffset": 54,
+        "text": "everything's important",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "575E7EC400",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "The environment is important -- everything's important -- and don't forget the smart toilet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E735E212F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "(Laughter) It's such a waste, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B6A789484",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 19,
+        "endOffset": 41,
+        "text": "invaluable information",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7CBE5207CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Every day, so much invaluable information just has been flushed into the water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1E5662332",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And you need them.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "960C3B8CA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "You need to measure",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "97150FE698",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "You need to be able to measure everything around you and compute them.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "055F37EAA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 8,
+        "endOffset": 18,
+        "text": "digital me",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DECB0EE0A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And the digital me told me I have a genetic defect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A530CF2294",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I have a very high risk of gout.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E82B661C81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I don't feel anything now, I'm still healthy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9931D4FB94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But look at my uric acid level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8792860B05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's double the normal range.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9516409E76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 8,
+        "endOffset": 50,
+        "text": "digital me searched all the medicine books",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA4B627831",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "And the digital me searched all the medicine books, and it tells me, \"OK, you could drink burdock tea\" -- I cannot even pronounce it right -- (Laughter) That is from old Chinese wisdom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E048E8E4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And I drank that tea for three months.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF3E218BA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "My uric acid has now gone back to normal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63B942F8A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I mean, it worked for me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35DA0764C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "All those thousands of years of wisdom worked for me.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6E55A05CE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I was lucky.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3A99C04D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "But I'm probably not lucky for you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8EDD38BB69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "All of this existing knowledge in the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "110C5BCB71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 103,
+        "endOffset": 116,
+        "text": "for yourself.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "41F8496852",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "The only way to make that digital me work ... is to learn from yourself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC6578BB2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "You have to ask a lot of questions about yourself: \"What if?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4B828C2774",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "-- I'm being jet-lagged now here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B38903EA84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "You don't probably see it, but I do.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84D207EA14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "What if I eat less?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9A854671D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "When I took metformin, supposedly to live longer?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "348907AFC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "What if I climb Mt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F492EFC7C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Everest?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "355FAF3E60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "It's not that easy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8A4FFB803",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Or run a marathon?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FD54A68FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "What if",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8D2C43067E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "What if I drink a bottle of mao-tai, which is a Chinese liquor, and I get really drunk?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DB0748E5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "I was doing a video rehearsal last time with the folks here, when I was drunk, and I totally delivered a different speech.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D6CE29E5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "(Laughter) What if I work less, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5EE5D5C3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 27,
+        "endOffset": 33,
+        "text": "right?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4C2EC1FB2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I have been less stressed, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97D088867B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So that probably never happened to me, I was really stressed every day, but I hope I could be less stressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87196E4A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "These early studies told us, even with the same banana, we have totally different glucose-level reactions over different individuals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDACAADC1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "How about me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8B962FDD92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "What is the right breakfast for me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AC764921C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "I need to do two weeks of controlled experiments, of testing all kinds of different food ingredients on me, and check my body’s reaction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85DDCAE992",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And I don't know the precise nutrition for me, for myself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A64FEBF97D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Then I wanted to search all the Chinese old wisdom about how I can live longer, and healthier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70FA52E3B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "I did it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6215F493E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Some of them are really unachievable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4D0CB7302",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I did this once last October, by not eating for seven days.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0961FB363C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "I did a fast for seven days with six partners of mine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A3416963C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Look at those people.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2BB8F15B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "One smile.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E95EA93320",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "You know why he smiled?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E4BEC2804B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "He cheated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB530AA83F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "(Laughter) He drank one cup of coffee at night, and we caught it from the data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "650D17B17D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "(Laughter) We measured everything from the data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F8E543184",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 94,
+        "endOffset": 122,
+        "text": "give you a little hint there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "79C774C6F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "My immune system changed dramatically over 24 hours there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8E8ECB915",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And my antibody regulates my proteins for that dramatic change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18CC4252FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And everybody was doing that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C20E8DCD81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Even if we're essentially totally different at the very beginning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0929A2545",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And that probably will be an interesting treatment in the future for cancer and things like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43B1F733BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It becomes very, very interesting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC7368FF33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 51,
+        "endOffset": 135,
+        "text": "drinking fecal water from a healthier individual, which will make you feel healthier",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "85182FA63A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This is from old Chinese wisdom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FBED4238A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Look at that, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7087F4E0CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Like 1,700 years ago, it's already there, in the book.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D031229956",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "But I still hate the smell.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FCCDBF480",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "(Laughter) I want to find out the true way to do it, maybe find a combination of cocktails of bacterias and drink it, it probably will make me better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13466A933D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So I'm trying to do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CB4DC0D7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Even though I'm trying this hard, it's so difficult to test out all possible conditions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDC6EE3B79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "It's not possible to do all kinds of experiments at all ... but we do have seven billion learning programs on this planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0388EADAF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Seven billion.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "79B116DB97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And every program is running in different conditions and doing different experiments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5716F3E3BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Can we all measure them?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F7491E4941",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Seven years ago, I wrote an essay in \"Science\" to celebrate the human genome's 10-year anniversary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EB1F37DBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "I said, \"Sequence yourself, for one and for all.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A04D1F2D7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "But now I'm going to say, \"Digitalize yourself for one and for all.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B5BE443F47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 321,
+        "text": "When we make this digital me into a digital we, when we try to form an internet of life, when people can learn from each other, when people can learn from their experience, their data, when people can really form a digital me by themselves and we learn from it, the digital we will be totally different with a digital me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7921888B38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "But it can only come from the digital me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC80E8A8F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And this is what I try to propose here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4271B91534",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 11,
+        "endOffset": 20,
+        "text": "become we",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EEC4F00CE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 100,
+        "endOffset": 124,
+        "text": "you learn more about you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FCFE9B1C46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1B3F43DF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "(Applause) Chris Anderson: One quick question for you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A962D78CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I mean, the work is amazing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1450C48452",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 23,
+        "endOffset": 37,
+        "text": "people have is",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "577D4848D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 216,
+        "text": "I suspect one question people have is, as we look forward to these amazing technical possibilities of personalized medicine, in the near-term it feels like they're only going to be affordable for a few people, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21C4522F1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It costs many dollars to do all the sequencing and so forth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "949DE625BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 36,
+        "endOffset": 44,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F0D4270CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Is this going to lead to a kind of, you know, increasing inequality?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D61E685A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 6,
+        "endOffset": 26,
+        "text": "you have this vision",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E31536FB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "Or do you have this vision that the knowledge that you get from the pioneers can actually be pretty quickly disseminated to help a broader set of recipients?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1643CE44D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Jun Wang: Well, good question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0FB2ED074",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "I'll tell you that seven years ago, when I co-founded BGI, and served as the CEO of the company there, the only goal there for me to do was to drive the sequencing cost down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F71DB5B47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "It started from 100 million dollars per human genome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C98570C97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Now, it's a couple hundred dollars for a human genome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10BA3E73B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The only reason to do it is to get more people to benefit from it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B3AA1BCAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So for the digital me, it's the same thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDF1BF0BE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Now, you probably need",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E87ADCAB2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Now, you probably need, you know, one million dollars to digitize a person.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B448C549C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I think it has to be 100 dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "783665FBBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "It has to be free for many of those people that urgently need that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "229FC0FEE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So this is our goal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BFF077008",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "And it seems that with all this merging of the technology, I'm thinking that in the very near future, let's say three to five years, it will come to reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94F2BBE922",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And this is the whole idea of why I founded iCarbonX, my second company.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38D7591CD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "It's really trying to get the cost down to a level where every individual could have the benefit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1601DC5FC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 281,
+        "text": "CA: All right, so the dream is not elite health services for few, it's to really try and actually make overall health care much more cost effective -- JW: But we started from some early adopters, people believing ideas and so on, but eventually, it will become everybody's benefit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19A48A2F3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 4,
+        "endOffset": 111,
+        "text": "Well, Jun, I think it's got to be true to say you're one of the most amazing scientific minds on the planet",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BCDD7FD6E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 4,
+        "endOffset": 143,
+        "text": "Well, Jun, I think it's got to be true to say you're one of the most amazing scientific minds on the planet, and it's an honor to have you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41F13317A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "JW: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33CABC0BC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C64BBE49D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

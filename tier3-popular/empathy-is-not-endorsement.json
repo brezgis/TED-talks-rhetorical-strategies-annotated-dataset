@@ -1,0 +1,2480 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10121,
+  "title": "Empathy is not endorsement",
+  "author": "Dylan Marron",
+  "url": "https://www.ted.com/talks/dylan_marron_empathy_is_not_endorsement",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:34:56.486210Z",
+  "updated_at": "2026-05-07T10:34:56.486210Z",
+  "lead_time": 90.273,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Hi.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D58BBDF33F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "I've received hate online.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11AD9ABC17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "A lot of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD408F4FA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And it comes with the territory of my work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8A29D2088",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "I'm a digital creator, I make things specifically for the internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB899C11C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 163,
+        "endOffset": 189,
+        "text": "empirically and accessibly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E65E23E96A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 242,
+        "text": "Like, a few years ago, I made a video series called \"Every Single Word\" where I edited down popular films to only the words spoken by people of color, as a way to talk about the issue of representation in Hollywood.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B36170FE80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "Then, later, as transphobic bathroom bill started gaining media attention around the United States, I hosted and produced an interview series called \"Sitting in Bathrooms with Trans People\" where I did exactly that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC6CF699C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "(Laughter) And then -- Sure, I'll take applause.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B340032765",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62AB2DF3BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 10,
+        "endOffset": 26,
+        "text": "are you familiar",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "836B3A5656",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And then, are you familiar with those unboxing videos on YouTube where YouTubers open up the latest electronic gadgets?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5A39632F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 12,
+        "endOffset": 21,
+        "text": "satirized",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8784FDDB05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "Great, so I satirized those in a weekly series, where instead I unboxed intangible ideologies like police brutality, masculinity and the mistreatment of Native Americans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EACF4EB5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "(Laughter) My work -- Thanks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E78D28E71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 23,
+        "endOffset": 32,
+        "text": "God bless",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "641E5EDE8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "One person applauding, God bless.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D59C6FC9AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "(Laughter) Mom, hi.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9652A172E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "(Laughter) So, my work became popular.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2653E75EC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Very popular.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2152CC905",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 25,
+        "endOffset": 45,
+        "text": "a ton of great press",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "20C793EE56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 50,
+        "endOffset": 73,
+        "text": "a slew of new followers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BF3DFC65FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 4,
+        "endOffset": 61,
+        "text": "the flip side of success on the internet is internet hate",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5F020BDC58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I was called everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAF57B22DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 43,
+        "endOffset": 67,
+        "text": "the ever-popular \"cuck.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF63424A8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 13,
+        "endOffset": 50,
+        "text": "I will break these terms down for you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "762BB4BE29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 11,
+        "endOffset": 94,
+        "text": "So, \"beta,\" for those of you unfamiliar, is shorthand online lingo for \"beta male.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F54F899BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 69,
+        "endOffset": 101,
+        "text": "rich-white-woman-running-errands",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6237EEC602",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 103,
+        "endOffset": 136,
+        "text": "so I'm not angling to be an alpha",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9E324B6876",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 11,
+        "endOffset": 32,
+        "text": "Doesn't totally work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDAF6536B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 31,
+        "endOffset": 106,
+        "text": "a put-down for people who are sensitive and believe themselves to be unique",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB49B75F9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 148,
+        "endOffset": 156,
+        "text": "so, duh!",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FA73C4B790",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 18,
+        "endOffset": 46,
+        "text": "favorite, favorite, favorite",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D94C2E6E85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 5,
+        "endOffset": 81,
+        "text": "a slur, short for \"cuckold,\" for men who have been cheated on by their wives",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA04683475",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 13,
+        "endOffset": 84,
+        "text": "I am so gay, that if I had a wife, I would encourage her to cheat on me",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B5C29F46E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 11,
+        "endOffset": 21,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37E71278E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Let's take a look at some of this negativity in action.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4529B9AFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Sometimes it's direct.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00CBE6F679",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Like Marcos, who wrote, \"You're everything I hate in a human being.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5D93E3E654",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Thank you, Marcos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0744855AB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Others are more concise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48B62AC09A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Like Donovan, who wrote, \"gaywad fagggggg.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2BF1E146C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Now, I do need to point out, Donovan is not wrong, OK?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1E793F6ED4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "In fact, he's right on both counts, so credit where credit is due.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F93FB296A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Thank you, Donovan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "113A186EBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "But my favorite thing about this is that once Brian was done typing, his finger must have slipped because then he sent me the thumbs-up emoji.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6D1181400B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "But my favorite thing about this is that once Brian was done typing, his finger must have slipped because then he sent me the thumbs-up emoji.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49DF0D8FB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 11,
+        "endOffset": 43,
+        "text": "So, babe, thumbs up to you, too.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "995E757034",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 11,
+        "endOffset": 53,
+        "text": "It's fun to talk about these messages now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6894F4BA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8AB2290137",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And it's cathartic to laugh at them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FCB57A846",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "But I can tell you that it really does not feel good to receive them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96105058FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "At first, I would screenshot their comments and make fun of their typos, but this soon felt elitist and ultimately unhelpful.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5882E95E87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "So over time, I developed an unexpected coping mechanism.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A85994A8F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "Because most of these messages I received were through social media, I could often click on the profile picture of the person who sent them and learn everything about them.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F2925558E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "I could see pictures they were tagged in, posts they'd written, memes they'd shared, and somehow, seeing that it was a human on the other side of the screen made me feel a little better.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7691BB3275",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Not to justify what they wrote, right?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F43A151AFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "But just to provide context.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DDE4D4DDE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Still, that didn't feel like enough.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "98F24536FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "So, I called some of them -- only the ones I felt safe talking to -- with a simple opening question: \"Why did you write that?\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D352A2267A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "The first person I spoke to was Josh.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2E5A2CB298",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "He had written to tell me that I was a moron, I was a reason this country was dividing itself, and he added at the end that being gay was a sin.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3A5A05AF21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "I was so nervous for our first conversation.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3ABD294F42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "This wasn't a comments section.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9298392032",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So I couldn't use tools like muting or blocking.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F6C19E55D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Of course, I guess, I could have hung up on him.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "74C6AA33EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "But I didn't want to.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B1942A8893",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Because I liked talking to him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF92F38469",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Because I liked him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA560C4377",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Here's a clip of one of our conversations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7517EF455A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 22,
+        "endOffset": 81,
+        "text": "Josh, you said you're about to graduate high school, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8392D2C85F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Josh: Mmm-hmm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA1FA56658",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "DM: How is high school for you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1780B9A365",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 6,
+        "endOffset": 59,
+        "text": "Am I allowed to use the H-E-double-hockey-stick word?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "83B641C7CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "DM: Oh, yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06AF2A5970",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "You're allowed to.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75DAC21B6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Josh: It was hell.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C15E48653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "DM: Really?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9478A6CB89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Josh: And it's still hell right now, even though it's only two weeks left.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8A1B1B392",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "I'm a little bit bigger",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5C3E6D1FFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 27,
+        "endOffset": 178,
+        "text": "I don't like to use the word \"fat,\" but I am a little bit bigger than a lot of my classmates and they seem to judge me before they even got to know me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23D414FEA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "DM: That's awful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D681F9450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "I mean, I also just want to let you know, Josh, I was bullied in high school, too.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BB99EA5D2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "So did our common ground of being bullied in high school erase what he wrote me?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "67EF7F6930",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2F12E816D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And did our single phone conversation radically heal a politically divided country and cure systemic injustice?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "00E5BA7E2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "No, absolutely not, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79CCA3B183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "But did our conversation humanize us to each other more than profile pictures and posts ever could?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "43E2A34A3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Absolutely.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2A945D51C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I didn't stop there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3862D2E57E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Because some of the hate I received was from \"my side.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3C5973AAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "So when Matthew, a queer liberal artist like me publicly wrote that I represented some of the worst aspects of liberalism, I wanted to ask him this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A391ECCC2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "DM: You tagged me in this post.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "06FFD63D7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Did you want me to see it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0D789ECB75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Matthew (Laughing): I honestly didn't think that you would.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C28AD64316",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "DM: Have you ever been publicly dragged?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5853D7A934",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Matthew: I have been.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23B6BDAA2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And I just said, \"No, I don't care.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4A28D1438",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 4,
+        "endOffset": 25,
+        "text": "And did you not care?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "886BD30984",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Matthew: But it was hard.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11A2576F37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 4,
+        "endOffset": 21,
+        "text": "Did you not care?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0407BDF5D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Matthew: Oh, I cared, yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "898891E787",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "DM: At the end of these conversations, there's often a moment of reflection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0352F403FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "A reconsideration.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93251AF87B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And that's exactly what happened at the end of my call with a guy named Doug who had written that I was a talentless propaganda hack.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB6AA3120F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 8,
+        "endOffset": 112,
+        "text": "Did the conversation we just had -- does it, like, make you feel differently about how you write online?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6705D99400",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Doug: Yeah!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD3DF63F09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "You know,",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D4B555EC16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 10,
+        "endOffset": 127,
+        "text": "when I said this to you, when I said you were a \"talentless hack,\" I had never conversed with you in my life, really.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68927F1DDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "I didn't really know anything really about you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FC209AB69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "And I think that a lot of times, that's what the comment sections really are, it's really a way to get your anger at the world out on random profiles of strangers, pretty much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F813AC23C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "DM (Laughing): Yeah, right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8E5E6730F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Doug: But it definitely has made me rethink the way that I interact with people online.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7329EC2844",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "DM: So I've collected these conversations and many others for my podcast \"Conversations with People Who Hate Me.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5E9D6F3F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 137,
+        "endOffset": 188,
+        "text": "epically worded video essays and comments and posts",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "835DD2DE57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 277,
+        "text": "(Laughter) Before I started this project, I thought that the real way to bring about change was to shut down opposing viewpoints through epically worded video essays and comments and posts, but I soon learned those were only cheered on by the people who already agreed with me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B71003725",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Sometimes -- bless you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB306A1A13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Sometimes, the most subversive thing you could do -- yeah, clap for him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B4CEBDF7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 26,
+        "endOffset": 41,
+        "text": "most subversive",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "201FD22D12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "(Laughter) Sometimes, the most subversive thing you could do was to actually speak with the people you disagreed with, and not simply at them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E951004FB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Now in every one of my calls, I always ask my guests to tell me about themselves.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "27A5D6B727",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And it's their answer to this question that allows me to empathize with them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34B5664E73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 32,
+        "endOffset": 46,
+        "text": "key ingredient",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D4D5A16F89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "And empathy, it turns out, is a key ingredient in getting these conversations off the ground, but it can feel very vulnerable to be empathizing with someone you profoundly disagree with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD9A2E5CDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "So I established a helpful mantra for myself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C87A61038",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Empathy is not endorsement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25E581769D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "Empathizing with someone you profoundly disagree with does not suddenly compromise your own deeply held beliefs and endorse theirs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2184FB2D74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 150,
+        "endOffset": 188,
+        "text": "grab my one-way ticket to hell, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "985A82C7AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "Empathizing with someone who, for example, believes that being gay is a sin doesn't mean that I'm suddenly going to drop everything, pack my bags and grab my one-way ticket to hell, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40625877F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "It just means that I'm acknowledging the humanity of someone who was raised to think very differently from me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD1A584E09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "I also want to be super clear about something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F912543A70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "This is not a prescription for activism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "424DE0B0B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "I understand that some people don't feel safe talking to their detractors and others feel so marginalized that they justifiably don't feel that they have any empathy to give.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1039C949A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "I totally get that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E08639AD9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "This is just what I feel well-suited to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C5A87025C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "You know, I've reached out to a lot of people for this podcast.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5110997A72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "And some have politely declined, others have read my message and ignored it, some have blocked me automatically when I sent the invitation and one guy actually agreed to do it and then, five minutes into the call, hung up on me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66849CB2FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I'm also aware that this talk will appear on the internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5F12AD45F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And with the internet comes comment sections, and with comment sections inevitably comes hate.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C945426677",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "So as you are watching this talk, you can feel free to call me whatever you'd like.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2A63D5AA49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "You can call me a \"gaywad,\" a \"snowflake,\" a \"cuck,\" a \"beta,\" or \"everything wrong with liberalism.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "57926926CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "But just know that if you do, I may ask you to talk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9E64BA67A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And if you refuse or block me automatically or agree and hang up on me, then maybe, babe, the snowflake is you.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D0B2349645",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Thank you so much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DD4B82045",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "(Applause) (Cheering) (Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4287A1F46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

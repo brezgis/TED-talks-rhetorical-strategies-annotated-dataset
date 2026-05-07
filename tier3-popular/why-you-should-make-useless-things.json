@@ -1,0 +1,2072 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10157,
+  "title": "Why you should make useless things",
+  "author": "Simone Giertz",
+  "url": "https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T01:46:08.895491Z",
+  "updated_at": "2026-05-07T01:46:08.895491Z",
+  "lead_time": 77.574,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Hello.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D54D26482E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "My name is Simone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F0A1F80AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "You know how people tell you if you get nervous when onstage, picture people in the audience naked?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F3627FB34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Like it's this thing that's supposed to make you feel better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D3758B2FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 22,
+        "endOffset": 86,
+        "text": "picturing all of you naked in 2018 feels kind of weird and wrong",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BA5C83980B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 64,
+        "endOffset": 130,
+        "text": "so we need a new method of dealing with if you get nervous onstage",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3FC9C8C876",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 55,
+        "endOffset": 98,
+        "text": "look at you as much as you're looking at me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3E101CE324",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So if I had way more eyeballs, then we'd all be really comfortable, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5B9DE7F4B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "So in preparation for this talk, I made myself a shirt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2987BEB343",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Rattling) (Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "169A7BD1DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "It took me 14 hours and 227 googly eyes to make this shirt.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "CA2BD2EFFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 4,
+        "endOffset": 61,
+        "text": "being able to look at you as much as you're looking at me",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F41412C469",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "The other half is being able to do this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F20EE8D4E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "(Googly eyes rattle) (Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "986735F9AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I see a problem and I invent some sort of solution to it.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89C6F27C4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "For example, brushing your teeth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C28C4926AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 6,
+        "endOffset": 39,
+        "text": "it's this thing we all have to do",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5119558685",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Like, it's this thing we all have to do, it's kind of boring, and nobody really likes it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EBDA1F1FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "If there were any seven-year-olds in the audience",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B975201252",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "If there were any seven-year-olds in the audience, they'd be like, \"Yes!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADCDE1118E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "So what about if you had a machine that could do it for you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BDE20CE4E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B9423E8ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I call it \"The Toothbrush Helmet.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5BBEAE2E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 221,
+        "text": "(Laughter) (Robot arm buzzing) (Laughter) (Applause) So my toothbrush helmet is recommended by zero out of 10 dentists, and it definitely did not revolutionize the world of dentistry, but it did completely change my life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "208D468AE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "Because I finished making this toothbrush helmet three years ago and after I finished making it, I went into my living room and I put up a camera, and I filmed a seven-second clip of it working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CD4F23F5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 22,
+        "endOffset": 59,
+        "text": "pretty standard modern-day fairy tale",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B652AA4F81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 306,
+        "text": "And by now, this is a pretty standard modern-day fairy tale of girl posting on the internet, the internet takes the girl by storm, thousands of men voyage into the comment sections to ask for her hand in marriage -- (Laughter) She ignores all of them, starts a YouTube channel and keeps on building robots.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DBE0BBF58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 33,
+        "endOffset": 45,
+        "text": "little niche",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FF249EB469",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 212,
+        "text": "Since then, I've carved out this little niche for myself on the internet as an inventor of useless machines, because as we all know, the easiest way to be at the top of your field is to choose a very small field.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11C93B668B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 303,
+        "text": "(Laughter) (Applause) So I run a YouTube channel about my machines, and I've done things like cutting hair with drones -- (Drone buzzes) (Laughter) (Drone crashes) (Laughter) (Drone buzzes) (Laughter) (Applause) To a machine that helps me wake up in the morning -- (Alarm) (Laughter) (Video) Simone: Ow!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22846DDEAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "To this machine that helps me chop vegetables.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CF41FEC41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 14,
+        "endOffset": 34,
+        "text": "I'm not an engineer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F00481F71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I did not study engineering in school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5679C527A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But I was a super ambitious student growing up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CE9528EFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "In middle school and high school, I had straight A's, and I graduated at the top of my year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24304EEB38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "On the flip side of that",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7DDD055A55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Here's an email I sent to my brother around that time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DEDBE8C3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 1,
+        "endOffset": 21,
+        "text": "You won't understand",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EF1187DFA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 22,
+        "endOffset": 77,
+        "text": "how difficult it is for me to tell you, to confess this",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AB6A7DCC5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "I'm so freaking embarrassed",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "47D7E05BA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I don't want people to think that I'm stupid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0B422DB6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Now I'm starting to cry too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1DA45F6A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Damn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18D8EE16A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 4,
+        "endOffset": 59,
+        "text": "no, I did not accidentally burn our parents' house down",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "EF89568E52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The thing I'm writing about in the email and the thing I'm so upset about",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "78082467A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So something obviously happened between here and here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0FC4EF838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DAC06C389",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "(Laughter) Beautiful time indeed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D135EBAD6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "But moreover, I got interested in building robots, and I wanted to teach myself about hardware.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEFEE02648",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "But building things with hardware, especially if you're teaching yourself, is something that's really difficult to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "809F552F3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 89,
+        "endOffset": 100,
+        "text": "feel stupid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D4DF9C9C2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "It has a high likelihood of failure and moreover, it has a high likelihood of making you feel stupid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BC7C793D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And that was my biggest fear at the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9327F5388B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "So I came up with a setup that would guarantee success 100 percent of the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A57BA98C12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "With my setup, it would be nearly impossible to fail.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5B7FBE010",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And that was that instead of trying to succeed, I was going to try to build things that would fail.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "501D5505A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 49,
+        "endOffset": 96,
+        "text": "building stupid things was actually quite smart",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "71D196B455",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 226,
+        "text": "And even though I didn't realize it at the time, building stupid things was actually quite smart, because as I kept on learning about hardware, for the first time in my life, I did not have to deal with my performance anxiety.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6B7648417",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "And as soon as I removed all pressure and expectations from myself, that pressure quickly got replaced by enthusiasm, and it allowed me to just play.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B50CC37A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "So as an inventor, I'm interested in things that people struggle with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4128E922B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "It can be small things or big things or medium-sized things and something like giving a TED talk presents this whole new set of problems that I can solve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B655604C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And identifying a problem is the first step in my process of building a useless machine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01EBEF72D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "So before I came here, I sat down and I thought of some of the potential problems I might have in giving this talk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0C3E166FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Forgetting what to say.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7CB73BEFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "That people won't laugh -- that's you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "67E0CFAABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 15,
+        "endOffset": 52,
+        "text": "that you'll laugh at the wrong things",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A6E7D60694",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Or even worse, that you'll laugh at the wrong things -- that was an OK part to laugh at, thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "423F842E94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "(Laughter) Or that when I get nervous, my hands start shaking and I'm really self-conscious about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A340B1C54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Or that my fly has been open this entire time and all of you noticed but I didn't",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3355C2811D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 50,
+        "endOffset": 60,
+        "text": "all of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B56329C699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "But one thing I'm actually really nervous about is my hands shaking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D7225003E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 207,
+        "text": "I remember when I was a kid, giving presentations in school, I would have my notes on a piece of paper, and I would put a notebook behind the paper so that people wouldn't be able to see the paper quivering.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFA6B7D462",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And I give a lot of talks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B4AA3A647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 26,
+        "endOffset": 29,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "354F9C5E9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 66,
+        "endOffset": 105,
+        "text": "Building useless machines is really fun",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9986C3F60F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And giving talks is a part of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "656DB6A78E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 270,
+        "text": "And the arrangers always put out a glass of water for you onstage so you have something to drink if you get thirsty, and I always so badly want to drink that water, but I don't dare to pick the glass up because then people might be able to see that my hands are shaking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F795AF3D48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "So what about a machine that hands you a glass of water?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BA32B5564",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Sold to the nervous girl in the googly-eye shirt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BEB234F7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Actually, I need to take this off because I have a thing -- (Googly eyes rattle) Oh.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87720D85AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "(Clanking) (Laughter) I still don't know what to call this, but I think some sort of \"head orbit device,\" because it rotates this platform around you and you can put anything on it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6698B6781A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "You can have a camera; you can get photos of your entire head.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBFEBAC88C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Like it's really -- it's a very versatile machine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B3F014530",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 37,
+        "endOffset": 40,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B96F0C8865",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 19,
+        "endOffset": 96,
+        "text": "I have -- I mean, you can put some snacks on it, for example, if you want to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD86746430",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I have some popcorn here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A98975451",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And you just put a little bit like that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ACFF3A4E7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 37,
+        "endOffset": 59,
+        "text": "sacrifices for science",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B2315AC0E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And then you want to -- there's some sacrifices for science -- just some popcorn falling on the floor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29D799648A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Let's do the long way around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8753231C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "(Robot buzzes) (Laughter) And then you have a little hand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "829FEEFEEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "You need to adjust the height of it, and you just do it by shrugging.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5DC9CDA753",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "(Laughter) (Applause) It has a little hand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B52C07695E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "(Hand thwacks) (Laughter) (Applause) I just bumped my mic off, but I think we're all good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB3677FD4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 41,
+        "endOffset": 97,
+        "text": "if you guys could just clap your hands a little bit more",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F29783F950",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 129,
+        "endOffset": 166,
+        "text": "your own little personal solar system",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6500E89CF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "(Laughter) Back to the glass of water, that's what we're here for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E06429BD1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "So, I promise -- I mean, it still has -- it doesn't have any water in it, I'm sorry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D92180D2A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 128,
+        "endOffset": 166,
+        "text": "if your hands are shaking a little bit",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "05C7ED0C79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 218,
+        "endOffset": 253,
+        "text": "very mesmerizing piece of equipment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "859260BE87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 254,
+        "text": "But I still need to work on this machine a little bit because I still need to pick up the glass and put it on the platform, but if your hands are shaking a little bit, nobody's going to notice because you're wearing a very mesmerizing piece of equipment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "245A6B0AC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "So, we're all good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66E7295F99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48BE226204",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "(Robot buzzes) (Singing) Oh no, it got stuck.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62CADAF803",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Isn't it comforting that even robots sometimes get stage fright?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B20DD42DFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "It just gets stuck a little bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87DF7FC760",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's very human of them.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A446D9B00D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 74,
+        "endOffset": 112,
+        "text": "Isn't it a beautiful time to be alive?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F591AE4246",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "(Laughter) (Applause) So as much as my machines can seem like simple engineering slapstick, I realize that I stumbled on something bigger than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6198448CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 10,
+        "endOffset": 40,
+        "text": "expression of joy and humility",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BFE804DA5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "It's this expression of joy and humility that often gets lost in engineering, and for me it was a way to learn about hardware without having my performance anxiety get in the way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "448D343A7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "I often get asked if I think I'm ever going to build something useful",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "37C9E28703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "I often get asked if I think I'm ever going to build something useful, and maybe someday I will.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA7682329D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 76,
+        "endOffset": 209,
+        "text": "It's something that I could never have planned for, or that I could -- (Applause) It's something that I could never have planned for.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C4CFC713FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Instead it happened just because I was enthusiastic about what I was doing, and I was sharing that enthusiasm with other people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42DC0890B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 17,
+        "endOffset": 28,
+        "text": "true beauty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D0E6A3018D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "To me that's the true beauty of making useless things, because it's this acknowledgment that you don't always know what the best answer is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65C0DF9BDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "And it turns off that voice in your head that tells you that you know exactly how the world works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E67C3B4CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And maybe a toothbrush helmet isn't the answer, but at least you're asking the question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CA6BC8985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "860294DC07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8D752747F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

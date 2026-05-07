@@ -1,0 +1,2701 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10120,
+  "title": "How sampling transformed music",
+  "author": "Mark Ronson",
+  "url": "https://www.ted.com/talks/mark_ronson_how_sampling_transformed_music",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:12:49.049492Z",
+  "updated_at": "2026-05-07T12:12:49.049492Z",
+  "lead_time": 129.392,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 81,
+        "endOffset": 87,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F81C3CDC40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "I'm assuming everyone here has watched a TED Talk online at one time or another, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11F75FE51F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "So what I'm going to do is play this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C2D028F32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "This is the song from the TED Talks online.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB90177D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "(Music) And I'm going to slow it down because things sound cooler when they're slower.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "766FB3D20E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "(Music) Ken Robinson: Good morning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85C0601C8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "How are you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C2F8EB218B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Mark Applebaum: I'm going to -- Kate Stone: -- mix some music.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DC47ADA93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "MA: I'm going to do so in a way that tells a story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B87658A65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Tod Machover: Something nobody's ever heard before.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54FDB4437D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "KS: I have a crossfader.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D066EFAA3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Julian Treasure: I call this the mixer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2FEBAF1E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "KS: Two D.J. decks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F87A100ADF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Chris Anderson: You turn up the dials, the wheel starts to turn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "240ED79D93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Dan Ellsey: I have always loved music.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1C28B1A01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 23,
+        "endOffset": 75,
+        "text": "Is it a melody or a rhythm or a mood or an attitude?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A5F2371ABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 16,
+        "endOffset": 65,
+        "text": "Feeling everything that's going on inside my body",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "22AD894875",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 38,
+        "endOffset": 62,
+        "text": "amazing musical computer",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7E5E475A55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 16,
+        "endOffset": 29,
+        "text": "In your brain",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "87138007A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 5,
+        "endOffset": 54,
+        "text": "Using computers and synthesizers to create works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E404C7153",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It's a language that's still evolving.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4307DAE25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And the 21st century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C872D123F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "KR: Turn on the radio.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9A41D08A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Pop into the discotheque.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34BAD9327A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "You will know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3316764516",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 14,
+        "endOffset": 61,
+        "text": "what this person is doing: moving to the music.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "286B28884D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Mark Ronson: This is my favorite part.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBEB25C944",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 4,
+        "endOffset": 28,
+        "text": "You gotta have doorstops",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "858499F2DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "That's important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "454DA793F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "TM: We all love music a great deal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A5D8CFFD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 5,
+        "endOffset": 47,
+        "text": "Anthems, dance crazes, ballads and marches",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A6CF5B6FD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 23,
+        "endOffset": 73,
+        "text": "The remix: It is new music created from old music.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D15BE6A811",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Ryan Holladay: Blend seamlessly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C50404DAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 16,
+        "endOffset": 39,
+        "text": "And that's how it goes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0B262C838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 5,
+        "endOffset": 39,
+        "text": "What happens when the music stops?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10C327B507",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 4,
+        "endOffset": 8,
+        "text": "Yay!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A9C35492C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "(Applause) MR: Obviously, I've been watching a lot of TED Talks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FB5A0755F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 263,
+        "endOffset": 326,
+        "text": "I haven't mounted a successful expedition to the North Pole yet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "90D2841ED0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 201,
+        "endOffset": 211,
+        "text": "you can do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D0AA26D59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Neither have I provided electricity to my village through sheer ingenuity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54520E9168",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In fact, I've pretty much wasted most of my life DJing in night clubs and producing pop records.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E3ABC23A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 148,
+        "endOffset": 164,
+        "text": "visceral passion",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "194F1E391F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 200,
+        "endOffset": 223,
+        "text": "stirred something in me",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8C581E51CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 235,
+        "endOffset": 295,
+        "text": "sucker for anyone talking devotedly about the power of music",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "775093EFEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 89,
+        "endOffset": 103,
+        "text": "struck a chord",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A62FF4BF18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 111,
+        "endOffset": 125,
+        "text": "pardon the pun",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4F7E3B8BDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 228,
+        "endOffset": 260,
+        "text": "John Nash, \"Beautiful Mind\" vibe",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84B27A0CE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 79,
+        "endOffset": 111,
+        "text": "you kind of all of a sudden wish",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57DE4126B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 146,
+        "endOffset": 156,
+        "text": "don't you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0804A14151",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Like, just for a day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90FABA0B80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "They seem like a nice person.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "568B0B12B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "You'd take a bike ride, maybe share an ice cream.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24FC6D0B02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "You'd certainly learn a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FBF433ABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And every now and then they'd chide you, when they got frustrated that you couldn't really keep up with half of the technical things they're banging on about all the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BE1E632BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 19,
+        "endOffset": 68,
+        "text": "we take something that we love and we build on it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4C5BEAF13B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DA6AEA668B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I'd like to play a song for you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E513F6FEA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "(Music: \"La Di Da Di\" by Doug E. Fresh &amp; Slick Rick)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5E52D2ABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 24,
+        "endOffset": 94,
+        "text": "That's \"La Di Da Di\" and it's the fifth-most sampled song of all time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B71DEE2470",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It's been sampled 547 times.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED22875937",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It was made in 1984 by these two legends of hip-hop, Slick Rick and Doug E. Fresh,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE028694BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 15,
+        "endOffset": 55,
+        "text": "Ray-Ban and Jheri curl look is so strong",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B4BDC9D6BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I do hope that comes back soon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42EBA9F6EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Anyway, this predated the sampling era.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8622A3986A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 231,
+        "text": "There were no samples in this record, although I did look up on the Internet last night, I mean several months ago, that \"La Di Da Di\" means, it's an old Cockney expression from the late 1800s in England, so maybe a remix with Mrs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1D3716DD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "maybe a remix with Mrs. Patmore from \"Downton Abbey\" coming soon",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E9F76F4990",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Doug E.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C1300C69E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Fresh was the human beat box.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91B44E9BDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "Slick Rick is the voice you hear on the record, and because of Slick Rick's sing-songy, super-catchy vocals, it provides endless sound bites and samples for future pop records.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "667434CD39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "That was 1984.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "149B2CF5A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 20,
+        "endOffset": 62,
+        "text": "in case you were wondering how I was doing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "233F62FF37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 64,
+        "endOffset": 84,
+        "text": "thank you for asking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A4E0DDE169",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "It's Throwback Thursday already.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89F3EA89FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 20,
+        "endOffset": 67,
+        "text": "heavy love affair with the music of Duran Duran",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5620B06F29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 69,
+        "endOffset": 108,
+        "text": "as you can probably tell from my outfit",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B5596C5B05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I was in the middle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76BB88325A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "And the simplest way that I knew how to co-opt myself into that experience of wanting to be in that song somehow was to just get a band together of fellow nine-year-olds and play \"Wild Boys\" at the school talent show.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA5A01EA7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 78,
+        "endOffset": 206,
+        "text": "if you ever have a chance to live your life escaping hearing the sound of an auditorium full of second- and third-graders booing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "77973D2F19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "It's not really fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D10B681A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "But it didn't really matter, because what I wanted somehow was to just be in the history of that song for a minute.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A522540478",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "I didn't care who liked it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59BCC1432E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I just loved it, and I thought I could put myself in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C8EB0415D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "Over the next 10 years, \"La Di Da Di\" continues to be sampled by countless records, ending up on massive hits like \"Here Comes the Hotstepper\" and \"I Wanna Sex You Up.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A39FF15069",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Snoop Doggy Dogg covers this song on his debut album \"Doggystyle\" and calls it \"Lodi Dodi.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A823063C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Copyright lawyers are having a field day at this point.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "504858F71C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 261,
+        "text": "And then you fast forward to 1997, and the Notorious B.I.G., or Biggie, reinterprets \"La Di Da Di\" on his number one hit called \"Hypnotize,\" which I will play a little bit of and I will play you a little bit of the Slick Rick to show you where they got it from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9AB88F05C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 45,
+        "endOffset": 375,
+        "text": "So Biggie was killed weeks before that song made it to number one, in one of the great tragedies of the hip-hop era, but he would have been 13 years old and very much alive when \"La Di Da Di\" first came out, and as a young boy growing up in Brooklyn, it's hard not to think that that song probably held some fond memories for him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D4C3139F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 31,
+        "endOffset": 42,
+        "text": "as you hear",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA35E69FE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "But the way he interpreted it, as you hear, is completely his own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C72FA42C57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "He flips it, makes it, there's nothing pastiche whatsoever about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FD85B5654",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It's thoroughly modern Biggie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4D4E7F174",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 38,
+        "endOffset": 117,
+        "text": "because you would be the only people that I'd ever have a chance of getting it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75CCD1688C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "I had to make that joke in this room, because you would be the only people that I'd ever have a chance of getting it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC65B5E6A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And so, it's a groaner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF7408D008",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "(Laughter) Elsewhere in the pop and rap world, we're going a little bit sample-crazy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2701793D9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "We're getting away from the obscure samples that we were doing, and all of a sudden everyone's taking these massive '80s tunes like Bowie, \"Let's Dance,\" and all these disco records, and just rapping on them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D87A9345C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "These records don't really age that well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "495FCCF83D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "You don't hear them now, because they borrowed from an era that was too steeped in its own connotation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76F58D0D91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "You can't just hijack nostalgia wholesale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D053543296",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It leaves the listener feeling sickly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A758D7673",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "You have to take an element of those things and then bring something fresh and new to it, which was something that I learned when I was working with the late, amazing Amy Winehouse on her album \"Back to Black.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC47E8CCFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 392,
+        "text": "A lot of fuss was made about the sonic of the album that myself and Salaam Remi, the other producer, achieved, how we captured this long-lost sound, but without the very, very 21st-century personality and firebrand that was Amy Winehouse and her lyrics about rehab and Roger Moore and even a mention of Slick Rick, the whole thing would have run the risk of being very pastiche, to be honest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A403FFF440",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Imagine any other singer from that era over it singing the same old lyrics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93EEF86409",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "It runs a risk of being completely bland.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41F02B79D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 66,
+        "endOffset": 111,
+        "text": "love for this gospel, soul and blues and jazz",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C4F2089E92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "I mean, there was no doubt that Amy and I and Salaam all had this love for this gospel, soul and blues and jazz that was evident listening to the musical arrangements.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "327ED2ED18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 16,
+        "endOffset": 27,
+        "text": "ingredients",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ABAFF5E3B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "She brought the ingredients that made it urgent and of the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A3143F13E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "So if we come all the way up to the present day now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B32A97C256",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 57,
+        "endOffset": 79,
+        "text": "cultural tour de force",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "919012F48F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "So if we come all the way up to the present day now, the cultural tour de force that is Miley Cyrus, she reinterprets \"La Di Da Di\" completely for her generation, and we'll take a listen to the Slick Rick part and then see how she sort of flipped it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E18A18CB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "(Music: \"La Di Da Di\" by Slick Rick &amp; Doug E. Fresh)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E47E6FF62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 202,
+        "endOffset": 250,
+        "text": "etched its way into the collective consciousness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F69DBF8074",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 283,
+        "endOffset": 303,
+        "text": "timeless playfulness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3A5E5FE171",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 47,
+        "endOffset": 411,
+        "text": "So Miley Cyrus, who wasn't even born yet when \"La Di Da Di\" was made, and neither were any of the co-writers on the song, has found this song that somehow etched its way into the collective consciousness of pop music, and now, with its timeless playfulness of the original, has kind of translated to a whole new generation who will probably co-opt it as their own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E751C0F9B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Since the dawn of the sampling era, there's been endless debate about the validity of music that contains samples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "162B193CD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FDE0625810",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "You know, the Grammy committee says that if your song contains some kind of pre-written or pre-existing music, you're ineligible for song of the year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E514F4836",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Rockists, who are racist but only about rock music",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "266C5596FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Rockists, who are racist but only about rock music, constantly use the argument to — That's a real word.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D139B7D2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "That is a real word.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D0EB4C744",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "They constantly use the argument to devalue rap and modern pop, and these arguments completely miss the point, because the dam has burst.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "624D323882",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We live in the post-sampling era.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5CCD8B9A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We take the things that we love and we build on them.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9AD32F99FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We take the things that we love and we build on them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "644BAA2659",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "That's just how it goes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B16FAAF72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 75,
+        "endOffset": 90,
+        "text": "musical journey",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AB103838A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 62,
+        "endOffset": 239,
+        "text": "we merge our musical journey with this, then we have a chance to be a part of the evolution of that music that we love and be linked with it once it becomes something new again.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "18FB58A33C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 239,
+        "text": "And when we really add something significant and original and we merge our musical journey with this, then we have a chance to be a part of the evolution of that music that we love and be linked with it once it becomes something new again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C940EF343",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "So I would like to do one more piece that I put together for you tonight",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D049313A99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "So I would like to do one more piece that I put together for you tonight, and it takes place with two pretty inspiring TED performances that I've seen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB9E35E45B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 86,
+        "endOffset": 92,
+        "text": "genius",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "043EB602C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 211,
+        "text": "One of them is the piano player Derek Paravicini, who happens to be a blind, autistic genius at the piano, and Emmanuel Jal, who is an ex-child soldier from the South Sudan, who is a spoken word poet and rapper.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9E5C23297",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 32,
+        "endOffset": 58,
+        "text": "annoyingly me-me-me myself",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9C02A22A56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 199,
+        "text": "And once again I found a way to annoyingly me-me-me myself into the musical history of these songs, but I can't help it, because they're these things that I love, and I want to mess around with them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FBB0D19C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 10,
+        "endOffset": 24,
+        "text": "you enjoy this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2CDDB5FC6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So I hope you enjoy this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14530E8004",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Here we go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93AF11C5B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Let's hear that TED sound again, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "27E92C71F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Let's hear that TED sound again, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12D5F2B53C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "(Music) Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27EC46C010",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDAA321B59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E36A0768FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "But then they'd remember that you're but a mere human of ordinary, mortal intelligence that didn't finish university, and they'd kind of forgive you, and pet you like the dog.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "26027C38B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "(Laughter) Man, yeah, back to the real world, probably Sir Ken Robinson and I are not going to end up being best of friends.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CFD31AA179",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 247,
+        "text": "He lives all the way in L.A. and I imagine is quite busy, but through the tools available to me -- technology and the innate way that I approach making music -- I can sort of bully our existences into a shared event, which is sort of what you saw.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D2B1068ACE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "I can hear something that I love in a piece of media and I can co-opt it and insert myself in that narrative, or alter it, even.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B738A43F63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "In a nutshell, that's what I was trying to do with these things, but more importantly, that's what the past 30 years of music has been.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1762ABB112",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "That's the major thread.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "30C25AF0C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "See, 30 years ago, you had the first digital samplers, and they changed everything overnight.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7604DE9A75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 191,
+        "text": "All of a sudden, artists could sample from anything and everything that came before them, from a snare drum from the Funky Meters, to a Ron Carter bassline, the theme to \"The Price Is Right.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1791C61A4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 200,
+        "text": "Albums like De La Soul's \"3 Feet High and Rising\" and the Beastie Boys' \"Paul's Boutique\" looted from decades of recorded music to create these sonic, layered masterpieces that were basically the Sgt.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6308A11398",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Peppers of their day.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BAB91F4E15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And they weren't sampling these records because they were too lazy to write their own music.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B5613E5406",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "They weren't sampling these records to cash in on the familiarity of the original stuff.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7F2FCC0698",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "To be honest, it was all about sampling really obscure things, except for a few obvious exceptions like Vanilla Ice and \"doo doo doo da da doo doo\" that we know about.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "362AD604AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "But the thing is, they were sampling those records because they heard something in that music that spoke to them that they instantly wanted to inject themselves into the narrative of that music.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FF2770CF71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 302,
+        "text": "They heard it, they wanted to be a part of it, and all of a sudden they found themselves in possession of the technology to do so, not much unlike the way the Delta blues struck a chord with the Stones and the Beatles and Clapton, and they felt the need to co-opt that music for the tools of their day.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A0481C57CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

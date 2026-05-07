@@ -1,0 +1,1919 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10408,
+  "title": "All it takes is 10 mindful minutes",
+  "author": "Andy Puddicombe",
+  "url": "https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T11:08:09.404656Z",
+  "updated_at": "2026-05-07T11:08:09.404656Z",
+  "lead_time": 69.18,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "We live in an incredibly busy world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA6FF6BCCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 35,
+        "endOffset": 94,
+        "text": "our minds are always busy, and we're always doing something",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0A60765F62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 22,
+        "endOffset": 113,
+        "text": "I'd like you just to take a moment to think, when did you last take any time to do nothing?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A041D1D32E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Just 10 minutes, undisturbed?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4206BE9EF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And when I say nothing, I do mean nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D4F1C4285",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "So that's no emailing, texting, no Internet, no TV, no chatting, no eating, no reading.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D4B39BBF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Not even sitting there reminiscing about the past or planning for the future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B1DCCFE5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Simply doing nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9614DC065",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I see a lot of very blank faces.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "018E316286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 11,
+        "endOffset": 51,
+        "text": "You probably have to go a long way back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31BC44CC5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And this is an extraordinary thing, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CDF2DA1D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We're talking about our mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4188B1E97F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "The mind, our most valuable and precious resource",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "069E74331A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 51,
+        "endOffset": 111,
+        "text": "through which we experience every single moment of our life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DE1CC25AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "The mind that we rely upon to be happy, content, emotionally stable as individuals, and at the same time, to be kind and thoughtful and considerate in our relationships with others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "079C37BD42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "This is the same mind that we depend upon to be focused, creative, spontaneous, and to perform at our very best in everything that we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04FF521E52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And yet, we don't take any time out to look after it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29449EF6B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 114,
+        "endOffset": 124,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8667DC1CF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 129,
+        "endOffset": 152,
+        "text": "you see where I'm going",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DDF6278C45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "The result, of course, is that we get stressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EBFC4A308",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 10,
+        "endOffset": 76,
+        "text": "the mind whizzes away like a washing machine going round and round",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "331822B1C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DFE38063DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And the sad fact is that we are so distracted that we're no longer present in the world in which we live.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E14844DBE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "We miss out on the things that are most important to us, and the crazy thing is that everybody just assumes, that's the way life is, so we've just kind of got to get on with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "206CA78FD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "That's really not how it has to be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A22E9826B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "So I was about 11 when I went along to my first meditation class.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E960F67D74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 231,
+        "text": "And trust me, it had all the stereotypes that you can imagine, the sitting cross-legged on the floor, the incense, the herbal tea, the vegetarians, the whole deal, but my mom was going and I was intrigued, so I went along with her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BC2C1A1E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "I'd also seen a few kung fu movies, and secretly I kind of thought I might be able to learn how to fly, but I was very young at the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BA8AB45CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Now as I was there, I guess, like a lot of people, I assumed that it was just an aspirin for the mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8ABEFF7E6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "You get stressed, you do some meditation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "837199E5B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 348,
+        "text": "I hadn't really thought that it could be sort of preventative in nature, until I was about 20, when a number of things happened in my life in quite quick succession, really serious things which just flipped my life upside down and all of a sudden I was inundated with thoughts, inundated with difficult emotions that I didn't know how to cope with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42E75259B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Every time I sort of pushed one down, another one would pop back up again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C40F36936",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It was a really very stressful time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F872473AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I guess we all deal with stress in different ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B869C68C8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 17,
+        "endOffset": 40,
+        "text": "bury themselves in work",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F09D72F5F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Some people will bury themselves in work, grateful for the distraction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C053677C9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Others will turn to their friends, their family, looking for support.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AA69C4741",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Some people hit the bottle, start taking medication.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C08FF22F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "My own way of dealing with it was to become a monk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "272CDA206D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 3,
+        "endOffset": 103,
+        "text": "I quit my degree, I headed off to the Himalayas, I became a monk, and I started studying meditation.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B9E01FFD6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "People often ask me what I learned from that time.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D25431A69E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Well, obviously it changed things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E18FEF022",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Let's face it, becoming a celibate monk is going to change a number of things.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3523496C42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "But it was more than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDAC8988BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 29,
+        "endOffset": 67,
+        "text": "greater appreciation, an understanding",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "229BEDCCC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "It taught me -- it gave me a greater appreciation, an understanding for the present moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "527E867411",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 15,
+        "endOffset": 85,
+        "text": "not being lost in thought, not being distracted, not being overwhelmed",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "96D44D4C0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "By that I mean not being lost in thought, not being distracted, not being overwhelmed by difficult emotions, but instead learning how to be in the here and now, how to be mindful, how to be present.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7A4C44ED2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "I think the present moment is so underrated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "399AFF6291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 3,
+        "endOffset": 21,
+        "text": "sounds so ordinary",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "551C6C04F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "It sounds so ordinary, and yet we spend so little time in the present moment that it's anything but ordinary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71A9AE7D59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 90,
+        "endOffset": 119,
+        "text": "our minds are lost in thought",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B91F469EA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "There was a research paper that came out of Harvard, just recently, that said on average, our minds are lost in thought almost 47 percent of the time. 47 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E42325062E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "At the same time, this sort of constant mind-wandering is also a direct cause of unhappiness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F737979B68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 125,
+        "endOffset": 177,
+        "text": "I don't know, it just kind of seems tragic, actually",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "DB10F82068",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 394,
+        "text": "in case you've been wondering",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0830174B56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 8,
+        "endOffset": 20,
+        "text": "beauty of it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "87D24DD7FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 86,
+        "endOffset": 109,
+        "text": "impacts our entire life",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2C3AF86B2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "But we need to know how to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65DDED0AB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We need an exercise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74E43F57C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "We need a framework to learn how to be more mindful.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "524DB09EFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "That's essentially what meditation is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83003EDAC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 5,
+        "endOffset": 52,
+        "text": "familiarizing ourselves with the present moment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "678F3285DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "But we also need to know how to approach it in the right way to get the best from it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B806916976",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 31,
+        "endOffset": 60,
+        "text": "in case you've been wondering",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "11D083E1B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 62,
+        "endOffset": 236,
+        "text": "because most people assume that meditation is all about stopping thoughts, getting rid of emotions, somehow controlling the mind, but actually it's quite different from that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33A84FDA94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 16,
+        "endOffset": 175,
+        "text": "stepping back, sort of seeing the thought clearly, witnessing it coming and going, emotions coming and going without judgment, but with a relaxed, focused mind",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "139C04AE9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "So for example, right now, if I focus too much on the balls, then there's no way I can relax and talk to you at the same time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC8A07DF9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Equally, if I relax too much talking to you, there's no way I can focus on the balls.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3030FB85C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "I'm going to drop them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2AE5DCB1C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 103,
+        "endOffset": 138,
+        "text": "life starts to feel a bit like this",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7BDF860AEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 62,
+        "endOffset": 80,
+        "text": "tight and stressed",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9CB3EFDEB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "It's a very uncomfortable way to live life, when you get this tight and stressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E0DBB0755",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 34,
+        "endOffset": 50,
+        "text": "foot off the gas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "33DDCFA516",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "At other times, we might take our foot off the gas a little bit too much, and things just become a sort of little bit like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF2D0C9232",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Of course in meditation -- (Snores) we're going to end up falling asleep.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D3F933934",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 23,
+        "endOffset": 52,
+        "text": "balance, a focused relaxation",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F28C756657",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "So we're looking for a balance, a focused relaxation where we can allow thoughts to come and go without all the usual involvement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B8347662D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Now, what usually happens when we're learning to be mindful is that we get distracted by a thought.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "372AD3B495",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Let's say this is an anxious thought.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FB2B10F07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Everything's going fine, and we see the anxious thought.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7D1F16240",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "\"Oh, I didn't realize I was worried about that.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFCD2A580F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 4,
+        "endOffset": 28,
+        "text": "go back to it, repeat it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9BB9FB1A1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "You go back to it, repeat it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55E903C86A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "\"Oh, I am worried.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A48A3983E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "\"I really am worried.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE1C38E4FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "\"Wow, there's so much anxiety.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E1DB5B332",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And before we know it, right, we're anxious about feeling anxious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CE4922FDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 21,
+        "endOffset": 34,
+        "text": "this is crazy",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E46CBB4415",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 11,
+        "endOffset": 19,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CA74482D8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "(Laughter) You know, this is crazy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A6A9A6C8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "We do this all the time, even on an everyday level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55215CA251",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "If you think about the last time you had a wobbly tooth.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CD9AC774F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "You know it's wobbly, and you know that it hurts.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4F51184554",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "But what do you do every 20, 30 seconds?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "314843096D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "(Mumbling) It does hurt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E3D3523A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And we reinforce the storyline, right?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9612214DA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And we just keep telling ourselves, and we do it all the time.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D9DED234D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "And it's only in learning to watch the mind in this way that we can start to let go of those storylines and patterns of mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03DBFF9E6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "But when you sit down and you watch the mind in this way, you might see many different patterns.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7BD97408CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 15,
+        "endOffset": 44,
+        "text": "a mind that's really restless",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9ECA6A28CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Don't be surprised if you feel a bit agitated in your body when you sit down to do nothing and your mind feels like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB77C16920",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 99,
+        "endOffset": 168,
+        "text": "it's as if you're getting up, going to work, eat, sleep, get up, work",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C91451F106",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Or it might just be that one little nagging thought that just goes round and round your mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5E7383D89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 40,
+        "endOffset": 118,
+        "text": "the opportunity, the potential to step back and to get a different perspective",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B09B94D240",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "We can't change every little thing that happens to us in life, but we can change the way that we experience it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFFB53F8A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "That's the potential of meditation, of mindfulness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2123CE9B6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "You don't have to burn any incense, and you definitely don't have to sit on the floor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83C9C6808B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 68,
+        "endOffset": 88,
+        "text": "familiarize yourself",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "511726A086",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 51,
+        "endOffset": 79,
+        "text": "to step back, to familiarize",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5C8F87AC0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62C27C1337",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29D48DD5CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

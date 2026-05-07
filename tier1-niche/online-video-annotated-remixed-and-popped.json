@@ -1,0 +1,1035 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7895,
+  "title": "Online video -- annotated, remixed and popped",
+  "author": "Ryan Merkley",
+  "url": "https://www.ted.com/talks/ryan_merkley_online_video_annotated_remixed_and_popped",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:35:34.243330Z",
+  "updated_at": "2026-05-07T10:35:34.243330Z",
+  "lead_time": 37.755,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 18,
+        "endOffset": 23,
+        "text": "world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "01A001BB5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "To understand the world that live in, we tell stories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6F2DAC32D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 10,
+        "endOffset": 30,
+        "text": "remixing and sharing",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "172AA109D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And while remixing and sharing have come to define the web as we know it, all of us can now be part of that story through simple tools that allow us to make things online.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61D2883C65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "But video has been left out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "626759B7CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 27,
+        "endOffset": 36,
+        "text": "small box",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EC7EE06B57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "It arrived on the web in a small box, and there it has remained, completely disconnected from the data and the content all around it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FA31DE5CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 89,
+        "endOffset": 104,
+        "text": "size of the box",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "71CDEC292A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "In fact, in over a decade on the web, the only thing that has changed about video is the size of the box and the quality of the picture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A3C353926",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Popcorn changes all of that.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8E488CC8F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Popcorn changes all of that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BED6B42D11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "It's an online tool that allows anyone to combine video with content pulled live directly from the web.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7133EF9B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 56,
+        "endOffset": 104,
+        "text": "dynamic, full of links, and completely remixable",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FD6292EFCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 129,
+        "endOffset": 154,
+        "text": "break free from the frame",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4998EC4F5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "Videos created with Popcorn behave like the web itself: dynamic, full of links, and completely remixable, and finally allowed to break free from the frame.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30695A7CF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I want to give you a demo",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0884D8D93E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "I want to give you a demo of a prototype that we're working on that we'll launch later this fall.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61127A554C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It will be completely free, and it will work in any browser.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8433046272",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 29,
+        "endOffset": 50,
+        "text": "begins with the video",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4C13F460E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "So, every Popcorn production begins with the video, and so I've made a short, 20-second clip using a newscaster template that we use in workshops.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B27373BA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So let's watch it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05D24BCE30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "We'll go back, and I'll show you how we made it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B0AD5131F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Hi, and welcome to my newscast.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5E165DAA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 60,
+        "endOffset": 80,
+        "text": "try moving it around",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FA3CE97196",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 30,
+        "endOffset": 40,
+        "text": "Google Map",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D021559F55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I've added my location with a Google Map, and it's live, so try moving it around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "468E001D44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 25,
+        "endOffset": 35,
+        "text": "live links",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F539F8A482",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "You can add pop-ups with live links and custom icons, or pull in content from any web service, like Flickr, or add articles and blog posts with links out to the full content.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92DC053A3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So let's go back, and I'll show you what you saw.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0CD05B3357",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "There was a lot there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7BA0447D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 29,
+        "endOffset": 56,
+        "text": "if you've ever edited video",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2DB3B630FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "So this is the timeline, and if you've ever edited video, you're familiar with this, but instead of clips in the timeline, what you're looking at is web events pulled into the video.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "411FA3E267",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "Now in this Popcorn production we've got the title card, we've got a Google Map that shows up picture-in-picture, then Popcorn lets it push outside the frame and take over the whole screen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12185B027B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "There are two pop-ups bringing you some other information, and a final article with a link out to the original article.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92AB42F33A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 33,
+        "endOffset": 46,
+        "text": "I'll show you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7F45138A7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Let's go to this Google Map, and I'll show you how you can edit it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53E8F0EDE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "All you do, go into the timeline, double-click the item, and I've set it to Toronto, because that's where I'm from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71113F9AB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Let's set it to something else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADA1AC8E4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Popcorn immediately goes out onto the web, talks to Google, grabs the map, and puts it in the display.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "276AC273D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And it's exactly the same for the people who watch your production.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02DAC77D29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "And it's live.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B3FCB02C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's not an image.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AFCF99F65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So you click on it, you zoom in, right down to street view if you want to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "569BB58AAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 80,
+        "endOffset": 101,
+        "text": "let's add a live feed",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6D7F433DA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Now in the video, I mentioned adding a live feed, which we can do right now, so let's add a live feed from Flickr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD3801375E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 220,
+        "text": "Go over to the right-hand side, grab Flickr from the list of options, drag it into the timeline, and put it where you'd like it to go, and it immediately goes out to Flickr and starts pulling in images based on the tags.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C834C1C4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Now, my developers really like ponies, and so they've set that as the default tag.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D517FF4476",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Let's try something else, maybe something a bit more relevant to today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B9ADBB182",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Now here are live images being pulled straight from the feed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C1AC90ADD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "If you come and watch this a week from now, this will be completely different, dynamic, just like the web, and just like the web, everything is sourced, so click your link, and you go straight to Flickr and see the source image.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "462AC0D8AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 88,
+        "endOffset": 105,
+        "text": "just like the web",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A37B5900A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Everything you've seen today is built with the basic building blocks of the web: HTML, CSS and JavaScript.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48E05F1A49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "That means it's completely remixable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C40FAFC609",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "It also means there's no proprietary software.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90A29CC1AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "All you need is a web browser.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BCFD8F2E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 3,
+        "endOffset": 72,
+        "text": "imagine if every video that we watched on the web worked like the web",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB2B131E1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 74,
+        "endOffset": 141,
+        "text": "completely remixable, linked to its source content, and interactive",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1D88DF7F5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "I think Popcorn could change the way that we tell stories on the web, and the way we understand the world we live in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CFBD0E75E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4ADEC6F9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B391FA76EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

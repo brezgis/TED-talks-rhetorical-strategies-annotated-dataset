@@ -1,0 +1,4435 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10073,
+  "title": "The clues to a great story",
+  "author": "Andrew Stanton",
+  "url": "https://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:11:33.672408Z",
+  "updated_at": "2026-05-07T12:11:33.672408Z",
+  "lead_time": 209.633,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "A tourist is backpacking through the highlands of Scotland, and he stops at a pub to get a drink.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF258B91FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And the only people in there is a bartender and an old man nursing a beer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "831078AF0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And he orders a pint, and they sit in silence for a while.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67B7920509",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And suddenly the old man turns to him and goes, \"You see this bar?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4D82DAFA8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "I built this bar with my bare hands from the finest wood in the county.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A0008AFEAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Gave it more love and care than my own child.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "33A580DE0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "But do they call me MacGregor the bar builder?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1DEE429778",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5A85C8877",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Points out the window.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E583776940",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 1,
+        "endOffset": 35,
+        "text": "You see that stone wall out there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F7E01DD37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "I built that stone wall with my bare hands.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EBB34E1EE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Found every stone, placed them just so through the rain and the cold.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2B5A26EB2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But do they call me MacGregor the stone wall builder?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "76AA8B1EE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3A5AE0494",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Points out the window.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9691BCD4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 1,
+        "endOffset": 8,
+        "text": "You see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0392AB9DEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 1,
+        "endOffset": 41,
+        "text": "You see that pier on the lake out there?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1C22C65D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I built that pier with my bare hands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA820D438B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 30,
+        "endOffset": 46,
+        "text": "tide of the sand",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A359E72913",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Drove the pilings against the tide of the sand, plank by plank.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D63FD742C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But do they call me MacGregor the pier builder?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D66EDB3151",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14DD4DDC69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "But you fuck one goat ...",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "CDA5C5BDB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 2,
+        "endOffset": 56,
+        "text": "(Laughter) Storytelling -- (Laughter) is joke telling.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B32590B2AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 134,
+        "endOffset": 147,
+        "text": "singular goal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BF14E86C00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 245,
+        "text": "It's knowing your punchline, your ending, knowing that everything you're saying, from the first sentence to the last, is leading to a singular goal, and ideally confirming some truth that deepens our understandings of who we are as human beings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30781FEAB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We all love stories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDB0F3FB2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We're born for them.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A7A4472566",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We're born for them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBC3748EE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Stories affirm who we are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7252A6CDAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We all want affirmations that our lives have meaning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC7B7092E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And nothing does a greater affirmation than when we connect through stories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD07930465",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 17,
+        "endOffset": 59,
+        "text": "barriers of time, past, present and future",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6A25D63CC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "It can cross the barriers of time, past, present and future, and allow us to experience the similarities between ourselves and through others, real and imagined.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F899C6DA52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "The children's television host Mr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9022DE233A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "(Video) Butler: You won't find a keyhole.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18BDA44B64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Thing only opens from the inside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD4028D03F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 13,
+        "endOffset": 53,
+        "text": "no embalming, no open coffin, no funeral",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D6C566BAFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 37,
+        "endOffset": 40,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5292FD5588",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 88,
+        "endOffset": 92,
+        "text": "huh?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D7FF69494A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Come, let's go inside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD71CFC4A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "AS: What this scene is doing, and it did in the book, is it's fundamentally making a promise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53F17A79FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C1B4F115F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 61,
+        "endOffset": 94,
+        "text": "is they should give you a promise",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2F22C3B347",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "You could do it an infinite amount of ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9979343B52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Sometimes it's as simple as \"Once upon a time ...\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19520AB4AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "\" These Carter books always had Edgar Rice Burroughs as a narrator in it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFC186A194",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And I always thought it was such a fantastic device.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B446D2A951",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 5,
+        "endOffset": 48,
+        "text": "like a guy inviting you around the campfire",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CBE4A0162",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EB9B2E917C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 81,
+        "endOffset": 84,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10A3ED0725",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "A well told promise is like a pebble being pulled back in a slingshot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1FA9C9FF34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 51,
+        "endOffset": 68,
+        "text": "scratch that itch",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DF13875F54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Even after his father died, he was still trying to scratch that itch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10F587AA3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 15,
+        "endOffset": 35,
+        "text": "like a duck to water",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "266A762121",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I took to this like a duck to water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76C376B80C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Wall-E's was to find the beauty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89730F3A60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Marlin's, the father in \"Finding Nemo,\" was to prevent harm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB51580947",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And Woody's was to do what was best for his child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B49544761",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 30,
+        "endOffset": 39,
+        "text": "drive you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "026A630913",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And these spines don't always drive you to make the best choices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9049693447",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Sometimes you can make some horrible choices with them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE7CF365EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 222,
+        "text": "I'm really blessed to be a parent, and watching my children grow, I really firmly believe that you're born with a temperament and you're wired a certain way, and you don't have any say about it, and there's no changing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BC9CBCD6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "All you can do is learn to recognize it and own it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD2F299AD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "And some of us are born with temperaments that are positive, some are negative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD34C00845",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "But a major threshold is passed when you mature enough to acknowledge what drives you and to take the wheel and steer it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A24CFEF397",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 12,
+        "endOffset": 18,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6B69D77269",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "As parents, you're always learning who your children are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87DD997245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They're learning who they are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F4657F24D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And you're still learning who you are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5C03295A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So we're all learning all the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D3BD5BF63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And that's why change is fundamental in story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11D64BEBB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 21,
+        "endOffset": 32,
+        "text": "stories die",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E902E47C5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "If things go static, stories die, because life is never static.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4597ED0BFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "In 1998, I had finished writing \"Toy Story\" and \"A Bug's Life\" and I was completely hooked on screenwriting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC1338346C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "So I wanted to become much better at it and learn anything I could.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B28B4D2E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "So I researched everything I possibly could.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "724BA0EC4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "And I finally came across this fantastic quote by a British playwright, William Archer: \"Drama is anticipation mingled with uncertainty.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B60D5F87E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "It's an incredibly insightful definition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4208C9C24E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "When you're telling a story, have you constructed anticipation?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0A0F38960A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "In the short-term, have you made me want to know what will happen next?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDCF4BFDED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "But more importantly, have you made me want to know how it will all conclude in the long-term?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "12C17E52E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Have you constructed honest conflicts with truth that creates doubt in what the outcome might be?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1D70F9D08B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "An example would be in \"Finding Nemo,\" in the short tension, you were always worried, would Dory's short-term memory make her forget whatever she was being told by Marlin.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0C544AD66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 73,
+        "endOffset": 89,
+        "text": "huge, vast ocean",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A1A8E1BD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "But under that was this global tension of will we ever find Nemo in this huge, vast ocean?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "006C3B2899",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "In our earliest days at Pixar, before we truly understood the invisible workings of story, we were simply a group of guys just going on our gut, going on our instincts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19B184E45E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And it's interesting to see how that led us places that were actually pretty good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A4096F58B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 111,
+        "endOffset": 129,
+        "text": "The Little Mermaid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D7CA0B067A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 133,
+        "endOffset": 153,
+        "text": "Beauty and the Beast",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CE68BD9BA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 157,
+        "endOffset": 164,
+        "text": "Aladdin",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "91D109D88F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 168,
+        "endOffset": 177,
+        "text": "Lion King",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "10F6DEDF9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "You've got to remember that in this time of year, 1993, what was considered a successful animated picture was \"The Little Mermaid,\" \"Beauty and the Beast,\" \"Aladdin,\" \"Lion King.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F9D3E0447",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 91,
+        "endOffset": 125,
+        "text": "You don't want me to sing, do you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8532D37727",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "So when we pitched \"Toy Story\" to Tom Hanks for the first time, he walked in and he said, \"You don't want me to sing, do you?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAE732CB0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And I thought that epitomized perfectly what everybody thought animation had to be at the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDCC0DAD32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 35,
+        "endOffset": 57,
+        "text": "you could tell stories",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2928BB3BF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "But we really wanted to prove that you could tell stories completely different in animation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B45135EC76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "We didn't have any influence then, so we had a little secret list of rules that we kept to ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0985FD781",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 15,
+        "endOffset": 77,
+        "text": "No songs, no \"I want\" moment, no happy village, no love story.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7F551A26D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And the irony is that, in the first year, our story was not working at all and Disney was panicking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CE3AA9DE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "So they privately got advice from a famous lyricist, who I won't name, and he faxed them some suggestions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32153B21C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And we got a hold of that fax.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EC7538326",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 18,
+        "endOffset": 172,
+        "text": "there should be songs, there should be an \"I want\" song, there should be a happy village song, there should be a love story and there should be a villain.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "791F810DB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And thank goodness we were just too young, rebellious and contrarian at the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "327805444D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 51,
+        "endOffset": 81,
+        "text": "you could build a better story",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9F4ABF74E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "That just gave us more determination to prove that you could build a better story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63BC609750",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And a year after that, we did conquer it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5A4887B0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And it just went to prove that storytelling has guidelines, not hard, fast rules.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA5D724A09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Another fundamental thing we learned was about liking your main character.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "431DCA2D8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 33,
+        "endOffset": 53,
+        "text": "Woody in \"Toy Story\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "85F4F41FC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And we had naively thought, well Woody in \"Toy Story\" has to become selfless at the end, so you've got to start from someplace.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "591A51D032",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "So let's make him selfish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D194C57B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And this is what you get.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E09F268A12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "(Voice Over) Woody: What do you think you're doing?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1B9E2F8A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Off the bed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1E349624E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Hey, off the bed!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40F3104C08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Mr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE96CF5AF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Potato Head: You going to make us, Woody?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90FD87AD70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Woody: No, he is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13C754CD1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Slinky?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "256F101717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Slink ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E13B60E5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Slinky!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F31D44A2F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Get up here and do your job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF62C87E41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Are you deaf?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C130CC5AC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "I said, take care of them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0AA5EA0C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Slinky: I'm sorry, Woody, but I have to agree with them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D2F5D05D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I don't think what you did was right.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6A03B930DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Woody: What?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36E32C6820",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Am I hearing correctly?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDF0691D9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "You don't think I was right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EF56327BB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Who said your job was to think, Spring Wiener?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A47E78E824",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "AS: So how do you make a selfish character likable?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "715D138586",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "We realized, you can make him kind, generous, funny, considerate, as long as one condition is met for him, is that he stays the top toy.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E5C2BA1630",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And that's what it really is, is that we all live life conditionally.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "530F1A8D03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "We're all willing to play by the rules and follow things along, as long as certain conditions are met.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "259F118750",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "After that, all bets are off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EF180ED89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "And before I'd even decided to make storytelling my career, I can now see key things that happened in my youth that really sort of opened my eyes to certain things about story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9B549217C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "In 1986, I truly understood the notion of story having a theme.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCDE2CDFFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And that was the year that they restored and re-released \"Lawrence of Arabia.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE4E40DD62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And I saw that thing seven times in one month.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF72D11958",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I couldn't get enough of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67C5F21249",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 30,
+        "endOffset": 42,
+        "text": "grand design",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "739B2E1DEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 58,
+        "endOffset": 93,
+        "text": "every shot, every scene, every line",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3588A29CD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Yet, on the surface it just seemed to be depicting his historical lineage of what went on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E56AAE779",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Yet, there was something more being said.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63CADDB418",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "What exactly was it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "58270A88B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 59,
+        "endOffset": 74,
+        "text": "veil was lifted",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF00AB1B56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "And it wasn't until, on one of my later viewings, that the veil was lifted and it was in a scene where he's walked across the Sinai Desert and he's reached the Suez Canal, and I suddenly got it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59ADE19AB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "(Video) Boy: Hey!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC7F2A2081",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Hey!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F9539D498",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Hey!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66CDDDACC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Hey!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF25E38173",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Cyclist: Who are you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A730940D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Who are you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C7946F3EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 24,
+        "endOffset": 36,
+        "text": "Who are you?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "66E1BF8B27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 144,
+        "endOffset": 177,
+        "text": "constant, a guideline, a road map",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6395DAA88B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 20,
+        "endOffset": 60,
+        "text": "seemingly disparate events and dialogues",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1E8A97C118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "Everything Lawrence did in that movie was an attempt for him to figure out where his place was in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A03E568F7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 25,
+        "endOffset": 40,
+        "text": "running through",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A8B68CBCA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "A strong theme is always running through a well-told story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87BE17E47F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "When I was five, I was introduced to possibly the most major ingredient that I feel a story should have, but is rarely invoked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABC2493DD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And this is what my mother took me to when I was five.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22DA17BBA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "(Video) Thumper: Come on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DED2066C5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "It's all right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "366811B129",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Look.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AF2113399",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "The water's stiff.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "888C385987",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Bambi: Yippee!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F507BB144",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Thumper: Some fun, huh, Bambi?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7989BD0F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Come on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "212872993B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Get up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3668C2C9D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EE7EF72B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Ha ha.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B55F07F903",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "No, no, no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95BE8986FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 26,
+        "endOffset": 47,
+        "text": "wide-eyed with wonder",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4B46176A20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "AS: I walked out of there wide-eyed with wonder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "923477272A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 28,
+        "endOffset": 44,
+        "text": "magic ingredient",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3BA5B3E456",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 53,
+        "endOffset": 65,
+        "text": "secret sauce",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CF1D45D9A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 70,
+        "endOffset": 91,
+        "text": "can you invoke wonder",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F5E521D574",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Wonder is honest, it's completely innocent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBDE4E4244",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "It can't be artificially evoked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD2CF4A9F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 44,
+        "endOffset": 95,
+        "text": "gift of another human being giving you that feeling",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "17C3C55D2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 102,
+        "endOffset": 141,
+        "text": "hold them still just for a brief moment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3AA4AAFEFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 169,
+        "endOffset": 188,
+        "text": "surrender to wonder",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ABE93B3DA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 22,
+        "endOffset": 48,
+        "text": "affirmation of being alive",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "668DE618EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 72,
+        "endOffset": 91,
+        "text": "to a cellular level",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9040E3035F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 53,
+        "endOffset": 88,
+        "text": "like you're compelled to pass it on",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8C4FB76EC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 12,
+        "endOffset": 27,
+        "text": "dormant command",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0B6A759DCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 63,
+        "endOffset": 91,
+        "text": "like a call to Devil's Tower",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B261A4604A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Do unto others what's been done to you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB9DEDE610",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "The best stories infuse wonder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2662BC474",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "When I was four years old, I have a vivid memory of finding two pinpoint scars on my ankle and asking my dad what they were.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FF8B79FC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And he said I had a matching pair like that on my head, but I couldn't see them because of my hair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "468997631C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "And he explained that when I was born, I was born premature, that I came out much too early, and I wasn't fully baked; I was very, very sick.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "858E638EFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And when the doctor took a look at this yellow kid with black teeth, he looked straight at my mom and said, \"He's not going to live.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9026A1CF20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And I was in the hospital for months.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9ADE2B85A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And many blood transfusions later, I lived, and that made me special.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5F90FF585",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I don't know if I really believe that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEBAA184CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "I don't know if my parents really believe that, but I didn't want to prove them wrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CB71BE925",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 56,
+        "endOffset": 83,
+        "text": "worthy of the second chance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FF0DE11BC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 35,
+        "endOffset": 49,
+        "text": "I would strive",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9B00428EA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "(Video) (Crying) Marlin: There, there, there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B76E746555",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's okay, daddy's here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88B29313C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Daddy's got you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1828937A40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I promise, I will never let anything happen to you, Nemo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CCC145F4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "AS: And that's the first story lesson I ever learned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B327CEF08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Use what you know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0737A882C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Draw from it.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D429EDC4B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It doesn't always mean plot or fact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "766111BD5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 9,
+        "endOffset": 26,
+        "text": "capturing a truth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "33D48FEBCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 92,
+        "endOffset": 114,
+        "text": "deep down in your core",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B1978BA20A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "speaking to you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BAD658BDE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 37,
+        "endOffset": 68,
+        "text": "speaking to you here at TEDTalk",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC18C30C63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14289A0335",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F97E4DC26D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "Rogers always carried in his wallet a quote from a social worker that said, \"Frankly, there isn't anyone you couldn't learn to love once you've heard their story.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DFB2524F36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "And the way I like to interpret that is probably the greatest story commandment, which is \"Make me care\" -- please, emotionally, intellectually, aesthetically, just make me care.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B662F45689",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "We all know what it's like to not care.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7F5CCACB5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "You've gone through hundreds of TV channels, just switching channel after channel, and then suddenly you actually stop on one.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4B69FD9853",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "It's already halfway over, but something's caught you and you're drawn in and you care.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8239C9BCB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "That's not by chance, that's by design.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EC6626E966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "So it got me thinking, what if I told you my history was story, how I was born for it, how I learned along the way this subject matter?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "83DF9BBFD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And to make it more interesting, we'll start from the ending and we'll go to the beginning.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A4E5ECB0ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And so if I were going to give you the ending of this story, it would go something like this: And that's what ultimately led me to speaking to you here at TED about story.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "269706E456",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And the most current story lesson that I've had was completing the film I've just done this year in 2012.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "335AF15592",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "The film is \"John Carter.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "537ED76266",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "It's based on a book called \"The Princess of Mars,\" which was written by Edgar Rice Burroughs.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "945DD4D9BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And Edgar Rice Burroughs actually put himself as a character inside this movie, and as the narrator.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "73C721F097",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And he's summoned by his rich uncle, John Carter, to his mansion with a telegram saying, \"See me at once.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "40F6D05F78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "But once he gets there, he's found out that his uncle has mysteriously passed away and been entombed in a mausoleum on the property.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "330DA8F42C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "In 2008, I pushed all the theories that I had on story at the time to the limits of my understanding on this project.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "443000130B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "(Video) (Mechanical Sounds) ♫ And that is all ♫ ♫ that love's about ♫ ♫ And we'll recall ♫ ♫ when time runs out ♫ ♫ That it only ♫ (Laughter) AS: Storytelling without dialogue.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "353A0F5E32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "It's the purest form of cinematic storytelling.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5E2F5E2B55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "It's the most inclusive approach you can take.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "72FBBA1FAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "It confirmed something I really had a hunch on, is that the audience actually wants to work for their meal.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2328339F6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "They just don't want to know that they're doing that.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "0FF619AAAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "That's your job as a storyteller, is to hide the fact that you're making them work for their meal.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1D38A77B67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "We're born problem solvers.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "19E30A0142",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "We're compelled to deduce and to deduct, because that's what we do in real life.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "0F5FA705A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "It's this well-organized absence of information that draws us in.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6C61432523",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "There's a reason that we're all attracted to an infant or a puppy.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "856ACC866F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "It's not just that they're damn cute; it's because they can't completely express what they're thinking and what their intentions are.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7D6A50ECCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And it's like a magnet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6B85B4F6D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "We can't stop ourselves from wanting to complete the sentence and fill it in.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B53BC8024F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "I first started really understanding this storytelling device when I was writing with Bob Peterson on \"Finding Nemo.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B3EF5AC0AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And we would call this the unifying theory of two plus two.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CC4D774F17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Make the audience put things together.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9B12C902E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Don't give them four, give them two plus two.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "481CEDEC7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "The elements you provide and the order you place them in is crucial to whether you succeed or fail at engaging the audience.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7DE292200F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Editors and screenwriters have known this all along.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D4BABD7543",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "It's the invisible application that holds our attention to story.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3BC8E38A34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "I don't mean to make it sound like this is an actual exact science, it's not.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "254761F550",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "That's what's so special about stories, they're not a widget, they aren't exact.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "714390C1E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Stories are inevitable, if they're good, but they're not predictable.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3259DC3E8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "I took a seminar in this year with an acting teacher named Judith Weston.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "18EF3254C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And I learned a key insight to character.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B17E99B4D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "She believed that all well-drawn characters have a spine.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FB5F21C5EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And the idea is that the character has an inner motor, a dominant, unconscious goal that they're striving for, an itch that they can't scratch.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "73DA467DF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "She gave a wonderful example of Michael Corleone, Al Pacino's character in \"The Godfather,\" and that probably his spine was to please his father.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "569EE85857",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And it's something that always drove all his choices.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2317505D11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

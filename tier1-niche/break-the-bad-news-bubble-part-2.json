@@ -1,0 +1,1511 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7410,
+  "title": "Break the bad news bubble (Part 2)",
+  "author": "Angus Hervey",
+  "url": "https://www.ted.com/talks/angus_hervey_break_the_bad_news_bubble_part_2",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:35:27.142549Z",
+  "updated_at": "2026-05-07T03:35:27.142549Z",
+  "lead_time": 56.407,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 22,
+        "endOffset": 42,
+        "text": "I'd like to tell you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9DBD67DD02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 39,
+        "endOffset": 42,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2FA11BEFF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 212,
+        "text": "In the last three months, several countries have eradicated diseases that have haunted humanity since ancient times, massive new ocean sanctuaries have been created in some of the most biodiverse places on Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D302513D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And millions of children’s lives have been transformed forever.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFB896D12D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Let's start with Egypt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40EC51C3A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "In October, the World Health Organization confirmed that they've eliminated malaria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D977461B89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "This is not a claim that's made lightly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAED09CA3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "A country has to prove it's had zero local cases for at least three years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6F2267E2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And Egypt has done just that, becoming the 44th country in history to receive this certification.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22EB6EE994",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "What makes this extraordinary is the historical significance of what they've overcome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "969F7F431A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 32,
+        "endOffset": 55,
+        "text": "as far back as 4,000 BC",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9B01D88F2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 62,
+        "endOffset": 125,
+        "text": "genetic traces evident in Tutankhamun and other ancient mummies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB9B869266",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Every pharaoh, every dynasty, every era",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "33FA990DB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Malaria has survived the building of pyramids, the fall of empires, the rise of modernity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B97403E593",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 91,
+        "endOffset": 144,
+        "text": "but now, after 6,000 years along the Nile, it's gone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F59A43A94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "It gets better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71EDA76FFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "In September, Jordan did something no country has ever done before.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E080B48C5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "They eliminated leprosy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91F396B2D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Yep, that leprosy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E145543495",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 18,
+        "endOffset": 67,
+        "text": "in the Bible, in ancient scrolls, in sacred texts",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0A979285D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "For thousands of years, people with this disease weren't just physically afflicted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0C67C63BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "They faced complete isolation from society.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1017718A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Parents were separated from children, communities were torn apart.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "79AE2B6178",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "That means Jordan didn't just defeat leprosy itself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6861258E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 21,
+        "endOffset": 66,
+        "text": "centuries of stigma and build a health system",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F116E0C433",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 13,
+        "endOffset": 79,
+        "text": "hidden progress looks like: persistent, methodical, transformative",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "953E38502D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "The result?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B19AC91AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "A true modern-day miracle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "402BCBE75C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And Egypt and Jordan aren't alone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B87C3665FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 263,
+        "text": "In the last three months, India, Vietnam and Pakistan have conquered trachoma, the leading infectious cause of blindness in the world, and Brazil and Timor-Leste have defeated elephantiasis, a devastating disease that turns limbs into painful, swollen appendages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E09B26D33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 60,
+        "endOffset": 119,
+        "text": "lives transformed, families restored and communities healed",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CD5669D70E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And as we witness the end of these ancient diseases, we're also seeing the beginnings of the largest wave of ocean protection in human history.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B302D5F185",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Picture yourself in the middle of the Atlantic",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "79D76B6647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "Here sits a chain of nine volcanic islands called the Azores, where something remarkable just happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D328A5D4E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 93,
+        "endOffset": 145,
+        "text": "equivalent in size to the entire US state of Arizona",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F56EEA7D81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "It's not just the enormous size that matters, it's what they're actually protecting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "032E4E1110",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 21,
+        "endOffset": 45,
+        "text": "crucial ocean crossroads",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E3028FFFE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 128,
+        "endOffset": 172,
+        "text": "underwater mountain ranges teeming with life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3C116602D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 179,
+        "endOffset": 193,
+        "text": "vital corridor",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A9EDD454AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 260,
+        "text": "like the rainforests of the sea",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DAAD999351",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "Half of this area will now be completely off limits to fishing, while the other half will only permit very selective, sustainable catches.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC7B4A124D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Equally exciting is what's happening on the other side of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "459DF38304",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "For at least 13,000 years, the Chumash people have lived along California's coastline, maintaining a deep connection with the land and ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D93AD7C0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "Now they've just won a historic victory, creating one of the largest marine sanctuaries in the United States and the first to be nominated by Indigenous peoples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C452EEA1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 178,
+        "endOffset": 209,
+        "text": "like the rainforests of the sea",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "09144C1B18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Each square kilometer stores as much carbon as 20 square kilometers of forests on land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78AE44F55C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "This isn't just about conservation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44FF75597D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "It's about recognizing that Indigenous peoples have been the stewards of these waters for hundreds of generations, and now they'll officially guide their preservation for many more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A13C365BAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 212,
+        "text": "And then, down in Antarctica, in October, Australia made history by announcing it will quadruple the size of its Heard and McDonald Islands Marine Reserve, located in the southernmost reaches of the Indian Ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A99E69397",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "It's among the last truly wild places on our planet, home to crucial feeding grounds for penguins, seals and whales and multiple endangered species.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4FCBC3F77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "This means Australia will now protect 52 percent of its ocean territory, more than any other major nation on Earth, and way beyond the global target of 30 percent by 2030.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BE42C75A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 233,
+        "endOffset": 292,
+        "text": "as ecosystems that we need to preserve for our own survival",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "030134F103",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 293,
+        "text": "While environmentalists say there remains critical habitats that have been left out of this expansion, these new protected areas do represent a fundamental shift in how we think about our oceans, not just as resources to be used but as ecosystems that we need to preserve for our own survival.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D41C583896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "But perhaps the most profound transformation we've seen in the past three months isn't in our oceans or in how we treat diseases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCF29555BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It's in how we treat our children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E2827F0A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "In early November, while the eyes of the world were on the US election, an event took place in Bogota, Colombia, that quietly signaled what may eventually prove to be a far more fundamental shift for humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D13F62ED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 338,
+        "text": "At the first ever UN Ministerial Conference on ending violence against children, five countries: Burundi, Czechia, Kyrgyzstan, Sri Lanka and Uganda pledged to end corporal punishment in all settings, building off the back of another 12 countries, which include Bangladesh and Nigeria, who recently accepted recommendations to do the same.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7945D99975",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "In total, an unprecedented 100 countries made some kind of commitment to ending violence against children at this conference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE42CC8B36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "The significance of this is profound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D98589051",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Right now, a billion children, that is one out of every two kids on Earth, experience corporal punishment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47E86A9DB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "In some places, it's so common that almost every child reports being hit or beaten at home or at school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B5A5B9BA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "You might be wondering, is that really such a big deal?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8AB6794C5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Well, 50 years of research shows it doesn't just cause physical harm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBEE84EA15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It rewires developing brains",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B004CA7EF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "It rewires developing brains, leading to increased aggression, lower educational achievement and higher teen suicide rates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7560089B88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "The World Bank estimates that school violence alone costs the world 11 trillion dollars in lost lifetime earnings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60F962ECE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "But here is the hopeful part.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46F28D695B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "When countries ban corporal punishment, things change dramatically.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72B54251DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Take Germany.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A68D6DC7CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "A generation ago, 30 percent of young people reported being beaten to the point of bruising.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4187B998F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "By 2002, two years after the government passed legislation banning that practice, that number had plummeted to three percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C79B84F712",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "So these 17 countries that have just made commitments or adopted recommendations are home to hundreds of millions of children who will now have a chance at a less violent future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "842DE0266D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And momentum is growing, too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D573EE4DB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "There is now a global commitment to end all violence against children by 2030, and 67 nations have already done so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B311C0647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "These new pledges represent a crucial step towards achieving that goal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8030234BBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "So in just the past three months, we've witnessed some genuinely good news: ancient diseases vanishing, vast ocean areas being protected and children's rights being transformed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "597E6068BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Each victory seemed impossible not that long ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68234CD6BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Each one required years, sometimes decades, of patient, persistent work.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D8CE4B7065",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And each victory shows us something crucial about human progress.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5BAC2AE086",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 55,
+        "endOffset": 93,
+        "text": "its impact ripples across generations.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EEF993E0A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Will Egypt's triumph over malaria create a road map for other nations?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "82A5625E63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "How will these new marine sanctuaries reshape our relationship with the oceans?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3BC6C1B11E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And as more countries reconsider how they treat their children, how will that change the face of human society?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9583F8C53F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 122,
+        "endOffset": 140,
+        "text": "they're beginnings",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A154521616",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "We'll keep tracking these stories here in the months ahead, because the victories we've discussed today aren't endpoints, they're beginnings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F0677B1DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Whether they make headlines or not, they're gradually building a different kind of future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "302E477D0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 31,
+        "endOffset": 46,
+        "text": "you might think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2EF56E3BE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And that future is closer than you might think.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCEC6E90D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

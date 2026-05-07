@@ -1,0 +1,2395 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7581,
+  "title": "Plankton, space, Earth and us",
+  "author": "Dr. Bridget Seegers",
+  "url": "https://www.ted.com/talks/bridget_seegers_plankton_space_earth_and_us",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:15:30.092550Z",
+  "updated_at": "2026-05-07T05:15:30.092550Z",
+  "lead_time": 84.098,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Hello, everybody.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D78854243B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Good to see you, thanks for coming out.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2C25955080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "NASA’s known for studying the vastness of space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F3007006A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And all around my NASA campus, people are studying things like Mars geology and solar flares.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "927CC81407",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "With Hubble, we have the galaxy far, far away group and over in physics of the Cosmos, they’re studying the origins of the universe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9284901BF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "That’s all some very massive stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F00FF737D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Yet, in the Ocean Ecology lab, we're studying microscopic life right here on planet Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAF0E1FBC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Yeah!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99EA2EA7D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Applause) My favorite planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3388A442F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "So, I am Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39A78FA2DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Bridget Seegers, a research scientist in NASA’s Ocean Ecology lab.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FCAF1E3FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And I study tiny plankton because they matter a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "076E534F70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "If you went down to the ocean with a teaspoon and scooped up a spoonful of water, it would be teeming with life, from a microscopic world capable of global change.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BA6DCAAD1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "If you went down to the ocean",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5165D1611D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "We’re talking about thousands, potentially millions of organisms in that one teaspoon of water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30E2919B7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And those tiny change-makers, they’re called plankton.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6139E6CCD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Plankton are incredibly diverse organisms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA34D378C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "There’s thousands and thousands of species, but they tend to fall into some big groups.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A178BC63C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "There’s the phytoplankton.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91E4529E18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "They use photosynthesis, so they’re plant-like.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7C1CD9B89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Then there’s zooplankton, which eat other things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "273003EEB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "So they’re tiny animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B24886961",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And then there’s some in the in-between: plant-like animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7396E0FD7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "So, they actually photosynthesize and they eat their neighbors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6446AD770",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2F40E0C1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "The name plankton has its roots in the Greek word “planktós”, which means drifter or wanderer, and it describes how the plankton float about in the ocean currents.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A934678D5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And plankton have also wandered into NASA’s original mission to study the Earth from space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCDB778E69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "Many people are surprised to find out we have dozens and dozens of instruments out in space focused here, on planet Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59C448AE20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "They’re gathering data, they’re creating information, and they enable informed decisions to be made.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7343CC5F44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "And plankton are an important part of that, because even though they’re microscopic, when they all team up together, we can actually see them from space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BBDC21351",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And we have a mission right now that’s going to launch another satellite into space, and it’s actually called PACE.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A2F752EF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And that P, it stands for plankton.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1097BAC1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Yeah!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EE3501FFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 11,
+        "endOffset": 108,
+        "text": "Plankton got the leading letter in the PACE mission because they’re important global influencers.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6584F832BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "They affect our climate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9B4C5EC48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "They fuel our ocean ecosystems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D829A893E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "They affect our food supply.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F14D47776",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And the plankton together make life as we know it, in our oceans and on this planet possible.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D7E14FCA14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So, as you can tell, I’m very pro-plankton.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D7F9207FBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I’ve been very positive about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04662B4030",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B859CFCBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "But I do need to tell you, there are some troublemakers out there in the plankton world.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "34729AB664",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "We’re going to talk about those.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4579B56391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "When a lot of plankton get together and they cause a problem, it is called a harmful algal bloom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6247EDDB32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And these are big global issues, they’re happening all over.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91927ABFA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Florida’s familiar with a few of them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90FF174286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "We have the coastal red tide caused by Karenia brevis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AFAE94B2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "It produces a neurotoxin that can cause sickness and death in humans and in wildlife.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78181B3CBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "There’s the green, slimy, freshwater, harmful algal bloom caused by cyanobacteria.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8E72D7D3E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We’re going to talk a lot about that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9C3CC87A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Again, producing a toxin.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "03A3C349EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "It makes drinking water unsafe and makes recreation, like swimming or canoeing, dangerous.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15BA309E64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "People have even been out hiking with their dogs, and the dogs jump into these bodies of water and end up sick or dying because they're exposed to these toxins.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD6D5F7BE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "You can imagine these harmful algal blooms have big consequences from human health, environmental and also economic, from closing fisheries and a loss of tourism dollars.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C24F292B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "What we’ve been trying to do is keep track of these toxic cyanobacterial blooms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EECB39722C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Cyan, the project I’m on, has taken satellite data and turned it into information by creating maps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82A4B0FAFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "We actually can monitor these toxic blooms from space, and then we update the maps daily.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B5F180908",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Water managers can go out, they can see where there’s a problem, and then they can take action.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0454C887AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "They can close beaches, they can treat drinking water, and they can keep people healthy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2200F11045",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And because we want information to be as available as possible, we actually put our apps in a fun app.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4E02439740",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Don’t do it now, but get it later, and you can check out your own area to find out where you want to go for a swim.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6F85C26935",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "We want to empower everybody with this information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4D103D6DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We’ve been really successful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5141B40173",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 80,
+        "endOffset": 130,
+        "text": "benefits from $55,000 to over $1,000,000 per event",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "880E0C56E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 131,
+        "endOffset": 177,
+        "text": "because you have better public health outcomes",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "65D889AD27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "It’s always really neat to see that information and action can have positive outcomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA894DF4A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "But we don’t just use our satellites to track problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1A1D29BB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "We also use that unique vantage point in space to understand the full global system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "482A7F60A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 104,
+        "endOffset": 150,
+        "text": "equivalent to trillions and trillions of trees",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "450E401463",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 78,
+        "endOffset": 103,
+        "text": "because together they are",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "15532F0A6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 33,
+        "endOffset": 94,
+        "text": "it's like tens of billions of trees appearing or disappearing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "71B9A1568A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "So they have a big impact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "841A9D9C70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "What we can do is to track plankton, we can look for chlorophyll, this important pigment for photosynthesis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A71E248A8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Then we can watch how the plankton change, year to year and season to season.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B15644B37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "We want to do this, because they’re photosynthesizing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D863C8ABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "They’re producing half the oxygen on our planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FBCDBCC17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And they’re also sucking in huge amounts of carbon dioxide, CO2 from the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "423EECE55F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "They use that carbon to make their little plankton bodies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCDF234277",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 9,
+        "endOffset": 36,
+        "text": "a little animal comes along",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "151CE9166E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And then a little animal comes along and eats that, and then a fish and then a shark.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C757D1074",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 44,
+        "endOffset": 80,
+        "text": "building off the plankton production",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CE959449AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 82,
+        "endOffset": 117,
+        "text": "including all your favorite seafood",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2B4B55463",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "All that ocean biodiversity that we love is building off the plankton production, including all your favorite seafood.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "174B86BEB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "So we’re all a little bit of plankton inside.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "175510B856",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "So we’re all a little bit of plankton inside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FA1F6A122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "But...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DCCA0EBB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "(Laughter) We also know that things don’t just grow in the ocean, they also die.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40AAB4E510",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And when things die, they sink out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA321CE44A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 15,
+        "endOffset": 46,
+        "text": "they take that carbon with them",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "816FB21B83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "When they sink they take that carbon with them, and if they sink deep enough they can store that for thousands of years deep in the ocean, far from the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B952461790",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "This is something people are interested in right now because the carbon cycle influences our climate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68AF4C8DF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We’ve been noticing some big changes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF5A869B2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "This is something people focus on: how much CO2 is going into the plankton and then sinking out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EA2863814",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So you might be thinking right now, I hope you are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F4E4C4C1D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "So you might be thinking right now, I hope you are: “These plankton are incredibly impressive”.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DAAF601C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "(Laughter) Changing the world, giving us our ocean biodiversity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C31D16195",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And you might even be thinking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ADF5DBE06F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And you might even be thinking: “I wish I was impactful as a plankton”.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B7A70D380",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I think it all the time!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5E568A387",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "If only.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1362BA1A1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 35,
+        "endOffset": 43,
+        "text": "for you!",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B5E343DD8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Well, (Laughter) I have great news for you!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2998E53B4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 23,
+        "endOffset": 48,
+        "text": "global changing organisms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D14E2CA0B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "All of us, we too, are global changing organisms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DFA84D264",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So, let’s look at CO2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3972EE01C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "For over 800,000 years, CO2 is stable at 300 parts per million.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E2E8AC3E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And then in the last 70 years, since 1950, we’ve shot up dramatically to over 415 parts per million.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "301595A1D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And we know that’s because of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A774E2BF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Well done global changing organisms!",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1B2CCF0939",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "We’ve done that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D763D87444",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And we know there’s consequences to this CO2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A5C3A8442",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 37,
+        "endOffset": 59,
+        "text": "trapping a lot of heat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "843D692811",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "We can watch this from space that is trapping a lot of heat and it’s melting the sea ice and it’s shrinking the ice sheets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEFE12F7D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 6,
+        "endOffset": 39,
+        "text": "you’re thinking, especially Miami",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5EFC923EF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Maybe you’re thinking, especially Miami, you never want to live on an ice sheet anyways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "104A2BEFA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "No big deal with the loss of the sea ice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF33044F55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But there is huge consequences because heat is just energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93F5BEC7BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "What we’re doing is we’re trapping this energy and it's fueling extreme events.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A74AA260E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "We’ve always had droughts, but now they’re hotter and longer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C6EC565B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Our hurricanes are more intense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B96D6D4768",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "The rainfall is very dramatic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40A8B254D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "We're having heatwaves like we haven't seen before.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F945024C07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And all of that is because of our heat trapping gases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58F02117AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And the thing is, we’re not right now at a new norm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "008C1F5273",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "We’re just moving through.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72D4ACBE7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "As long as we continue to act and carry out what we’ve been doing, those extreme events will only be getting more extreme.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1F9B7A61FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So the planet is our system.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "12503B04EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "It’s the atmosphere, the land, the ocean, the plankton, and it’s us.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3FDA40A76D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "We gather all these data to try to understand the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8150B92A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And we know when we respond to the information, we can have really great outcomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31BB92AB55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "But we have yet to respond to this current crisis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13EEC159EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "But the great news is, we do understand it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BB349F50D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "We’ve created a problem and we are the solution.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C60BE6D8E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "There should be so much optimism in acknowledging that we are the global changing organisms.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "15494DBBCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "That means our actions can fix the problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF4C161E77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 27,
+        "endOffset": 79,
+        "text": "go out, gather more information and then take action",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7A4F876F45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 32,
+        "endOffset": 52,
+        "text": "you all matter a lot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C26B824F29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 32,
+        "endOffset": 39,
+        "text": "you all",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B620CF7EEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "So thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84A66B6FEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0663327B26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

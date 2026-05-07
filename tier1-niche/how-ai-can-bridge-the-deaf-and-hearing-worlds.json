@@ -1,0 +1,1188 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7276,
+  "title": "How AI can bridge the Deaf and hearing worlds",
+  "author": "Adam Munder",
+  "url": "https://www.ted.com/talks/adam_munder_how_ai_can_bridge_the_deaf_and_hearing_worlds",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T02:22:52.523968Z",
+  "updated_at": "2026-05-07T02:22:52.523968Z",
+  "lead_time": 42.276,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Christan Hansen: Adam, wait.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CA8AC1C60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "They need an interpreter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4E273A33A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Now I'm ready.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "840488128B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Go ahead.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "003C6DC16D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Hello, you guys need an interpreter.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7B440C4AF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 14,
+        "endOffset": 100,
+        "text": "briefly experiencing what it's like for me and millions of other Deaf people worldwide",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F18A4E5F35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 216,
+        "text": "Thank you for briefly experiencing what it's like for me and millions of other Deaf people worldwide when we don't have an interpreter and we need to order a coffee, check into a hotel, or complete other daily tasks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCEDA6D599",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "What I was trying to share with you was a frustrating experience",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D237DD9623",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "My wife is also Deaf and we took our daughter to a doctor's appointment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "986146B047",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "When we arrived, I'd asked for either an on-site or a virtual interpreter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBFD2AAF71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Unfortunately, they told me neither were available, so I had to write back and forth with the receptionist at the front desk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C75637EE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "To make matters worse, when the doctor came into the room, he said, \"Oh, it's alright.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0D62DFBA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "We'll just have your daughter interpret for you.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4D538A1C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So could you imagine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "66965B8D6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "So could you imagine going to the doctor's appointment and being told by the doctor that your seven-year-old is going to relay the information to you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6150D89D64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 33,
+        "endOffset": 53,
+        "text": "two different worlds",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CF36A6148",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "This was just one example of the two different worlds that I navigate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FF79C81F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "In my personal life, I raise my kids, I manage rental properties, I flip buildings, and I'm working on a coffee roastery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "750F903FE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "In this world, I interact with hearing individuals every day: teachers, lawyers, real estate agents, contractors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCC841816F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Yet still to this day, I have to rely on a smartphone to text back and forth or write with paper and pen to the people I interact with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA034694C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Then I have the professional world where I have succeeded, in part due to having two highly qualified interpreters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB47B058BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "I have the same degrees, the same educational background, the same job responsibilities as my hearing peers.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "56243FBCC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "I solve the same engineering problems in a very competitive, fast-paced environment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A821F1511",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "But the playing field isn't level.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7136E3FE48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And all of my daily collaborations, all of my meetings and presentations, everything hinges on my interpreters.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "58469BAE3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I am very fortunate, though.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60ADF4CBFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "My employer ensures that I have access to the same information that my hearing colleagues do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "445BC94BDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Unfortunately, this is not true for many Deaf throughout the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BF71568E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Interpreters are very expensive and scarce.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F34640705",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Where I live in Arizona, there are more than 1.1 million individuals with a hearing loss.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35B593689D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And only about 400 licensed interpreters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79408AEAFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "So there's scarcity of tools available for us, and our communication options are very limited.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE240EE3EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "This puts us in a survival mode, forcing us to use the resources that are at our disposal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7688EFAC0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Writing back and forth on paper and pen, or using a smartphone to text is not equivalent to American Sign Language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10E0CC6ECD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "The details and nuance that make us human are lost",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "038AE5A2DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "So we're bringing the humanity back to these conversations.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F607F498B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "I've done that by building a platform called OmniBridge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95547033B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "So my team has established this bridge between the Deaf world and the hearing world.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "81E0726908",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Bringing these worlds together without forcing one to adapt to the other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C52B6E1299",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "So we're using the power of AI to analyze thousands of signs in ASL and translate them into English.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9911A90D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Now, thousands may seem small, but ASL is very complex.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBF85FD411",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "With slight nuance and changes in body language it can change the meaning of a sign.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B047AFAE49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "For instance, the sign \"big.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9B7F4CBBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Or \"enormous.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DF85D1C66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "Today, with the advancement in compute on AI PCs, we're able to run our models locally without relying on the internet, which dramatically increases accessibility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F99CB9113",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "So I'd like to show you an alpha version of this in action.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C919544083",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And I want to show you how this could have changed my interaction at the doctor appointment had this been available.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "35E3F4EC17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I'd like to invite Hasiba on stage.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A49CBAE3B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "She's going to pretend to be our receptionist at the doctor's office.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E8244039F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What you're going to see on screen",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E4974F5FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 40,
+        "endOffset": 66,
+        "text": "bidirectional conversation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0C5A1A71FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "Hasiba: Hi, how's it going? [Hi, how's it going?] (Applause) [I am good.] [I will like to use your technology to communicate with you.] Hasiba: Sure, we can use OmniBridge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D709802B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Could you tell me the name of the patient?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "294A0BF985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Sophie's my sister's name.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F44700C2AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "That's so fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0291E2EA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "What's Sophie's date of birth?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7EA72B136C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Perfect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF86995F27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "The doctor's going to be here with you shortly. [Thank you so much.] Hasiba: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD23928967",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "(Applause and cheers) AM: So thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6132B6A97D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "You can see that with this there's much less confusion and frustration.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A17904AF73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And the receptionist and I were able to establish a connection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F3C00A2CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "The best thing of all is that my daughter just had to be the patient.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A71F29AB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "So we're changing the world through the power of AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "238E2A455B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Not just revolutionizing technology, but enhancing that human connection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7062835523",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 100,
+        "endOffset": 123,
+        "text": "level the playing field",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAE872204E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 59,
+        "endOffset": 82,
+        "text": "to humanize and include",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F12CE88454",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 42,
+        "endOffset": 67,
+        "text": "one seamless conversation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6BC148EFE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED4F90AF72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00A86F3C94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

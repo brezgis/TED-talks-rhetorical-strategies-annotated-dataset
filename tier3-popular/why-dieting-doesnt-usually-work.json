@@ -1,0 +1,2208 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10095,
+  "title": "Why dieting doesn't usually work",
+  "author": "Sandra Aamodt",
+  "url": "https://www.ted.com/talks/sandra_aamodt_why_dieting_doesn_t_usually_work",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T09:00:30.505872Z",
+  "updated_at": "2026-05-07T09:00:30.505872Z",
+  "lead_time": 79.418,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Three and a half years ago, I made one of the best decisions of my life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9C2B27C06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 31,
+        "endOffset": 110,
+        "text": "gave up dieting, stopped worrying about my weight, and learned to eat mindfully",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "17CF05AE90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Now I eat whenever I'm hungry, and I've lost 10 pounds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83EEECF219",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "This was me at age 13, when I started my first diet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "891928B0D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 41,
+        "endOffset": 94,
+        "text": "you did not need a diet, you needed a fashion consult",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5C99F1F399",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 41,
+        "endOffset": 48,
+        "text": "you did",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1210296DC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "(Laughter) But I thought I needed to lose weight, and when I gained it back, of course I blamed myself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37901CCDE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And for the next three decades, I was on and off various diets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC9761B574",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "No matter what I tried, the weight I'd lost always came back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28D22A8043",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 9,
+        "endOffset": 25,
+        "text": "many of you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9C8BBB07D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "As a neuroscientist, I wondered, why is this so hard?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E1B55E9D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Obviously, how much you weigh depends on how much you eat and how much energy you burn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4707A33C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "What most people don't realize is that hunger and energy use are controlled by the brain, mostly without your awareness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6BFA9B8DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Your brain does a lot of its work behind the scenes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "330A440FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 87,
+        "endOffset": 106,
+        "text": "your conscious mind",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "419C38FAA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "It's good that you don't have to remember to breathe when you get caught up in a movie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D787C3B212",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "You don't forget how to walk because you're thinking about what to have for dinner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C7694E72C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 28,
+        "endOffset": 58,
+        "text": "sense of what you should weigh",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C7809878CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "You",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F31F04642",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 20,
+        "endOffset": 29,
+        "text": "set point",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4ABAFC56FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 44,
+        "endOffset": 59,
+        "text": "misleading term",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "16F3AB5F88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 50,
+        "endOffset": 61,
+        "text": "up and down",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F38E7DF620",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "You",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7DF485B871",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 246,
+        "endOffset": 256,
+        "text": "thermostat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "90536393BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 258,
+        "endOffset": 279,
+        "text": "responding to signals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F210436F14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 343,
+        "endOffset": 366,
+        "text": "keep your weight stable",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6686B68DF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 136,
+        "endOffset": 140,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "549E158935",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "That's",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EFC9E6E18B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "It keeps the temperature in your house the same as the weather changes outside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A1830B367",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 224,
+        "text": "Now you can try to change the temperature in your house by opening a window in the winter, but that's not going to change the setting on the thermostat, which will respond by kicking on the furnace to warm the place back up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5971DDC4BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "thermostat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A8E84A0422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 115,
+        "endOffset": 139,
+        "text": "what it considers normal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C1A67DD893",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 97,
+        "endOffset": 101,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7F3A753C51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 62,
+        "endOffset": 70,
+        "text": "starving",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "61E12017C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 138,
+        "endOffset": 154,
+        "text": "exactly the same",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1AAACBA6ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "We would love to think that your brain could tell whether you need to lose weight or not, but it can't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFDD85FDD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "If you do lose a lot of weight, you become hungry, and your muscles burn less energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10467A1B27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C7837DE77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "Rudy Leibel of Columbia University has found that people who have lost 10 percent of their body weight burn 250 to 400 calories less because their metabolism is suppressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD71B85CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "That's a lot of food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13A43F392F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "This means that a successful dieter must eat this much less forever than someone of the same weight who has always been thin.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CF551EF6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 34,
+        "endOffset": 56,
+        "text": "your body's resistance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4C9AF96E9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 34,
+        "endOffset": 38,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "67FB2F2CA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "When food was scarce, our ancestors' survival depended on conserving energy, and regaining the weight when food was available would have protected them against the next shortage.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C67DE793C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Over the course of human history, starvation has been a much bigger problem than overeating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2951CFF47A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "This may explain a very sad fact: Set points can go up, but they rarely go down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE34F96565",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 8,
+        "endOffset": 19,
+        "text": "your mother",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00618AEE9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Now, if your mother ever mentioned that life is not fair, this is the kind of thing she was talking about.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80943F3005",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 11,
+        "endOffset": 59,
+        "text": "Successful dieting doesn't lower your set point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81041ABE68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Even after you've kept the weight off for as long as seven years, your brain keeps trying to make you gain it back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAC393B760",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "If that weight loss had been due to a long famine, that would be a sensible response.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DBBD74AD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "In our modern world of drive-thru burgers, it's not working out so well for many of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06DD5FCDFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "That difference between our ancestral past and our abundant present is the reason that Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80B9B0F950",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 249,
+        "text": "Yoni Freedhoff of the University of Ottawa would like to take some of his patients back to a time when food was less available, and it's also the reason that changing the food environment is really going to be the most effective solution to obesity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73ADDE5068",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Sadly, a temporary weight gain can become permanent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5F09F023A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "If you stay at a high weight for too long, probably a matter of years for most of us, your brain may decide that that's the new normal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEE485FF32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "Psychologists classify eaters into two groups, those who rely on their hunger and those who try to control their eating through willpower, like most dieters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "874754C089",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Let's call them intuitive eaters and controlled eaters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2ED708C1EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "The interesting thing is that intuitive eaters are less likely to be overweight, and they spend less time thinking about food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BBFE37E01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 80,
+        "endOffset": 92,
+        "text": "super-sizing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E393C8C8D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Controlled eaters are more vulnerable to overeating in response to advertising, super-sizing, and the all-you-can-eat buffet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "161BFCF29D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "And a small indulgence, like eating one scoop of ice cream, is more likely to lead to a food binge in controlled eaters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CB90D572B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Children are especially vulnerable to this cycle of dieting and then binging.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B32CDA87F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 194,
+        "endOffset": 325,
+        "text": "and all of these studies found that the same factors that predicted weight gain also predicted the development of eating disorders.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7A4771C129",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "Several long-term studies have shown that girls who diet in their early teenage years are three times more likely to become overweight five years later, even if they started at a normal weight,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5BEC61024",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 30,
+        "endOffset": 58,
+        "text": "those of you who are parents",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6468EB5FF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "The other factor, by the way, those of you who are parents, was being teased by family members about their weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D635A1AF10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "So don't do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E54ACCF12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 97,
+        "endOffset": 139,
+        "text": "because I'm a geek, and that's how I roll.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B728E2707E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 11,
+        "endOffset": 96,
+        "text": "I left almost all my graphs at home, but I couldn't resist throwing in just this one,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EA544BAB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 218,
+        "text": "(Laughter) This is a study that looked at the risk of death over a 14-year period based on four healthy habits: eating enough fruits and vegetables, exercise three times a week, not smoking, and drinking in moderation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8866F6C55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Let's start by looking at the normal weight people in the study.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C56027DB69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "The height of the bars is the risk of death, and those zero, one, two, three, four numbers on the horizontal axis are the number of those healthy habits that a given person had.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34665943A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And as you'd expect, the healthier the lifestyle, the less likely people were to die during the study.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D6DC84950",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Now let's look at what happens in overweight people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9F413274A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "The ones that had no healthy habits had a higher risk of death.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E6DF3C664",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Adding just one healthy habit pulls overweight people back into the normal range.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BCEF40EFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 64,
+        "endOffset": 82,
+        "text": "seven times higher",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3608E98F88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "For obese people with no healthy habits, the risk is very high, seven times higher than the healthiest groups in the study.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B31CBD232A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But a healthy lifestyle helps obese people too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0891E48017",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 9,
+        "endOffset": 25,
+        "text": "if you look only",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A86CE0EA89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "In fact, if you look only at the group with all four healthy habits, you can see that weight makes very little difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3F57B0C60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "taking control of your health by taking control of your lifestyle",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0B70BC0297",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "You can take control",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CA4115BEB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "You can take control of your health by taking control of your lifestyle, even If you can't lose weight and keep it off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91AAF07E0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Diets don't have very much reliability.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F89AFFD33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Five years after a diet, most people have regained the weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E33C644D3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Forty percent of them have gained even more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8216A0CF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "If you think about this, the typical outcome of dieting is that you're more likely to gain weight in the long run than to lose it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68E08DED18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "If I've convinced you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AB8A1A6243",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 77,
+        "endOffset": 91,
+        "text": "what do you do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "290C2E851D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "If I've convinced you that dieting might be a problem, the next question is, what do you do about it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B05AD74F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And my answer, in a word, is mindfulness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE627F704F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "I'm not saying you need to learn to meditate or take up yoga.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B10B713C7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 212,
+        "text": "I'm talking about mindful eating: learning to understand your body's signals so that you eat when you're hungry and stop when you're full, because a lot of weight gain boils down to eating when you're not hungry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA55714364",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "How do you do it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5257400BA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Give yourself permission to eat as much as you want, and then work on figuring out what makes your body feel good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DC8486C4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Sit down to regular meals without distractions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "691140300B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Think about how your body feels",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2ACDD741EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 77,
+        "endOffset": 99,
+        "text": "let your hunger decide",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "97A368867B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "It took about a year for me to learn this, but it's really been worth it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CA9B081A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "I am so much more relaxed around food than I have ever been in my life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC259DE4ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "I often don't think about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AC1174A8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "I forget we have chocolate in the house.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "000CB7A0B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "It's like aliens have taken over my brain.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ECD2CD1D05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's just completely different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9FA887C3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 325,
+        "text": "I should say that this approach to eating probably won't make you lose weight unless you often eat when you're not hungry, but doctors don't know of any approach that makes significant weight loss in a lot of people, and that is why a lot of people are now focusing on preventing weight gain instead of promoting weight loss.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94DC5AD86D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Let's face it: If diets worked, we'd all be thin already.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "0A32BC7746",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "(Laughter) Why do we keep doing the same thing and expecting different results?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2842EAC504",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Diets may seem harmless, but they actually do a lot of collateral damage.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FF39A7B2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "At worst, they ruin lives: Weight obsession leads to eating disorders, especially in young kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C529A7356A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "In the U.S., we have 80 percent of 10-year-old girls say they've been on a diet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2037B6052",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Our daughters have learned to measure their worth by the wrong scale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23B311174F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Even at its best, dieting is a waste of time and energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5ADF688C3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 9,
+        "endOffset": 18,
+        "text": "willpower",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "200E94121B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5648E9891E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "49478D86F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 253,
+        "endOffset": 261,
+        "text": "fail you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4164111F37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 309,
+        "text": "It takes willpower which you could be using to help your kids with their homework or to finish that important work project, and because willpower is limited, any strategy that relies on its consistent application is pretty much guaranteed to eventually fail you when your attention moves on to something else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7518EAD2CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 7,
+        "endOffset": 16,
+        "text": "leave you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A8F88DE1DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Let me leave you with one last thought.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4600D1AF07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 8,
+        "endOffset": 15,
+        "text": "we told",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F2CD9097D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "What if we told all those dieting girls that it's okay to eat when they're hungry?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5ACCF2D60A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "we taught",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC9ECE0291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "What if we taught them to work with their appetite instead of fearing it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0018A88899",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "I think most of them would be happier and healthier, and as adults, many of them would probably be thinner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B066C8941",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "I wish someone had told me that back when I was 13.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F11C1D606",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Thanks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D6ABC2A10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9698DE816A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

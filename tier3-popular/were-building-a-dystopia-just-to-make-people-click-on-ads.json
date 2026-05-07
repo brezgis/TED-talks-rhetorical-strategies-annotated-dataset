@@ -1,0 +1,3772 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10266,
+  "title": "We're building a dystopia just to make people click on ads",
+  "author": "Zeynep Tufekci",
+  "url": "https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:19:50.799556Z",
+  "updated_at": "2026-05-07T12:19:50.799556Z",
+  "lead_time": 158.481,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 72,
+        "endOffset": 113,
+        "text": "invoke images of humanoid robots run amok",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BF512F4085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "So when people voice fears of artificial intelligence, very often, they invoke images of humanoid robots run amok.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "456475B008",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "You know?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2EC2FC2018",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Terminator?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A26902E37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EB76B2EC19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "You know, that might be something to consider, but that's a distant threat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "318E435118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 44,
+        "endOffset": 67,
+        "text": "metaphors from the past",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3437260E39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Or, we fret about digital surveillance with metaphors from the past.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F7EB6C962",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "\"1984,\" George Orwell's \"1984,\" it's hitting the bestseller lists again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F73B0A187",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "It's a great book, but it's not the correct dystopia for the 21st century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10113ACD9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 29,
+        "endOffset": 183,
+        "text": "not what artificial intelligence will do to us on its own, but how the people in power will use artificial intelligence to control us and to manipulate us",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7F8F5D5689",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 187,
+        "endOffset": 238,
+        "text": "novel, sometimes hidden, subtle and unexpected ways",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "06D9CB868E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 239,
+        "text": "What we need to fear most is not what artificial intelligence will do to us on its own, but how the people in power will use artificial intelligence to control us and to manipulate us in novel, sometimes hidden, subtle and unexpected ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F02E2ADE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 260,
+        "text": "Much of the technology that threatens our freedom and our dignity in the near-term future is being developed by companies in the business of capturing and selling our data and our attention to advertisers and others: Facebook, Google, Amazon, Alibaba, Tencent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F00F29122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Now, artificial intelligence has started bolstering their business as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23C8334412",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And it may seem like artificial intelligence is just the next thing after online ads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17BB3D5054",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "It's not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F2B9B698F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's a jump in category.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5951929A12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's a whole different world, and it has great potential.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84C35883FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "It could accelerate our understanding of many areas of study and research.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7FCADDEB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 51,
+        "endOffset": 99,
+        "text": "With prodigious potential comes prodigious risk.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E5498B8F60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Now let's look at a basic fact of our digital lives, online ads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "488260F94C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "116194571E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We kind of dismiss them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8DA130B8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "They seem crude, ineffective.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E666214395",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "We've all had the experience of being followed on the web by an ad based on something we searched or read.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E9C08D556",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 10,
+        "endOffset": 109,
+        "text": "you look up a pair of boots and for a week, those boots are following you around everywhere you go.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DA6CD28936",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "560B4552C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Even after you succumb and buy them, they're still following you around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "559D9048EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "We're kind of inured to that kind of basic, cheap manipulation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96BE84C8E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 32,
+        "endOffset": 46,
+        "text": "You know what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "078731A296",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "These things don't work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD1B7DF9AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Except, online, the digital technologies are not just ads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07B5BD145C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Now, to understand that, let's think of a physical world example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "075517DD3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "You know how",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F117332658",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 14,
+        "endOffset": 121,
+        "text": "at the checkout counters at supermarkets, near the cashier, there's candy and gum at the eye level of kids?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51237907DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "That's designed to make them whine at their parents just as the parents are about to sort of check out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21AA91A200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 14,
+        "endOffset": 37,
+        "text": "persuasion architecture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CCDA33AFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It's not nice, but it kind of works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1992F89CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 11,
+        "endOffset": 21,
+        "text": "you see it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6307D13576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "Now, in the physical world, such persuasion architectures are kind of limited, because you can only put so many things by the cashier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5799A138E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C20D80A70B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 104,
+        "endOffset": 123,
+        "text": "whiny little humans",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "662E2FC474",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "In the physical world, we live with those limitations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "317503538A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 75,
+        "endOffset": 92,
+        "text": "scale of billions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "462A8950C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 190,
+        "endOffset": 205,
+        "text": "your weaknesses",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F3B7FD47CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And that's different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D21714146",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And that's just one of the basic things that artificial intelligence can do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ACEA04B08D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Now, let's take an example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74ECF1207B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Let's say you want to sell plane tickets to Vegas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C877FC0D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEB70FF5E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "So in the old world, you could think of some demographics to target based on experience and what you can guess.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAF03D38F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "You might try to advertise to, oh, men between the ages of 25 and 35, or people who have a high limit on their credit card, or retired couples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F66A46956E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "237B50EA60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "That's what you would do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4A644884F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "With big data and machine learning, that's not how it works anymore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B6131B834",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 20,
+        "endOffset": 66,
+        "text": "think of all the data that Facebook has on you",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "48ADB3931F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 63,
+        "endOffset": 66,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B0ACAFCB2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "If you start typing something and change your mind and delete it, Facebook keeps those and analyzes them, too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E76C22797C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 3,
+        "endOffset": 6,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C49409E94B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Increasingly, it tries to match you with your offline data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E70EE277AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 32,
+        "endOffset": 35,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C9EA44FB2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It also purchases a lot of data from data brokers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96F8261E0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 12,
+        "endOffset": 91,
+        "text": "everything from your financial records to a good chunk of your browsing history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "27F05EC9E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 28,
+        "endOffset": 32,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E653694EC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A13C68F660",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "In the US, such data is routinely collected, collated and sold.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3656608D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "In Europe, they have tougher rules.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F26BF0F4FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 28,
+        "endOffset": 58,
+        "text": "churning through all that data",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F230A4B5E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 146,
+        "endOffset": 238,
+        "text": "they learn to understand the characteristics of people who purchased tickets to Vegas before",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0482D399DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "When they learn this from existing data, they also learn how to apply this to new people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EE14D7AE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "So if they're presented with a new person, they can classify whether that person is likely to buy a ticket to Vegas or not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60032081A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Fine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D3075F67A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You're thinking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0574E6CA6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "I can ignore that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "689DACA1AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "But the problem isn't that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D33B76DB53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "The problem is, we no longer really understand how these complex algorithms work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "519B24884F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "We don't understand how they're doing this categorization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8267CE51A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 298,
+        "endOffset": 323,
+        "text": "cross section of my brain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F85F5787D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 278,
+        "endOffset": 295,
+        "text": "if you were shown",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "993CAF33BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 47,
+        "endOffset": 67,
+        "text": "growing intelligence",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7D27D082CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "And these things only work if there's an enormous amount of data, so they also encourage deep surveillance on all of us so that the machine learning algorithms can work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "433C5EA7E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 57,
+        "endOffset": 66,
+        "text": "about you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D6B0C6A22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "The algorithms work better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCEA89726D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So let's push that Vegas example a bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE24F8EF58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 49,
+        "endOffset": 59,
+        "text": "picking up",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "653E8F25EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "What if",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E8F51D31AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Such people tend to become overspenders, compulsive gamblers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F49C41719",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 24,
+        "endOffset": 42,
+        "text": "you'd have no clue",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ACD1417392",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I gave this example to a bunch of computer scientists once and afterwards, one of them came up to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C0C4BB135",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "He was troubled and he said, \"That's why I couldn't publish it.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24CC516646",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I was like, \"Couldn't publish what?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "476574868A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 58,
+        "endOffset": 72,
+        "text": "onset of mania",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8096932F30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 123,
+        "endOffset": 169,
+        "text": "and it had worked, and it had worked very well",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D73DB4A767",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "Now, the problem isn't solved if he doesn't publish it, because there are already companies that are developing this kind of technology, and a lot of the stuff is just off the shelf.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA6F35C9E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "This is not very difficult anymore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8E8F9DECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Do you ever go on YouTube meaning to watch one video and an hour later you've watched 27?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "202BE423D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "You know how YouTube has this column on the right that says, \"Up next\" and it autoplays something?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB8CB3132A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 18,
+        "endOffset": 72,
+        "text": "picking what it thinks that you might be interested in",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "426697DD3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 87,
+        "endOffset": 103,
+        "text": "find on your own",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "093758A1DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's not a human editor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2702B031AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's what algorithms do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B734F2F42B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 15,
+        "endOffset": 74,
+        "text": "what you have watched and what people like you have watched",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7BE00D0A63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 80,
+        "endOffset": 130,
+        "text": "infers that that must be what you're interested in",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "01767325ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "It sounds like a benign and useful feature, except when it isn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D0FE7A21B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "So in 2016, I attended rallies of then-candidate Donald Trump to study as a scholar the movement supporting him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0BDD4D035",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I study social movements, so I was studying it, too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C821C425A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And then I wanted to write something about one of his rallies, so I watched it a few times on YouTube.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA87D40D5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "rabbit hole",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC34B63F21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "YouTube started recommending to me and autoplaying to me white supremacist videos in increasing order of extremism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43B1FC5328",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "If I watched one, it served up one even more extreme and autoplayed that one, too.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6E98510011",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "If you watch Hillary Clinton or Bernie Sanders content",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7F177ABF42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 56,
+        "endOffset": 138,
+        "text": "YouTube recommends and autoplays conspiracy left, and it goes downhill from there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "004FD45DC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Well, you might be thinking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84A151B085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 29,
+        "endOffset": 60,
+        "text": "This is politics, but it's not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0261E980C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "This isn't about politics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3412FA2C7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "This is just the algorithm figuring out human behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC97CA7DC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "I once watched a video about vegetarianism on YouTube and YouTube recommended and autoplayed a video about being vegan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C164E886F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "rabbit hole",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DB76A410F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's like you're never hardcore enough for YouTube.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E497B6CA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Laughter) So what's going on?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEE176E661",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Now, YouTube's algorithm is proprietary, but here's what I think is going on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "021BA51723",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 205,
+        "endOffset": 216,
+        "text": "rabbit hole",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8DA9995A63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 246,
+        "text": "The algorithm has figured out that if you can entice people into thinking that you can show them something more hardcore, they're more likely to stay on the site watching video after video going down that rabbit hole while Google serves them ads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEC94CC710",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "Now, with nobody minding the ethics of the store, these sites can profile people who are Jew haters, who think that Jews are parasites and who have such explicit anti-Semitic content, and let you target them with ads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C3957E8D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 253,
+        "text": "They can also mobilize algorithms to find for you look-alike audiences, people who do not have such explicit anti-Semitic content on their profile but who the algorithm detects may be susceptible to such messages, and lets you target them with ads, too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E24FE90289",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Now, this may sound like an implausible example, but this is real.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB03D4806D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 44,
+        "endOffset": 78,
+        "text": "you can indeed do this on Facebook",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C9EFFB050C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 80,
+        "endOffset": 158,
+        "text": "and Facebook helpfully offered up suggestions on how to broaden that audience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B78BC92D21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Now, so this has a lot of consequences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "715C428EA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "You may be thinking somebody is snubbing you on Facebook.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "481A6A6BDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "The algorithm may never be showing your post to them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BB58A7127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The algorithm is prioritizing some of them and burying the others.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "865689C2F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 22,
+        "endOffset": 84,
+        "text": "what the algorithm picks to show you can affect your emotions.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E4F86ADD88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "But that's not all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1062EA77D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "It also affects political behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2CFD9D286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "So in 2010, in the midterm elections, Facebook did an experiment on 61 million people in the US that was disclosed after the fact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A81E296F6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "So some people were shown, \"Today is election day,\" the simpler one, and some people were shown the one with that tiny tweak with those little thumbnails of your friends who clicked on \"I voted.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7952460DA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "This simple tweak.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "632E96E68B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CFA8C5B18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "So the pictures were the only change, and that post shown just once turned out an additional 340,000 voters in that election, according to this research as confirmed by the voter rolls.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "104DF0DAAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "A fluke?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A4067905A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "780B12498D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Because in 2012, they repeated the same experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15EC33D294",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And that time, that civic message shown just once turned out an additional 270,000 voters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "656F2ECCF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "For reference, the 2016 US presidential election was decided by about 100,000 votes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B4453EC5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Now, Facebook can also very easily infer what your politics are, even if you've never disclosed them on the site.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6370E222D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D573FF1305",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "These algorithms can do that quite easily.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0963DD127A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "What if a platform with that kind of power decides to turn out supporters of one candidate over the other?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "82CBE33498",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "How would we even know about it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D007FEB3CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Now, we started from someplace seemingly innocuous -- online adds following us around -- and we've landed someplace else.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "51B8AC94ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 262,
+        "text": "As a public and as citizens, we no longer know if we're seeing the same information or what anybody else is seeing, and without a common basis of information, little by little, public debate is becoming impossible, and we're just at the beginning stages of this.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2DE0EE734B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 245,
+        "text": "These algorithms can quite easily infer things like your people's ethnicity, religious and political views, personality traits, intelligence, happiness, use of addictive substances, parental separation, age and genders, just from Facebook likes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A1B942706",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "These algorithms can identify protesters even if their faces are partially concealed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2E7F18DFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "These algorithms may be able to detect people's sexual orientation just from their dating profile pictures.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2146D1A12D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 269,
+        "text": "Now, these are probabilistic guesses, so they're not going to be 100 percent right, but I don't see the powerful resisting the temptation to use these technologies just because there are some false positives, which will of course create a whole other layer of problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6B6CFE60C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Imagine what a state can do with the immense amount of data it has on its citizens.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E2CF681E5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "China is already using face detection technology to identify and arrest people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3D6DC63D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "spider's web",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ECA815BF7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 44,
+        "endOffset": 91,
+        "text": "infrastructure of surveillance authoritarianism",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9C8752661C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "And here's the tragedy: we're building this infrastructure of surveillance authoritarianism merely to get people to click on ads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C1C9EA99D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And this won't be Orwell's authoritarianism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2230D109FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "This isn't \"1984.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D0A731844",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 62,
+        "endOffset": 135,
+        "text": "we'll all be scared, but we'll know it, we'll hate it and we'll resist it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "25B53745A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "Now, if authoritarianism is using overt fear to terrorize us, we'll all be scared, but we'll know it, we'll hate it and we'll resist it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23EFAEC1DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 496,
+        "endOffset": 508,
+        "text": "spider's web",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3C93E4415D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 172,
+        "endOffset": 196,
+        "text": "persuasion architectures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3DEDD0814A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 546,
+        "text": "But if the people in power are using these algorithms to quietly watch us, to judge us and to nudge us, to predict and identify the troublemakers and the rebels, to deploy persuasion architectures at scale and to manipulate individuals one by one using their personal, individual weaknesses and vulnerabilities, and if they're doing it at scale through our private screens so that we don't even know what our fellow citizens and neighbors are seeing, that authoritarianism will envelop us like a spider's web and we may not even know we're in it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D8A265A82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So Facebook's market capitalization is approaching half a trillion dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D5F0103FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's because it works great as a persuasion architecture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16644DC7CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "But the structure of that architecture is the same whether you're selling shoes or whether you're selling politics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7553A82BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "The algorithms do not know the difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EB8ADD804",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "The same algorithms set loose upon us to make us more pliable for ads are also organizing our political, personal and social information flows, and that's what's got to change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A8DCA52E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Now, don't get me wrong, we use digital platforms because they provide us with great value.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "831F8C3BC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "I use Facebook to keep in touch with friends and family around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22610FF906",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "I've written about how crucial social media is for social movements.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0B12BE60B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "I have studied how these technologies can be used to circumvent censorship around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9584014D38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "But it's not that the people who run, you know, Facebook or Google are maliciously and deliberately trying to make the country or the world more polarized and encourage extremism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16621EBA3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "I read the many well-intentioned statements that these people put out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5CAFAFE1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 81,
+        "endOffset": 137,
+        "text": "it's the structures and business models they're building",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B591C88705",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 11,
+        "endOffset": 34,
+        "text": "the core of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "79FD3AC6D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 21,
+        "endOffset": 57,
+        "text": "giant con of half a trillion dollars",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2B7EB6D28B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 136,
+        "endOffset": 181,
+        "text": "or its power of influence is of great concern",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "899F7217A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It's either one or the other",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FDF0C3DC9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's similar for Google, too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74F19485D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So what can we do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1B1E1FD87A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "This needs to change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8EBF9BD87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Now, I can't offer a simple recipe, because we need to restructure the whole way our digital technology operates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EB9C1DFA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Everything from the way technology is developed to the way the incentives, economic and otherwise, are built into the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CF2CE7749",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 41,
+        "endOffset": 61,
+        "text": "lack of transparency",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3C7E452FA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 105,
+        "endOffset": 155,
+        "text": "structural challenge of machine learning's opacity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8ADBC45200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "We have a big task in front of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C80DFD283",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "We have to mobilize our technology, our creativity and yes, our politics",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D4541AFFF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 94,
+        "endOffset": 153,
+        "text": "artificial intelligence that supports us in our human goals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "98088CB26E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And I understand this won't be easy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8167E3D41C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We might not even easily agree on what those terms mean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B88E12A1BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "But if we take seriously how these systems that we depend on for so much operate, I don't see how we can postpone this conversation anymore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FCED44DF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 52,
+        "endOffset": 100,
+        "text": "they're controlling what we can and we cannot do",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6424DAEA83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And many of these ad-financed platforms, they boast that they're free.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3298FB8BCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 31,
+        "endOffset": 49,
+        "text": "we are the product",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C292D02341",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "We need",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D977D2FA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 144,
+        "endOffset": 151,
+        "text": "blossom",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7EB502C28F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 185,
+        "endOffset": 202,
+        "text": "prodigious menace",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F1C062F35D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "339F65C264",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16ECBCAB96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "BuzzFeed tried it for Google, and very quickly they found, yep, you can do it on Google, too.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "955F3638EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And it wasn't even expensive.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8CC6D69304",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "The ProPublica reporter spent about 30 dollars to target this category.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "47661B2821",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "So last year, Donald Trump's social media manager disclosed that they were using Facebook dark posts to demobilize people, not to persuade them, but to convince them not to vote at all.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D13AE8EFDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "And to do that, they targeted specifically, for example, African-American men in key cities like Philadelphia, and I'm going to read exactly what he said.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CB12F924C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I'm quoting.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F457A513BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "They were using \"nonpublic posts whose viewership the campaign controls so that only the people we want to see it see it.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A7EEE54A42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "We modeled this.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E01782BE60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "It will dramatically affect her ability to turn these people out.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2D6BAA1CC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "What's in those dark posts?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7A22463A95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "We have no idea.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "27BE495172",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Facebook won't tell us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "69A04DDD92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "So Facebook also algorithmically arranges the posts that your friends put on Facebook, or the pages you follow.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E775457DF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "It doesn't show you everything chronologically.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BF2B6C332F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "It puts the order in the way that the algorithm thinks will entice you to stay on the site longer.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D9C9F4ACDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

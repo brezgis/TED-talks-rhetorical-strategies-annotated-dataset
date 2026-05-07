@@ -1,0 +1,1426 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10106,
+  "title": "How we found the giant squid",
+  "author": "Edith Widder",
+  "url": "https://www.ted.com/talks/edith_widder_how_we_found_the_giant_squid",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T08:05:23.709031Z",
+  "updated_at": "2026-05-07T08:05:23.709031Z",
+  "lead_time": 51.155,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "The Kraken, a beast so terrifying it was said to devour men and ships and whales, and so enormous it could be mistaken for an island.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C827E72C1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 225,
+        "endOffset": 244,
+        "text": "This ain't no shit.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5A1FE61701",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "(Laughter) Every fish that gets away grows with every telling of the tale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB97F4FE5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 74,
+        "endOffset": 151,
+        "text": "as those of you that saw the Discovery Channel documentary are no doubt aware",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "430BDB1401",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "I was one of the three scientists on this expedition that took place last summer off Japan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76F09C3B0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "I'm the short one.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "EE20DB2E45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "The other two are Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65EA992851",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Tsunemi Kubodera and Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0985B142A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Steve O'Shea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1F21C4CEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I owe my participation in this now-historic event to TED.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "405BADFE1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "In 2010, there was a TED event called Mission Blue held aboard the Lindblad Explorer in the Galapagos as part of the fulfillment of Sylvia Earle's TED wish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E85090788",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "I spoke about a new way of exploring the ocean, one that focuses on attracting animals instead of scaring them away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9386344228",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 240,
+        "text": "Mike deGruy was also invited, and he spoke with great passion about his love of the ocean, and he also talked to me about applying my approach to something he's been involved with for a very long time, which is the hunt for the giant squid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "067D8CE505",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "It was Mike that got me invited to the squid summit, a gathering of squid experts at the Discovery Channel that summer during Shark Week.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE627F8DB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "(Laughter) I gave a talk on unobtrusive viewing and optical luring of deep sea squid in which I emphasized the importance of using quiet, unobtrusive platforms for exploration.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9AC7A8966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 48,
+        "endOffset": 62,
+        "text": "farting around",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "02D6F2B67B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 224,
+        "text": "This came out of hundreds of dives I have made, farting around in the dark using these platforms, and my impression that I saw more animals working from the submersible than I did with either of the remote-operated vehicles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C44940B22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "But that could just be because the submersible has a wider field of view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F1FC59A3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "But I also felt like I saw more animals working with the Tiburon than the Ventana, two vehicles with the same field of view but different propulsion systems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "945055CE2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "So my suspicion was that it might have something to do with the amount of noise they make.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C05556410C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "So I set up a hydrophone on the bottom of the ocean, and I had each of these fly by at the same speed and distance and recorded the sound they made.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19E3A49DA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 44,
+        "endOffset": 88,
+        "text": "which you can probably just barely hear here",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9547A17FAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "The Johnson Sea-Link -- (whirring noise) -- which you can probably just barely hear here, uses electric thrusters -- very, very quiet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "578ADCEDA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "The Tiburon also uses electric powered thrusters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A7A5A0D8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "It's also pretty quiet, but a bit noisier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A3B4181E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 24,
+        "endOffset": 108,
+        "text": "But most deep-diving ROVs these days use hydraulics and they sound like the Ventana.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58172683F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 21,
+        "endOffset": 76,
+        "text": "I think that's got to be scaring a lot of animals away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A7913A9E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 285,
+        "text": "So for the deep sea squid hunt, I proposed using an optical lure attached to a camera platform with no thrusters, no motors, just a battery-powered camera, and the only illumination coming from red light that's invisible to most deep-sea animals that are adapted to see primarily blue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "931BB56505",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 40,
+        "endOffset": 62,
+        "text": "equivalent of infrared",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D1E440AAEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "That's visible to our eye, but it's the equivalent of infrared in the deep sea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81DF58F5AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 482,
+        "text": "So this camera platform, which we called the Medusa, could just be thrown off the back of the ship, attached to a float at the surface with over 2,000 feet of line, it would just float around passively carried by the currents, and the only light visible to the animals in the deep would be the blue light of the optical lure, which we called the electronic jellyfish, or e-jelly, because it was designed to imitate the bioluminescent display of the common deep sea jellyfish Atolla.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB61EDE3EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 67,
+        "endOffset": 95,
+        "text": "bioluminescent burglar alarm",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5B74E65E9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Now, this pinwheel of light that the Atolla produces is known as a bioluminescent burglar alarm and is a form of defense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01A3EFA119",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 369,
+        "text": "The reason that the electronic jellyfish worked as a lure is not because giant squid eat jellyfish, but it's because this jellyfish only resorts to producing this light when it's being chewed on by a predator and its only hope for escape may be to attract the attention of a larger predator that will attack its attacker and thereby afford it an opportunity for escape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BCE2D2130",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's a scream for help",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "82A8E3FED7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 24,
+        "endOffset": 55,
+        "text": "a last-ditch attempt for escape",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAF86C3561",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 63,
+        "endOffset": 85,
+        "text": "common form of defense",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7964585096",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "The approach worked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F4C19A9E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Whereas all previous expeditions had failed",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "54CB9FFA9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 56,
+        "endOffset": 76,
+        "text": "single video glimpse",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7DA03C513D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Edith Widder (on video): Oh my God.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75437B3C54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Oh my God!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49582881B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Are you kidding me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1C027C7C90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 19,
+        "endOffset": 46,
+        "text": "Other scientists: Oh ho ho!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A337C1D50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "That's just hanging there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A58E0593DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 4,
+        "endOffset": 33,
+        "text": "It was like it was teasing us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "068F66726B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 35,
+        "endOffset": 60,
+        "text": "doing a kind of fan dance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AEEA6F1B2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 64,
+        "endOffset": 93,
+        "text": "now you see me, now you don't",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C39022B721",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "EW: It was like it was teasing us, doing a kind of fan dance -- now you see me, now you don't -- and we had four such teasing appearances, and then on the fifth, it came in and totally wowed us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D024389E7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Bang!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A5F461EC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Oh my God!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57EEA7841B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Whoa!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4E524650E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 11,
+        "endOffset": 30,
+        "text": "EW: The full monty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81975072C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "What really wowed me",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CD2A553857",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 47,
+        "endOffset": 74,
+        "text": "came in up over the e-jelly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5237A3263A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 141,
+        "endOffset": 165,
+        "text": "mistook for the predator",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F26E20E8B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "But even more incredible was the footage shot from the Triton submersible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4CD43B842",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "What was not mentioned in the Discovery documentary was that the bait squid that Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8A7010FE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 32,
+        "endOffset": 49,
+        "text": "diamondback squid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4883CF8A33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "creature of legend",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B468FA196D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "misty history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "25FD1A12F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 5,
+        "endOffset": 23,
+        "text": "what you're seeing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C2988A4FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And that's all Dr. Kubodera could see when the giant comes in here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B890D7E67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 192,
+        "endOffset": 210,
+        "text": "creature of legend",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AB03E5A978",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 220,
+        "endOffset": 233,
+        "text": "misty history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "116DA873C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 7,
+        "endOffset": 30,
+        "text": "absolutely breathtaking",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BC94AA7F31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 124,
+        "endOffset": 152,
+        "text": "as tall as a two-story house",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "933CF78E52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "How could something that big",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "45C4133A91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "We've only explored about five percent of our ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "681E24D9C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 55,
+        "endOffset": 74,
+        "text": "fantastic creatures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D250F72819",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 88,
+        "endOffset": 118,
+        "text": "millions of years of evolution",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1C0530D1CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 25,
+        "endOffset": 38,
+        "text": "tiny fraction",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C555190D51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "We need a NASA-like organization for ocean exploration, because we need to be exploring and protecting our life support systems here on Earth.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "05284D17C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We need — thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E0BB33080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 30,
+        "endOffset": 59,
+        "text": "engine that drives innovation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE8C0CDF53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Innovation drives economic growth.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F259DB6C1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 3,
+        "endOffset": 25,
+        "text": "let's all go exploring",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E6D02AA01C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 65,
+        "endOffset": 87,
+        "text": "scare the animals away",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5951D35166",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 119,
+        "endOffset": 280,
+        "text": "\"If you want to get away from it all and see something you've never seen, or have an excellent chance of seeing something that no one's ever seen, get in a sub.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1F7E7AF3B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 37,
+        "endOffset": 46,
+        "text": "adventure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "05E81D64F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "He should have been with us for this adventure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F792A21461",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "We miss him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6BD2C17F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98A9D9923A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

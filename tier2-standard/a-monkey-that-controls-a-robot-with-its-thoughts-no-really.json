@@ -1,0 +1,2378 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9429,
+  "title": "A monkey that controls a robot with its thoughts. No, really.",
+  "author": "Miguel Nicolelis",
+  "url": "https://www.ted.com/talks/miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T00:58:39.850811Z",
+  "updated_at": "2026-05-07T00:58:39.850811Z",
+  "lead_time": null,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 59,
+        "endOffset": 85,
+        "text": "almost like the weatherman",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3860F7944F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We are always chasing storms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A2BD0553F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 37,
+        "endOffset": 57,
+        "text": "brainstorms, that is",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF7E9EE24F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And we all talk about brainstorms in our daily lives, but we rarely see or listen to one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "292EC5E7F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 50,
+        "endOffset": 80,
+        "text": "introducing you to one of them",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8522C74140",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "Actually, the first time we recorded more than one neuron -- a hundred brain cells simultaneously -- we could measure the electrical sparks of a hundred cells in the same animal, this is the first image we got, the first 10 seconds of this recording.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5299CEF7E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 19,
+        "endOffset": 39,
+        "text": "snippet of a thought",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B78A4DEEE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 80,
+        "endOffset": 90,
+        "text": "astronomer",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8A7543D80A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And here we are, out of billions of neurons, just recording, 10 years ago, a hundred.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF06565BA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We are doing a thousand now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "818A137E7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And we hope to understand something fundamental about our human nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "289FEC8BF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Because, if you don't know yet",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ECDD81CC7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 103,
+        "endOffset": 109,
+        "text": "storms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "28C620BC81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 128,
+        "endOffset": 185,
+        "text": "storms that roll over the hills and valleys of our brains",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5567ACDA94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "Everything that we ever do, everything that every human has ever done, do or will do, requires the toil of populations of neurons producing these kinds of storms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8237DE1126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 61,
+        "endOffset": 79,
+        "text": "somewhat like this",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "96E4FC958B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "You can put it louder if you can.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2E9FD70873",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 19,
+        "endOffset": 79,
+        "text": "making popcorn while listening to a badly-tuned A.M. station",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1EA2109330",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "This is a brain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32CD3D03B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 42,
+        "endOffset": 59,
+        "text": "electrical storms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1C524235B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 130,
+        "endOffset": 156,
+        "text": "brain will sound like this",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B4F20B9448",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 81,
+        "endOffset": 91,
+        "text": "you listen",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CEC7C4C3EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 104,
+        "endOffset": 120,
+        "text": "brain symphonies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D1FF3EEC74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 155,
+        "endOffset": 174,
+        "text": "messages they carry",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EF77C1CAED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "In particular, about 12 years ago we created a preparation that we named brain-machine interfaces.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5A20AF054",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "you have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "525815078C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 481,
+        "text": "The idea is, let's have some sensors that listen to these storms, this electrical firing, and see if you can, in the same time that it takes for this storm to leave the brain and reach the legs or the arms of an animal -- about half a second -- let's see if we can read these signals, extract the motor messages that are embedded in it, translate it into digital commands and send it to an artificial device that will reproduce the voluntary motor wheel of that brain in real time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3288B8A97F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And see if we can measure how well we can translate that message when we compare to the way the body does that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9CB1A4D18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 278,
+        "text": "And if we can actually provide feedback, sensory signals that go back from this robotic, mechanical, computational actuator that is now under the control of the brain, back to the brain, how the brain deals with that, of receiving messages from an artificial piece of machinery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C1B32A6C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And that's exactly what we did 10 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2EB5B4B02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "We started with a superstar monkey called Aurora that became one of the superstars of this field.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B9479B395",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And Aurora liked to play video games.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6BD19EA59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 50,
+        "endOffset": 85,
+        "text": "like any one of us, any of our kids",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3AF28BAFA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 50,
+        "endOffset": 68,
+        "text": "like any one of us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "47D6B5295F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And as a good primate, she even tries to cheat before she gets the right answer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E07935451A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "So even before a target appears that she's supposed to cross with the cursor that she's controlling with this joystick, Aurora is trying to find the target, no matter where it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7081571224",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 103,
+        "endOffset": 133,
+        "text": "drop of Brazilian orange juice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1DF4A4F16B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "And if she's doing that, because every time she crosses that target with the little cursor, she gets a drop of Brazilian orange juice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65EFB877FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 76,
+        "endOffset": 106,
+        "text": "drop of Brazilian orange juice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F80B5B3AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 15,
+        "endOffset": 18,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "419FAD12D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And I can tell you, any monkey will do anything for you if you get a little drop of Brazilian orange juice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02CDFB4FF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Actually any primate will do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07BCB63818",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Think about that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DB59349E93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 123,
+        "endOffset": 154,
+        "text": "350 milliliters of orange juice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "70909F4463",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 321,
+        "text": "Well, while Aurora was playing this game, as you saw, and doing a thousand trials a day and getting 97 percent correct and 350 milliliters of orange juice, we are recording the brainstorms that are produced in her head and sending them to a robotic arm that was learning to reproduce the movements that Aurora was making.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50CCE2DD69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "Because the idea was to actually turn on this brain-machine interface and have Aurora play the game just by thinking, without interference of her body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B2E2A7E24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Her brainstorms would control an arm that would move the cursor and cross the target.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE61343B9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And to our shock, that's exactly what Aurora did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2012A76B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "She played the game without moving her body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C2A6F6BA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "469186C733",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "So every trajectory that you see of the cursor now, this is the exact first moment she got that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EC11F0DFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 52,
+        "endOffset": 87,
+        "text": "liberated from the physical domains",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0ED23901C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "That's the exact first moment a brain intention was liberated from the physical domains of a body of a primate and could act outside, in that outside world, just by controlling an artificial device.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FB55C2ACF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 127,
+        "endOffset": 137,
+        "text": "craved for",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4451561523",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "And Aurora kept playing the game, kept finding the little target and getting the orange juice that she wanted to get, that she craved for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71CDE18B89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Well, she did that because she, at that time, had acquired a new arm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6848CF9317",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 21,
+        "endOffset": 24,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F4AC3CD09B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "The robotic arm that you see moving here 30 days later, after the first video that I showed to you, is under the control of Aurora's brain and is moving the cursor to get to the target.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C68E13D973",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "And Aurora now knows that she can play the game with this robotic arm, but she has not lost the ability to use her biological arms to do what she pleases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE81C74538",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "she can scratch her back, she can scratch one of us, she can play another game",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1E1290273C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "By all purposes and means, Aurora's brain has incorporated that artificial device as an extension of her body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1815CD8D77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "The model of the self that Aurora had in her mind has been expanded to get one more arm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD206820A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Well, we did that 10 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE73C3EB30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Just fast forward 10 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6FE92E397",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 32,
+        "endOffset": 76,
+        "text": "you don't even need to have a robotic device",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E751946FE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 54,
+        "endOffset": 67,
+        "text": "monkey avatar",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FEAC83C0C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 4,
+        "endOffset": 11,
+        "text": "you can",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC5884CF39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "monkey avatar",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4B78DDCE74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "And what we did basically was to train the animals to learn how to control these avatars and explore objects that appear in the virtual world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "957F54BBE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 22,
+        "endOffset": 40,
+        "text": "visually identical",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5C201AFFA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 113,
+        "endOffset": 180,
+        "text": "electrical message that is proportional to the microtactile texture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AA73A7A925",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 109,
+        "endOffset": 125,
+        "text": "like a new sense",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0A42CF1161",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 45,
+        "endOffset": 61,
+        "text": "you are allowing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7942FCD8BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And the feedback that comes from the avatar is being processed directly by the brain without the interference of the skin.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43B9633545",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "So what you see here is this is the design of the task.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "042CC5EE43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "You're going to see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A4841E3E04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And he has to select one because only one carries the reward, the orange juice that they want to get.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79102805B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 54,
+        "endOffset": 79,
+        "text": "an arm that doesn't exist",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DA8116AD36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And that's exactly what they do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5627EAEE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 10,
+        "endOffset": 84,
+        "text": "complete liberation of the brain from the physical constraints of the body",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "83B4A64E0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The animal is controlling the avatar to touch the targets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F76ACB4033",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 45,
+        "endOffset": 63,
+        "text": "electrical message",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8FCDF76884",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And the brain is deciding what is the texture associated with the reward.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADEE59665D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The legends that you see in the movie don't appear for the monkey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "147927CF3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 74,
+        "endOffset": 85,
+        "text": "you to know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0CA1B23D87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And yet, they can find them by tactile discrimination, and they can press it and select it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD940AB38A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 150,
+        "endOffset": 167,
+        "text": "electrical storms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5211B876F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And that's a picture that every neurophysiologist knows.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0989FA239",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "The basic alignment shows that these cells are coding for all possible directions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF6E139F54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "The bottom picture is what happens when the body stops moving and the animal starts controlling either a robotic device or a computational avatar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E884574A60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 102,
+        "endOffset": 150,
+        "text": "as if this too was a part of that primate's body",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "199DE75613",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "The brain is assimilating",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB8DBD532C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "The brain is assimilating that too, as fast as we can measure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48D807BA09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 28,
+        "endOffset": 204,
+        "text": "our sense of self does not end at the last layer of the epithelium of our bodies, but it ends at the last layer of electrons of the tools that we're commanding with our brains.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "274D7E845F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "So that suggests to us that our sense of self does not end at the last layer of the epithelium of our bodies, but it ends at the last layer of electrons of the tools that we're commanding with our brains.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "946E054C0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 107,
+        "endOffset": 141,
+        "text": "voracious, amazing, dynamic system",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2DEB6F284C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Our violins, our cars, our bicycles, our soccer balls, our clothing -- they all become assimilated by this voracious, amazing, dynamic system called the brain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8359912BCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "How far can we take it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "71DD55A0CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "How far can we take it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D50B6A9908",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Well, in an experiment that we ran a few years ago, we took this to the limit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "445213BC99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "We had an animal running on a treadmill at Duke University on the East Coast of the United States, producing the brainstorms necessary to move.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C5A72F30E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "And we had a robotic device, a humanoid robot, in Kyoto, Japan at ATR Laboratories that was dreaming its entire life to be controlled by a brain, a human brain, or a primate brain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13FAACABD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 267,
+        "text": "What happens here is that the brain activity that generated the movements in the monkey was transmitted to Japan and made this robot walk while footage of this walking was sent back to Duke, so that the monkey could see the legs of this robot walking in front of her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3450629EAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "So she could be rewarded, not by what her body was doing but for every correct step of the robot on the other side of the planet controlled by her brain activity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A09ACD55B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Funny thing",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "DB08D13803",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "Funny thing, that round trip around the globe took 20 milliseconds less than it takes for that brainstorm to leave its head, the head of the monkey, and reach its own muscle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "145DE592C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "The monkey was moving a robot that was six times bigger, across the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73437C5FD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "This is one of the experiments in which that robot was able to walk autonomously.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B65C8A6A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 8,
+        "endOffset": 32,
+        "text": "CB1 fulfilling its dream",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "668F31B2BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "This is CB1 fulfilling its dream in Japan under the control of the brain activity of a primate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F916B13688",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So where are we taking all this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B59DF96BC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So where are we taking all this?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82E39113EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "What are we going to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D49B063134",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "What are we going to do with all this research, besides studying the properties of this dynamic universe that we have between our ears?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C03C147F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Well the idea is to take all this knowledge and technology and try to restore one of the most severe neurological problems that we have in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36D5A2DE46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 65,
+        "endOffset": 71,
+        "text": "storms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "31041941AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Millions of people have lost the ability to translate these brainstorms into action, into movement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00983542FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "Although their brains continue to produce those storms and code for movements, they cannot cross a barrier that was created by a lesion on the spinal cord.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F241827B0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 27,
+        "endOffset": 33,
+        "text": "bypass",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "49E19DAA78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 112,
+        "endOffset": 123,
+        "text": "brainstorms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "56A8AB2EDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 235,
+        "endOffset": 243,
+        "text": "new body",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DCEC89B360",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 289,
+        "endOffset": 301,
+        "text": "robotic suit",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DB2D34FDA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 350,
+        "text": "So our idea is to create a bypass, is to use these brain-machine interfaces to read these signals, larger-scale brainstorms that contain the desire to move again, bypass the lesion using computational microengineering and send it to a new body, a whole body called an exoskeleton, a whole robotic suit that will become the new body of these patients.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F686DBBA26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And you can see an image produced by this consortium.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "27CAAF3703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 198,
+        "endOffset": 202,
+        "text": "body",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3559BE33F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 447,
+        "text": "This is a nonprofit consortium called the Walk Again Project that is putting together scientists from Europe, from here in the United States, and in Brazil together to work to actually get this new body built -- a body that we believe, through the same plastic mechanisms that allow Aurora and other monkeys to use these tools through a brain-machine interface and that allows us to incorporate the tools that we produce and use in our daily life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BE9EB2AE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 166,
+        "endOffset": 170,
+        "text": "body",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "62C38060C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 196,
+        "endOffset": 207,
+        "text": "assimilated",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E2B13B88D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 248,
+        "text": "This same mechanism, we hope, will allow these patients, not only to imagine again the movements that they want to make and translate them into movements of this new body, but for this body to be assimilated as the new body that the brain controls.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D446612523",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "So I was told 10 years ago that this would never happen, that this was close to impossible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAB3843537",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "And I can only tell you that as a scientist, I grew up in southern Brazil in the mid-'60s watching a few crazy guys telling [us] that they would go to the Moon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B946FE5FF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 332,
+        "text": "crazy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ABB5E2A6EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 164,
+        "endOffset": 168,
+        "text": "that",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "646CAAE38B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 236,
+        "endOffset": 331,
+        "text": "impossible is just the possible that someone has not put in enough effort to make it come true.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB8123B5E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 332,
+        "text": "And I was five years old, and I never understood why NASA didn't hire Captain Kirk and Spock to do the job; after all, they were very proficient -- but just seeing that as a kid made me believe, as my grandmother used to tell me, that \"impossible is just the possible that someone has not put in enough effort to make it come true.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A5EFC9690",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "So they told me that it's impossible to make someone walk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A979DCAE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I think I'm going to follow my grandmother's advice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFD4855937",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B023E0CDD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59D9B2D973",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

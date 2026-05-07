@@ -1,0 +1,865 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7781,
+  "title": "The lost art of letter-writing",
+  "author": "Lakshmi Pratury",
+  "url": "https://www.ted.com/talks/lakshmi_pratury_the_lost_art_of_letter_writing",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:27:26.121348Z",
+  "updated_at": "2026-05-07T03:27:26.121348Z",
+  "lead_time": 30.723,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So I thought, \"I will talk about death.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24BEB7EBF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Seemed to be the passion today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E7E85C3CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Actually, it's not about death.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ECA847FD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 95,
+        "endOffset": 101,
+        "text": "legacy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "29957435D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "It's inevitable, terrible, but really what I want to talk about is, I'm just fascinated by the legacy people leave when they die.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "880BF200B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "That's what I want to talk about.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "21ACFC9D9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "So Art Buchwald left his legacy of humor with a video that appeared soon after he died, saying, \"Hi!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17B7ADA8BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I'm Art Buchwald, and I just died.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADA42BB36C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And Mike, who I met at Galapagos, a trip which I won at TED, is leaving notes on cyberspace where he is chronicling his journey through cancer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA76FA24CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 24,
+        "endOffset": 30,
+        "text": "legacy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6AFDC4C216",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And my father left me a legacy of his handwriting through letters and a notebook.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E789FA80E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "In the last two years of his life, when he was sick, he filled a notebook with his thoughts about me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85E019C064",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 113,
+        "endOffset": 137,
+        "text": "held a mirror to my life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6A14B4B1F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "He wrote about my strengths, weaknesses, and gentle suggestions for improvement, quoting specific incidents, and held a mirror to my life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "526E3AFAA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "After he died, I realized that no one writes to me anymore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E98B63EC0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Handwriting is a disappearing art.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "795A486579",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "I'm all for email and thinking while typing, but why give up old habits for new?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53A9642897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Why can't we have letter writing and email exchange in our lives?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "41B71A1AA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 31,
+        "endOffset": 148,
+        "text": "trade all those years that I was too busy to sit with my dad and chat with him, and trade all those years for one hug",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4033293AC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "There are times when I want to trade all those years that I was too busy to sit with my dad and chat with him, and trade all those years for one hug.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CA6306FA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "But too late.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "769D8F6966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 60,
+        "endOffset": 102,
+        "text": "the paper that touched his hand is in mine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4992781A82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "But that's when I take out his letters and I read them, and the paper that touched his hand is in mine, and I feel connected to him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A3DCF0376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "So maybe we all need to leave our children with a value legacy, and not a financial one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2C98EC284",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "A value for things with a personal touch -- an autographed book, a soul-searching letter.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CDB5E2BE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "If a fraction of this powerful TED audience could be inspired",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "43640D8116",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 69,
+        "endOffset": 86,
+        "text": "a beautiful paper",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7F18EBA222",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 133,
+        "endOffset": 151,
+        "text": "a beautiful letter",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E17F98C971",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 257,
+        "text": "If a fraction of this powerful TED audience could be inspired to buy a beautiful paper -- John, it'll be a recycled one -- and write a beautiful letter to someone they love, we actually may start a revolution where our children may go to penmanship classes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1264C3C0F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So what do I plan to leave for my son?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DF22EED0A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 77,
+        "endOffset": 95,
+        "text": "hound you for them",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7C54A3E8F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "I collect autographed books, and those of you authors in the audience know I hound you for them -- and CDs too, Tracy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1028046DE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I plan to publish my own notebook.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51DC4D9621",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 38,
+        "endOffset": 55,
+        "text": "swallowed by fire",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ACAC71366D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "As I witnessed my father's body being swallowed by fire, I sat by his funeral pyre and wrote.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "113C84DCDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "I have no idea how I'm going to do it, but I am committed to compiling his thoughts and mine into a book, and leave that published book for my son.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C7602BA12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "I'd like to end with a few verses of what I wrote at my father's cremation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68A0A30ECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And those linguists, please pardon the grammar, because I've not looked at it in the last 10 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15F6D6F2E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "I took it out for the first time to come here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F41A13250F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 1,
+        "endOffset": 79,
+        "text": "Picture in a frame, ashes in a bottle, boundless energy confined in the bottle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5EE62F16E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 81,
+        "endOffset": 152,
+        "text": "forcing me to deal with reality, forcing me to deal with being grown up",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4F142A007C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "\"Picture in a frame, ashes in a bottle, boundless energy confined in the bottle, forcing me to deal with reality, forcing me to deal with being grown up.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D39D299691",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "I hear you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C942C73690",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 133,
+        "endOffset": 156,
+        "text": "raging emotional waters",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1A123A7C6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 208,
+        "endOffset": 220,
+        "text": "firm footing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A2F810481E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 236,
+        "endOffset": 271,
+        "text": "to keep on fighting and flourishing",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "11242EF1E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Your encouraging whispers",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0AEA892A2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 32,
+        "endOffset": 52,
+        "text": "whirlpool of despair",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A77000928A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 83,
+        "endOffset": 99,
+        "text": "shores of sanity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ED83673755",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DD223EDAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

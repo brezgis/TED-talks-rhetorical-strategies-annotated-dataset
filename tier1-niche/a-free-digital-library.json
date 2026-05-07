@@ -1,0 +1,4333 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 8130,
+  "title": "A free digital library",
+  "author": "Brewster Kahle",
+  "url": "https://www.ted.com/talks/brewster_kahle_a_free_digital_library",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T04:38:01.927832Z",
+  "updated_at": "2026-05-07T04:38:01.927832Z",
+  "lead_time": 166.03,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 48,
+        "endOffset": 60,
+        "text": "within reach",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9E8D38732E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "We really need to put the best we have to offer within reach of our children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64B82B5591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 21,
+        "endOffset": 39,
+        "text": "we're going to get",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9591DA08C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "If we don't do that, we're going to get the generation we deserve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FE2010F8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "They're going to learn from whatever it is they have around them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67AEA59E3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 8,
+        "endOffset": 76,
+        "text": "as now the elite, parents, librarians, professionals, whatever it is",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "902BD70CEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 218,
+        "text": "And we, as now the elite, parents, librarians, professionals, whatever it is, a bunch of our activities are, in fact, in trying to get the best we have to offer within reach of those around us, or as broadly as we can.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2742C527A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 67,
+        "endOffset": 82,
+        "text": "carved in stone",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "55A1857878",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "I'm going to start and end this talk with a couple things that are carved in stone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "584604D998",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "One is what's on the Boston Public Library.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "999747D3ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 29,
+        "endOffset": 40,
+        "text": "Free to All",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7FA2374EA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Carved above their door is, \"Free to All.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9743389D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "It's kind of an inspiring statement, and I'll go back at the end of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93D6A7DBA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "I'm a librarian, and what I'm trying to do is bring all of the works of knowledge to as many people as want to read it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E9A39B155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And the idea of using technology is perfect for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4D9B92D41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 35,
+        "endOffset": 52,
+        "text": "one-up the Greeks",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8EE53ABCE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "I think we have the opportunity to one-up the Greeks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "573308189B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "It's not easy to one-up the Greeks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFC7B7F0C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "But with the industriousness of the Egyptians, they were able to build the Library of Alexandria -- the idea of a copy of every book of all the peoples of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCE7C27308",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "The problem was you actually had to go to Alexandria to go to it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A417E8668",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "On the other hand, if you did, then great things happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B843984E4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "I think we can one-up the Greeks and achieve something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1FBA15B13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And I'm going to try to argue only one point today",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "76F79771B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 22,
+        "endOffset": 61,
+        "text": "then you'll actually come away thinking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FCB2E6B7D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 95,
+        "endOffset": 111,
+        "text": "the great vision",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "994920ECAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Yes, there's issues about how money should be distributed, and that's still being refigured out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B921EC4E07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "But I'd say there's plenty of money, and there's plenty of demand, so we can actually achieve that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3419139052",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 29,
+        "endOffset": 86,
+        "text": "technological, social and sort of where are we as a whole",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B680390BF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 49,
+        "endOffset": 76,
+        "text": "like the Amazon.com website",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "23ABA611E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 27,
+        "endOffset": 58,
+        "text": "you know, sort of where are we?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ADEB26327E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Well, first you have to, as an engineer, scope the problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E80CD4FDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "How big is it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1F00B70D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "If you wanted to put all of the published works online so that anybody could have it available, well, how big a problem is it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71970F7B3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Well, we don't really know, but the largest print library in the world is the Library of Congress.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09D3DB2E9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 5,
+        "endOffset": 44,
+        "text": "26 million volumes, 26 million volumes.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "084E5F865D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "It is, by far and away, the largest print library in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E44116BE82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And a book, if you had a book, is about a megabyte, so -- you know, if you had it in Microsoft Word.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52A0F4E61D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 63,
+        "endOffset": 82,
+        "text": "mega-, giga-, tera-",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F76DC41116",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 220,
+        "text": "So a megabyte, 26 million megabytes is 26 terabytes -- it goes mega-, giga-, tera-. 26 terabytes. 26 terabytes fits in a computer system that's about this big, on spinning Linux drives, and it costs about 60,000 dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E03D34989",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 30,
+        "endOffset": 54,
+        "text": "or around here, a garage",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3F38551708",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "So for the cost of a house -- or around here, a garage -- you can put, you can have spinning all of the words in the Library of Congress.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC41B53EA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "That's pretty neat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A2D44B713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 22,
+        "endOffset": 38,
+        "text": "what do you get?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8EDC595CD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Then the question is, what do you get?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "174D0E382B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 10,
+        "endOffset": 42,
+        "text": "is it worth trying to get there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F9DEF3C06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "You know, is it worth trying to get there?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9397534C70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Do you actually want it online?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "69BAE59B0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Do you actually want it online?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEF6008280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "Some of the first things that people do is they make book readers that allow you to search inside the books, and that's kind of fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7365CFB4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And you can download these things, and look around them in new and different ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9672C09FB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And you can get at them remotely, if you happen to have a laptop.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5BF26EB14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 45,
+        "endOffset": 67,
+        "text": "page turn-y interfaces",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A50BF8EF04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 73,
+        "endOffset": 100,
+        "text": "look a whole lot like books",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "78743E1C06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 225,
+        "text": "There's starting to be some of these sort of page turn-y interfaces that look a whole lot like books in certain ways, and you can search them, make little tabs, and it's kind of cute -- still very book-like -- on your laptop.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73F281269F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "But I don't know, reading things on a laptop -- whenever I pull up my laptop, it always feels like work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBDDE88D8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "I think that's one of the reasons why the Kindle is so great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4934140A68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "I don't have to feel like I'm at work to read a Kindle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66BE7A7979",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "It's starting to be a little bit more specified.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44D4E35134",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "But I have to say that there's older technologies that I tend to like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F321AA452",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I like the physical book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E92D43000",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "And I think we can go and use our technology to go and digitize things, put them on the Net, and then download, print them and bind them, and end up with books again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66676643A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And we sort of said, well, how hard is this?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47402ACFFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And it turns out to not be very hard.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9506F94867",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "We actually went off to make a bookmobile.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "501CBA80D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 4,
+        "endOffset": 121,
+        "text": "a bookmobile -- the size of a van with a satellite dish, a printer, binder and cutter, and kids make their own books.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "23901F80A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "It costs about three dollars to download, print and bind a normal, old book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF471840CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And they actually come out kind of nice looking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0BE108D8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "You can actually get really good-looking books for on the order of one penny per page, sort of the parts cost for doing this.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "10D3845F48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "So the idea of -- this technology actually may end up putting books back in people’s hands again.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "764868F113",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "There are some other bookmobiles running around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86DE0991FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "This is Eric Eldred making books at Walden Pond -- Thoreau's works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7D229EAA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "This is just before he got kicked out by the Parks Services, for competing with the bookstore there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EC4BAE68B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "In India, they've got another couple bookmobiles running around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D85031A8CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "And this is the opening day at the Library of Alexandria, the new Library of Alexandria, in Egypt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7487FFDE83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "It was quite popularly attended.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F085F5DE68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 47,
+        "endOffset": 99,
+        "text": "a happy kid with the first book that he's ever owned",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A40DEC970E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 97,
+        "endOffset": 118,
+        "text": "sounds a little retro",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "14BF380321",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 35,
+        "endOffset": 64,
+        "text": "sort of utopian sort of world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4CD9BE25C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So we actually got some funding from the World Bank to try it out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF870A3963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 87,
+        "endOffset": 271,
+        "text": "fly them to Uganda, buy a car, set up the first Internet connection at the National Library of Uganda, figure out what they wanted, and get a program going making books in rural Uganda",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D5D924E5CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And it actually -- so technologically, it works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9585E62EAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "What we found out of this is we didn't have the right books.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40975D6EE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So the books were in the library.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2F292A0E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "We could get it to people, if they're digitized, but we didn't know how to quite get them digitized.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3238559E03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Everybody thought the answer is, send things to India and China.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9C47A49EC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And so we've tried that, and I'll go over that in a moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30A679B6C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "There are some newer technologies for delivering that have happened that are actually quite exciting as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3DC2244CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 51,
+        "endOffset": 72,
+        "text": "Rube Goldberg machine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8FA7E375C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "We have one of these things now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74BA18A6DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "It's completely cool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95B9A36E03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It's all conveyor belt, and it makes a book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CEF53B89A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 70,
+        "endOffset": 92,
+        "text": "you can press a button",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D0CC57E186",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "And it's called the \"Espresso Book Machine,\" and in about 10 minutes, you can press a button and make a book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E5997EB4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "Something else I'm quite excited about in this particular domain, beyond these sort of kiosk-y things where you can get books on demand, is some of these new little screens that are coming out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94B99C42DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And one of my favorites in this is the $100 laptop.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE3726DBC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 20,
+        "endOffset": 37,
+        "text": "steal any thunder",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A59156B2D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And I don't mean to steal any thunder here, but we've gone and used one of these things to be an e-book reader.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3689C668CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 36,
+        "endOffset": 46,
+        "text": "you can --",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E1365BC8F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "So here's one of the beta units and you can -- it actually turns out to be a really good-looking e-book reader.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67665B0C1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "And we have a quick hack that we did to try to put one of our books on it, and it turns out that 200 dots per inch means that you can put scanned books on them that look really good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D825D79BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "At 200 dots per inch, it's kind of the equivalent of a 300 dot print laser printer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B39F23966B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "We're in good enough shape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32B68036A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "You actually can go and read scanned books quite easily.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2346824C21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "So the idea of electronic books is starting to come about.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6AE43FB263",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 4,
+        "endOffset": 29,
+        "text": "how do you go about doing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "07B12837B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "But how do you go about doing all this scanning?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25EC199E06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "So we thought, okay, well, let's try out this send books to India thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A96CD10F26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "And there was a project with, funded by the National Science Foundation -- sent a bunch of scanners, and the American libraries were supposed to send books.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B13B95CB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Well, they didn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BAB6D539C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "They didn't want to send their books.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4072A3508B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So we bought 100,000 books and sent them to India.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EBF00B855",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And then we learned why you don't want to send books to India.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FE431EF21E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The lesson we learned out of this is, scan your own books.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "350E8ED182",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "If you really care about books, you're going to scan them better, especially if they're valuable books.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B9F133BB3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "If they're new books and you can just, you know, butcher them, because you could just buy another one, that's not such a big deal in terms of doing high-quality scanning.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "02119F505A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "But do things that you love.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C91636C0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "But the Indians have been scanning a lot of their own books -- about 300,000 now -- doing very well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AA4C4031D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "The Chinese did over a million, and the Egyptians are about 30,000.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A6372E990",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "But we sent -- thought, OK, if we're going to need to do this, let's do it in-library.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A258E6E127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "How do we go and do this, and how do we get it down so that it's a cost point that we could afford?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A29461AE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And we sort of picked the price point of 10 cents a page.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4704280D7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "If it's basically the cost of xeroxing to basically digitize, OCR, package it up, make it so that you could download, print and bind it -- the whole shebang -- we would have achieved something.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AB571403AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So we started out trying to figure out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88B4380BF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "How do we get to 10 cents?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "12AADB8FFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And we tried these robot things, and they worked pretty well -- sort of these auto-page-turning things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "654840754F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "If we can have Mars Rovers, you'd think you could turn pages.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "791AA9B291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "But it actually turns out to be pretty hard to turn pages, and the volume isn't there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD7E9EF1DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 212,
+        "endOffset": 229,
+        "text": "proper intonation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C9BA87CFB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 189,
+        "endOffset": 207,
+        "text": "you can go and get",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8907FAB615",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So you basically do a beautiful, respectful job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65974F7EA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "This is not a fax, this is -- the idea is to do a beautiful job as you're going through these libraries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEB5789F76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And we've been able to achieve 10 cents a page if we run things in volume.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CD4313250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "This is what it looks like at the University of Toronto.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "587DDAEA84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And actually, it turns out to, you know, pay a living wage.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "138BA822FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "People seem to love it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6ED437893",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 10,
+        "endOffset": 25,
+        "text": "a little boring",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FFBB35541C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 64,
+        "endOffset": 73,
+        "text": "Zen of it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6830C6C416",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "336E2F5A1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 26,
+        "endOffset": 79,
+        "text": "if it's kind of interesting books that you care about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "50BB028A7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "We actually have been able to do a pretty good job of this, at getting 10 cents a page.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF71EBABB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "So 10 cents a page, 300 pages in your average book, 30 dollars a book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EE7EE4D1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 25,
+        "endOffset": 35,
+        "text": "if you did",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2C4D3C3589",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 40,
+        "endOffset": 56,
+        "text": "whole darn thing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EF44B469CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "The Library of Congress, if you did the whole darn thing -- 26 million books -- is about 750 million dollars, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A5C7F20BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "But a million books, I think, actually would be a pretty good start, and that would cost 30 million dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0B3DC33B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "That's not that big a bill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA65FA3006",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And what we've been able to do is get into libraries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39961DEE31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "We've now got eight of these scanning centers in three countries, and libraries are up for having their books scanned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "105B04BEB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "The Getty here is moving their books to the UCLA, which is where we have one these scanning centers, and scanning their out-of-copyright books, which is fabulous.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67A7BD1450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "So we're starting to get the institutional responsibility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CABD0A8C0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "The thing we're missing is the 10 cents.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE82C214C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "If we can get the 10 cents, all the rest of it flows.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BCDDD3EA05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "We've scanned about 200,000 books.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44CA805496",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Now we're scanning about 15,000 books a month, and it's starting to gear up another factor of two from there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E08FC854AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So all in all, that's going very well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "535DCE33AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And we're starting to move out of the just out-of-copyright into the out-of-print world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BD9A097F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "So I think of -- we're kind of going from the out-of-copyright, library stuff, and Amazon.com is coming from the in-print world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F058B1E0B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 141,
+        "endOffset": 160,
+        "text": "working in parallel",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B8D11D5895",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "And I think we'll meet in the middle some place, and have the classic thing that you have, which is a publishing system and a library system working in parallel.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A930D0057",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And so we're starting up a program to do out-of-print works, but loaning them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC63823F70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Exactly what loaning means, I'm not quite sure.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "36BA188123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 276,
+        "text": "But anyway, loaning out-of-print works from the Boston Public Library, the Woods Hole Oceanographic Institute and a few other libraries that are starting to participate in this program, to try out this model of where does a library stop and where does the bookstore take over.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E6683406B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "So all in all, it's possible to do this in large scale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49599E03BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "We're also going back over microfilm and getting that online.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6649342532",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "So, we can do 10 cents a page, we're going 15,000 books a month and we've got about 250,000 books online, counting all the other projects that are starting to add in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C34601A119",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 30,
+        "endOffset": 57,
+        "text": "books are within our grasp.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "21D7F3EABB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 26,
+        "endOffset": 43,
+        "text": "whole ball of wax",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AD3BDCEF7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "Yes, it costs tens of millions, low hundreds of millions, but one time shot and we've got basically the history of printed literature online.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4426B7658A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And then, there's business model issues about how to try to effectively market it and get it to people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0BB1A32C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 10,
+        "endOffset": 26,
+        "text": "within our grasp",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C28D52DACA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Now let's go for audio, and I'm going to go through these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "863AFB76EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So how much is there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E51F73D92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 234,
+        "text": "Well, as best we can tell, there are about two to three million disks having been published -- so 78s, long-playing records and CDs -- or at least that's the largest archives of published materials we've been able to sort of point at.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B73381602",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "It costs about 10 dollars a piece to go and take a disk and put it online, if you're doing things in volume.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4207BBC948",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 56,
+        "endOffset": 62,
+        "text": "thorny",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8F0CAAC4F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "This is a fairly heavily litigated area, so we've found that there are niches in the music world that aren't served terribly well by the classic commercial publishing system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "678D866B13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And we've been starting to make these available by going and offering shelf space on the Net.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "275D90B0B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 38,
+        "endOffset": 41,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "08AB7E94FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED9C212960",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 3,
+        "endOffset": 6,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "50C1C2010E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 91,
+        "endOffset": 122,
+        "text": "lose your guitars or your house",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BDD1F9722D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This doesn't make any sense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D713DC47F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 17,
+        "endOffset": 74,
+        "text": "unlimited storage, unlimited bandwidth, forever, for free",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AD97518544",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And we've been getting a lot of takers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C7BF5D870",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "One is the rock 'n' rollers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A581E0C480",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 49,
+        "endOffset": 81,
+        "text": "as long as nobody made any money",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D6D751185E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "You could -- concert recordings, it's not the commercial recordings, but concert recordings, started by the Grateful Dead.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B2B62350E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And we get about two or three bands a day signing up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6D4A2BC87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "They give permission, and we get about 40 or 50 concerts a day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC072C76D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "We have about 40,000 concerts, everything the Grateful Dead ever did, up on the Net, so that people can see it and listen to this material.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64435FFEBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 72,
+        "endOffset": 78,
+        "text": "thorny",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8BA835F3D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "So audio is possible to put up, but the rights issues are really pretty thorny.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F241F1002A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "We've got a lot of collections now -- a couple hundred thousand items -- and it's growing over time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB3EDBCAE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 15,
+        "endOffset": 50,
+        "text": "if you think of theatrical releases",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B6194D60D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Moving images: if you think of theatrical releases, there are not that many of them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F752867D33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "As best we can tell, there are about 150,000 to 200,000 movies ever that are really meant for a large-scale theatrical distribution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE6875529B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's just not that many.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5979F17E90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "But half of those were Indian.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC767BBDDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "But anyway, it's doable, but we've only found about a thousand of these things that -- to be out of copyright.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D947335675",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So we've digitized those and made those available.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48EBE272CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 79,
+        "endOffset": 100,
+        "text": "seen the light of day",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0DFB34F003",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "But we've found that there's lots of other types of movies that haven't really seen the light of day -- archival films.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAD652B19E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 108,
+        "endOffset": 140,
+        "text": "needing a home, a permanent home",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E941C3B87A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "We've found, also, a lot of political films, a lot of amateur films, all sorts of things that are basically needing a home, a permanent home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEAF603940",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "So we've been starting to make these available and it's grown to be very popular.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B0A890069",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "We're not quite a YouTube.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90403C202E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "We tended towards longer-term things and also things that people can reuse and make into new movies, which has just been great fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "447F3E5820",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Television comes quite a bit larger.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FD88A4A92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "We started recording 20 channels of television 24 hours a day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5970AA3D12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's sort of the biggest TiVo box you've ever seen.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "55404D0F73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "It's about a petabyte, so far, of worldwide television -- Russian, Chinese, Japanese, Iraqi, Al Jazeera, BBC, CNN, ABC, CBS, NBC -- 24 hours a day.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BC42CCE387",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "We only put one week up, which is mostly for cost reasons, which is the 9/11, sort of from 9/11/2001.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CEE8A496F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "For one week, what did the world see?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F24C92027",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "CNN was saying that Palestinians were dancing in the streets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D550CFA51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Were they?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "55B2BC4124",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Let's look at the Palestinian television and find out.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "01C05BA4A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "How can we have critical thinking without being able to quote and being able to compare what happened in the past?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B71B982289",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And television is dreadfully unrecorded and unquotable, except by Jon Stewart, who does a fabulous job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6288D29881",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "So anyway, television is, I would suggest, within our grasp.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52B07EFF69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "So 15 dollars per video hour, and also about 100 dollars to 150 dollars per celluloid hour, we're able to go and get materials online very inexpensively and have them up on the Net.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAFE814A80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And we've got, now, a lot of these materials.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0F07E0FB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So we've got about 100,000 pieces up there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F2847BE2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So books, music, video, software.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42234CB2D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "There's only 50,000 titles of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "189B26DEE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Mostly the issues there are legal issues and breaking copy protections.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC73D541A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "But we've worked through some of those, but we've still got real problems in Washington.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9303919B0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Well, we're best known as the World Wide Web.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4A0A89717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "We've been archiving the World Wide Web since 1996.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C36DEA9FA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "We take a snapshot of every website and all of the pages on it, every two months.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29AFEF0108",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And actually, it's really been pioneered by Alexa Internet, which donates this collection to the Internet Archive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DCE742560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And it's been growing along for the last 11 years, and it's a fantastic resource.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA7F204371",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And we've made a Wayback Machine that you can then go and see old websites kind of the way they were.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "60DE5C7DF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "If you go and search on something -- this is Google.com, the different versions of it that we have, this is what it looks like when it was an alpha release, and this is what it looked like at Stanford.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "62254F2DDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So anyway, you've got basically an idea of where things came from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "927AE50ABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Mostly, people want to see their old stuff out of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1CE8D9C7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "If there's one thing that we want to learn from the Library of Alexandria version one, which is probably best known for burning, is, don't just have one copy.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3749A7D9B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 120,
+        "endOffset": 127,
+        "text": "burning",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "692F434FB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "So we've started to -- we've made another copy of all of this and we actually put it back in the Library of Alexandria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "115843FE87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So this is a picture of the Internet Archive at the Library of Alexandria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A52290280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And we now have also another copy building up in Amsterdam.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E93E817F9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "So, we should put it in the San Andreas Fault Line in San Francisco, flood zone in Amsterdam and in the Middle East.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F731606F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Right, so anyway ... so we're hedging our bets here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBAC6ED3EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "If we go and put it in a couple more places, I think we'll be in good shape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08025A8274",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "There's a political and social question out of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E8BEB81E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Is all of this, as we go digital, is it going to be public or private?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8FAEB0AE82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "There's some large companies that have seen this vision, that are doing large-scale digitization, but they're locking up the public domain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E03BFEE968",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The question is, is that the world that we really want to live in?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C1A0B523C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "What's the role of the public versus the private as things go forward?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "342D75A200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "How do we go and have a world where we both have libraries and publishing in the future, just as we basically benefited as we were growing up?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "805677FAAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "So universal access to all knowledge -- I think it can be one of the greatest achievements of humankind, like the man on the moon, or the Gutenberg Bible, or the Library of Alexandria.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D5EEF7667F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "It could be something that we're remembered for, for millennia, for having achieved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD0C66CF9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And as I said before, I'll end with something that's carved above the door of the Carnegie Library.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B61F37D646",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 85,
+        "endOffset": 106,
+        "text": "\"Free to the People.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A2665056A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0F0ABB19E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

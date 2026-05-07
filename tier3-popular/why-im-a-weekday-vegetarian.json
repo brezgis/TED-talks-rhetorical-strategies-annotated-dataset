@@ -1,0 +1,865 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10331,
+  "title": "Why I'm a weekday vegetarian",
+  "author": "Graham Hill",
+  "url": "https://www.ted.com/talks/graham_hill_why_i_m_a_weekday_vegetarian",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:33:28.987852Z",
+  "updated_at": "2026-05-07T07:33:28.987852Z",
+  "lead_time": 28.229,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 46,
+        "endOffset": 65,
+        "text": "Knowing what I know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B4B753C48A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 67,
+        "endOffset": 93,
+        "text": "why am I not a vegetarian?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9C31DA8B71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "After all, I'm one of the green guys: I grew up with hippie parents in a log cabin.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9074D13BDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "I started a site called TreeHugger -- I care about this stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C4C6A1883",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 19,
+        "endOffset": 35,
+        "text": "a mere hamburger",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "90A1EBD1FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "I knew that eating a mere hamburger a day can increase my risk of dying by a third.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "927A7B3DDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Cruelty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E2EA91993D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "Cruelty: I knew that the 10 billion animals we raise each year for meat are raised in factory farm conditions that we, hypocritically, wouldn't even consider for our own cats, dogs and other pets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93C9BFB301",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 23,
+        "endOffset": 32,
+        "text": "amazingly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "65A37013D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "Environmentally, meat, amazingly, causes more emissions than all of transportation combined: cars, trains, planes, buses, boats, all of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E66A5A7F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And beef production uses 100 times the water that most vegetables do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "903E210E5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I also knew that I'm not alone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71C94AAA31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "We as a society",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9D098A40C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "We as a society are eating twice as much meat as we did in the 50s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4589F3595B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "So what was once the special little side treat now is the main, much more regular.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "216004C0AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "So really, any of these angles should have been enough to convince me to go vegetarian.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D1E4EB29B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Yet, there I was -- chk, chk, chk -- tucking into a big old steak.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D62A8FD576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So why was I stalling?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA6E7A94D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "I realized that what I was being pitched was a binary solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F839481F05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "It was either you're a meat eater or you're a vegetarian, and I guess I just wasn't quite ready.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "699DD325BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Imagine your last hamburger",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "18A2C42B6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "(Laughter) So my common sense, my good intentions, were in conflict with my taste buds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9AE5D16F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 56,
+        "endOffset": 72,
+        "text": "later never came",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8E0A93F5B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Sound familiar?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5CFC538E3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 15,
+        "endOffset": 47,
+        "text": "might there be a third solution?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "62F307E7D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And I thought about it, and I came up with one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45AFA778D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "I've been doing it for the last year, and it's great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CECEF680F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's called weekday veg.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FABEF85F6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 22,
+        "endOffset": 63,
+        "text": "Nothing with a face Monday through Friday",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E945EEA75D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "On the weekend, your choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C152AE328A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB766BC345",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "If you want to take it to the next level",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3FD0422244",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 56,
+        "endOffset": 70,
+        "text": "major culprits",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B9473EC6F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So you want to swap those out with some good, sustainably harvested fish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A56E4AD36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 37,
+        "endOffset": 55,
+        "text": "simple to remember",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2DBB7F508F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "It's structured, so it ends up being simple to remember, and it's okay to break it here and there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3ECA72838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "After all, cutting five days a week is cutting 70 percent of your meat intake.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A2D643C6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "The program has been great, weekday veg.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47A7939239",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 24,
+        "endOffset": 104,
+        "text": "I'm lessening pollution, I feel better about the animals, I'm even saving money.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4206B926C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "My footprint's smaller",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9B168F7DA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "Best of all, I'm healthier, I know that I'm going to live longer, and I've even lost a little weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01CD5B66F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 4,
+        "endOffset": 25,
+        "text": "please ask yourselves",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8CA6A28932",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 27,
+        "endOffset": 42,
+        "text": "for your health",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C4C92FBC98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 44,
+        "endOffset": 63,
+        "text": "for your pocketbook",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6DE454977F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 65,
+        "endOffset": 84,
+        "text": "for the environment",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8ACF9CB77F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 86,
+        "endOffset": 101,
+        "text": "for the animals",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7E2E3197F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 103,
+        "endOffset": 154,
+        "text": "What's stopping you from giving weekday veg a shot?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "59004A93FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 47,
+        "endOffset": 92,
+        "text": "it would be like half of us were vegetarians.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "25D5752C61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "729B3E8BAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C201F4BBEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

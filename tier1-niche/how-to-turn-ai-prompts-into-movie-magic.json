@@ -1,0 +1,2072 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7570,
+  "title": "How to turn AI prompts into movie magic",
+  "author": "Jason Zada",
+  "url": "https://www.ted.com/talks/jason_zada_how_to_turn_ai_prompts_into_movie_magic",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T06:41:10.161963Z",
+  "updated_at": "2026-05-07T06:41:10.161963Z",
+  "lead_time": 68.742,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Throughout my entire career, I've been telling innovative stories through technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39CAE842E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 33,
+        "endOffset": 67,
+        "text": "there's a magic in personalization",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1F6BFFB32C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 84,
+        "endOffset": 121,
+        "text": "when they see themselves in the story",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B82654686B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "For example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E86374F9D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "(Laughter) I was responsible for putting your face on a dancing elf during the holidays.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "554DCCCBB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 11,
+        "endOffset": 102,
+        "text": "I am also very proud to have given you your own personal stalker with \"Take This Lollipop.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "459B72DC6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 40,
+        "endOffset": 58,
+        "text": "given you your own",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "150EE5EDAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "No applause for that one?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7CE6BCFE67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Come on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC611A2542",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "(Laughter) And I also transported people all over the world to Melbourne, Australia, where I let you control tourists.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFBCFE3FA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 27,
+        "endOffset": 77,
+        "text": "I put you into a Zoom-like interactive horror film",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF200DE191",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "But I created something recently that wasn't interactive, it wasn't personalized.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "031A20741C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "It was a short film.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC0D703CA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "It was set in gritty 1970s New York City, and this blaxploitation film featured a kung fu warrior out for revenge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "770453F2AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "And it featured big set pieces, loads of special effects, and it also featured one of the most iconic hip hop bands of all time, the Wu-Tang Clan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2963BD3B0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "Now traditionally, this would have cost millions of dollars to produce and taken months and months of time, but it was created by just a few people in under three weeks, all from the comforts of our home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE08ACC253",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Now I began as a traditional filmmaker, and I realized that everything that you saw on screen before is a string of text, which is otherwise known as a prompt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A057136B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 60,
+        "endOffset": 93,
+        "text": "everything that you saw on screen",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1557829F3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And when I was on set, I'm constantly prompting all my department heads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57EF2FBEC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 35,
+        "endOffset": 57,
+        "text": "it's a string of texts",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "22F66EDD49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "I'm taking what's in my brain, and it's a string of texts that ends up basically communicating my vision.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B176290483",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "With generative AI, I'm able to do the same thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB83FF3CFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "I take what’s in my head and I put it into a series of prompts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0709D93CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "This is the lead character, this is Mandingo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "768EB4C599",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "This is his prompt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06BE09053A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "That's casting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEAC1CD757",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Then it comes to virtual wardrobe styling.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EFBD7C8D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 3,
+        "endOffset": 44,
+        "text": "black leather pants, gold shirt, fur coat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "88E7AC2DDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "So black leather pants, gold shirt, fur coat, that created Claudine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D3444DD32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Now I have to remind you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9669BE6202",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Now I have to remind you, this is all text.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "990A4D5CA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Then, when it comes to location scouting, here is a massive restaurant in Chinatown.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1668A0E935",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Then we have the Jade nightclub.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13D7AFF87A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Then we have a dojo on a rooftop.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A76F49CF25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "All of these create a 4.5-minute music video that felt like a feature film.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46A4413C66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 121,
+        "endOffset": 142,
+        "text": "not months, not years",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8A24EA8276",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And one of the most amazing things is, with generative AI technology, we are able to build massive story worlds in days, not months, not years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "124EA6A73E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "So I had this idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C1DD83B1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "What if, in a few days from now, I could get everyone in this room to help me create a short film?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A9B35B805",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Are you guys down?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EED1CF95EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Cheers and applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97AF915D46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Sci-fi, thrillers, what else?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "18AD05CF2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Who wants to go?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "18DE907515",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "(Audience shouting) I heard rom-com.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2DD654AA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Sci-fi, western, comedy, anime, horror.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "15DB9430B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "OK, a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "225208A9A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "What if we did rom-com?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B205931301",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Anybody for that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F17AEC9E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "OK, what about thriller?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AEBE29124C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "(Audience cheers) Sci-fi?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9E5999F75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "(Audience cheers) OK, sci-fi is the winner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "003281CFD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Now we get to choose our character.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F58E613424",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So choose your fighter.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "59C1C83692",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Who's it going to be?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "24118BB6D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Could be anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "606A99A3E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "(Audience shouting) Animal, OK, what kind of animal?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EFAAC450C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Beaver?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAE37C2507",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Oh that's great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "745A1A77A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Beaver, OK, how many for beaver?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6879E4FDF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "(Cheers) OK, so we got sci-fi and a beaver.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63236A1ACD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Got it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "251344EF88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "I have no idea where this is going to go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB806F67B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So next up is location.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91D1267257",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Now we don’t have to pay location fees, so dream big.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A864B6401",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "(Audience shouting) The moon?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D413EA557",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "OK, how many for the moon?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56FA6F7872",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "It's sci-fi, let's get a little more unexpected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE83755AF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Where can we set sci-fi?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0F52D05EB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "(Shouting) Underwater.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33B0A71CFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "OK, how many for underwater?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "633BEDE5B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "(Cheers) Sci-fi, underwater.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "287AFC6A9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "OK, perfect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "546CF04A40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Last but not least",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3A12C0D9A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 33,
+        "endOffset": 62,
+        "text": "helps drive our story forward",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6C2758EF96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Any ideas?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E00DEAE15D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Big red button, I like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "486EC19DFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "What else?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "78B1E8F577",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "A submarine?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD5EC4693E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Magic what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "31B89F803B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Magic sock, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C642CE7CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "(Laughter) Alright, so my team and I, over the next couple days, are going to create a film that is born from this moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D43633C74B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "All of you, with your creativity, your participation, helped create this.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A6B29DBF5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Because AI doesn't replace storytellers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B78242AC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It gives us superpowers.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2AB6A9F5EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 54,
+        "endOffset": 83,
+        "text": "dream bigger with me together",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4DE334EE04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "372483AEBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "(Applause) [Three days later ...]",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CB53A732C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "So how'd it go?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "132BD2034D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Jason Zada: Well, I haven't slept in a few days.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CBCA4B123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 54,
+        "endOffset": 108,
+        "text": "How do I tell a story about a beaver and a magic sock?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7D3E8A0770",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 19,
+        "endOffset": 49,
+        "text": "everything goes back to story.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A01D6347DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 44,
+        "endOffset": 112,
+        "text": "a good foundation for a story, everything kind of works its way out.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DFA51B43A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "So I think we figured out an interesting story about a beaver, his magic sock, underwater, and how to blend that with sci-fi.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDDB0C32A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 64,
+        "endOffset": 72,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E65D4BF9A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "HW: No, definitely not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C99190456E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "JZ: I wouldn't have picked those things in a million years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A5807BEFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 9,
+        "endOffset": 38,
+        "text": "you're dealt with those cards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "236CEC1191",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 71,
+        "endOffset": 124,
+        "text": "go back to the foundation of what makes a great story",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C34BEEF963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 4,
+        "endOffset": 103,
+        "text": "I think one of the most important questions that I have to ask you is, does the beaver have a name?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C78CAC278",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 15,
+        "endOffset": 47,
+        "text": "If I said no, would that be bad?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "860D7C5D56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 4,
+        "endOffset": 36,
+        "text": "I mean, it's on your conscience.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E395F26D23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 4,
+        "endOffset": 94,
+        "text": "He did have a name, I forgot it by this point, because we just started calling him Beaver.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8A7E4CD03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 4,
+        "endOffset": 108,
+        "text": "So when you talked about the Wu-Tang Clan piece that you made, that was like, three weeks that you said.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71D4086BAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And we gave you three days, essentially.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F6B26E203",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So how high should our expectations be?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D7A1D33DF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 15,
+        "endOffset": 86,
+        "text": "Set them as low as possible because it will only get better from there.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "65E188F211",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 8,
+        "endOffset": 62,
+        "text": "one of the great things is that when you're dealt with",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0BF7D7A73E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 114,
+        "endOffset": 190,
+        "text": "you're forced to make decisions, you're forced to live with those decisions.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "64A003307C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And you really just kind of have to live in that moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C799278521",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And there's never like, well, you know -- I mean, we did change things, but at the end of the day, you know, when it's done, it's done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E07E2FED77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "HW: Well, it is done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B79F88B95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Does the piece have a name?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AE42E4E8D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "JZ: It is called \"Submerged.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B89EA2ABF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "We had another name that we were going to go with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B60CF07DF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "\"Damned.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1C6BF819E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "(Laughter) HW: Right, right, cheery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "940004EE0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 4,
+        "endOffset": 49,
+        "text": "But, yeah, we decided to go with \"Submerged.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84723DDD61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 4,
+        "endOffset": 28,
+        "text": "Let's watch \"Submerged.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8FE6B6C61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Thank you, Jason.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBE4E01B9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 4,
+        "endOffset": 14,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6A06D0EE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "(Applause) [Submerged] [Do not press -- I mean it] [Story by TED 2025 Audience] (Applause) (Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0888323720",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

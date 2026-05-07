@@ -1,0 +1,4656 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8355,
+  "title": "What separates us from chimpanzees?",
+  "author": "Jane Goodall",
+  "url": "https://www.ted.com/talks/jane_goodall_what_separates_us_from_chimpanzees",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:22:32.794702Z",
+  "updated_at": "2026-05-07T12:22:32.794702Z",
+  "lead_time": 214.265,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Good morning everyone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4979194AD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "First of all, it's been fantastic being here over these past few days.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDFDBEB260",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "And secondly",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1827FF4BA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 14,
+        "endOffset": 134,
+        "text": "I feel it's a great honor to kind of wind up this extraordinary gathering of people, these amazing talks that we've had.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BC403B837",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "I feel that I've fitted in, in many ways, to some of the things that I've heard.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC1A05D96D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 330,
+        "text": "I came directly here from the deep, deep tropical rainforest in Ecuador, where I was out -- you could only get there by a plane -- with indigenous people with paint on their faces and parrot feathers on their headdresses, where these people are fighting to try and keep the oil companies, and keep the roads, out of their forests.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14E0EDCD03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "They're fighting to develop their own way of living within the forest in a world that's clean, a world that isn't contaminated, a world that isn't polluted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94F8359538",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 307,
+        "text": "And what was so amazing to me, and what fits right in with what we're all talking about here at TED, is that there, right in the middle of this rainforest, was some solar panels -- the first in that part of Ecuador -- and that was mainly to bring water up by pump so that the women wouldn't have to go down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8A46D5783",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "The water was cleaned, but because they got a lot of batteries, they were able to store a lot of electricity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "236167009F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "So every house -- and there were, I think, eight houses in this little community -- could have light for, I think it was about half an hour each evening.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F0231F7D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And there is the Chief, in all his regal finery, with a laptop computer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A03E63018",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FB4021DAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And this man, he has been outside, but he's gone back, and he was saying, \"You know, we have suddenly jumped into a whole new era, and we didn't even know about the white man 50 years ago, and now here we are with laptop computers, and there are some things we want to learn from the modern world.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "452D02D973",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "We want to know about health care.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A6C2FF22F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We want to know about what other people do -- we're interested in it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DA5DBCF020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "We want to learn other languages.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2BF644DCFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "We want to know English and French and perhaps Chinese, and we're good at languages.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "34ECE40D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 52,
+        "endOffset": 95,
+        "text": "fighting against the might of the pressures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE8BA4D8BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 151,
+        "endOffset": 172,
+        "text": "fighting the pressure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EFFA1F8DE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And so, coming directly from there to here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A900C91CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 93,
+        "endOffset": 130,
+        "text": "I can't really call it a civilization",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6662F3E006",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "A different way of life, a different being.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55F1F9F59E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 68,
+        "endOffset": 117,
+        "text": "different cultures of the humans around the world",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C43B34B020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "We've talked earlier -- this wonderful talk by Wade Davis about the different cultures of the humans around the world -- but the world is not composed only of human beings; there are also other animal beings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62E975767F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And I propose to bring into this TED conference, as I always do around the world, the voice of the animal kingdom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A47D52E0A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "Too often we just see a few slides, or a bit of film, but these beings have voices that mean something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "446A480B93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "And so, I want to give you a greeting, as from a chimpanzee in the forests of Tanzania -- Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh!",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "114F7CD3FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "(Applause) I've been studying chimpanzees in Tanzania since 1960.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C51BB4D58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "During that time, there have been modern technologies that have really transformed the way that field biologists do their work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2279D6CF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 260,
+        "text": "For example, for the first time, a few years ago, by simply collecting little fecal samples we were able to have them analyzed -- to have DNA profiling done -- so for the first time, we actually know which male chimps are the fathers of each individual infant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "166CB7AE4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Because the chimps have a very promiscuous mating society.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2066D0F7B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So this opens up a whole new avenue of research.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8A5376B08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And we use GSI -- geographic whatever it is, GSI -- to determine the range of the chimps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E3324D30C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 19,
+        "endOffset": 74,
+        "text": "you can see that I'm not really into this kind of stuff",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AB0543641D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 78,
+        "endOffset": 153,
+        "text": "but we're using satellite imagery to look at the deforestation in the area.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D03E121E64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 52,
+        "endOffset": 65,
+        "text": "you can watch",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36657B5698",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And of course, there's developments in infrared, so you can watch animals at night, and equipment for recording by video, and tape recording is getting lighter and better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25777E5A11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 6,
+        "endOffset": 21,
+        "text": "many, many ways",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BABBBD3610",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "So in many, many ways, we can do things today that we couldn’t do when I began in 1960.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43BDA03F7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 203,
+        "text": "Especially when chimpanzees, and other animals with large brains, are studied in captivity, modern technology is helping us to search for the upper levels of cognition in some of these non-human animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26423EC0F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "So that we know today, they're capable of performances that would have been thought absolutely impossible by science when I began.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C021614451",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "I think the chimpanzee in captivity who is the most skilled in intellectual performance is one called Ai in Japan -- her name means love -- and she has a wonderfully sensitive partner working with her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D9C83B5F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "She loves her computer -- she'll leave her big group, and her running water, and her trees and everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B384FC237",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 46,
+        "endOffset": 78,
+        "text": "it's like a video game for a kid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6CE1B6F390",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And she'll come in to sit at this computer -- it's like a video game for a kid; she's hooked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21755EF19B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "She's 28, by the way, and she does things with her computer screen and a touch pad that she can do faster than most humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E92977A14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "She does very complex tasks, and I haven't got time to go into them, but the amazing thing about this female is she doesn't like making mistakes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEA16773ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "If she has a bad run, and her score isn't good, she'll come and reach up and tap on the glass -- because she can't see the experimenter -- which is asking to have another go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B94837E5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 173,
+        "text": "And her concentration -- she's already concentrated hard for 20 minutes or so, and now she wants to do it all over again, just for the satisfaction of having done it better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEC016C9C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "And the food is not important -- she does get a tiny reward, like one raisin for a correct response -- but she will do it for nothing, if you tell her beforehand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87B8251EEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So here we are, a chimpanzee using a computer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39627C1681",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Chimpanzees, gorillas, orangutans also learn human sign language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "257919888C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 59,
+        "endOffset": 89,
+        "text": "I remember so well, so vividly",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DBA241B010",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 383,
+        "text": "But the point is that when I was first in Gombe in 1960 -- I remember so well, so vividly, as though it was yesterday -- the first time, when I was going through the vegetation, the chimpanzees were still running away from me, for the most part, although some were a little bit acclimatized -- and I saw this dark shape, hunched over a termite mound, and I peered with my binoculars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABC58DC5EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 51,
+        "endOffset": 66,
+        "text": "David Greybeard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7C52167921",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 211,
+        "text": "It was, fortunately, one adult male whom I'd named David Greybeard -- and by the way, science at that time was telling me that I shouldn't name the chimps; they should all have numbers; that was more scientific.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E22EC8FFA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 8,
+        "endOffset": 23,
+        "text": "David Greybeard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC125300A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Anyway, David Greybeard -- and I saw that he was picking little pieces of grass and using them to fish termites from their underground nest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1D687C9AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 82,
+        "endOffset": 144,
+        "text": "modifying an object to make it suitable for a specific purpose",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E69365DE39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 4,
+        "endOffset": 17,
+        "text": "not only that",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2F1DCF19D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "And not only that -- he would sometimes pick a leafy twig and strip the leaves -- modifying an object to make it suitable for a specific purpose -- the beginning of tool-making.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91DA4EABA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "The reason this was so exciting and such a breakthrough is at that time, it was thought that humans, and only humans, used and made tools.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50C06A3F8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "When I was at school, we were defined as man, the toolmaker.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D60E75CB99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "redefine 'man,' redefine 'tool'",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "58F9174563",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "So that when Louis Leakey, my mentor, heard this news, he said, \"Ah, we must now redefine 'man,' redefine 'tool,' or accept chimpanzees as humans.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9278C9DE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "061F5DA8F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Moreover, we know that in different parts of Africa, wherever chimps have been studied, there are completely different tool-using behaviors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBCCB35DC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 93,
+        "endOffset": 128,
+        "text": "observation, imitation and practice",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F1DE10230B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "And because it seems that these patterns are passed from one generation to the next, through observation, imitation and practice -- that is a definition of human culture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56B6BB79AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 296,
+        "text": "What we find is that over these 40-odd years that I and others have been studying chimpanzees and the other great apes, and, as I say, other mammals with complex brains and social systems, we have found that after all, there isn't a sharp line dividing humans from the rest of the animal kingdom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FEF44488A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "It's a very wuzzy line.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4329DE0492",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "It's a very wuzzy line.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ACB43CC4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "It's getting wuzzier all the time as we find animals doing things that we, in our arrogance, used to think was just human.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "19E5255B74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 75,
+        "endOffset": 91,
+        "text": "in our arrogance",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F3AA6C2BF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 264,
+        "text": "The chimps -- there's no time to discuss their fascinating lives -- but they have this long childhood, five years of suckling and sleeping with the mother, and then another three, four or five years of emotional dependence on her, even when the next child is born.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DADCD4653E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "The importance of learning in that time, when behavior is flexible -- and there's an awful lot to learn in chimpanzee society.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E94B42F715",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 203,
+        "text": "The long-term affectionate supportive bonds that develop throughout this long childhood with the mother, with the brothers and sisters, and which can last through a lifetime, which may be up to 60 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCB8164C51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 42,
+        "endOffset": 65,
+        "text": "all of you in this room",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "964FC052CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "They're disappearing for the reasons that all of you in this room know only too well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4BD0813852",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "The deforestation, the growth of human populations, needing more land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26BABF4DFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "They're disappearing because some timber companies go in with clear-cutting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0167B43B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 28,
+        "endOffset": 48,
+        "text": "heart of their range",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BA03AE58F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 248,
+        "text": "They're disappearing in the heart of their range in Africa because the big multinational logging companies have come in and made roads -- as they want to do in Ecuador and other parts where the forests remain untouched -- to take out oil or timber.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "060BFF87A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And this has led in Congo basin, and other parts of the world, to what is known as the bush-meat trade.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA753B0B7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 305,
+        "text": "This means that although for hundreds, perhaps thousands of years, people have lived in those forests, or whatever habitat it is, in harmony with their world, just killing the animals they need for themselves and their families -- now, suddenly, because of the roads, the hunters can go in from the towns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8D7EE7F64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "They shoot everything, every single thing that moves that's bigger than a small rat; they sun-dry it or smoke it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BECFFD2DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "And now they've got transport; they take it on the logging trucks or the mining trucks into the towns where they sell it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "082E6DFBCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "And people will pay more for bush-meat, as it's called, than for domestic meat -- it's culturally preferred.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B2ACCB3D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 233,
+        "text": "And it's not sustainable, and the huge logging camps in the forest are now demanding meat, so the Pygmy hunters in the Congo basin who've lived there with their wonderful way of living for so many hundreds of years are now corrupted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40EAB23B07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "They're given weapons; they shoot for the logging camps; they get money.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5113D97DEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Their culture is being destroyed, along with the animals upon whom they depend.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8317B9796",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So, when the logging camp moves, there's nothing left.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6782DD91DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "We talked already about the loss of human cultural diversity, and I've seen it happening with my own eyes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F84D5B8DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And the grim picture in Africa -- I love Africa, and what do we see in Africa?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47FDC41B19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 22,
+        "endOffset": 28,
+        "text": "we see",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "701A871EF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 273,
+        "text": "We see deforestation; we see the desert spreading; we see massive hunger; we see disease and we see population growth in areas where there are more people living on a certain piece of land than the land can possibly support, and they're too poor to buy food from elsewhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C287556DED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Were the people that we heard about yesterday",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "53B46423A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 101,
+        "endOffset": 118,
+        "text": "were they stupid?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2BC21A0C70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Didn't they know what was happening?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36E433DFA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 15,
+        "endOffset": 29,
+        "text": "if you've seen",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "662945AC3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "Of course, but if you've seen the crippling poverty in some of these parts of the world it isn't a question of \"Let's leave the tree for tomorrow.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A8105BEAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "\"How am I going to feed my family today?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB9F276C64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "Maybe I can get just a few dollars from this last tree which will keep us going a little bit longer, and then we'll pray that something will happen to save us from the inevitable end.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F999F9AEFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "So, this is a pretty grim picture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECB15E9483",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 103,
+        "endOffset": 132,
+        "text": "sophisticated spoken language",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7776E3390",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "The one thing we have, which makes us so different from chimpanzees or other living creatures, is this sophisticated spoken language -- a language with which we can tell children about things that aren't here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "068CE3A4C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "We can",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F12C7A7B21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "We can talk about the distant past, plan for the distant future, discuss ideas with each other, so that the ideas can grow from the accumulated wisdom of a group.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68DF765511",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 39,
+        "endOffset": 51,
+        "text": "we can do it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6DC328945B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We can do it by talking to each other; we can do it through video; we can do it through the written word.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDB27AEA20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And we are abusing this great power we have to be wise stewards, and we're destroying the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A56F83DB7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "In the developed world, in a way, it's worse, because we have so much access to knowledge of the stupidity of what we're doing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C30C7B0738",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Do you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6765582D97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 13,
+        "endOffset": 106,
+        "text": "we're bringing little babies into a world where, in many places, the water is poisoning them?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86DF8B66F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And the air is harming them, and the food that's grown from the contaminated land is poisoning them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48A253E9F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And that's not just in the far-away developing world; that's everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02BB84FEDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Do you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1983DA0237",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Do you know we all have about 50 chemicals in our bodies we didn't have about 50 years ago?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35F64B5E30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 117,
+        "endOffset": 135,
+        "text": "filthy toxic waste",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "138AB872E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "And so many of these diseases, like asthma and certain kinds of cancers, are on the increase around places where our filthy toxic waste is dumped.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABB4CC314E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 111,
+        "endOffset": 124,
+        "text": "Mother Nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E1314D7E24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 42,
+        "endOffset": 107,
+        "text": "as well as harming the animals, as well as harming nature herself",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "406816227C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 289,
+        "text": "We're harming ourselves around the world, as well as harming the animals, as well as harming nature herself -- Mother Nature, that brought us into being; Mother Nature, where I believe we need to spend time, where there's trees and flowers and birds for our good psychological development.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03F7BED4D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 128,
+        "endOffset": 136,
+        "text": "concrete",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "989AB5A2D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 158,
+        "endOffset": 173,
+        "text": "virtual reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "43D5ED7501",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 248,
+        "endOffset": 266,
+        "text": "dappled sun-specks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7EC9AF632",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 301,
+        "text": "And yet, there are hundreds and hundreds of children in the developed world who never see nature, because they're growing up in concrete and all they know is virtual reality, with no opportunity to go and lie in the sun, or in the forest, with the dappled sun-specks coming down from the canopy above.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C7DBFEBA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 37,
+        "endOffset": 45,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D071125B05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "As I was traveling around the world, you know, I had to leave the forest -- that's where I love to be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81D7B909D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 276,
+        "text": "I had to leave these fascinating chimpanzees for my students and field staff to continue studying because, finding they dwindled from about two million 100 years ago to about 150,000 now, I knew I had to leave the forest to do what I could to raise awareness around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4315C21FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 87,
+        "endOffset": 114,
+        "text": "everything's interconnected",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3429E8739A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 272,
+        "endOffset": 290,
+        "text": "hope lies in sense",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C9A48B5351",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 309,
+        "endOffset": 326,
+        "text": "making a nonsense",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "0BB8E0AED2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 327,
+        "text": "And the more I talked about the chimpanzees' plight, the more I realized the fact that everything's interconnected, and the problems of the developing world so often stem from the greed of the developed world, and everything was joining together, and making -- not sense, hope lies in sense, you said -- it's making a nonsense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A7A116AC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "How can we do it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3BAB8E6070",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "How can we do it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70F43CCEE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Somebody said that yesterday.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB1B32BA70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And as I was traveling around, I kept meeting young people who'd lost hope.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E78AA2D1AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 83,
+        "endOffset": 127,
+        "text": "eat, drink and be merry, for tomorrow we die",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E3AA9E0939",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "They were feeling despair, they were feeling, 'Well, it doesn't matter what we do; eat, drink and be merry, for tomorrow we die.' ",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA124692AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Everything is hopeless -- we're always being told so by the media.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3D1E1E2C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And then I met some who were angry, and anger that can turn to violence, and we're all familiar with that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A87BF2057",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 262,
+        "text": "And I have three little grandchildren, and when some of these students would say to me at high school or university, they'd say, 'We're angry,' or 'We're filled with despair, because we feel you've compromised our future, and there's nothing we can do about it.'",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B43A1024D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And I looked in the eyes of my little grandchildren, and think how much we've harmed this planet since I was their age.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78EDB39CF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 94,
+        "endOffset": 110,
+        "text": "Roots and Shoots",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5F2339AC2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "I feel this deep shame, and that's why in 1991 in Tanzania, I started a program that's called Roots and Shoots.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BE9373736",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 49,
+        "endOffset": 124,
+        "text": "if any of you have anything to do with children and care about their future",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "85DF48EA27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "There's little brochures all around outside, and if any of you have anything to do with children and care about their future, I beg that you pick up that brochure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4D491D2AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And Roots and Shoots is a program for hope.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "203603874E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Roots make a firm foundation.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D3723BC431",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Shoots seem tiny, but to reach the sun they can break through brick walls.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A55DE1BF70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "See the brick walls as all the problems that we've inflicted on this planet.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DFB9C77852",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Then, you see, it is a message of hope.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D0D19B54B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 56,
+        "endOffset": 87,
+        "text": "can break through, and can make",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "34DAA2C7C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "Hundreds and thousands of young people around the world can break through, and can make this a better world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4846CD9A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Every individual makes a difference.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CA957F8475",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And the most important message of Roots and Shoots is that every single individual makes a difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDE7D19A25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Every individual has a role to play.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "710993C61C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Every one of us impacts the world around us everyday",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1D81FDCC41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 58,
+        "endOffset": 77,
+        "text": "you scientists know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "80D847B138",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 277,
+        "text": "Every one of us impacts the world around us everyday, and you scientists know that you can't actually -- even if you stay in bed all day, you're breathing oxygen and giving out CO2, and probably going to the loo, and things like that -- you're making a difference in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48C133BBB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So, the Roots and Shoots program involves youth in three kinds of projects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5465F8C3FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And these are projects to make the world around them a better place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B16F6C0339",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 37,
+        "endOffset": 65,
+        "text": "for your own human community",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4587D21CCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "One project to show care and concern for your own human community.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EAD7B00D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "One for animals, including domestic animals -- and I have to say, I learned everything I know about animal behavior even before I got to Gombe and the chimps from my dog, Rusty, who was my childhood companion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91D9EAF82E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And the third kind of project: something for the local environment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE09A76C03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "So what the kids do depends first of all, how old are they",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BAE89B9063",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's going to depend whether they're inner-city or rural.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3A680246C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It's going to depend if they're wealthy or impoverished.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE096C5769",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It's going to depend which part, say, of America they're in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "395F081524",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "We're in every state now, and the problems in Florida are different from the problems in New York.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7AB430C3B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 291,
+        "text": "It's going to depend on which country they're in -- and we're already in 60-plus countries, with about 5,000 active groups -- and there are groups all over the place that I keep hearing about that I've never even heard of, because the kids are taking the program and spreading it themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "721934D085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0F76AEFAD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Because they're buying into it, and they're the ones who get to decide what they're going to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8AFD1EEDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "It isn't something that their parents tell them, or their teachers tell them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3740E19C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "That's effective, but if they decide themselves, \"We want to clean this river and put the fish back that used to be there.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1E8F69A44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "We want to clear away the toxic soil from this area and have an organic garden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3883D4CC74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "We want to go and spend time with the old people and hear their stories and record their oral histories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F236C78D0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "We want to go and work in a dog shelter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC0D7BF3FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "We want to learn about animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07E7DA7DF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "We want ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9A4BA03CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 2,
+        "endOffset": 10,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10212B9ACB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 12,
+        "endOffset": 63,
+        "text": "it goes on and on, and this is very hopeful for me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "186A467C1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 76,
+        "endOffset": 92,
+        "text": "Roots and Shoots",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "05EFA9610D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "As I travel around the world 300 days a year, everywhere there's a group of Roots and Shoots of different ages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22538C4294",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 35,
+        "endOffset": 47,
+        "text": "shining eyes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2ADEB2B277",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Everywhere there are children with shining eyes saying, \"Look at the difference we've made.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDC1413F17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "And now comes the technology into it, because with this new way of communicating electronically these kids can communicate with each other around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6992B1FC67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 7,
+        "endOffset": 27,
+        "text": "anyone is interested",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "66EBFBE5F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "And if anyone is interested to help us, we've got so many ideas but we need help -- we need help to create the right kind of system that will help these young people to communicate their excitement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7592662D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "But also -- and this is so important -- to communicate their despair, to say, \"We've tried this and it doesn't work, and what shall we do?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "221C4266C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "And then, lo and behold, there's another group answering these kids who may be in America, or maybe this is a group in Israel, saying, \"Yeah, you did it a little bit wrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00A7841BAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 10,
+        "endOffset": 23,
+        "text": "lo and behold",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "DDFDAD5629",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "This is how you should do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FDB0FC8D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "The philosophy is very simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EF6DF1BD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "We do not believe in violence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA40C04955",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "No violence, no bombs, no guns.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "701AAA109E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "That's not the way to solve problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B9B623959",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Violence leads to violence",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C95172C2D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Violence leads to violence, at least in my view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE55E2DA86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "So how do we solve?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "19DC13AB32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 39,
+        "endOffset": 66,
+        "text": "knowledge and understanding",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "35CD30D3EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "The tools for solving the problems are knowledge and understanding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "998000A44A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 44,
+        "endOffset": 55,
+        "text": "big picture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D6AF72D34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Know the facts, but see how they fit in the big picture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91DEB801AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Hard work and persistence --don't give up -- and love and compassion",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2719E6A52B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "Hard work and persistence --don't give up -- and love and compassion leading to respect for all life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B884A06FBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "How many more minutes?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D68831086",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "How many more minutes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00820F7982",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Two, one?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85903DC83C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Chris Anderson: One -- one to two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B67A18245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Jane Goodall: Two, two, I'm going to take two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10426F26B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 11,
+        "endOffset": 49,
+        "text": "Are you going to come and drag me off?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6E98E19892",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "(Laughter) Are you going to come and drag me off?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D650C4134B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "(Laughter) Anyway -- so basically, Roots and Shoots is beginning to change young people's lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E44611C886",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It's what I'm devoting most of my energy to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A19BC54BAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 84,
+        "endOffset": 87,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "567A99A2D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 72,
+        "endOffset": 74,
+        "text": "us",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4364FD370F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "And I believe that a group like this can have a very major impact, not just because you can share technology with us, but because so many of you have children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FF115EA17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 7,
+        "endOffset": 10,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "63C7B58286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 49,
+        "endOffset": 53,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3830476BDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "And if you take this program out, and give it to your children, they have such a good opportunity to go out and do good, because they've got parents like you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67A9D36891",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 32,
+        "endOffset": 39,
+        "text": "you all",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E263FBB6D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And it's been so clear how much you all care about trying to make this world a better place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1B9DF9120",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's very encouraging.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "905C98AB76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "But the kids do ask me -- and this won't take more than two minutes, I promise -- the kids say, \"Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B175CA9FF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Jane, do you really have hope for the future?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "08B3771DCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "You travel, you see all these horrible things happening.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5FB93FB3D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Firstly, the human brain -- I don't need to say anything about that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9977FF7250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "Now that we know what the problems are around the world, human brains like yours are rising to solve those problems.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AE41E48D88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And we've talked a lot about that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1651A164E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Secondly, the resilience of nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B44C4E85CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "We can destroy a river, and we can bring it back to life.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CFA17EC95E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We can see a whole area desolated, and it can be brought back to bloom again, with time or a little help.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58B488E43F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And thirdly, the last speaker talked about -- or the speaker before last, talked about the indomitable human spirit.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "63B29B026D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "We are surrounded by the most amazing people who do things that seem to be absolutely impossible.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DA85128FD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 225,
+        "text": "Nelson Mandela -- I take a little piece of limestone from Robben Island Prison, where he labored for 27 years, and came out with so little bitterness, he could lead his people from the horror of apartheid without a bloodbath.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "338AF008BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "Even after the 11th of September -- and I was in New York and I felt the fear -- nevertheless, there was so much human courage, so much love and so much compassion.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4F1F4006BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 209,
+        "endOffset": 406,
+        "text": "and I was trying to encourage them, somebody came up with a little quotation from Mahatma Gandhi, \"If you look back through human history, you see that every evil regime has been overcome by good.\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ACBEFACBBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And just after that a woman brought me this little bell, and I want to end on this note.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "335C40DFA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "She said, \"If you're talking about hope and peace, ring this.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2508412A7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 63,
+        "endOffset": 77,
+        "text": "killing fields",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A2704B0DC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 92,
+        "endOffset": 137,
+        "text": "one of the most evil regimes in human history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "85B73D379F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 235,
+        "text": "This bell is made from metal from a defused landmine, from the killing fields of Pol Pot -- one of the most evil regimes in human history -- where people are now beginning to put their lives back together after the regime has crumbled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5172425159",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So, yes, there is hope, and where is the hope?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "53B29532A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So, yes, there is hope, and where is the hope?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2407AB2F0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Is it out there with the politicians?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3EE2DB4221",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Is it out there with the politicians?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8458E66C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's in our hands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E8856FF7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's in your hands and my hands and those of our children.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ED760579D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's in your hands",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7D5658A84A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's in your hands and my hands and those of our children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FF015BF1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "It's really up to us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D82E4BE753",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "We're the ones who can make a difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BD0214890",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 48,
+        "endOffset": 87,
+        "text": "lightest possible ecological footprints",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FD282CFFD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 214,
+        "text": "If we lead lives where we consciously leave the lightest possible ecological footprints, if we buy the things that are ethical for us to buy and don't buy the things that are not, we can change the world overnight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC64628097",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84EC04EBD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "They can actually live longer than 60 in captivity, so we've only done 40 years in the wild so far.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "272B201C8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And we find chimps are capable of true compassion and altruism.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1AB3D3D055",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 199,
+        "text": "We find in their non-verbal communication -- this is very rich -- they have a lot of sounds, which they use in different circumstances, but they also use touch, posture, gesture, and what do they do?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8431655E2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "They kiss; they embrace; they hold hands.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C3F4596C43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "They pat one another on the back; they swagger; they shake their fist -- the kind of things that we do, and they do them in the same kind of context.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "73D13582F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "They have very sophisticated cooperation.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5A43023E8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Sometimes they hunt -- not that often, but when they hunt, they show sophisticated cooperation, and they share the prey.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B2D2569290",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "We find that they show emotions, similar to -- maybe sometimes the same -- as those that we describe in ourselves as happiness, sadness, fear, despair.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9879B66BF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "They know mental as well as physical suffering.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FFC12E0D69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 233,
+        "text": "And I don't have time to go into the information that will prove some of these things to you, save to say that there are very bright students, in the best universities, studying emotions in animals, studying personalities in animals.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F31D13A0F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "We know that chimpanzees and some other creatures can recognize themselves in mirrors -- \"self\" as opposed to \"other.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E118D8E91A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "They have a sense of humor, and these are the kind of things which traditionally have been thought of as human prerogatives.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "768DCE1505",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "But this teaches us a new respect -- and it's a new respect not only for the chimpanzees, I suggest, but some of the other amazing animals with whom we share this planet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4ACC363AA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 288,
+        "text": "Once we're prepared to admit that after all, we're not the only beings with personalities, minds and above all feelings, and then we start to think about ways we use and abuse so many other sentient, sapient creatures on this planet, it really gives cause for deep shame, at least for me.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9510F0572D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "So, the sad thing is that these chimpanzees -- who've perhaps taught us, more than any other creature, a little humility -- are in the wild, disappearing very fast.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D2A2B8D4B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

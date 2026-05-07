@@ -1,0 +1,2956 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7678,
+  "title": "A wide-angle view of fragile Earth",
+  "author": "Yann Arthus-Bertrand",
+  "url": "https://www.ted.com/talks/yann_arthus_bertrand_a_wide_angle_view_of_fragile_earth",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:09:33.078139Z",
+  "updated_at": "2026-05-07T12:09:33.078139Z",
+  "lead_time": 123.69,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 9,
+        "endOffset": 19,
+        "text": "big impact",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "18F103B6E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I have a big impact on the planet to travel here by plane.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9880EA8B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 56,
+        "endOffset": 83,
+        "text": "the weight of two elephants",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CAF8B84883",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "I emitted, in the atmosphere, nine tons of CO2; that is the weight of two elephants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4580147380",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 50,
+        "endOffset": 76,
+        "text": "as much CO2 as a Frenchman",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0C2F9A36BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "I came here to speak about ecology, and I emitted as much CO2 as a Frenchman in one year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D8B9EB427",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "So what do I have to do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "814EB13669",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "So what do I have to do?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEB345183B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "I have to kill a Frenchman",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9A1FD5E703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I have to kill a Frenchman when I come back at home?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F276CCDCE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "(Laughter) I have to do my carbon offset in another way, like I do every time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2F4AB24DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "(Laughter) In fact my work is to show our impact on our planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4343E10401",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "I'm going to show you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1D7E6AEC59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "I'm going to show you some examples of the last pictures I've done in the last year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16728D3E08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Alberta sand oil, a lot of pollution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E00816A506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "You know the problem",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2A58D2EE04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "You know the problem; we don't want to believe what we know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "552844765A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "In Alberta people work nonstop, 24 hours by seven to extract as much oil as they can.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2262DB4F5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We know about the end of oil.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6D8EB5DF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Oil sand is not a long-term solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7642D0C7C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "But we use three times more oil than we find every year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E29A6E83F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "We don't want to believe what we know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "464E7C5427",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Deny.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7AE0ED126C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Coral reef",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AE3B0D54ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Coral reef in New Caledonia. 100 percent of the coral may be wiped out before 2050 because of global warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53E72405CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "And you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "132298D5E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "And you know how coral are very sensitive to temperature, and are very important for the biodiversity of the sea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "191A5EC2B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "North Pole.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B062BACD91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I've done this picture last summer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DFFA82567",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It was impossible to do this picture 15 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A876DD74F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Now there is a new way open between Atlantic and Pacific.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E929776421",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "The thickness of the Arctic decreased more than 40 percent since 1960.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ECECD75A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 11,
+        "endOffset": 34,
+        "text": "new face of Kilimanjaro",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D95A3D6B9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "There is a new face of Kilimanjaro without ice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5D738B7F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Sad picture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C0A7D3A8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It lost 80 percent of its ice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71B01CAD87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "According to scientists, in 100 years all the mountain glacier will be gone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66112EC191",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Glaciers are very important for the life on earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAAAA97195",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Like Al Gore told you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "82A3100C94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Like Al Gore told you, two billion people live on the water from the glacier of Himalaya.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "393D21BB1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Return of fish men.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD75B3B4AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "One fifth of human kind depend on fish to live",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4381769A64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "One fifth of human kind depend on fish to live.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2DCEC445B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Today now",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "70723688F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Today now 70 percent of the fish stock are over-exploited.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83295DBDE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 18,
+        "endOffset": 58,
+        "text": "if we don't change our system of fishing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C4C646E63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "According to FAO, if we don't change our system of fishing the main sea resources will be gone in 2050.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8CBC73D10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "We don't want to believe what we know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC1BC328EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "The beautiful picture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E72F4E626E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "The beautiful picture, by [unclear] in Africa.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "894F42D938",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "One human of six have not enough to eat in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86126B97DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "One billion people have not enough to eat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D698AF8F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "In Africa, corn is one of the main foods in many places.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "718F022D0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Here in America, 90 percent of the corn cultivated is used to feed animals or to do oil.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11DB3BE194",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Palm tree plantation in Borneo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B7B46BEA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Every year we lose 50 thousand square miles in deforestation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "034F3D2CF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Refugee camp in Darfur.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C4CDF5D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Today we have 20 million refugees in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F1D36A9AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 23,
+        "endOffset": 37,
+        "text": "we speak about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A22B78EE66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "According to the U.N., we speak about 250 million refugees in 2050.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9E084FBF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "I always show my pictures in the street.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "347CBB06B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "We have done already 100 exhibitions in the cities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "990F2B4B40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "But how to understand the world without the voice of people?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BBB290E81B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Landscape was not enough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28152F6DA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "It was obvious to me to do another work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB2B05568C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "I launched a project named Six Billion Others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D279154504",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 45,
+        "endOffset": 89,
+        "text": "the same question, the same crucial question",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6C9AEB6DC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "We have done five thousand interviews.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C79B5B352",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "I'm going to show you this.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "56492AA038",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Man: The most beautiful thing that has happened to me in life?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED6BF7683E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "It's when my dad told me, \"Here, I give you this girl as your fiance.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07BA478D32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Woman: Love?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BE3CCF40B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Love is nice if you can have it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BB45A6B61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 12,
+        "endOffset": 78,
+        "text": "Romeo and Juliet, Sassi and Panno, Dodi and Diana, Heer and Ranjha",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "61B05BF40A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Third Man: My greatest fear is ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B0CCDFBE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 7,
+        "endOffset": 40,
+        "text": "You're asking me a hard question.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "67ABC682C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "What can I say?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4565E5E418",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "At the moment, my family is very poor, my life here in Shenzhen is just about showing myself that I can earn more and to let my parents stay and have something to live on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D693C7DC05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "I don't want them to spend their whole lives in poverty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA52D1EEF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "If someday I can achieve something, I would like to say thank you daddy and mommy.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8246DFA081",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "411B4C4C60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Thank you for having fed me and raised me, and for making my life of today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F0D56DA4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 11,
+        "endOffset": 129,
+        "text": "13th Man: After seven years now of being in a wheelchair, I've done more in life being in a chair than out of a chair.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A43DEC78B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 11,
+        "endOffset": 129,
+        "text": "13th Man: After seven years now of being in a wheelchair, I've done more in life being in a chair than out of a chair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38423AEECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "I still surf.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB32270E42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "I sail the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F663BB4726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "I freedive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "660DA081B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "After many people said I couldn't do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "223B2024FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "And I think that comes from connecting with nature, connecting with the energy of life, because we're all disabled in some way on the planet -- spiritually, mentally or physically.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5F812ABA24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "And I think that comes from connecting with nature, connecting with the energy of life, because we're all disabled in some way on the planet -- spiritually, mentally or physically.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47A3706AA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I got the easy part.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "71B122CDA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 21,
+        "endOffset": 73,
+        "text": "14th Man: Let's say that you and me like each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0036984F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "You come from elsewhere.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9EC449F276",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "You don't know me.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "007800E1B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 33,
+        "endOffset": 59,
+        "text": "conquered the whole planet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D89238068D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "We've managed to adapt, and have conquered the whole planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6885B54B48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 50,
+        "endOffset": 86,
+        "text": "not unlike millions of other species",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E3CE99D6F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "For generations, we've been raising our children, not unlike millions of other species living beside us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "215EB30B41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "For the past 30 years I've been closely watching the earth and its dwellers from high up in the sky.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F89961542B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Our life is tied to the well-being of our planet.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "71C52FA323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Our life is tied to the well-being of our planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29AEE12BBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "We depend on water, forests, deserts, oceans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F829F306E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Fishing, breeding, farming are still the world's foremost human occupations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39FD7BA402",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 30,
+        "endOffset": 62,
+        "text": "far greater than what divides us",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9CB05F704A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And what binds us together is far greater than what divides us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7FFE4356B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 52,
+        "endOffset": 108,
+        "text": "the same wish to rise above ourselves, and become better",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AAA659C157",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "We all share the same need for the earth's gifts -- the same wish to rise above ourselves, and become better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59A146711E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And yet we carry on raising walls to keep us apart.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D876BC4565",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Today our greatest battle is to protect the natural offerings of our planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF6BF48ADA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "In less than 50 years we've altered it more thoroughly than in the entire history of mankind.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A549E2E54A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "In less than 50 years we've altered it more thoroughly than in the entire history of mankind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A83A9EFD18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Half of the world's forests have vanished.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39118FAF0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Water resources are running low.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F41CE6680",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Intensive farming is depleting soils.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66290AD562",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Our energy sources are not sustainable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E71662BA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "The climate is changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A00DBDFDB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We are endangering ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F45058D57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "We're only trying to improve our lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F0024CF9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "But the wealth gaps are growing wider.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09DB3D8F14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "We haven't yet understood that we're going at a much faster pace than the planet can sustain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0C28E684A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "We know that solutions are available today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BF343432A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "We all have the power to change this trend for the better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B26ABC4CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So what are we waiting for?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1B77ACFFBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "(Applause) YAB: Luc Besson is the producer of the movie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "360E1DDBB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "But it is not a normal movie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7D5442B74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "The film is going to be distributed free.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1BA7B3EFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "This film has no copyright.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "579A2F9956",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "On the five of June, the environment day, everybody can download the movie on Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77320EF059",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "The film is given for free to the distributor for TV and theater to show it the fifth of June.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDAF94ECB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "There is no business on this movie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6A65687F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 50,
+        "endOffset": 53,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E37257B1D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "It is also available for school, cities, NGOs and you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35F538DA7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "We have to believe what we know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CC5C250AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Let me tell you something.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "44D0095444",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 35,
+        "endOffset": 50,
+        "text": "really too late",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "6FBDEA724F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's too late to be pessimistic -- really too late.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B28B4DBD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "We have all a part of the solutions.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FF16ACE7FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "We have all a part of the solutions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13CA36B548",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "To finish, I would like to welcome the 4,700th baby born since the beginning of this talk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBB2357232",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Merci beaucoup.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6596D58DD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "I love you.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A5B0F0691D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "I love you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCA9390D96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03AEFA2077",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Fourth Man: I live happily because what else should I do?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EAD052EEC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Fifth Man: The first thing I remember ...",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8BC29272EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "(Sixth Man: That's how I learned, by my mother,) Fifth Man: ... from my childhood, (Sixth Man: that you should respect humans.) Fifth Man: we were having fun, biking.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1EDBE80CBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "(Sixth Man: I will never forget those words.) Seventh Man: We invented stories, we flew around the world, while remaining in our attic.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "412511FFD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Eighth Man: I had a big laugh today.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D86003228B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "Ninth Man: You see, family is ... it's awful. 10th Man: In the word life, you have the life. 11th Man: Who am I?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6796722FCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "Isn't that the biggest question? 12th Man: If I was to go back to Iraq and speak to the people, I'd have to bow down and kiss their feet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "41F1550947",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Just as that woman tried to kiss my feet when we were taking her sons.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7B5158E6BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "I feel ashamed.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9D16C58BBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And I feel humbled by their strength.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F86B0651E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And I will forever feel a need to make reparations to Iraq.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A933AF7269",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Second Woman: Dad, Mom, I grew up.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "93D13D9ECC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "You shouldn't worry about me.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E21767F976",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Dad doesn't need to go to work.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A2F9A1CEE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "My family ...",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A9656AA186",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "I don't know you.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1A44DC915E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "We talk without lying.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "277E9A19B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "If I do like you, I give you one cow and many other things and we become friends.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F678EDB100",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "How can we make it all by ourselves?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6507FF098C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "(Applause) YAB: You can also go to the website, answer -- respond to the questions also.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FE0DD475A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Forty crucial questions.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4FF207757E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Now I am going to speak to you about my movie.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A370E2CB8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "For the last three years, I was shooting the earth for the movie.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8933EB3588",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "The name of the movie is \"Home\" -- \"Maison.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CB7963BE90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It is about the state of the planet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BE1C5D4513",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It's a fantastic story of life on the earth.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D813A84D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I'm very proud to show you the teaser.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9172AB9D27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Video: This Earth is four and a half billion years old.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C3E2E26B74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "These plants, several hundred million years old.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A4D892E080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And we humans have been walking upright for only 200 thousand years.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "322FAD5B31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

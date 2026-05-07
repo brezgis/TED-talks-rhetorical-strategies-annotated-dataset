@@ -1,0 +1,1868 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10189,
+  "title": "Got a wicked problem? First, tell me how you make toast",
+  "author": "Tom Wujec",
+  "url": "https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:57:27.647549Z",
+  "updated_at": "2026-05-07T10:57:27.647549Z",
+  "lead_time": 67.417,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 174,
+        "endOffset": 190,
+        "text": "trivial at first",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "521288F8EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 240,
+        "endOffset": 265,
+        "text": "reveals unexpected truths",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "29F815781F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 325,
+        "text": "Some years ago, I stumbled across a simple design exercise that helps people understand and solve complex problems, and like many of these design exercises, it kind of seems trivial at first, but under deep inspection, it turns out that it reveals unexpected truths about the way that we collaborate and make sense of things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C137BAE2FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "The exercise has three parts and begins with something that we all know how to do, which is how to make toast.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7BD849844",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 83,
+        "endOffset": 100,
+        "text": "you begin to draw",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A64AAC1D9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "It begins with a clean sheet of paper, a felt marker, and without using any words, you begin to draw how to make toast.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC341BDAB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And most people draw something like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08033CC67E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "They draw a loaf of bread, which is sliced, then put into a toaster.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AE3F5D61C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "The toast is then deposited for some time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18C1563E6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "It pops up, and then voila!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1975029CE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "After two minutes, toast and happiness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFAD36AD43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "Now, over the years, I've collected many hundreds of drawings of these toasts, and some of them are very good, because they really illustrate the toast-making process quite clearly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A1F7470A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And then there are some that are, well, not so good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1E182B39E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "They really suck",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "85531D2F61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "They really suck, actually, because you don't know what they're trying to say.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E66D321758",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Under close inspection, some reveal some aspects of toast-making while hiding others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F47D2D698C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 25,
+        "endOffset": 44,
+        "text": "all about the toast",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8268388674",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 50,
+        "endOffset": 87,
+        "text": "all about the transformation of toast",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "068022611D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "So there's some that are all about the toast, and all about the transformation of toast.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E705D9D4B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 28,
+        "endOffset": 49,
+        "text": "all about the toaster",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "12862BE8D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "And there's others that are all about the toaster, and the engineers love to draw the mechanics of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44CB615FCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA129FD3C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "It's about visualizing the experience that people have.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91B03AD336",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And then there are others that are about the supply chain of making toast that goes all the way back to the store.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD6046AF67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It goes through the supply chain networks of teleportation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9356109C7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "It goes through the supply chain networks of teleportation and all the way back to the field and wheat, and one all actually goes all the way back to the Big Bang.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DAF5B8B57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So it's crazy stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34FB4C7767",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 115,
+        "endOffset": 151,
+        "text": "and I'm wondering if you can see it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BA1329FB63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "But I think it's obvious that even though these drawings are really wildly different, they share a common quality,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52F81FAEC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Do you see it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3458B13975",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "What's common about these?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "11F1DEFF5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Most drawings have nodes and links.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A136BAD40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "So nodes represent the tangible objects like the toaster and people, and links represent the connections between the nodes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7803F2A489",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "And it's the combination of links and nodes that produces a full systems model, and it makes our private mental models visible about how we think something works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93AB810098",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So that's the value of these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C77E57ED0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "What's interesting about these systems models is how they reveal our various points of view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A17BB3B663",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "So for example, Americans make toast with a toaster.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FB1A529AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "That seems obvious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C02CF76E99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Whereas many Europeans make toast with a frying pan, of course, and many students make toast with a fire.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0EAE683E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I don't really understand this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF6A80C9E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "A lot of MBA students do this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65C3BFAF1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "map shock",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C4C4E82FD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 3,
+        "endOffset": 18,
+        "text": "you can measure",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "521A336282",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 125,
+        "endOffset": 134,
+        "text": "map shock",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6A8899A8F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It's too complex.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1986470586",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So the sweet spot is between 5 and 13.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6477CA0EBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 3,
+        "endOffset": 14,
+        "text": "if you want",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "24903B9602",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 89,
+        "endOffset": 173,
+        "text": "break down complex things into simple things and then bring them back together again",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A32530E5F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "So this brings us to our second part of the exercise, which is how to make toast, but now with sticky notes or with cards.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A26FBB5F6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So what happens then?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3B9C74A9BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Well, with cards, most people tend to draw clear, more detailed, and more logical nodes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7880A41ED7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 142,
+        "endOffset": 153,
+        "text": "Lego blocks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "48D6EEC5E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "You can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C59B29643E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Now, though this might seem trivial, it's actually really important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D160F3147B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 24,
+        "endOffset": 68,
+        "text": "expressing and then reflecting and analyzing",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "46C12F59B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "This rapid iteration of expressing and then reflecting and analyzing is really the only way in which we get clarity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EB4331B04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "It's the essence of the design process.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D60A861B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 89,
+        "endOffset": 102,
+        "text": "correlates to",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9A8CD99202",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "And systems theorists do tell us that the ease with which we can change a representation correlates to our willingness to improve the model.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9200AF0374",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "So sticky note systems are not only more fluid, they generally produce way more nodes than static drawings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DF5DE5BD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "The drawings are much richer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48FD161847",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And this brings us to our third part of the exercise, which is to draw how to make toast, but this time in a group.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45DA99CAF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So what happens then?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A3C999D6FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So what happens then?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03BE1D9664",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Well, here's what happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D569D64DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 21,
+        "endOffset": 76,
+        "text": "and then it gets really messy, and then it gets messier",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "282C1FE568",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "It starts out messy, and then it gets really messy, and then it gets messier, but as people refine the models, the best nodes become more prominent, and with each iteration, the model becomes clearer because people build on top of each other's ideas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B69166ECC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 187,
+        "endOffset": 196,
+        "text": "isn't it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "70A79DD1B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "What emerges is a unified systems model that integrates the diversity of everyone's individual points of view, so that's a really different outcome from what usually happens in meetings, isn't it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D283B373C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "So these drawings can contain 20 or more nodes, but participants don't feel map shock because they participate in the building of their models themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8722962A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Now, what's also really interesting, that the groups spontaneously mix and add additional layers of organization to it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEBFEF23E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "To deal with contradictions, for example, they add branching patterns and parallel patterns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28D28C99A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Oh, and by the way, if they do it in complete silence, they do it much better and much more quickly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D76F99EC4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Really interesting -- talking gets in the way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F25A0716EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "So here's some key lessons that can emerge from this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A96ECB8D1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 39,
+        "endOffset": 95,
+        "text": "situations as systems with nodes and their relationships",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CAF21A5A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "First, drawing helps us understand the situations as systems with nodes and their relationships.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E35C13DD9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 64,
+        "endOffset": 81,
+        "text": "much more fluidly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "78C4108F44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Movable cards produce better systems models, because we iterate much more fluidly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6AA2FFE9C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "And then the group notes produce the most comprehensive models because we synthesize several points of view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F7A7CE1C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So that's interesting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01628D9DEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "When people work together under the right circumstances, group models are much better than individual models.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAFE1FAD9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 71,
+        "endOffset": 97,
+        "text": "what if you wanted to draw",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D0C72B5040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 220,
+        "text": "So this approach works really great for drawing how to make toast, but what if you wanted to draw something more relevant or pressing, like your organizational vision, or customer experience, or long-term sustainability?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37BEFED0C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 10,
+        "endOffset": 27,
+        "text": "visual revolution",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "56A9FE888E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "There's a visual revolution that's taking place as more organizations are addressing their wicked problems by collaboratively drawing them out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "080443FF81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 52,
+        "endOffset": 75,
+        "text": "movable nodes and links",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A6FFB660F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And I'm convinced that those who see their world as movable nodes and links really have an edge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0580A4D7D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And the practice is really pretty simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C801A23192",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "you start with a question, you collect the nodes, you refine the nodes, you do it over again, you refine and refine and refine, and the patterns emerge, and the group gets clarity and you answer the question.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F6311725A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So this simple act of visualizing and doing over and over again produces some really remarkable outcomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EAF52D148",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "What's really important to know is that it's the conversations that are the important aspects, not just the models themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD792A4FED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And these visual frames of reference can grow to several hundreds or even thousands of nodes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA0E4CCD5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So, one example is from an organization called Rodale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23FEF26255",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Big publishing company.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "381E95B505",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "They lost a bunch of money one year, and their executive team for three days visualized their entire practice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64C29A8FAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 70,
+        "endOffset": 90,
+        "text": "systems upon systems",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "041C1A610A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "And what's interesting is that after visualizing the entire business, systems upon systems, they reclaimed 50 million dollars of revenue, and they also moved from a D rating to an A rating from their customers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADD48CC2E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "71B89AFCF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Because there's alignment from the executive team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D99FE71249",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 213,
+        "endOffset": 385,
+        "text": "so you can learn how to run a workshop here, you can learn more about the visual language and the structure of links and nodes that you can apply to general problem-solving",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "172B63AAC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 502,
+        "text": "So I'm now on a mission to help organizations solve their wicked problems by using collaborative visualization, and on a site that I've produced called drawtoast.com, I've collected a bunch of best practices. and so you can learn how to run a workshop here, you can learn more about the visual language and the structure of links and nodes that you can apply to general problem-solving, and download examples of various templates for unpacking the thorny problems that we all face in our organizations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "066092FA59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "So the seemingly trivial design exercise of drawing toast helps us get clear, engaged and aligned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDF3F284A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So next time you're confronted with an interesting challenge, remember what design has to teach us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "132C41B2A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 25,
+        "endOffset": 33,
+        "text": "tangible",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "04418ADABF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Make your ideas visible, tangible, and consequential.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA22F3FEE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "It's simple, it's fun, it's powerful, and I believe it's an idea worth celebrating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F36F74795",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96A60D6163",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9E08AB69C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

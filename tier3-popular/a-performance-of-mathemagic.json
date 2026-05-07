@@ -1,0 +1,4605 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10441,
+  "title": "A performance of \"Mathemagic\"",
+  "author": "Arthur Benjamin",
+  "url": "https://www.ted.com/talks/arthur_benjamin_a_performance_of_mathemagic",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:48:21.026626Z",
+  "updated_at": "2026-05-07T10:48:21.026626Z",
+  "lead_time": 159.633,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Good morning, ladies and gentlemen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A7BA261E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 37,
+        "endOffset": 50,
+        "text": "mathemagician",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A5D5DF8026",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "What that means is, I combine my loves of math and magic to do something I call \"mathemagics.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6B1335CB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 26,
+        "endOffset": 67,
+        "text": "I have a quick question for the audience.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DB9FE67478",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "By any chance, did anyone happen to bring with them this morning a calculator?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F974E7B2D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Seriously, if you have a calculator with you, raise your hand.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3D218322D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Raise your hand.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "46BA859F5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Did your hand go up?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9511759546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Now bring it out, bring it out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB3091C023",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Anybody else?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DE03FD722",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I see, I see one way in the back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2749349FF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "You sir, that's three.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "893ECA0CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And anybody on this side here?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7FE9DD0D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "OK, over there on the aisle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC5525DF32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Would the four of you please bring out your calculators, then join me up on stage.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9F2C463D94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Let's give them a nice round of applause.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F469B99E7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 11,
+        "endOffset": 24,
+        "text": "That's right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1C4885B48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Now, since I haven't had the chance to work with these calculators, I need to make sure that they are all working properly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C2263C5CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Would somebody get us started by giving us a two-digit number, please?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4E91FC0CF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "How about a two-digit number?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6F16AD16D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 22.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A494386C4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "AB: 22.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA80273FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And another two-digit number, sir?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "17B9273A92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 47.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "737A13AA7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "AB: Multiply 22 times 47, make sure you get 1,034, or the calculators are not working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5671889E50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Do all of you get 1,034? 1,034?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DCD633E34B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Volunteer: No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2136378931",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "AB: 594.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2F835CA51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Let's give three of them a nice round of applause there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0D8461E493",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 11,
+        "endOffset": 74,
+        "text": "Would you like to try a more standard calculator, just in case?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D71937BC73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "OK, great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "525DC3529C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 37,
+        "endOffset": 106,
+        "text": "I notice it took some of you a little bit of time to get your answer.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "35E6BB3204",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "That's OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E152858854",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "I'll give you a shortcut for multiplying even faster on the calculator.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5A41EA7F32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "There is something called the square of a number, which most of you know is taking a number and multiplying it by itself.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "20AB525154",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "For instance, five squared would be?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "248B9372EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 25.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5280794499",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "AB: 25.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD9AABD61A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "The way we can square on most calculators -- let me demonstrate with this one -- is by taking the number, such as five, hitting \"times\" and then \"equals,\" and on most calculators that will give you the square.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8438587645",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "On some of these ancient RPN calculators, you've got an \"x squared\" button on it, will allow you to do the calculation even faster.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28B5533341",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "What I'm going to try and do now is to square, in my head, four two-digit numbers faster than they can do on their calculators, even using the shortcut method.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09ED43C7F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 247,
+        "text": "What I'll use is the second row this time, and I'll get four of you to each yell out a two-digit number, and if you would square the first number, and if you would square the second, the third and the fourth, I will try and race you to the answer.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EE1B018A31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "706FBC9F80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So quickly, a two-digit number please.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDD1CF3EDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 37.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "191BA22C26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Arthur Benjamin: 37 squared, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E467DB42AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 23.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4F40F2C45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "AB: 23 squared, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DE5BE642A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 59.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A6348D9B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "AB: 59 squared, OK, and finally?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "394B8A3B16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Audience: 93.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34DDA55818",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "AB: 93 squared.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C48ED67417",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Would you call out your answers, please?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8DC6089CBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Volunteer: 1369.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8586AD871",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "AB: 1369.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11818B047C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Volunteer: 529.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CAD1348B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "AB: 529.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2181F73333",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Volunteer: 3481.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59C740EECC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "AB: 3481.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2132571426",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Volunteer: 8649.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F609799A26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "AB: Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FC1CC6F2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "(Applause) Let me try to take this one step further.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D4B5EAC50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "I'm going to try to square some three-digit numbers this time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CE9F2A31B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "I won't even write these down -- I'll just call them out as they're called out to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FB628E39B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Anyone I point to, call out a three-digit number.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E876A7F44A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Anyone on our panel, verify the answer.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "750A38300E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Just give some indication if it's right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60E87B19C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "A three-digit number, sir, yes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3AE12C7C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: 987.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A71735127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "AB: 987 squared is 974,169.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3BF8B10DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "(Laughter) AB: Yes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B125B86609",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C47797EDCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Another three-digit -- (Applause) -- another three-digit number, sir?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F55120A76C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: 457.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2027777477",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "AB: 457 squared is 205,849. 205,849?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "543A61F04D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "AB: Yes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EADF58F80B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "OK, another, another three-digit number, sir?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30C45FFD6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: 321.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71B6826F60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "AB: 321 is 103,041. 103,041.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1FDE3CB9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC9BEEB905",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "One more three-digit number please.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "737742653F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Audience: Oh, 722.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F83DA0D943",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "AB: 722 is 500, that's a harder one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC69C0EFFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Is that 513,284?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5A62A4FF76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Volunteer: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52F4F83BEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "AB: Yes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3168FD049D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Oh, one more, one more three-digit number please.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7825A2BF0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Audience: 162. 162 squared is 26,244.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2C2ED3CD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Volunteer: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F751D18A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "497A610B16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 27,
+        "endOffset": 68,
+        "text": "Let me try to take this one step further.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2473578AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 11,
+        "endOffset": 68,
+        "text": "I'm going to try to square a four-digit number this time.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "6C6BECBCFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "You can all take your time on this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DB62FD69DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 36,
+        "endOffset": 122,
+        "text": "I will not beat you to the answer on this one, but I will try to get the answer right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED83BB7A7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "To make this a little bit more random, let's take the fourth row this time, let's say, one, two, three, four.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE46C3BC10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "If each of you would call out a single digit between zero and nine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "389EFEDFBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Nine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53A666FCAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Seven.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C8205FB85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Five.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C5B6FD7D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "Eight. 9,758, this will take me a little bit of time, so bear with me. 95 million -- (Sighs) 218,564?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F4A049F7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Volunteer: Yes!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42E4F86C24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "AB: Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27076C1CB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 27,
+        "endOffset": 137,
+        "text": "Now, I would attempt to square a five-digit number -- and I can -- but unfortunately, most calculators cannot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B220729CFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 11,
+        "endOffset": 55,
+        "text": "Eight-digit capacity -- don't you hate that?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E440C387D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So, since we've reached the limits of our calculators -- what's that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E24BA3458D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Does yours go higher?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2F0A13E5B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Volunteer: I don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B21A4144D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "AB: Oh, yours does?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC183B8B00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Volunteer: I can probably do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "683C5053D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "AB: I'll talk to you later.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64C65023C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "In the meanwhile, let me conclude the first part of my show by doing something a little trickier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CC8793E47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Let's take the largest number on the board here, 8649.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6176D0DFA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Would you each enter that on your calculator?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4F5B49C896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 224,
+        "text": "And instead of squaring it this time, I want you to take that number and multiply it by any three-digit number that you want, but don't tell me what you're multiplying by -- just multiply it by any random three-digit number.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C7BAE7CD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "So you should have as an answer either a six-digit or probably a seven-digit number.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19A6420EC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "How many digits do you have, six or seven?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E4CB22A7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Seven, and yours?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB0929229C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Seven?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47CF8730DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Seven?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45159C0087",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "And, uncertain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C31BE4B47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Seven.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA0E7EC03F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Is there any possible way that I could know what seven-digit numbers you have?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6645BE117B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Say \"No.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05B1E90DCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "(Laughter) Good, then I shall attempt the impossible -- or at least the improbable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CBDE6F8BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "What I'd like each of you to do is to call out for me any six of your seven digits, any six of them, in any order you'd like.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "17DA39E7AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "(Laughter) One digit at a time, I shall try and determine the digit you've left out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E350BB02EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Starting with your seven-digit number, call out any six of them please.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5120E67DF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Volunteer: 1, 9, 7, 0, 4, 2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90A78E458C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "AB: Did you leave out the number 6?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21125E52BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Good, OK, that's one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAECF7527A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "You have a seven-digit number, call out any six of them please.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CCA0505926",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Volunteer: 4, 4, 8, 7, 5.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7278825D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I think I only heard five numbers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AFCE3B6FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "I -- wait -- 44875 -- did you leave out the number 6?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B04A8E9923",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Same as she did, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19B87B0399",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "You've got a seven-digit number -- call out any six of them loud and clear.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A217C8DD32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Volunteer: 0, 7, 9, 0, 4, 4.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "790A0063E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I think you left out the number 3?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "089E13C934",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "AB: That's three.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57A5BB31B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "The odds of me getting all four of these right by random guessing would be one in 10,000: 10 to the fourth power.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D7D1437770",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "OK, any six of them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60A064646A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "(Laughter) Really scramble them up this time, please.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6188BF65C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Volunteer: 2, 6, 3, 9, 7, 2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B08B51B6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Did you leave out the number 7?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "96A74BA1C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And let's give all four of these people a nice round of applause.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6E719FF621",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E71B9FD0F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 60,
+        "endOffset": 98,
+        "text": "while I mentally recharge my batteries",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "93B1347554",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 100,
+        "endOffset": 142,
+        "text": "I have one more question for the audience.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "85B87E1585",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "By any chance, does anybody here happen to know the day of the week that they were born on?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "441DB7E1CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "If you think you know your birth day, raise your hand.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1545BE7D7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Let's see, starting with -- let's start with a gentleman first.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67A036DF9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "What year was it, first of all?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D6DDD31ED4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "That's why I pick a gentleman first.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58B43DAE95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Audience: 1953. 1953, and the month?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C495662809",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "November what? 23rd -- was that a Monday?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA9D4EB987",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D152F241F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1B1D1431E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Somebody else?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "862F3F9205",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I haven't seen any women's hands up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5315013AB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "OK, how about you, what year?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B00AFF07F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "October what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A122DAD094",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Fifth -- was that a Wednesday?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A90DEC897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25F88430F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "I'll go way to the back right now, how about you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "63545FE46C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Yell it out, what year?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "591F5DFA2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Audience: 1959. 1959, OK -- and the month?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C4DD97F8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Audience: February.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F712ACAD85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "February what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F103146B3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Sixth -- was that a Friday?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA8587AFC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E0B306855",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Good, how about the person behind her?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7174B3F41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Call out, what year was it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9D1B6E0367",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Audience: 1947.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B25D0ECD2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "AB: 1947, and the month?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76A0448681",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: May.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56C7DEECE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "AB: May what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "405FD3C60D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Seventh -- would that be a Wednesday?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B51123D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10D1321589",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "AB: Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F827BC5F6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 11,
+        "endOffset": 78,
+        "text": "Anybody here who'd like to know the day of the week they were born?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4D821A5C06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "We can do it that way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2465735585",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Of course, I could just make up an answer and you wouldn't know, so I come prepared for that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD45FEB207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I brought with me a book of calendars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "103F5AF9D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 43,
+        "endOffset": 65,
+        "text": "because you never know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6A3A08982C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "(Laughter) I didn't mean to look at you, sir -- you were just sitting there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9BCB6F1E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 52,
+        "endOffset": 72,
+        "text": "if you wouldn't mind",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B965EB80E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This is a book of calendars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A7C01CF97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Who wanted to know their birth day?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C2054E2F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "What year was it, first of all?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DCFBCE3A2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Audience: 1966. 66 -- turn to the calendar with 1966.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5425DF81E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "And what month?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E8E7C5BCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Audience: April.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82154F0C3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "AB: April what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD273354AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Audience: 17th.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD29C61FAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I believe that was a Sunday.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E09D44D17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Can you confirm, Chris?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "90A9BA4D62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Chris Anderson: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "277C2EDEFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 4,
+        "endOffset": 30,
+        "text": "I'll tell you what, Chris:",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "34F49491EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 78,
+        "endOffset": 91,
+        "text": "do me a favor",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FEC7F342B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 220,
+        "text": "AB: I'll tell you what, Chris: as long as you have that book in front of you, do me a favor, turn to a year outside of the 1900s, either into the 1800s or way into the 2000s -- that'll be a much greater challenge for me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9707E3A75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "AB: What year would you like?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D6FAC55AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "CA: 1824.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "505962E80A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "AB: 1824, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C687BC203A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "AB: And what month?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5180F7AE87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "CA: June.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B95ECF0338",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "AB: June what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77B881AA56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "CA: Sixth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3EBE5A1FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "AB: Was that a Sunday?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "318F20386F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "CA: It was.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CCD189DC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "AB: And it was cloudy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F4F5A77EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "(Laughter) Good, thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "030A9706B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 65,
+        "endOffset": 86,
+        "text": "alluding to something",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "59F40C06D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 27,
+        "endOffset": 120,
+        "text": "But I'd like to wrap things up now by alluding to something from earlier in the presentation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE34A43C12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "There was a gentleman up here who had a 10-digit calculator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D3D2C1230",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Where is he, would you stand up, 10-digit guy?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1D79B483CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 4,
+        "endOffset": 65,
+        "text": "stand up for me just for a second, so I can see where you are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F716958F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "You have a 10-digit calculator, sir, as well?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "76A362D127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "OK, what I'm going to try and do, is to square in my head a five-digit number requiring a 10-digit calculator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51D178F268",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 45,
+        "endOffset": 62,
+        "text": "as well as for me",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EE8B51CF4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 36,
+        "endOffset": 62,
+        "text": "for you, as well as for me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6DCFFC6EDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 35,
+        "endOffset": 61,
+        "text": "what's going on in my mind",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6DF3BEFDB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "So you can actually, honestly hear",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5979F30396",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Now, I have to apologize to our magician friend Lennart Green.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4C33CB067",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 43,
+        "endOffset": 61,
+        "text": "reveal our secrets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B79CE3D0F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 67,
+        "endOffset": 165,
+        "text": "I'm not too afraid that people are going to start doing my show next week, so -- I think we're OK.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1C4EF69AC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Laughter) (Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "688DC84026",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "I'll get five digits: one, two, three, four.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D17AD77D9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Oh, I did this row already.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43D1237202",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Let's do the row before you, starting with you: one, two, three, four, five.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A8B89A5EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Call out a single digit",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5BBA458380",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Five.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1950A164D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Seven.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "025472A46F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Six.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B91079A91E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Eight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56CED242E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Three. 57,683 -- squared.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "217925953B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Yuck.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "42414AA2FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "228",
+        "end": "228",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Let me explain to you how I'm going to attempt this problem.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A497DA8ACF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "229",
+        "end": "229",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "I'm going to break the problem down into three parts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2AB686BD86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "I'll do 57,000 squared, plus 683 squared, plus 57,000 times 683 times two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F00FCB46F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "231",
+        "end": "231",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Add all those numbers together, and with any luck, arrive at the answer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D34F9DBA3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "232",
+        "end": "232",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Now, let me recap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A6ED4E14F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "233",
+        "end": "233",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Laughter) Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65E1D7379C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "234",
+        "end": "234",
+        "startOffset": 11,
+        "endOffset": 91,
+        "text": "While I explain something else -- (Laughter) -- I know, that you can use, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "938FA4CC1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "235",
+        "end": "235",
+        "startOffset": 11,
+        "endOffset": 122,
+        "text": "While I do these calculations, you might hear certain words, as opposed to numbers, creep into the calculation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "659CA3FDD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "236",
+        "end": "236",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Let me explain what that is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E75D5E63A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "237",
+        "end": "237",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "This is a phonetic code, a mnemonic device that I use, that allows me to convert numbers into words.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0378506B30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "238",
+        "end": "238",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "I store them as words, and later on retrieve them as numbers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63A665F840",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "239",
+        "end": "239",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I know it sounds complicated; it's not.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E7A19F3571",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "240",
+        "end": "240",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I don't want you to think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "86D1E209A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "240",
+        "end": "240",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "something out of \"Rain Man\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FEAB19FF21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "241",
+        "end": "241",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "(Laughter) There's definitely a method to my madness -- definitely, definitely.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCF6CBF227",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "242",
+        "end": "242",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Sorry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7AD7292C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "243",
+        "end": "243",
+        "startOffset": 11,
+        "endOffset": 58,
+        "text": "If you want to talk to me about ADHD afterwards",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8FDB1B36F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "244",
+        "end": "244",
+        "startOffset": 72,
+        "endOffset": 92,
+        "text": "you know who you are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "81A327F5FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "244",
+        "end": "244",
+        "startOffset": 96,
+        "endOffset": 165,
+        "text": "there is at least a 50 percent chance that I will make a mistake here",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FFDA70404C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "245",
+        "end": "245",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "If I do, don't tell me what the mistake is; just say, \"you're close,\" or something like that",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AF990036CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "246",
+        "end": "246",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "If, however, I am right, whatever you do, don't keep it to yourself, OK?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6EDDB12798",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "247",
+        "end": "247",
+        "startOffset": 11,
+        "endOffset": 64,
+        "text": "Make sure everybody knows that I got the answer right",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7ED017538E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "248",
+        "end": "248",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "So, without any more stalling, here we go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "662F27C3E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "249",
+        "end": "249",
+        "startOffset": 0,
+        "endOffset": 239,
+        "text": "I'll start the problem in the middle, with 57 times 683. 57 times 68 is 3,400, plus 476 is 3876, that's 38,760 plus 171, 38,760 plus 171 is 38,931. 38,931; double that to get 77,862. 77,862 becomes cookie fission, cookie fission is 77,822.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "694C0E23D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "250",
+        "end": "250",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "That seems right, I'll go on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "600C21CD91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "251",
+        "end": "251",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Cookie fission, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06AA98343C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "252",
+        "end": "252",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Next, I do 57 squared, which is 3,249, so I can say, three billion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A2DEC4D14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "253",
+        "end": "253",
+        "startOffset": 0,
+        "endOffset": 321,
+        "text": "Take the 249, add that to cookie, 249 -- add that to cookie, 250 plus 77, is 327 million -- fission, fission, OK, finally, we do 683 squared, that's 700 times 666, plus 17 squared is 466,489, rev up if I need it, rev up, take the 466, add that to fission, to get, oh gee -- 328,489.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "316A4AFF21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "254",
+        "end": "254",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Audience: Yeah!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE479821B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "255",
+        "end": "255",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "AB: Good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "085A95614E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "256",
+        "end": "256",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "687BABAF33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "257",
+        "end": "257",
+        "startOffset": 11,
+        "endOffset": 42,
+        "text": "I hope you enjoyed mathemagics.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36242467F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "258",
+        "end": "258",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04222AAEC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "259",
+        "end": "259",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60C07C5467",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

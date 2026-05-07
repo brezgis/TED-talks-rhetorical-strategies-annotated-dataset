@@ -1,0 +1,3993 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7934,
+  "title": "Toward a science of simplicity",
+  "author": "George M. Whitesides",
+  "url": "https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:35:55.161110Z",
+  "updated_at": "2026-05-07T07:35:55.161110Z",
+  "lead_time": 146.173,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 125,
+        "endOffset": 203,
+        "text": "they have thought about something, they are experts, they know what's going on",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4CE82C2445",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 23,
+        "endOffset": 35,
+        "text": "you've heard",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1AA0F5B0BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "All of you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A411A3F2E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 9,
+        "endOffset": 65,
+        "text": "you know what simplicity is, you know what complexity is",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2410031BDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "The trouble is, I don't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D1F31B86E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 28,
+        "endOffset": 42,
+        "text": "share with you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "318204A658",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "I want you to read this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BAD970209D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "The quote is from the fabled Potter Stewart opinion on pornography.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D4BB7D9E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "And let me just read it, the important details here: 'Shorthand description, ['hardcore pornography']; and perhaps I could never succeed in intelligibly defining it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7C4181B8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 4,
+        "endOffset": 28,
+        "text": "I know it when I see it.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "998B5B1BD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "I'm going to come back to that in a moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "196E188B2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So, what is simplicity?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3EC4768CE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It's good to start with some examples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "426C69238E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 59,
+        "endOffset": 101,
+        "text": "much more interesting than one might think",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "40E9AA0048",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "A coffee cup -- we don't think about coffee cups, but it's much more interesting than one might think -- a coffee cup is a device, which has a container and a handle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C8BCA23C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "The handle enables you to hold it when the container is filled with hot liquid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9AFCC17FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Why is that important?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F5C618041D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Well, it enables you to drink coffee.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29DF97A82D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 22,
+        "endOffset": 39,
+        "text": "the coffee is hot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A4361C4A04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 64,
+        "endOffset": 105,
+        "text": "you're not likely to get cholera that way",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BF95AEC744",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "So the coffee cup, or the cup with a handle, is one of the tools used by society to maintain public health.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F2829CDE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 13,
+        "endOffset": 25,
+        "text": "your clothes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2CAD0DF0CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 27,
+        "endOffset": 59,
+        "text": "glasses enable you to see things",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2CF6EE2F29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 64,
+        "endOffset": 128,
+        "text": "keep you from being eaten by cheetahs or run down by automobiles",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D893BA7B82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 134,
+        "endOffset": 170,
+        "text": "books are, after all, your education",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84E5AF61EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "But there's another class of simple things, which are also very important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBE6F0A54D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Simple in function, but not at all simple in how they're constructed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC3CA65142",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And the two here are just examples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "406CAEE290",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "One is the cellphone, which we use every day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86C018DC80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "And it rests on a complexity, which has some characteristics very different from those that my friend Benoit Mandelbrot discussed, but are very interesting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A58278D4A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 229,
+        "text": "And the other, of course, is a birth control pill, which, in a very simple way, fundamentally changed the structure of society by changing the role of women in it by providing to them the opportunity to make reproductive choices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D004F7AC6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "So, there are two ways of thinking about this word, I think.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11F5F5F8AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 14,
+        "endOffset": 52,
+        "text": "corrupted the Potter Stewart quotation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "69AB69AB2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 208,
+        "endOffset": 305,
+        "text": "they're simple, the functions are simple, and we recognize what that simplicity is when we see it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E2998F079F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 97,
+        "endOffset": 137,
+        "text": "if you associate with moral philosophers",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "59D22BDB38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "The teapot problem I'll pose this way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4886314AE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Suppose you see a teapot, and the teapot is filled with hot water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E890127F5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And you then ask the question:",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BE99FF83BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And you then ask the question: Why is the water hot?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBFE52C41A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And that's a simple question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC06DB8543",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It's like, what is simplicity?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E4A9C10FEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "One answer would be: because the kinetic energy of the water molecules is high and they bounce against things rapidly -- that's a kind of physical science argument.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE0226A3FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "A second argument would be: because it was sitting on a stove with the flame on -- that's an historical argument.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "410300C314",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "A third is that I wanted hot water for tea -- that's an intentional argument.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCF7F8B6F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And, since this is coming from a moral philosopher, the fourth would be that it's part of God's plan for the universe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F96DE2D129",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "All of these are possibilities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4763B2ABCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 18,
+        "endOffset": 101,
+        "text": "you get into trouble when you ask a single question with a single box for an answer",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B1891A0162",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "The point is that you get into trouble when you ask a single question with a single box for an answer, in which that single question actually is many questions with quite different meanings, but with the same words.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47B9DCEBC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Asking, \"What is simplicity?\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "267B5A3F1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I think falls in that category.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC6E377730",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "What is the state of science?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DD1C76CA70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And, interestingly, complexity is very highly evolved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32109A5AC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "We have a lot of interesting information about what complexity is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39A3EB3EDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Simplicity, for reasons that are a little bit obscure, is almost not pursued, at least in the academic world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CAA9F2EB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "We academics -- I am an academic -- we love complexity.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DF804057D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "We academics -- I am an academic -- we love complexity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "818137C3EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "You can write papers about complexity",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1D2737BCC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 43,
+        "endOffset": 108,
+        "text": "the nice thing about complexity is it's fundamentally intractable",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF268A526F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "You can write papers about complexity, and the nice thing about complexity is it's fundamentally intractable in many ways, so you're not responsible for outcomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6833A26572",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "(Laughter) Simplicity -- all of you really would like your Waring Blender in the morning to make whatever a Waring Blender does, but not explode or play Beethoven.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72D9429C4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "You're not interested in the limits of these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A369FB6245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "So what one is interested in has a lot to do with the rewards of the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "115B4E080D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And there's a lot of rewards in thinking about complexity and emergence, not so much in thinking about simplicity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E693A91354",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "One of the things I want to do is to help you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "278E05B4FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 76,
+        "endOffset": 112,
+        "text": "which you may not know that you have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F2CB05B77C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 223,
+        "text": "One of the things I want to do is to help you with a very important task -- which you may not know that you have very often -- which is to understand how to sit next to a physicist at a dinner party and have a conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F2B06606D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "(Laughter) And the words that I would like you to focus on are complexity and emergence, because these will enable you to start the conversation and then daydream about other things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AAF43695F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 11,
+        "endOffset": 87,
+        "text": "All right, what is complexity in this view of things, and what is emergence?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8325617A2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 11,
+        "endOffset": 87,
+        "text": "All right, what is complexity in this view of things, and what is emergence?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A105235C3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "We have, actually, a pretty good working definition of complexity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B5D111604",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It is a system, like traffic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A3A650F57F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It is a system, like traffic, which has components.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "168A441EB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "The components interact with one another.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8632D8D791",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "These are cars and drivers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C84F7F72A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "They dissipate energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D8959050E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 75,
+        "endOffset": 131,
+        "text": "you in Los Angeles probably know this better than anyone",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "37BE5D55B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "It turns out that, whenever you have that system, weird stuff happens, and you in Los Angeles probably know this better than anyone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0956797350",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Here's another example, which I put up because it's an example of really important current science.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "075DD4BB71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "You can't possibly read that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "841A50442A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "It's not intended that you read it, but that's a tiny part of the chemical reactions going on in each of your cells at any given moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2020CA29E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And it's like the traffic that you see.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F36919DE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "The amazing thing about the cell is that it actually does maintain a fairly stable working relationship with other cells, but we don't know why.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EE4BF30AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Anyone who tells you that we understand life, walk away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EFE6EC183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And let me reduce this to the simplest level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7553DDE8CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We've heard from Bill Gates recently.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCE741EE8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "All of us, to some extent, study this thing called a Bill Gates.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9DC0FE923E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Terrific.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC4C927BF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "You learn everything you can about that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "90A8360B4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And then there's another kind of thing that you might study, and you study that hard.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D33AFBC8E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "That's a Bono, this is a Bono.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91BD67B73F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "But then, if you know everything you can know about those two things, and you put them together, what can you say about this combination?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "52BBFE7868",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "The answer is, not a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8F3907BD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And that's complexity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7701FBE94C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 62,
+        "endOffset": 72,
+        "text": "you've got",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "070488801F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 14,
+        "endOffset": 29,
+        "text": "let me give you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B0AB6A2A73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And I want to introduce a word that I think is very useful, which is stacking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB39BA1AF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 94,
+        "endOffset": 119,
+        "text": "so simple and so reliable",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ECF767E13A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 35,
+        "endOffset": 68,
+        "text": "reliable, predictable, repeatable",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "674D0ADFC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And I'm going to use as an example the Internet, because it's a particularly good example of stacked simplicity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5095C10D6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "We call it a complex system, which it is, but it's also something else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A240C1730E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "The Internet starts with mathematics, it starts with binary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78116C3824",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 4,
+        "endOffset": 15,
+        "text": "if you look",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F58D3CD4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "In binary, one is 0001, seven is 0111.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEA4223193",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "The question is: Why is binary simpler than Arabic?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62678656C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 110,
+        "endOffset": 157,
+        "text": "it's sort of hard to say that I just did seven.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AB4AEC39C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "The virtue of binary is that it's the simplest possible way of representing numbers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72AAEB82AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Anything else is more complicated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B74FF2F495",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "37B15D9501",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "You can catch errors with it, it's unambiguous in its reading, there are lots of good things about binary.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "91CA27D7D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 32,
+        "endOffset": 41,
+        "text": "you learn",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2EF88F0F3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "So it is very, very simple once you learn how to read it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "294385E203",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 8,
+        "endOffset": 16,
+        "text": "you like",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2B656BD0AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Now, if you like to represent this zero and one of binary, you need a device.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C97754FBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 13,
+        "endOffset": 32,
+        "text": "things in your life",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A77DB99AC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And think of things in your life that are binary, one of them is light switches.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5244962CAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "They can be on and off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38F7A3DA2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "That's binary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94E9D14FB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Now wall switches, we all know, fail.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "167A8B4DE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "But our friends who are condensed matter physicists managed to come up, some 50 years ago, with a very nice device, shown under that bell jar, which is a transistor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FCA158B4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "A transistor is nothing more than a wall switch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34F8AD389E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "It turns things on and off, but it does so without moving parts and it doesn't fail, basically, for a very long period of time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A45E5C376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So the second layer of simplicity was the transistor in the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21A5CB9C77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 39,
+        "endOffset": 50,
+        "text": "you can put",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B8CD1C6CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So, since the transistor is so simple, you can put lots of them together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36683C44A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And you put lots of them together and you come with something called integrated circuits.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9460A8EDE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "And a current integrated circuit might have in each one of these chips something like a billion transistors, all of which have to work perfectly every time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73DD1C1EBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "So that's the next layer of simplicity, and, in fact, integrated circuits are really simple in the sense that they, in general, work really well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06416B6275",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 26,
+        "endOffset": 29,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2DC2A60D43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "With integrated circuits, you can build cellphones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "291E38B653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "You all",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B3849119CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 33,
+        "endOffset": 37,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "59B5C90A62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "You all are accustomed to having your cellphones work the large majority of the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB626BAA90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "In Boston ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DA0DBBB47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 10,
+        "endOffset": 35,
+        "text": "a little bit like Namibia",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F0725568D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "Boston is a little bit like Namibia in its cell phone coverage, (Laughter) so that we're not accustomed to that all the time, but some of the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "528116030B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 17,
+        "endOffset": 20,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B72A6C8006",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 307,
+        "text": "But, in fact, if you have cell phones, you can now go to this nice lady who's somewhere like Namibia, and who is extremely happy with the fact that although she does not have an master's degree in electrical engineering from MIT, she's nonetheless able to hack her cell phone to get power in some funny way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EFEFAED5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And from that comes the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F803863116",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And this is a map of bitflows across the continent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EACB5C90A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "The two blobs that are light in the middle there are the United States and Europe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E44ADD18B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 9,
+        "endOffset": 33,
+        "text": "back to simplicity again",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1E959F53A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And then back to simplicity again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7CC04618E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "So here we have what I think is one of the great ideas, which is Google.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8FCF1172E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "Which, in this simple portal makes the claim that it makes accessible all of the world's information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85D8A754A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "But the point is that that extraordinary simple idea rests on layers of simplicity each compounded into a complexity that is itself simple, in the sense that it is completely reliable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D012DF7FC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "All right, let me then finish off with four general statements, an example and two aphorisms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5EEA713A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "The characteristics, which I think are useful to think about for simple things: First, they are predictable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBB8C708FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Their behavior is predictable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EF8DE6083",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 57,
+        "endOffset": 65,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F920A7BA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Now, one of the nice characteristics of simple things is you know what it's going to do, in general.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "876FD36156",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 3,
+        "endOffset": 32,
+        "text": "simplicity and predictability",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0B184290D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "So simplicity and predictability are characteristics of simple things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6A84DF000",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "The second is, and this is a real world statement, they're cheap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E9E687F55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "If you have things",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "37A169EBB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "If you have things that are cheap enough, people will find uses for them, even if they seem very primitive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0973717B54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "So, for example, stones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "901AA66F58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 14,
+        "endOffset": 24,
+        "text": "cathedrals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C2A1701E92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 40,
+        "endOffset": 74,
+        "text": "you just have to know what it does",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0E0B01328C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "You can build cathedrals out of stones, you just have to know what it does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E187FE593",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "You carve them in blocks and then you pile them on top of one another, and they support weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D67026EDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 19,
+        "endOffset": 41,
+        "text": "function, the function",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "34E4B5ACB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "So there has to be function, the function has to be predictable and the cost has to be low.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "945F763084",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "What that means is that you have to have a high performance or value for cost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E903F6E3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And then I would propose as this last component that they serve, or have the potential to serve, as building blocks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23FDD622AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "That is, you can stack them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7A790BAEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And stack can mean this way, or it can mean this way, or it can mean in some arbitrary n-dimensional space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1576FCDE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "But if you have something that has a function, and it's really cheap, people will find new ways of putting it together to make new things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E2A117BF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "Cheap, functional, reliable things unleash the creativity of people who then build stuff that you could not imagine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CBD88672B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "There's no way of predicting the Internet based on the first transistor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F9906681E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It just is not possible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2445527EAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So these are the components.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBD5965D3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 20,
+        "endOffset": 53,
+        "text": "something that I want to give you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C44401CF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 229,
+        "text": "We are very interested in delivering health care in the developing world, and one of the things that we wish to do in this particular business is to find a way of doing medical diagnosis at as close to zero cost as we can manage.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD99C57DDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 4,
+        "endOffset": 25,
+        "text": "how does one do that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B70CEE73C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "This is a world in which there's no electricity, there's no money, there's no medical competence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6308E1CFEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 36,
+        "endOffset": 64,
+        "text": "in going through the details",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36FB1E867C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's a little paper chip.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DBF434372",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 40,
+        "endOffset": 95,
+        "text": "the same technology that you use for making comic books",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1A57A36A19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 111,
+        "endOffset": 122,
+        "text": "inspiration",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BCDD61E061",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And you put a drop, in this case, of urine at the bottom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10F5AF1977",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "It wicks its way up into these little branches.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E8D38D2AC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "You know, no power required.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DA2A50B99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "It turns colors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABAC9249DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "In this particular case, you're reading kidney function.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB7A2DE540",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 314,
+        "text": "And, since the health care worker of much of this part of the world is an 18 year-old with an AK-47, who happens to be out of work and is willing to go around and do this sort of thing, he can take a picture of it with his cellphone, send the picture back to where there is a doctor, and the doctor can look at it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1747DF932A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "So what you've done",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F0B0334BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "So what you've done is to take a technology, which is available everywhere, make a device, which is extremely cheap, and make it in such a fashion that it is very, very reliable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9548A0B3D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "if we can pull this off, if we can build more function",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "75B90F7324",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "If we can pull this off, if we can build more function, it will be stackable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1ED7431B5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "That is to say, if we can make the basic technology of one or two things work, it will be applicable to a very, very large variety of human conditions, and hence, extendable in both vertical and horizontal directions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E26097318",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 127,
+        "endOffset": 137,
+        "text": "eviscerate",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C24A58B49D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 231,
+        "text": "Part of my interest in this, I have to say, is that I would like to -- how do I put this politely? -- change the way, or maybe eviscerate, the capital structure of the U.S. health care system, which I think is fundamentally broken.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "646FF866EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So, let me close -- (Applause) Let me close with my two aphorisms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F44800E150",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "One of them is from Mr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF3D066015",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Einstein",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C69EF81E92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Einstein, and he says, \"Everything should be made as simple as possible, but not simpler.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F18F916DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And I think that's a very good way of thinking about the problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48444864C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "If you take too much out of something that's simple, you lose function.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8986FD19A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "You have to have low cost, but you also have to have a function.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F403993E2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "You have to have low cost, but you also have to have a function.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D908E987E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So you can't make it too simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB21F5E84C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And the second is a design issue, and it's not directly relevant, but it's a nice statement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AB691BEB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This is by de Saint-Exupery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "801FB71209",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "And he says, \"You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4810CD6BEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And that certainly is going in the right direction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7F8A540C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 303,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "15470E570E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 303,
+        "text": "So, what I think one can begin to do with this kind of cut at the word simplicity, which doesn't cover Brancusi, it doesn't answer the question of why Mondrian is better or worse or simpler or less simpler than Van Gogh, and certainly doesn't address the question of whether Mozart is simpler than Bach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3175B08E70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 239,
+        "endOffset": 344,
+        "text": "as simple as we can, as cheap as we can, as functional as we can and as freely interconnectable as we can",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "362F6BA0B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 345,
+        "text": "But it does make a point -- which is one which, in a sense, differentiates the real world of people who make things, and the world of people who think about things, which is, there is an intellectual merit to asking: How do we make things as simple as we can, as cheap as we can, as functional as we can and as freely interconnectable as we can?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03D19DE523",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 73,
+        "endOffset": 81,
+        "text": "you guys",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "27C46B4FF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "If we make that kind of simplicity in our technology and then give it to you guys, you can go off and do all kinds of fabulous things with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00896888FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E537107B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "(Applause) Chris Anderson: Quick question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D6323FA78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 207,
+        "endOffset": 242,
+        "text": "point of danger or dysfunctionality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9124468A39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 308,
+        "text": "So can you picture that a science of simplicity might get to the point where you could look out at various systems -- say a financial system or a legal system, health system -- and say, \"That has got to the point of danger or dysfunctionality for the following reasons, and this is how we might simplify it\"?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C65DC5380F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "George Whitesides: Yes, I think you could.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2A3BCE053",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "Because if you look at the components from which the system is made and examine their fragility, or their stability, you can probably build a kind of risk assessment based on that basis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FAB967E69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "CA: Have you started to do that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E30059AF8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "I mean, with the health system, you got a sort of radical solution on the cost side, but in terms of the system itself?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54BCD117AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "GW: Well, no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E7C9EA2AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "How do I put that simply?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04EDA08B71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58A4E9A59A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "CA: That was a simple, powerful answer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4455DEE88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "GW: Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6E690C682",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 64,
+        "endOffset": 103,
+        "text": "where is that, and when do you see that",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "576E1CBF7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 4,
+        "endOffset": 27,
+        "text": "That's coming out soon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7E25DF04D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "I mean, the systems work, and we have to find out how to manufacture them and do things of this kind, but the basic technology works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35AD6922DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 4,
+        "endOffset": 38,
+        "text": "You've got a company set up to ...",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E46604B8A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 4,
+        "endOffset": 31,
+        "text": "A foundation, a foundation.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8DEB6A7560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Not-for-profit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CD61BA48B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 4,
+        "endOffset": 14,
+        "text": "All right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDBFEB7CE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Well, thank you so much for your talk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5597F69DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80C7C67717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "952017DA25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

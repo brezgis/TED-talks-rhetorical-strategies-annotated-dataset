@@ -1,0 +1,3585 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8920,
+  "title": "Why bittersweet emotions underscore life's beauty",
+  "author": "Susan Cain",
+  "url": "https://www.ted.com/talks/susan_cain_why_bittersweet_emotions_underscore_life_s_beauty",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:26:48.156805Z",
+  "updated_at": "2026-05-07T12:26:48.156805Z",
+  "lead_time": 179.056,
+  "result": [
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 56,
+        "endOffset": 70,
+        "text": "rocket to Mars",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA4044B933",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And so whether you're talking about a violin piece or a rocket to Mars, there's really no difference between those two things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF1E7B51DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 15,
+        "endOffset": 29,
+        "text": "longing itself",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "117D1C802F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 67,
+        "endOffset": 79,
+        "text": "to reach for",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "77EC21FD79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 81,
+        "endOffset": 89,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "34185BFBEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Like, the word longing itself, the etymology of it literally means to reach for, you know, to grow longer and to reach for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06F58765C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And that's what we're doing when we're creative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F0D16F0FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And I do want to hasten to say that ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50E6631253",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "You don't need to compose a symphony that people are going to be listening to hundreds of years later.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E7BA871BA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "You don't need to compose a symphony that people are going to be listening to hundreds of years later.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBEF322CFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "You don't have to build the rocket to Mars",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7FA4A0BC74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "You don't have to build the rocket to Mars in order to express that fundamental human creativity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7792DF62FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "You could be sitting at home and drawing a picture or baking a pie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81C5DBF4E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It doesn't really matter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2683167B7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 38,
+        "endOffset": 89,
+        "text": "expressions of our longing and of our better nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DEE66F9D7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Like, all these different actions are expressions of our longing and of our better nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0B0139310",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 105,
+        "endOffset": 119,
+        "text": "manifestations",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D6D0C003D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "I believe that the art and the music and the nature and religion and spirituality are all just different manifestations of the same thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D41619799A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "And what that thing is, we probably all have to define for ourselves, but it is the most fundamental drive in all of human nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D484038A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 28,
+        "endOffset": 36,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FF96465FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And I believe our best one, you know, it's the one that leads to creativity, but also to connection and to love.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B103DA927",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "literally",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E91BD616D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Like, I literally -- sorry to go on with this question, but I literally have sitting taped up in front of me in my office right now ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46A3E15C51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 83,
+        "endOffset": 99,
+        "text": "quote it for you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDBB4142CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "A quotation from the poet Jalāl al-Dīn Rūmī, who was a Sufi poet, and I'm going to quote it for you, but I'm just going to set the context of the poem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2980797057",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's basically ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "282D07AEBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 90,
+        "endOffset": 110,
+        "text": "Why are you praying?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8E5B3C49EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "It’s about a man who is praying to Allah, and a cynical person comes along and asks him, \"Why are you praying?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80E06B2F26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "You never got an answer back, did you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "343FB5B85C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "You never got an answer back, did you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C9BB8AB0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So why are you praying?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9ECB7FDA36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So why are you praying?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "652F02CEBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And the man thinks about it and is troubled by the cynic's observation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D030FF41E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 73,
+        "endOffset": 87,
+        "text": "guide of souls",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B33FC13008",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 107,
+        "endOffset": 132,
+        "text": "Why did you stop praying?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "51BAA3E3BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And he falls into a fitful sleep during which he's visited by Khidr, the guide of souls, who says to him, \"Why did you stop praying?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A83AA60677",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And he said, \"Well, you know, God never answered me, Allah never answered.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9AA6F60A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 120,
+        "endOffset": 134,
+        "text": "return message",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9D7C1E60C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "secret cup",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "29A215B8D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And this is what Khidr says to him, he says, and now I'm quoting from the poem itself, \"This longing you express is the return message.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "007BAE862D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 27,
+        "endOffset": 49,
+        "text": "draws you toward union",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "119C810BC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "The grief you cry out from draws you toward union.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF3ADB7725",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 41,
+        "endOffset": 51,
+        "text": "secret cup",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E2D80584E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Your pure sadness that wants help is the secret cup.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21045A52C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And I have this taped up in my office because I believe that ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04D1786FE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "I believe that that's the truth, whether we consider ourselves atheists or believers or somewhere in between.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75055A740A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "To me, is a false dichotomy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "794D6080BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "WPR: It's beautiful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C90115708",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 173,
+        "text": "Can you share a little bit more about the process that went into writing this book and how you ultimately found yourself in this place where bittersweet was the end product?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "395B84B7E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "SC: As most of us do, I come from a heritage of love and loss.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BA6D984BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 89,
+        "endOffset": 141,
+        "text": "we also end up responding to other beings in general",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0954D37800",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "We don't only respond to our own baby's tears, we end up responding to other babies, and we also end up responding to other beings in general.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FACB0EF6F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 107,
+        "endOffset": 135,
+        "text": "deep, compassionate instinct",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "82F8A98B36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 169,
+        "endOffset": 216,
+        "text": "propensity to these astonishing acts of cruelty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B0EC30E2DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "And we definitely do not get this right, because we also, as Darwin had noticed, Darwin said, we have this deep, compassionate instinct, but we also have obviously this propensity to these astonishing acts of cruelty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DC1DF1776",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So both of these things are part of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5EF68C5BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "And ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4E5A259AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 26,
+        "endOffset": 96,
+        "text": "how do we most draw on the compassionate side of our deeper instincts?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36AD24D578",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And the question becomes, how do we most draw on the compassionate side of our deeper instincts?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6AD2185F4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "WPR: There’s a question here from Miriam where they ask just about how we can be present for each other as we’re feeling different emotions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDC09F075B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "The question specifically is, \"Can we be fully present for one another if one is experiencing sadness and the other is happiness?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48ACC43417",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "SC: Yeah, I think the answer is to be fully present for each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71C7634328",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And I'll tell you one little hack that I've developed for that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F14BC223B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 16,
+        "endOffset": 38,
+        "text": "hack is the right word",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1ACEF17DC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I don’t know if hack is the right word.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5C617E799",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "But there’s this amazing video that went viral a few years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2C8876B09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "It was put out by the Cleveland Clinic Hospital.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99E917D7E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And this was a video that they put together to teach empathy to their caregivers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF6F0EAF8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 57,
+        "endOffset": 173,
+        "text": "moving through the corridors of the hospital, lingering for a moment on the face of this passer-by or that passer-by",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FDE0528B2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "And the way they did this, is they had a camera kind of, moving through the corridors of the hospital, lingering for a moment on the face of this passer-by or that passer-by.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8975548ECE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 36,
+        "endOffset": 42,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D5FA8583C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Just the way you do in normal life, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "847EC97268",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "You're like, walking through",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC19D2CBAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 33,
+        "endOffset": 36,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "74D495A0F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 33,
+        "endOffset": 36,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FB28C2E4FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "You're like, walking through and you just see people as you go and you’re not really thinking that much about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8D588DEF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 99,
+        "endOffset": 118,
+        "text": "you were passing by",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3599934EB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Except that in the case of this video, they had little captions underneath each random person that you were passing by.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E5B67C0AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 32,
+        "endOffset": 43,
+        "text": "joyful ones",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "79D0E3A101",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And sometimes the captions were joyful ones, like, \"just learned that he's going to be a father for the first time.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "277C7D4D82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "But because we're in a hospital, more often the captions are not so joyful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA42E044B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And it's things like, you know, caption under a little girl saying goodbye to her father for the last time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9A3AA6A1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's things like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD34CD7C73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And you cannot watch this video without tearing up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62FE784F0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "It's impossible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "857F6D0AFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Which is why it went viral.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D963B60FA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 26,
+        "endOffset": 44,
+        "text": "you're watching it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B3232CA436",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 26,
+        "endOffset": 29,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E9BB6E63BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "You also become aware, as you're watching it, you're not only tearing up, you literally are having the sensation of expanding chest muscles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09FB6B1812",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Like, you can feel it physically and literally",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B576906A2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Like, you can feel it physically and literally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97E570FB12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "And ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D86E0A2DDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "And we actually know from the work of Dacher Keltner, who I was just talking about, that we have our vagus nerve, which is the biggest bundle of nerves in our body, and it governs our most fundamental instincts, like breathing and digestion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29837DDBD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "You know it's really basic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7127FB8EDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "But your vagus nerve also responds and fires up when it sees somebody else in distress.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E148046FE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "So you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FAD081F461",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "So you know, this is a very deep and fundamental impulse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D6B348728",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 94,
+        "endOffset": 160,
+        "text": "imagining what people's captions are as you walk through the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3C0C300354",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "And what I take from the lesson of that Cleveland Clinic video is just the simple exercise of imagining what people's captions are as you walk through the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B4FCC4777",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 10,
+        "endOffset": 13,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2658A5B773",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "You know, you don't necessarily know them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4BDD44B00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 82,
+        "endOffset": 115,
+        "text": "I'm thinking, what's her caption?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "73C0A8A353",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "But now I'll go into a grocery store and as the person's ringing up my groceries, I'm thinking, what's her caption?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EA7F1D7CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "What is it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADCB8678CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 68,
+        "endOffset": 71,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "66FCBE1D81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And it's a completely different way of interacting with people once you do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAB6C7D393",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "WPR: And connected to this, Gordon asks how your experience with the pandemic and lockdown informed the writing of the book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "309A943551",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Did it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "68113AB982",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Did it change the book from what you initially envisioned it to be?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75A67223A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "SC: My father and my brother actually passed away from COVID quite early during the pandemic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1301FE69E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 152,
+        "endOffset": 184,
+        "text": "weather those particular moments",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9965DA9C28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "There's something about grappling with these subjects for years, as I had been doing, that actually helped me pass through those particular moments and weather those particular moments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C016181B86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 23,
+        "endOffset": 26,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E15E50FA8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "I guess I'll just give you one specific example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E4037D528",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 173,
+        "endOffset": 214,
+        "text": "light coming from the crack in everything",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1C696D6BEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 151,
+        "endOffset": 159,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9332A68F3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "So one of the wisdom traditions that I found most illuminating, and I wrote about this in the book, it's the one that Leonard Cohen's song comes from, you know, the idea of light coming from the crack in everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14B41E6444",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "So he got that from the Kabbalah, which is the mystical side of the Jewish tradition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74822F1CEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 201,
+        "endOffset": 211,
+        "text": "shattering",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "12B34EE8F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 212,
+        "text": "And one of the fundamental stories in the Kabbalah is the idea that all of creation originally was one divine vessel of light that ultimately shattered and that now we're living in the world after the shattering.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "159940C2C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 10,
+        "endOffset": 32,
+        "text": "divine shards of light",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D4016A5062",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 80,
+        "endOffset": 97,
+        "text": "buried in the mud",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A6137F0C9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "But these divine shards of light are still scattered all around us, and they're buried in the mud all around us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC50BAFD37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 60,
+        "endOffset": 66,
+        "text": "shards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0373AC60BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 90,
+        "endOffset": 116,
+        "text": "shine them up a little bit",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "05D563F906",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "And so our job is to walk through the world and pick up the shards where we can and maybe shine them up a little bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC8492CA05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 63,
+        "endOffset": 85,
+        "text": "you're going to notice",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F48E863968",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 51,
+        "endOffset": 57,
+        "text": "shards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "786EDAC910",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And the beauty is that I'm going to see one set of shards, but you're going to notice completely different ones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2348EFB37F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 24,
+        "endOffset": 39,
+        "text": "pick up our own",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8A96CF1E43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So we all go around and pick up our own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A45011E8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "When my father passed away from COVID, I started reflecting on his life and ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F28924BA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "My father was a person who ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "158047BE32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "He was a doctor and a med school professor, and he worked really, really hard and did great work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9BE6B6939",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 92,
+        "endOffset": 116,
+        "text": "senseless acts of beauty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D9227E0DDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "And at the same time that he did all that, he also would perform these, you could call them senseless acts of beauty, maybe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9022C764DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "He loved orchids, so he built a greenhouse full of orchids in our basement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "937419DDF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "For really no reason other than that he loved orchids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFEE4E5398",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And so he grew them and gazed at them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "596C0B57D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And he loved the French language, so he learned how to speak French, even though he had no time to visit France and rarely did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6329E3AB8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "But he would sit there and learn it and loved the act of learning it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90D91AE0CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And there were so many different things like this that he did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D0AA9F592",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 53,
+        "endOffset": 67,
+        "text": "acts of beauty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D901D30593",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 115,
+        "endOffset": 149,
+        "text": "seemingly senseless acts of beauty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E36EF1CB75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "And when he died, I started thinking about all those acts of beauty that he had performed in his work and in these seemingly senseless acts of beauty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74072E5AFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 25,
+        "endOffset": 31,
+        "text": "shards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "92C0C21D78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And I framed them all as shards that he had been picking up all his life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E1DA66E1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "And ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6E99637BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 109,
+        "endOffset": 122,
+        "text": "form of peace",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0F88CD019F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "And ... bringing me to some form of peace with his loss.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD2A1C6DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 44,
+        "endOffset": 145,
+        "text": "how can we better normalize talking about loss and talking about these feelings that you've mentioned",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D717334306",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "WPR: As we slowly come out of the pandemic, how can we better normalize talking about loss and talking about these feelings that you've mentioned our culture sort of shies away from?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5002B8D035",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "SC: Well, I think it's really helpful to start in our organizations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E8AA6EA4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "I mean, we can obviously start privately, which in some ways is the easiest because we don't have to corral anybody else to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE4AAF0040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "But in our organizations, there are small steps that we can take.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE142241D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "So I'm thinking, for example, I do a lot of public speaking, lately Zoom talks, where I come in and talk about introversion and I guess now bittersweetness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99A69EDD40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Anyway, I did one not that long ago, it was a Zoom call.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "549D8534B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And we were talking about the power of introverts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E534179420",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And the call started with a chat, just the way this one did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE1C453EAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And the organizer asked them questions like, \"How's everybody feeling today?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "377CA5B05B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And everybody typed in, you know, \"I'm feeling great.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE23433F61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "\"I'm feeling excited,\" \"I'm feeling joyful,\" feeling all these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1106A40A3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "And I love it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFEDE506A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "If they were in fact feeling that way, that's awesome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D1A651980",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And I also ask, what is the chance that everybody truly was feeling that way?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2F36E044E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "This long list of people coming into the chat, what's the chance that was accurate?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B612644289",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Maybe zero percent?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "233096F800",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 192,
+        "endOffset": 223,
+        "text": "What are you all truly feeling?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "55931C9D20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 1,
+        "endOffset": 38,
+        "text": "What are you going through right now?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DDEDB8CB61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And again, maybe anonymous and maybe not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A518E0833F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "When we're gathering in person, we could have whiteboards up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5160D0E3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 53,
+        "endOffset": 64,
+        "text": "parking lot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D6D79CF78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 142,
+        "endOffset": 162,
+        "text": "joys and the sorrows",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "45D3BF1F42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "We as a society need to figure out how we can start telling the truth of what it's like to be alive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37F9AE2713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "That's what I would say.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C0221896B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "I mean, that's actually the reason I write books, that's how I always think of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "799544C288",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "It's like there's really no point other than telling a truth that isn't otherwise being spoken out loud.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD529E33A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 50,
+        "endOffset": 58,
+        "text": "you know",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "343BCCB119",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "Once lots of people start talking about the same thing, it suddenly becomes OK to tell that particular truth of what it's like to be alive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F52B4B705B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "So we have to just find ways of telling it and then more and more people will share it. [Get access to thought-provoking events you won't want to miss.] [Become a TED Member at ted.com/membership.]",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D86C586588",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "Susan Cain: The idea of bittersweetness is that we live in a constant state, all humans do, it's a constant state of a kind of existence simultaneously of joy and sorrow, dark and light, bitter and sweet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A8C032F6BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "And then what comes with that is a heightened awareness of impermanence in all things, and also a kind of curiously piercing joy at the beauty of the world.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C3B6C1FFE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "Because there's something about having this deep awareness that the joy comes with sorrow, the sorrow comes with joy, that makes us really attuned to the insane beauty all around us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8C901A4E8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "You know, I think the Stoics come at that from one point of view.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A285F09BB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "You know, there's the stoic idea of, they would call it memento mori, to remember all the time that we could die tomorrow, we don't know what's going to happen.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "22D5426483",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And that's a way of both calming us down and also making life feel a little more precious.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FD0EFC6A4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "So you know, the Stoics come at it from that point of view.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "74A7DD5AC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 173,
+        "text": "I don't know that I think of myself as a Stoic explicitly, but I do feel there's something about being aware of life's fragility that situates us exactly where we should be.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "160B3A1CB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Whitney Pennington Rodgers: Why do you think art is a way that we see bittersweetness being expressed really masterfully?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A1D38AE86C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "SC: I believe that all humans ...",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "42DACD39D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "That the most fundamental aspect of our humanity is that we all have a kind of longing for a state that I call the perfect and beautiful world.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "898D870BFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "You know, like in \"The Wizard of Oz,\" it's called \"somewhere over the rainbow,\" all religions have their own name for it, my favorite is the Sufi name of the beloved of the soul.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5A5ED61E34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "And what creativity really is at the end of the day is an expression of that longing for a more perfect and beautiful world.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "53D38947DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "You know, what an artist or a musician is doing, is they're having a vision of ...",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AAF2BC4903",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "You know, the gap between the world that we're in and the world that they longed to be in and therefore to create.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1264865387",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "In my case, most members of my family, the previous generations, were killed in the Holocaust.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "893500D292",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "On my mother's side and my father's side.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5BDE67603F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "You know, I explore in the book the whole phenomenon of inherited grief, how it transmits to us, both culturally and epigenetically.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "63FCBAA5CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And so I think that that's a kind of unconscious backdrop that had been with me from the beginning.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "74C56F8367",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "Of just having a sense of kind of, like a tragic view of life, but also a view that I kind of, just can't believe how beautiful it is sometimes.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "52D8059E2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "So I'm sort of holding those two things at the same time.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8D9D7DCC7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And yeah, so I just had all these questions about how to make sense of this paradox of life.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "720B794A70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And so I just went off on this five-year journey.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4CADAFA393",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "I mean, I went and talked to Pete Docter, who is the director at Pixar, who created the movie \"Inside Out,\" which is a movie that's really all about sadness and the positive value that sadness has in our lives.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9E0634BCE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And as I say, I explored all these wisdom traditions.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C1BA86D417",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I went and talked to neuroscientists.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D7CBA9A1C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 256,
+        "text": "I spent a lot of time with a psychologist named Dacher Keltner, who's done all this fascinating, groundbreaking work on what he calls your inner compassionate instinct and how we're basically evolutionarily designed to react to the sadness of other beings.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C3CD3E8F47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "And this comes from the fact that we're creatures who have to take care of our young like, we don't survive if we don't do that.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FBB6E2D36B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And so that means that we're primed to respond to the cries of babies.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E38BFA3C5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Except it radiates out from there.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "97927A36E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

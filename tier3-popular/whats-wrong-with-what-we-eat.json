@@ -1,0 +1,4605 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10117,
+  "title": "What's wrong with what we eat",
+  "author": "Mark Bittman",
+  "url": "https://www.ted.com/talks/mark_bittman_what_s_wrong_with_what_we_eat",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:08:43.672984Z",
+  "updated_at": "2026-05-07T10:08:43.672984Z",
+  "lead_time": 167.411,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "I write about food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5027D008F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "I write about cooking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1E3457C5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "I take it quite seriously, but I'm here to talk about something that's become very important to me in the last year or two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CD8B5BBD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "It is about food, but it's not about cooking, per se.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BB4EFC4C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "I'm going to start with this picture of a beautiful cow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F9EC216EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I'm not a vegetarian -- this is the old Nixon line, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "54743FFDF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "But I still think that this -- (Laughter) -- may be this year's version of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "144DF79EE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Now, that is only a little bit hyperbolic.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "03F5900FD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And why do I say it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "44291FBD94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "Because only once before has the fate of individual people and the fate of all of humanity been so intertwined.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2C485F0DDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "There was the bomb, and there's now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA215AE778",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "And where we go from here is going to determine not only the quality and the length of our individual lives, but whether, if we could see the Earth a century from now, we'd recognize it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B250BE8FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It's a holocaust of a different kind",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7B05EC5557",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 36,
+        "endOffset": 85,
+        "text": ", and hiding under our desks isn't going to help.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "891D6FEE15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Start with the notion that global warming is not only real, but dangerous.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07E5E75EDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "Since every scientist in the world now believes this, and even President Bush has seen the light, or pretends to, we can take this is a given.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCBCB11FC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Then hear this, please.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4D89E051B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "After energy production, livestock is the second-highest contributor to atmosphere-altering gases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0305AA66A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Nearly one-fifth of all greenhouse gas is generated by livestock production -- more than transportation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B9C60E646",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Now, you can make all the jokes you want about cow farts",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "323CBABF9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 47,
+        "endOffset": 56,
+        "text": "cow farts",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5365FB6885",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Livestock is also one of the biggest culprits in land degradation, air and water pollution, water shortages and loss of biodiversity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D67C334EE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "There's more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A27E73A04D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Like half the antibiotics in this country are not administered to people, but to animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DECE3566B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 69,
+        "endOffset": 176,
+        "text": "if you're a progressive, if you're driving a Prius, or you're shopping green, or you're looking for organic",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F9C752838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 178,
+        "endOffset": 219,
+        "text": "you should probably be a semi-vegetarian.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "517E95FCE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Now, I'm no more anti-cattle than I am anti-atom, but it's all in the way we use these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB1A64BB4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "There's another piece of the puzzle, which Ann Cooper talked about beautifully yesterday, and one you already know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39F10F7AEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "There's no question, none, that so-called lifestyle diseases -- diabetes, heart disease, stroke, some cancers -- are diseases that are far more prevalent here than anywhere in the rest of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5DF3BC7C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And that's the direct result of eating a Western diet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B078C6B4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 75,
+        "endOffset": 116,
+        "text": "one billion cans or bottles of Coke a day",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB6FC3C23B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 233,
+        "text": "Our demand for meat, dairy and refined carbohydrates -- the world consumes one billion cans or bottles of Coke a day -- our demand for these things, not our need, our want, drives us to consume way more calories than are good for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82C5E9F507",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And those calories are in foods that cause, not prevent, disease.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D576AA95DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Now global warming was unforeseen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43B96EAD01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9B1E5C8ADD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "We didn't know that pollution did more than cause bad visibility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "878D18399E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 47,
+        "endOffset": 55,
+        "text": "you know",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4B473538E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Maybe a few lung diseases here and there, but, you know, that's not such a big deal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47A0384B41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 69,
+        "endOffset": 80,
+        "text": "evil empire",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "952FA1578F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "The current health crisis, however, is a little more the work of the evil empire.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2970437CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We were told, we were assured",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2250ED562B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "We were told, we were assured, that the more meat and dairy and poultry we ate, the healthier we'd be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF941F865D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E91053B68C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Overconsumption of animals, and of course, junk food, is the problem, along with our paltry consumption of plants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "984029906E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "Now, there's no time to get into the benefits of eating plants here, but the evidence is that plants -- and I want to make this clear -- it's not the ingredients in plants, it's the plants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A79519AA51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "it's not the beta-carotene, it's the carrot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D8453F1450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It's not the beta-carotene, it's the carrot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F77F968BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "The evidence is very clear that plants promote health.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78DBCD1F53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "This evidence is overwhelming at this point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52021FB8B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "you eat more plants, you eat less other stuff, you live longer",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "71E88EFC89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "You eat more plants, you eat less other stuff, you live longer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D526931A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Not bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3F1880ADE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "But back to animals and junk food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E62B0EB08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "What do they have in common?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E98A7D2954",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "What do they have in common?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FA7B48762",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "One: we don't need either of them for health.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1F340D04C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "We don't need animal products, and we certainly don't need white bread or Coke.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "442EC2F4F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Two: both have been marketed heavily, creating unnatural demand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C092BC3072",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "We're not born craving Whoppers or Skittles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "175A958F1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Three: their production has been supported by government agencies at the expense of a more health- and Earth-friendly diet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74AF73211E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Now, let's imagine a parallel.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C1CE265F77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "Let's pretend that our government supported an oil-based economy, while discouraging more sustainable forms of energy, knowing all the while that the result would be pollution, war and rising costs.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0912AB82D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Incredible, isn't it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1FE06C1DF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Yet they do that.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3C5059A5BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And they do this here.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C012D7FACF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "It's the same deal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EA221F603",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "The sad thing is, when it comes to diet, is that even when well-intentioned Feds try to do right by us, they fail.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B9A3A417F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Either they're outvoted by puppets of agribusiness, or they are puppets of agribusiness.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A479C3808E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 243,
+        "text": "So, when the USDA finally acknowledged that it was plants, rather than animals, that made people healthy, they encouraged us, via their overly simplistic food pyramid, to eat five servings of fruits and vegetables a day, along with more carbs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71AC2A6F73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "What they didn't tell us is that some carbs are better than others, and that plants and whole grains should be supplanting eating junk food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4418F8085E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "But industry lobbyists would never let that happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5FC997EE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "And guess what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A517198AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Half the people who developed the food pyramid have ties to agribusiness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0F19798C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 52,
+        "endOffset": 69,
+        "text": "swollen appetites",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7CAB2E84A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "So, instead of substituting plants for animals, our swollen appetites simply became larger, and the most dangerous aspects of them remained unchanged.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7982423055",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So-called low-fat diets, so-called low-carb diets",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4DE4374AE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "So-called low-fat diets, so-called low-carb diets -- these are not solutions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09A4B92107",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "But with lots of intelligent people focusing on whether food is organic or local, or whether we're being nice to animals, the most important issues just aren't being addressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "393AE6F5EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Now, don't get me wrong.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "983AE979CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 90,
+        "endOffset": 128,
+        "text": "churn them out like they were wrenches",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A8E9B81685",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "I like animals, and I don't think it's just fine to industrialize their production and to churn them out like they were wrenches.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8602440333",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "But there's no way to treat animals well, when you're killing 10 billion of them a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC6C5D7EDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "10 billion. 10 billion.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7608F62B71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 7,
+        "endOffset": 74,
+        "text": "strung all of them -- chickens, cows, pigs and lambs -- to the moon",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "66875CF8ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 76,
+        "endOffset": 127,
+        "text": "they'd go there and back five times, there and back",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "63CED7D729",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "If you strung all of them -- chickens, cows, pigs and lambs -- to the moon, they'd go there and back five times, there and back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E11C2C6376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 5,
+        "endOffset": 29,
+        "text": "my math's a little shaky",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "340CDA3D72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "Now, my math's a little shaky, but this is pretty good, and it depends whether a pig is four feet long or five feet long, but you get the idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAD2895883",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "That's just the United States.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8085E85EDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 128,
+        "endOffset": 139,
+        "text": "red herring",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BA493AA3E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "And with our hyper-consumption of those animals producing greenhouse gases and heart disease, kindness might just be a bit of a red herring.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5834258B36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "Let's get the numbers of the animals we're killing for eating down, and then we'll worry about being nice to the ones that are left.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DABBAF1AFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 8,
+        "endOffset": 19,
+        "text": "red herring",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3B1BA277E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "Another red herring might be exemplified by the word 'locavore,' which was just named word of the year by the New Oxford American Dictionary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96794F0D1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Seriously.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50BD0DFE7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 163,
+        "endOffset": 182,
+        "text": "a bit of a sad joke",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "99255FDFA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 14,
+        "endOffset": 45,
+        "text": "for those of you who don't know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "31FADCA94A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "Between the official story -- the food pyramid -- and the hip locavore vision, you have two versions of how to improve our eating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD50F918A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "(Laughter).",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9DD2F1583",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "They both get it wrong, though.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BD646E792",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The first at least is populist, and the second is elitist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D81CF4A881",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "How we got to this place is the history of food in the United States.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D99EAD78B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And I'm going to go through that, at least the last hundred years or so, very quickly right now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D82A3350DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "A hundred years ago, guess what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1851B70FE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "Everyone was a locavore: even New York had pig farms nearby, and shipping food all over the place was a ridiculous notion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42D92D62A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Every family had a cook, usually a mom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE0211A253",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And those moms bought and prepared food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BED06E422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 7,
+        "endOffset": 42,
+        "text": "like your romantic vision of Europe",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1904AFF33B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Margarine didn't exist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90A791BF53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "In fact, when margarine was invented, several states passed laws declaring that it had to be dyed pink, so we'd all know that it was a fake.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "868E190C60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "There was no snack food, and until the '20s, until Clarence Birdseye came along, there was no frozen food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC1F9B2AE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "There were no restaurant chains.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5E8AD057B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "There were neighborhood restaurants run by local people, but none of them would think to open another one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE5EAAB88E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Eating ethnic was unheard of unless you were ethnic.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A9CC71A5A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And fancy food was entirely French.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19F944E22B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 13,
+        "endOffset": 92,
+        "text": "those of you who remember Dan Aykroyd in the 1970s doing Julia Child imitations",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8800E0C0E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 11,
+        "endOffset": 68,
+        "text": "Back in those days, before even Julia, back in those days",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "73E9C72D88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "You just ate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "426FFF6AFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "You didn't claim to be anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A94E42AA70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "There was no marketing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EA006926F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "There were no national brands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1723B6B5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Vitamins had not been invented.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F8EF65A95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "There were no health claims, at least not federally sanctioned ones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7695AB473",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Fats, carbs, proteins -- they weren't bad or good, they were food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59247451DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "You ate food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "721E37B144",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 60,
+        "endOffset": 80,
+        "text": "it was an ingredient",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2685A4E7B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Hardly anything contained more than one ingredient, because it was an ingredient.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58AFD92CF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "The cornflake hadn't been invented.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA9871C24C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "(Laughter) The Pop-Tart, the Pringle, Cheez Whiz, none of that stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B0D8D0D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Goldfish swam.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0BDDB25A2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "(Laughter) It's hard to imagine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73043D3059",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "People grew food, and they ate food.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "683B21D992",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And again, everyone ate local.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "246C371646",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 13,
+        "endOffset": 53,
+        "text": "an orange was a common Christmas present",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7CCFF1FA43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In New York, an orange was a common Christmas present, because it came all the way from Florida.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "591D052148",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "From the '30s on, road systems expanded, trucks took the place of railroads, fresh food began to travel more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1574DB8926",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Oranges became common in New York.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F75C8E8846",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "The South and West became agricultural hubs, and in other parts of the country, suburbs took over farmland.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE2F371791",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "The effects of this are well known.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF76C8773F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "They are everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01DB5DF2BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 8,
+        "endOffset": 52,
+        "text": "death of family farms is part of this puzzle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2232792E40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "And the death of family farms is part of this puzzle, as is almost everything from the demise of the real community to the challenge of finding a good tomato, even in summer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8ADBCCD0A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Eventually, California produced too much food to ship fresh, so it became critical to market canned and frozen foods.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB64852109",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Thus arrived convenience.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "241EB405D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It was sold to proto-feminist housewives as a way to cut down on housework.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CDDA5AF28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Now, I know everybody over the age of, like 45 -- their mouths are watering at this point.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B256232D31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "(Laughter) (Applause) If we had a slide of Salisbury steak, even more so, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E59F3FA6EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 11,
+        "endOffset": 106,
+        "text": "But this may have cut down on housework, but it cut down on the variety of food we ate as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00A80C550B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Many of us grew up never eating a fresh vegetable except the occasional raw carrot or maybe an odd lettuce salad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA682671F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "I, for one -- and I'm not kidding -- didn't eat real spinach or broccoli till I was 19.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B93B44F75A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Who needed it though?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E30CFE4D8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Meat was everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1875DCAC87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "What could be easier, more filling or healthier for your family than broiling a steak?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "84516E9A71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "But by then cattle were already raised unnaturally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F83C72F158",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "Rather than spending their lives eating grass, for which their stomachs were designed, they were forced to eat soy and corn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "777CFA8963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "They have trouble digesting those grains, of course, but that wasn't a problem for producers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45CC6B5E16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "New drugs kept them healthy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17BA65B2F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Well, they kept them alive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42EDA2F940",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Healthy was another story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4153FE8A5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 105,
+        "endOffset": 116,
+        "text": "became king",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "522F3BE28D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Thanks to farm subsidies, the fine collaboration between agribusiness and Congress, soy, corn and cattle became king.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F98BB59FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 17,
+        "endOffset": 42,
+        "text": "joined them on the throne",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3C065587D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And chicken soon joined them on the throne.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5549F335BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 35,
+        "endOffset": 77,
+        "text": "cycle of dietary and planetary destruction",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4CBC6CED06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "It was during this period that the cycle of dietary and planetary destruction began, the thing we're only realizing just now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8FDE99A5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Listen to this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AF00E170BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Listen to this, between 1950 and 2000, the world's population doubled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D5907CB74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Meat consumption increased five-fold.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EC4459F41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Now, someone had to eat all that stuff, so we got fast food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "355EBB0D9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And this took care of the situation resoundingly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D8C74F7F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 52,
+        "endOffset": 66,
+        "text": "down the tubes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "16563CB331",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Home cooking remained the norm, but its quality was down the tubes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7816A8681",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "There were fewer meals with home-cooked breads, desserts and soups, because all of them could be bought at any store.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02EA50F929",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Not that they were any good, but they were there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8E7C57256",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "Most moms cooked like mine: a piece of broiled meat, a quickly made salad with bottled dressing, canned soup, canned fruit salad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "780F48C8BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 47,
+        "endOffset": 79,
+        "text": "stupidest food ever, Minute Rice",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9C22386A30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Maybe baked or mashed potatoes, or perhaps the stupidest food ever, Minute Rice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0CCF6AA57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "For dessert, store-bought ice cream or cookies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EECBAA507A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "My mom is not here, so I can say this now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12A06634E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "This kind of cooking drove me to learn how to cook for myself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC69553187",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E04908D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "By the '70s, forward-thinking people began to recognize the value of local ingredients.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC800165AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "We tended gardens, we became interested in organic food, we knew or we were vegetarians.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6A6B49A6D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "We weren't all hippies, either.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9851ACFD8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Some of us were eating in good restaurants and learning how to cook well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2568A67792",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Meanwhile, food production had become industrial.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39E4C9448E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Industrial.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE5A2112B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 73,
+        "endOffset": 121,
+        "text": "food gained magical or poisonous powers, or both",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9CCE192E47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 50,
+        "endOffset": 71,
+        "text": "as if it were plastic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A75B38A8EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Many people became fat-phobic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DC524539D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 27,
+        "endOffset": 49,
+        "text": "as if it were God-like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5D1FC25E7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "But mostly they didn't eat broccoli.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61148969B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 34,
+        "endOffset": 73,
+        "text": "yogurt being almost as good as broccoli",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "948F24EAE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "Except, in reality, the way the industry sold yogurt was to convert it to something much more akin to ice cream.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C06887BEC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Similarly, let's look at a granola bar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D053E3B7C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 97,
+        "endOffset": 125,
+        "text": "closer in form to a Snickers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "80D7D0808E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 56,
+        "endOffset": 67,
+        "text": "if you look",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B046C9C754",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 54,
+        "endOffset": 91,
+        "text": "put in a coma, if not actually killed",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "58F7A302A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Think of the frozen chicken nugget.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F8413C1A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 19,
+        "endOffset": 147,
+        "text": "corn, and then its meat is ground up, and mixed with more corn products to add bulk and binder, and then it's fried in corn oil.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1AD71CC9BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "All you do is nuke it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E332161B1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "What could be better?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1B2677AEAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And zapped horribly, pathetically.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54606AF1B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 40,
+        "endOffset": 49,
+        "text": "sad state",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DBB6FAD287",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 134,
+        "endOffset": 169,
+        "text": "we all have our favorites, actually",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4E0C969F89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "At the same time, masses of women were entering the workforce, and cooking simply wasn't important enough for men to share the burden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C3E50BEC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 8,
+        "endOffset": 155,
+        "text": "you've got your pizza nights, you've got your microwave nights, you've got your grazing nights, you've got your fend-for-yourself nights and so on.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4F5F5CDAB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 19,
+        "endOffset": 42,
+        "text": "what's leading the way?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "87C814BA02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 25,
+        "endOffset": 58,
+        "text": "the very stuff that will kill you",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5C990F7E96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So, now we clamor for organic food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20B555DEF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "That's good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25E7F70B3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And as evidence that things can actually change, you can now find organic food in supermarkets, and even in fast-food outlets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7BFA0A536",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "But organic food isn't the answer either, at least not the way it's currently defined.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74318AB508",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Let me pose you a question.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84C3E2E7E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 211,
+        "endOffset": 216,
+        "text": "filth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B619C8F199",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Can farm-raised salmon be organic",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FD5BC5D441",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "And if that salmon's from Chile, and it's killed down there and then flown 5,000 miles, whatever, dumping how much carbon into the atmosphere?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB0C5FC0F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "I don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AB9E19520",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "Packed in Styrofoam, of course, before landing somewhere in the United States, and then being trucked a few hundred more miles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93E68865BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 51,
+        "endOffset": 68,
+        "text": "organic in spirit",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F24646D377",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 12,
+        "endOffset": 29,
+        "text": "organic in letter",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5E9F88E45D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Now here is where we all meet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8086FBD889",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "The locavores, the organivores, the vegetarians, the vegans, the gourmets and those of us who are just plain interested in good food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6451DFAE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Even though we've come to this from different points, we all have to act on our knowledge to change the way that everyone thinks about food.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C622035515",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We need to start acting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE0BB03D3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 24,
+        "endOffset": 47,
+        "text": "issue of social justice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "642E890BC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "not only...but it's also",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B8E81DC0F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 87,
+        "endOffset": 109,
+        "text": "she's completely right",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7DC53846E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 15,
+        "endOffset": 26,
+        "text": "full circle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "93901A06A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "Which bring me full circle and points directly to the core issue, the overproduction and overconsumption of meat and junk food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "391FE7E02D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "As I said, 18 percent of greenhouse gases are attributed to livestock production.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C173938B1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 200,
+        "text": "How much livestock do you need to produce this? 70 percent of the agricultural land on Earth, 30 percent of the Earth's land surface is directly or indirectly devoted to raising the animals we'll eat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "409378A020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And this amount is predicted to double in the next 40 years or so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6852D5CB7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And if the numbers coming in from China are anything like what they look like now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "999E3CA0E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "There is no good reason for eating as much meat as we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED7348A1B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And I say this as a man who has eaten a fair share of corned beef in his life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A91F1199D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "The most common argument is that we need nutrients -- even though we eat, on average, twice as much protein as even the industry-obsessed USDA recommends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9B2D44591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "But listen: experts who are serious about disease reduction recommend that adults eat just over half a pound of meat per week.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B308BB4A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "What do you think we eat per day?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F88D5A08AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Half a pound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0873A464F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "But don't we need meat to be big and strong?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "92C9B311A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Isn't meat eating essential to health?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2A71847B3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Won't a diet heavy in fruit and vegetables turn us into godless, sissy, liberals?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AD2EABF41A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "(Laughter) Some of us might think that would be a good thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DF1472D2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "But, no, even if we were all steroid-filled football players, the answer is no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB34C3CC41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "In fact, there's no diet on Earth that meets basic nutritional needs that won't promote growth, and many will make you much healthier than ours does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "774DAC7B99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "We don't eat animal products for sufficient nutrition, we eat them to have an odd form of malnutrition, and it's killing us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9272F4C5AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 119,
+        "endOffset": 124,
+        "text": "a cut",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9632D15847",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "To suggest that in the interests of personal and human health Americans eat 50 percent less meat -- it's not enough of a cut, but it's a start.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B94A6142A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 114,
+        "endOffset": 144,
+        "text": "should be doing and advocating",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E775B7A9AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 213,
+        "text": "It would seem absurd, but that's exactly what should happen, and what progressive people, forward-thinking people should be doing and advocating, along with the corresponding increase in the consumption of plants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CB9AFBD8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 42,
+        "endOffset": 88,
+        "text": "omnivorously -- one might say indiscriminately",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "789DA46EBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "I've been writing about food more or less omnivorously -- one might say indiscriminately -- for about 30 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36803DD159",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "During that time, I've eaten and recommended eating just about everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D9A04D20E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "I'll never stop eating animals, I'm sure, but I do think that for the benefit of everyone, the time has come to stop raising them industrially and stop eating them thoughtlessly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EC2171AFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Ann Cooper's right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8584069CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "The USDA is not our ally here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81F065A89F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "We have to take matters into our own hands, not only by advocating for a better diet for everyone -- and that's the hard part -- but by improving our own.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8253497B4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "We have to take matters into our own hands, not only by advocating for a better diet for everyone -- and that's the hard part -- but by improving our own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCA2063B8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And that happens to be quite easy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97525B4884",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Less meat, less junk, more plants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0413ADB93A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "It's a simple formula: eat food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92125F5504",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Eat real food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE9F21ABBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "We can continue to enjoy our food, and we continue to eat well, and we can eat even better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE161A25E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "We can continue the search for the ingredients we love, and we can continue to spin yarns about our favorite meals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFE72E4E3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "We'll reduce not only calories, but our carbon footprint.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "025CC34031",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 33,
+        "endOffset": 41,
+        "text": "not less",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "99D45E6745",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "We can make food more important, not less, and save ourselves by doing so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "811B27B9B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We have to choose that path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEFBBE0CEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF0EF9FE7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

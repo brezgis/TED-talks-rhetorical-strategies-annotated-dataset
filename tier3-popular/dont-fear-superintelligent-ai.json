@@ -1,0 +1,2157 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10359,
+  "title": "Don't fear superintelligent AI",
+  "author": "Grady Booch",
+  "url": "https://www.ted.com/talks/grady_booch_don_t_fear_superintelligent_ai",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:15:48.968209Z",
+  "updated_at": "2026-05-07T12:15:48.968209Z",
+  "lead_time": 98.979,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 24,
+        "endOffset": 47,
+        "text": "the quintessential nerd",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B89D10832E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 8,
+        "endOffset": 29,
+        "text": "some of you were, too",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9946C9C766",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 15,
+        "endOffset": 53,
+        "text": "you, sir, who laughed the loudest, you",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F9D015A009",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 11,
+        "endOffset": 122,
+        "text": "I grew up in a small town in the dusty plains of north Texas, the son of a sheriff who was the son of a pastor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD7C0DF930",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Getting into trouble was not an option.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C525563454",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And so I started reading calculus books for fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA5D585D24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 11,
+        "endOffset": 23,
+        "text": "You did, too",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "62B2573B59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "That led me to building a laser and a computer and model rockets, and that led me to making rocket fuel in my bedroom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA1FCBA17A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 39,
+        "endOffset": 54,
+        "text": "a very bad idea",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D4EB454529",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 11,
+        "endOffset": 130,
+        "text": "Around that same time, Stanley Kubrick's \"2001: A Space Odyssey\" came to the theaters, and my life was forever changed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8148A0A3F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "I loved everything about that movie, especially the HAL 9000.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14EC049D49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Now, HAL was a sentient computer designed to guide the Discovery spacecraft from the Earth to Jupiter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E61EE4DA94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "HAL was also a flawed character, for in the end he chose to value the mission over human life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "471DCCAE0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 55,
+        "endOffset": 74,
+        "text": "speaks to our fears",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "43C9CFEE29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 114,
+        "endOffset": 148,
+        "text": "unfeeling, artificial intelligence",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AAC6C5C328",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "I believe that such fears are unfounded.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E29C8430E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 147,
+        "endOffset": 200,
+        "text": "machines of exquisite, beautiful complexity and grace",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E69015C16C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 211,
+        "endOffset": 267,
+        "text": "extend the human experience in ways beyond our imagining",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4C71CAA3F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 200,
+        "text": "After a career that led me from the Air Force Academy to Space Command to now, I became a systems engineer, and recently I was drawn into an engineering problem associated with NASA's mission to Mars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89720A43E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Now, in space flights to the Moon, we can rely upon mission control in Houston to watch over all aspects of a flight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A9AA70A2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "However, Mars is 200 times further away, and as a result it takes on average 13 minutes for a signal to travel from the Earth to Mars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F051D09F90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "If there's trouble, there's not enough time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1172925480",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And so a reasonable engineering solution calls for us to put mission control inside the walls of the Orion spacecraft.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58A84408B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 221,
+        "text": "Another fascinating idea in the mission profile places humanoid robots on the surface of Mars before the humans themselves arrive, first to build facilities and later to serve as collaborative members of the science team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CD875F7D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 190,
+        "text": "Now, as I looked at this from an engineering perspective, it became very clear to me that what I needed to architect was a smart, collaborative, socially intelligent artificial intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "897ABAF0AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 61,
+        "endOffset": 64,
+        "text": "HAL",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D46EC2DDA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 69,
+        "endOffset": 101,
+        "text": "without the homicidal tendencies",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4F4E8D5E9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D659479461",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Is it really possible to build an artificial intelligence like that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "25F68684FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Actually, it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F6F610EF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 79,
+        "endOffset": 109,
+        "text": "wet hair ball of an AI problem",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "69A2668483",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "To paraphrase Alan Turing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1A420F8A5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "I'm not building a HAL.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B28335C14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 59,
+        "endOffset": 83,
+        "text": "illusion of intelligence",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "88565EC16E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "All I'm after is a simple brain, something that offers the illusion of intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAC4090A3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "The art and the science of computing have come a long way since HAL was onscreen, and I'd imagine if his inventor Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7389592F0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Chandra were here today, he'd have a whole lot of questions for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FBFC99E27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Chandra were here today, he'd have a whole lot of questions for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB437E0874",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "Is it really possible for us to take a system of millions upon millions of devices, to read in their data streams, to predict their failures and act in advance?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A9E4E92F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "Is it really possible for us to take a system of millions upon millions of devices, to read in their data streams, to predict their failures and act in advance?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4545844C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E46F9BD57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Can we build systems that converse with humans in natural language?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2583AF114",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Can we build systems that converse with humans in natural language?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61BCFE82F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE06AB2B43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "Can we build systems that recognize objects, identify emotions, emote themselves, play games and even read lips?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "032CA1B877",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "Can we build systems that recognize objects, identify emotions, emote themselves, play games and even read lips?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FAF30F966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "444026A13D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Can we build a system that sets goals, that carries out plans against those goals and learns along the way?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EDA3FCBDEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Can we build a system that sets goals, that carries out plans against those goals and learns along the way?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BF4C56137",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE14A75063",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Can we build systems that have a theory of mind?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D327757120",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Can we build systems that have a theory of mind?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "879E6B9C33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "This we are learning to do.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6E39353A2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "This we are learning to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35BE65D35A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Can we build systems that have an ethical and moral foundation?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C5AF48B858",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Can we build systems that have an ethical and moral foundation?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D367B56DD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "This we must learn how to do.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6551A544DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "This we must learn how to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B127E56B92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "So let's accept for a moment that it's possible to build such an artificial intelligence for this kind of mission and others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FBE9150F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "The next question you must ask yourself is, should we fear it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57E216A0A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Now, every new technology brings with it some measure of trepidation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3AF7E0A7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "When we first saw cars, people lamented that we would see the destruction of the family.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9594333FC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "When we first saw telephones come in, people were worried it would destroy all civil conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9028A2197",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "At a point in time we saw the written word become pervasive, people thought we would lose our ability to memorize.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A80F83C1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "These things are all true to a degree, but it's also the case that these technologies brought to us things that extended the human experience in some profound ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E16DC52EE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So let's take this a little further.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9AC4E25FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "I do not fear the creation of an AI like this, because it will eventually embody some of our values.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7988E9A70A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "Consider this: building a cognitive system is fundamentally different than building a traditional software-intensive system of the past.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "965F1F3D56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "We don't program them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F037F17DE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "We teach them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93D709BC32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "In order to teach a system how to recognize flowers, I show it thousands of flowers of the kinds I like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A1D26315C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "In order to teach a system how to play a game -- Well, I would.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FCC7E78AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You would, too.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "723DAFB4BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 75,
+        "endOffset": 92,
+        "text": "insatiable thirst",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0991FFC64A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 233,
+        "text": "Bostrom's basic argument is that such systems will eventually have such an insatiable thirst for information that they will perhaps learn how to learn and eventually discover that they may have goals that are contrary to human needs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4449464F4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F24FE3DC37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Bostrom has a number of followers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB0690EFF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "He is supported by people such as Elon Musk and Stephen Hawking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81EB23748B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "With all due respect to these brilliant minds, I believe that they are fundamentally wrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F71F72232B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Now, there are a lot of pieces of Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E593787DD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "Bostrom's argument to unpack, and I don't have time to unpack them all, but very briefly, consider this: super knowing is very different than super doing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "672E52D86E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "HAL was a threat to the Discovery crew only insofar as HAL commanded all aspects of the Discovery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C38ABE6586",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So it would have to be with a superintelligence.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3BC85A1285",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "It would have to have dominion over all of our world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04B95CDD11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 12,
+        "endOffset": 27,
+        "text": "stuff of Skynet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "942C7CFE5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "This is the stuff of Skynet from the movie \"The Terminator\" in which we had a superintelligence that commanded human will, that directed every device that was in every corner of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FAB22B546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "practically speaking, it ain't gonna happen",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "643A62BD05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "We are not building AIs that control the weather, that direct the tides, that command us capricious, chaotic humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "099AF8929F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "And furthermore, if such an artificial intelligence existed, it would have to compete with human economies, and thereby compete for resources with us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31942539D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 18,
+        "endOffset": 38,
+        "text": "don't tell Siri this",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9071EA8A19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And in the end -- don't tell Siri this -- we can always unplug them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7DA635A7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 24,
+        "endOffset": 57,
+        "text": "incredible journey of coevolution",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "70A86B3BF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 11,
+        "endOffset": 76,
+        "text": "We are on an incredible journey of coevolution with our machines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89D8EC1E61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "The humans we are today are not the humans we will be then.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "644972C757",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 23,
+        "endOffset": 50,
+        "text": "rise of a superintelligence",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "73D99C1A2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 69,
+        "endOffset": 90,
+        "text": "dangerous distraction",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5D5410337F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 207,
+        "text": "To worry now about the rise of a superintelligence is in many ways a dangerous distraction because the rise of computing itself brings to us a number of human and societal issues to which we must now attend.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7085832102",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "How shall I best organize society",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2B2FDCD38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "How shall I best organize society when the need for human labor diminishes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4965D7D1B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "How can I bring understanding and education throughout the globe",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "994B439282",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "How can I bring understanding and education throughout the globe and still respect our differences?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D308C00913",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "How might I extend and enhance human life",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "76CB73C126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "How might I extend and enhance human life through cognitive healthcare?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7465A886B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "How might I use computing to help take us to the stars?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C198D4FDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "How might I use computing to help take us to the stars?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8979EE17ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And that's the exciting thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41633EC52B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 71,
+        "endOffset": 87,
+        "text": "within our reach",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "09BA15C4B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 89,
+        "endOffset": 101,
+        "text": "here and now",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5E5F38CB0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "The opportunities to use computing to advance the human experience are within our reach, here and now, and we are just beginning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CC07993E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96DCC939DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA0420BF08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "I like flowers.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "181FC8C18D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Come on.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A44C31D942",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "To teach a system how to play a game like Go, I'd have it play thousands of games of Go, but in the process I also teach it how to discern a good game from a bad game.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DDFA5FBA93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "If I want to create an artificially intelligent legal assistant, I will teach it some corpus of law but at the same time I am fusing with it the sense of mercy and justice that is part of that law.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DE396154CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "In scientific terms, this is what we call ground truth, and here's the important point: in producing these machines, we are therefore teaching them a sense of our values.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "58317B6FD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "To that end, I trust an artificial intelligence the same, if not more, as a human who is well-trained.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AC50122AE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "But, you may ask, what about rogue agents, some well-funded nongovernment organization?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6D21CED141",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "I do not fear an artificial intelligence in the hand of a lone wolf.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "61B3BBE63C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 199,
+        "text": "Clearly, we cannot protect ourselves against all random acts of violence, but the reality is such a system requires substantial training and subtle training far beyond the resources of an individual.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BA22B4075E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "And furthermore, it's far more than just injecting an internet virus to the world, where you push a button, all of a sudden it's in a million places and laptops start blowing up all over the place.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D7D2C9AEFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Now, these kinds of substances are much larger, and we'll certainly see them coming.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6570D20D5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Do I fear that such an artificial intelligence might threaten all of humanity?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B8DAAD4169",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "If you look at movies such as \"The Matrix,\" \"Metropolis,\" \"The Terminator,\" shows such as \"Westworld,\" they all speak of this kind of fear.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "ECDB530ED0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 226,
+        "text": "Indeed, in the book \"Superintelligence\" by the philosopher Nick Bostrom, he picks up on this theme and observes that a superintelligence might not only be dangerous, it could represent an existential threat to all of humanity.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "651CA009E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Dr.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EEA7A7FE62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

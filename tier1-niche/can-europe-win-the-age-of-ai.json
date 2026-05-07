@@ -1,0 +1,4435 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 8289,
+  "title": "Can Europe win the age of AI?",
+  "author": "Thomas Dohmke",
+  "url": "https://www.ted.com/talks/thomas_dohmke_can_europe_win_the_age_of_ai",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T11:10:57.354986Z",
+  "updated_at": "2026-05-07T11:10:57.354986Z",
+  "lead_time": 167.949,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 68,
+        "endOffset": 79,
+        "text": "at the helm",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5684D0DA84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 23,
+        "endOffset": 38,
+        "text": "people know you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "04F863311B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "But before we go into all that and GitHub, I want to go back a bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D6210858E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "I'm curious",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "966FB37484",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Thomas Dohmke: I took a plane from Stuttgart to fly here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E63F827591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 12,
+        "endOffset": 25,
+        "text": "you're asking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7316110FCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "I was born in East Berlin in 1978, and so for the first 12 years of my life, I didn't really have access to computers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25017ED4CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "There was a Robotron, an East German clone of a Z80 I think, in the geography lab that we were allowed to hack a little bit on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "638651A9EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And then I bought a Commodore 64 in the early '90s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "526890194E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 55,
+        "endOffset": 61,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "469353D472",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I had to buy like a yellow book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABC9C52513",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It was literally called the big Commodore 64 book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F70E8BAFEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 70,
+        "endOffset": 76,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA517045FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "There was no forum, no Reddit, no GitHub.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01C4B1E234",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 11,
+        "endOffset": 75,
+        "text": "either figure it out yourself, or you had to go to computer club",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "48FD389446",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "In 1998, I started university at Technical University in Berlin.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54FF0C71D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 5,
+        "endOffset": 13,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "32A9169FD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "And, you know, one of the big benefits was that you had a landline internet connection from there that didn't cost any money compared to AOL and CompuServe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62E4490AEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And I bought SUSE Linux in the bookstore to get into the world of open source.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3F867F9DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And obviously, I found lots of other nerds on the internet to ask all the questions in the newsgroups, the Usenet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "081D9F32AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "95B1AC6E44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And you know, went through my career journey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66D5ABB9F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And when the iPhone SDK came out in 2008, I thought, it's time to do something new.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20896EE873",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "I quit my job at Bosch at the height of the financial crisis in late 2008, to become an independent software developer that builds iPhone and Android apps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD4692AB4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 15,
+        "endOffset": 23,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CCA3A4CB47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "And of course, you know, through the cloud, I was able to also distribute all my apps and then later build a platform called Hockey App that was acquired by Microsoft in 2014.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8D478BB71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "And that then moved me from Stuttgart all the way to Seattle, where I got lucky in 2018 to be in the right time, right place to be part of the GitHub acquisition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAFC0A8090",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 16,
+        "endOffset": 24,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "52F2534B36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And ultimately, you know, be here on stage as the GitHub CEO.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC3C419B40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "VG: What a journey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78DB2E151B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It all has led to this moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29D577AD23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "(Applause) But, you know, it raises an interesting point, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4D97DF0AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 58,
+        "endOffset": 64,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5CDBF738E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "You've been successful here in Europe up to a point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4268FFBDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And then you left.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBBDED4081",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "I mean, your further steps were even more successful, I would argue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08EF2DD5FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "But you left.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EF322A32C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "So my next question is, you know, how do we keep the next Thomas Dohmke in Europe?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "44BA06874C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "What does Europe need to do?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29612F2B0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "TD: Microsoft made me leave.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D059815526",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "You have to say it like that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1C66BB0258",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 45,
+        "endOffset": 58,
+        "text": "dream of mine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F89C11958D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "Although, being honest, it also was always a dream of mine to live on the West Coast, in the ’90s, when I was a kid, I felt I was born too late to be part of the home computer revolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B3A2C3F6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 69,
+        "endOffset": 148,
+        "text": "another one with mobile, another one with cloud, and now we are in one with AI.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "95CAC5266B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 69,
+        "endOffset": 148,
+        "text": "another one with mobile, another one with cloud, and now we are in one with AI.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B147579D06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 26,
+        "endOffset": 152,
+        "text": "maybe if Microsoft buys a German company today, they would just say you can work from home as hybrid work or remote-only work.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A4135D123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It’s much more prevalent than it was 10 years ago in 2014.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F3345FDAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 29,
+        "endOffset": 126,
+        "text": "if I look at my hometown in Germany, I can come up with three things that are definitely lacking.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D85DA34D65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 55,
+        "endOffset": 71,
+        "text": "ridiculous to me",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F06938D124",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "And the first one is school and schooling, which, it's ridiculous to me that we don't teach kids in first grade how to code like, we teach kids physics, biology and chemistry that you almost never use in life anymore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F66F8CB7E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "But we don't teach them how to build software for their smartphones and for their computers that we all use day in and day out, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFD8D36CAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Like, think about that for a second.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CECED62B47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "These are the most important devices in our lives.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E17B807A62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "You know it because you can barely meet anyone that doesn't have their phone in their hands anymore.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2CFF6267AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Whether it’s in the subway or on a plane or at work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2FF99BF7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So I'd say schooling needs to dramatically change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A18EB50C4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "And, you know, it's easy to blame the system and think about, oh, the politics have to change something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70EBCA6A25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 88,
+        "endOffset": 109,
+        "text": "think outside the box",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89FF9AAD2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "I think it starts with us as parents to really encourage the schools to think ahead and think outside the box of what frontal lessons are and used to be when we went to school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "614A291FB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "The second one is start-up and the start-up ecosystem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3707E01325",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "It's so hard to found a company in Germany and Austria and in many European countries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9B2ADE97E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "The GmbH has to go away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E724ED0D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "That's just the fact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01CE873FF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "You see a lot of German start-ups that the first thing they do is they go on Stripe Atlas and click in a Delaware LLC, because that's much easier to collect angel investments, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A1D7B1E31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "We have so much regulation in Europe, GDPR, you know, DSA, DMA, you name it, that start-ups need to follow instead of building cool shit, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "142EFA4E22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 118,
+        "endOffset": 136,
+        "text": "building cool shit",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "26A730932E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Like that's I think the biggest issue we have where we need to build a new ecosystem ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F179480F76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 50,
+        "endOffset": 85,
+        "text": "disruption is coming from start-ups",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C216C76AC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 25,
+        "endOffset": 44,
+        "text": "innovator’s dilemma",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9C24BC4C6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "The big incumbents cannot create disruption.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B69CDB0A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "There's exceptions, of course.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98DFF073FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And, you know, hopefully GitHub and Microsoft are seen as one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3945CD68E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "But the regular mode is that start-ups are the companies, the founders are the ones that are pushing society forward.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C459A5937",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And then lastly, you know, infrastructure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CFADB58DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "You know, my hometown, on their web page, they're saying 95 percent of all households have broadband internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C4D02EABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "But what they mean is 50 Mbit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23D2DEBE44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "That's not broadband.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03742E3B41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "When my kids stream Netflix or YouTube and play Minecraft with their friends and have a WhatsApp chat open all at the same time, I can no longer, you know, join the Zoom call with you to prepare this session.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EB9F2434A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 146,
+        "endOffset": 149,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "599FEF1170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "And I think this is where the European Union ultimately needs to go in and have an infrastructure package, and not bridges and streets and all that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCBA7B6B9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "That's that's good too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B8D3AE0AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "But like broadband internet, fiber everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9C961C2EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "VG: Well, some might argue that regulation is good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D3D5406D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "How do you stand on that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75F9D924F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 245,
+        "text": "TD: Regulation is good if you're a big company with a big law department and big enterprise customers, because then you can go into a sales process and say, here, I check all the boxes, so you don't have to argue with the legal team and the DPA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "066C342218",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 26,
+        "endOffset": 29,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0BC67C2D91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Instead, you can just, you know, go through the sales process much quicker.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27B75196C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "But it's not good for open-source innovation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C0486D31C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "It's not good for small start-ups that do not want to spend all their money on billable hours for, you know, consulting company or for a law firm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FADBC444C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And so there needs to be exceptions in those regulations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58AE7CF1FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Innovation needs to be focused",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "285A426FAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 31,
+        "endOffset": 124,
+        "text": "on enabling researchers, open-source developers and start-up founders to move really quickly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49C68B51B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And then if they reach a certain size, when they actually become relevant to the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A838CA9665",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Same with banking, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8038E409B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 57,
+        "endOffset": 108,
+        "text": "regulation, the strongest regulation needs to apply",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3485EF71A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "When they become relevant to the system, that's when the",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F51F87C8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 4,
+        "endOffset": 33,
+        "text": "And do you see, you know like",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DB6A84F344",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 33,
+        "endOffset": 122,
+        "text": ", we lived through this really fast-paced, really, really fast-paced environment with AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CABC2B0B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Do you see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "58D0F8DDAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 11,
+        "endOffset": 61,
+        "text": "it now leveling the playing field internationally?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4139E28737",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And again, with a bit of a perspective on Europe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "260ECA6F44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "How does that change",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "04A19D66E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 21,
+        "endOffset": 89,
+        "text": "the game for a small company, a start-up from Germany, for instance?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF21E49A8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 219,
+        "text": "TD: I think it changes the game from two sides and one is actually on my shirt, it says, “Copilot speaks my language,” because you can use Copilot, ChatGPT, almost all these AI chatbots in the language you grew up with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF33E838EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Here in Austria and Germany, it's German, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E0E2CB352",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "Most six-year-olds, seven-year-olds, first-, second-graders, they speak mostly German or Croatian or Italian, Spanish, while the open source and the software industry are mostly English speaking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A3FA7B8F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 244,
+        "text": "And so if you want to learn coding because you have already played Super Mario or Minecraft, you don't want to learn English first, what you want to do is build a little game because that's what humans want to do, they want to create something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AADE369829",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "And so they can now approach this by just asking in German, how do I create a snake game or pong game or how do I build a Minecraft extension?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A9CB2ED8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And they don’t need parents at home that have a technical background, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81748911FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 6,
+        "endOffset": 38,
+        "text": "if you don't have anyone at home",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "055DC24957",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Like, if you don't have anyone at home without AI that can help you when you're stuck.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8EA9B3AA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 37,
+        "endOffset": 61,
+        "text": "when you learn something",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "74962C797A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 70,
+        "endOffset": 136,
+        "text": "you're stuck, how do you unstuck yourself so you're not frustrated",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6C93F65A65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "And that's the most important moment when you learn something is when you're stuck, how do you unstuck yourself so you're not frustrated and just throw it away and go back scrolling through TikToks?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70A3816E1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "That's the moment where AI is really helpful, and that's where I believe there's a huge democratization going to happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E635733D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And it's already happening in countries like India or Brazil.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "164A6FB95D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 31,
+        "endOffset": 80,
+        "text": "Europe has slept through the cloud transformation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C2B4955BEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "The second piece is, you know, Europe has slept through the cloud transformation, like, most European countries are way behind on the cloud transformation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62EDEF7CA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "If you look in, you know, the Dräger report that came out a couple of weeks ago, of the top 50 tech companies, only four are European.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "004677D1FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 13,
+        "endOffset": 24,
+        "text": "most of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "18071A7A33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And I'm sure most of you cannot actually name those four.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B0E1F1F63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I can only name one, SAP.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85B97B8F49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 251,
+        "text": "And in the last 50 years, there has been not a single European company that has been founded that has reached more than 100 billion in market capitalization, while the six trillion-dollar companies in the US all have been founded in the last 50 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8C8E6897A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "That's where the opportunity with AI is, we get a fresh start.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "698B6DA0F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "We don't need to catch up on the cloud as much as we need to be all-in on AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEAAB9EF59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "all of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "32A9E51DF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And it starts all with you, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F742B22B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "We can always blame it on the politics and on the system and on our bosses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2D03AB6A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "It starts with all of us embracing this new technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7D45115E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 24,
+        "endOffset": 41,
+        "text": "you're here today",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "750A081282",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "I'm assuming that's why you're here today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48929D200E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 23,
+        "endOffset": 35,
+        "text": "you're using",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FB2DF08978",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 23,
+        "endOffset": 26,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F35C8DDD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 23,
+        "endOffset": 26,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FE6AA20460",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "And hopefully tomorrow you're using some AI in your life, or figuring out how AI works and how you can leverage AI in your career or your start-up or your team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "413BC6A81F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "VG: Yeah, thank you for that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C08C69394C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 122,
+        "endOffset": 127,
+        "text": "right",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FCF013F9C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "I want to push back, though, a bit, because it sounds, and probably this is a criticism that Silicon Valley usually gets, right, it sounds techno-optimistic, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08848D64EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "What about -- A comparison that I've always heard is, you know, we're living through perhaps a new industrial, a new type of industrial revolution, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06BEF75AF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "When I think back on the Industrial Revolution, the actual one, it had really heavy short-term consequences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FED170719C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 14,
+        "endOffset": 17,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8E3C01CF6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "So what would you say to somebody who would call you a techno-optimist?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "136AF10837",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "TD: What's wrong with being an optimist, would be my first response.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E9E8CD5E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 33,
+        "endOffset": 36,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0A7ECC4DC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Especially as a German, I think, you know, being optimistic is separating me from the masses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1A2EEDF48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 22,
+        "endOffset": 115,
+        "text": "I think we, as humans, have the challenge that, you know, we love to focus on the day by day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E65D9CA36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 203,
+        "text": "And the day by day, whether it's in our lives or in the stock market, often has lots of ups and downs, and we focus heavily on the downs because those are impacting us emotionally much more than the ups.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBDDA686BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "But if we actually zoom out 10 years, 20 years, 30 years, or if I go back to my grandfather's generation, you know, my father was born in 1939, what life was back then, there is no question that life has gotten massively better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "634CBE9974",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Like, massively.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED5C63F648",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Like, life in Europe, in Germany, in Austria, everywhere here and everywhere around the world has gotten so much better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "102E9FB74F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Our lives are so much more comfortable, our houses are so much warmer, we have food available.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "006A144D26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "And obviously with technology like smartphones, the internet and FaceTime, it's also much easier to travel all around the world, to live on the other side of the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A53F81672",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "19E7968939",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "You know, I moved my family almost 10 years ago to Seattle, and we call our parents every weekend on FaceTime.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3959A3F644",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 22,
+        "endOffset": 30,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10FCF53ABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "That wasn't possible, you know, when people immigrated to the United States 100 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "001D74EE3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's indisputable that the world has gotten better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18E9CD6910",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And I think we should have optimism that we can make it better ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3756B2F9F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "But of course, it starts with us, that's what I said earlier.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "491FF8878E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3AA3A0AE6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "You know, we need to all have the mindset of: “I can change the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E1732D388",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "I can make the world a better place.” My first job after university was with Mercedes-Benz.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8BE916032",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "So back then DaimlerChrysler, and their slogan is “The best or nothing.” I feel like Europe needs to go back to this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BCA1C34FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We want to be the best in everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F07994053D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "We want to be the best in soccer, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "925756EC60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And we are kind of like the best in Formula One because almost all the Formula One teams are from Europe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9808DF5182",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "But let's apply that model to all the things that we're doing and all the ideas that we're pursuing, all the companies that we're building, and I think we're going to create naturally a better world in the long run.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B414C61B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "VG: Well, I sure hope so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD03B31FEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "I want to pick up on something you said earlier about us teaching our kids to code very early on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "135248D2F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 43,
+        "endOffset": 49,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B4A7CC84D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Now AI is changing the game there as well, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5D96A364C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 55,
+        "endOffset": 70,
+        "text": "coders obsolete",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1D191126C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "It influences the way we code, perhaps, though, making coders obsolete.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "795F1FBB8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 14,
+        "endOffset": 21,
+        "text": "you say",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "536E66241D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 14,
+        "endOffset": 17,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D0AFF329A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So what would you say if like, I would argue OK, you develop technology that makes coders obsolete.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB21DE0965",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Why should we teach our children to code?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F373C6313D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Why should we teach our children to code?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "233E758A41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 98,
+        "endOffset": 132,
+        "text": "every point of the way, every year",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4F47776ABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "TD: If you look back at my journey that I described earlier, we could have asked that question at every point of the way, every year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0A0AE3387",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 10,
+        "endOffset": 13,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A6DBC2917",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "You know, you could have asked me the question when we went from cassette tapes to floppy disks to hard drives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFF10198F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "When we went from punch cards that I first saw in my mom’s office in the '80s to assembly language Basic and all of a sudden, higher programming languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17D6214816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "When we went from no open-source at all and we build it all from scratch, or we typed listings from computer magazines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "722588ECB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "And most of the listings weren't actually code, they were checksums because you could put more checksums into the box on the page, to the internet and open-source components.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F9AD699BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 159,
+        "endOffset": 165,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "242B667CD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "Today, no startup anywhere around the world, and no big company anywhere around the world is starting a new project without leveraging open-source components, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D76D68D978",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "Open-source operating system like Linux, open-source editors like VS Code, open-source container technology like Docker and Kubernetes, thousands of open-source libraries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3C8D50A0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "When you start a new React project, you immediately have hundreds, if not thousands of libraries in your dependency graph.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E5EC655D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "And that means millions of developers have contributed to your project because they built all these open-source libraries, they made your life easier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3E8BE1261",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "But they haven’t replaced the demand for software developers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCE08E3905",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 12,
+        "endOffset": 19,
+        "text": "you are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1E71F71FF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 50,
+        "endOffset": 56,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9589C94C07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 100,
+        "endOffset": 118,
+        "text": "I bet you anything",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "57E875B11D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "In fact, if you are in software development or if you're in a company that has software developers, I bet you anything all your feature requests take way too long for your personal perception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "481D5CED72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Because the developers have effectively two backlogs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3402CE4B9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "They have the innovation backlog.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "869632383F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 109,
+        "endOffset": 155,
+        "text": "the innovation that drives the company forward",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AD8C3A7F15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D24FDE371D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And that's an endless backlog.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F7900343C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I will never be done with the GitHub backlog.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BB7CA91CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "I will just retire and give up and somebody else comes in and takes over with my team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09BE3CD8C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 465,
+        "text": "drowning",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4E23DBEB5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 35,
+        "endOffset": 43,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C2876BC899",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 35,
+        "endOffset": 38,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "085D271C83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And so you have to balance those two backlogs, and they’re both endless.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A67AEC82F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 4,
+        "endOffset": 62,
+        "text": "you can’t only do this one, and you can’t only do that one",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "88C1545A24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So you need to use AI to bring it a little bit down, further down, so developers can actually innovate more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86D9E55CAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And now with AI they no longer have to only do back end and front end.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB96358E51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "They have to do back end and front and AI and offline evals and online evals and prompt engineering and new models left and right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E51A6D25E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "So I'm sure there's a bunch of sessions for that as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83CD0CFE3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And so I don't think we are running out of work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D22531F82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 15,
+        "endOffset": 35,
+        "text": "drowning in software",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C987527CB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Marc Andreessen said, “Software is eating the world,” over 10 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D302F243E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Software has eaten the world.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E801554B2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And we as software developers are drowning in code.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C0F8E0AB21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And we're still managing COBOL from the '50s and '60s at the same time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CFCC34443",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 15,
+        "endOffset": 79,
+        "text": "So what you're saying is with AI, even more work for developers.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75340E5690",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And I know GitHub is sort of aiming for a world where even more developers are enabled to work and cooperate, maybe share a bit of that vision.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1230254C22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "How would we get to a world where we have not a few hundreds of millions of developers, but over a billion developers, for instance?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5520EC75DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 110,
+        "endOffset": 209,
+        "text": "as we always put the developer first in every decision we make, every product design, every process",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D1412B88DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "My HR team is using GitHub.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EB8E97A2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "My legal team is using GitHub, which also means red lines are much easier because it’s just a diff and a pull request.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F23FC7A98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And that comes with, you know, the conviction that if you want to put developers first, that means you want to make developers happier.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEACB8E40E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 52,
+        "endOffset": 116,
+        "text": "productive developers are innovating and building great software",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "924DA9480F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "And so Copilot is following that vision, because we really built copilot back in 2020 because we wanted to make our developers a little bit more productive, a little bit more happy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5E2828EF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "And we believe, you know, that journey will continue throughout the next years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBF5428507",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 238,
+        "text": "If you think about the original Copilot, it was just predicting the next line of code, multiple lines of code, complex algorithms, often just boilerplate, you could explain code, you can now document that method, you can write test cases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12AA6E1172",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And you can all do that in natural language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8B407484F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 9,
+        "endOffset": 23,
+        "text": "building block",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7281803666",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "And that building block of a line of code or multiple lines of code is going to grow as the AI becomes more powerful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "021DC0FA5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "We will have smaller agents that write a whole module or a class, something that tests all our software so we don't have to write test cases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70E3BB2436",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I don't know many developers that love writing test cases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40C9726525",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "It's more like, how little test cases can I get away with so I pass code review and can move on to the next cool thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06BF8CB149",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 36,
+        "endOffset": 54,
+        "text": "sparking new ideas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "651399C31E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 111,
+        "endOffset": 182,
+        "text": "a little mini game, a little web page, a little module, a piece of code",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A92864048D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 252,
+        "text": "So we really are on that journey of sparking new ideas, of enabling people to write a short prompt and getting a little mini game, a little web page, a little module, a piece of code that pushes them forward, that lets them stay in their creative flow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EE9386F3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 61,
+        "endOffset": 69,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "30ADC86C35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 61,
+        "endOffset": 69,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "77AD910121",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 61,
+        "endOffset": 69,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EC7601CE99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 400,
+        "text": "I know many people that use Copilot both in their work life, you know, from Monday through Friday, but also are telling me, “This is so great for my hobby projects that I work on on a Sunday afternoon, because I only have limited amount of time and getting back on my hobby is hard if I constantly have to go to my browser and look things up, how things are done instead of just staying in that flow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ADC470633",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 27,
+        "endOffset": 35,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6FB6756957",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 27,
+        "endOffset": 35,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D06E07D74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 27,
+        "endOffset": 35,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "60ED8F4ABE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 245,
+        "text": "So we want to spark ideas, you know, we want to keep developers in the flow, and we want to enable, you know, a billion people on this planet, 60-year-olds, you know, 20-year-olds, 50-year-olds, anyone who wants to learn coding, to learn coding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AB64A965C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "VG: That's kind of a great future, if you ask me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4C6FF2C4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 58,
+        "endOffset": 69,
+        "text": "I'm curious",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BA243D89E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Now, before we go, I know we're running out of time, but, I'm curious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70A3B0898B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "I mean, a lot of people know GitHub here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28ED415A35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "A lot of people know Copilot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEECD82DEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "I'm curious",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D96DD0705D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I'm curious if you can share what comes next.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "036C5AF79C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "What is GitHub working on?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7132FEE3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "TD: So we have our conference coming up, and we have a lot of exciting announcements that I cannot share with you today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7730C572B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 24,
+        "endOffset": 32,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6492412C05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 221,
+        "text": "(Laughter) But I think, you know, it goes along that journey that I mentioned that we will, you know, introduce a new product that lets you spark new ideas and where you can explore those ideas and build little cool apps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE79D3F0EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "VG: Great, so a nice teaser.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09E6233E84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Looking forward to finding out more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF2C1ED52B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Thank you a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EA70B43B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "TD: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0A2B38B71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

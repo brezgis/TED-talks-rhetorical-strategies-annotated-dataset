@@ -1,0 +1,2820 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8988,
+  "title": "Why I must speak out about climate change",
+  "author": "James Hansen",
+  "url": "https://www.ted.com/talks/james_hansen_why_i_must_speak_out_about_climate_change",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:25:21.553683Z",
+  "updated_at": "2026-05-07T12:25:21.553683Z",
+  "lead_time": 127.981,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "What do I know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9662291400",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 38,
+        "endOffset": 68,
+        "text": "reticent, Midwestern scientist",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "34D41966D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And what would you do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "88FE9135A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Let's start with how I got to this point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17A836487D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "I was lucky to grow up at a time when it was not difficult for the child of a tenant farmer to make his way to the state university.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AFDB27C2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "And I was really lucky to go to the University of Iowa where I could study under Professor James Van Allen who built instruments for the first U.S. satellites.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEF9339C13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Professor Van Allen told me about observations of Venus, that there was intense microwave radiation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ABF898CE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Did it mean that Venus had an ionosphere?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CCEBB95703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Or was Venus extremely hot?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "594C739360",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "The right answer, confirmed by the Soviet Venera spacecraft, was that Venus was very hot -- 900 degrees Fahrenheit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF8FAECE1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And it was kept hot by a thick carbon dioxide atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6E59D217D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "I was fortunate to join NASA and successfully propose an experiment to fly to Venus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B977D56783",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 38,
+        "endOffset": 51,
+        "text": "veil of Venus",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D8620DC51E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 78,
+        "endOffset": 99,
+        "text": "smog of sulfuric acid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B77854F259",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "But while our instrument was being built, I became involved in calculations of the greenhouse effect here on Earth, because we realized that our atmospheric composition was changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EF20D428D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Eventually, I resigned as principal investigator on our Venus experiment because a planet changing before our eyes is more interesting and important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1C8621E78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Its changes will affect all of humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C70D34CF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "The greenhouse effect had been well understood for more than a century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46B4B4BFA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "British physicist John Tyndall, in the 1850's, made laboratory measurements of the infrared radiation, which is heat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DC557C0FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 56,
+        "endOffset": 101,
+        "text": "acting like a blanket warming Earth's surface",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "02CDBC227F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "I worked with other scientists to analyze Earth climate observations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "160661BA4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 190,
+        "text": "In 1981, we published an article in Science magazine concluding that observed warming of 0.4 degrees Celsius in the prior century was consistent with the greenhouse effect of increasing CO2.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83B0D530D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "That Earth would likely warm in the 1980's, and warming would exceed the noise level of random weather by the end of the century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFF4E095AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "We also said that the 21st century would see shifting climate zones, creation of drought-prone regions in North America and Asia, erosion of ice sheets, rising sea levels and opening of the fabled Northwest Passage.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC24003CDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "All of these impacts have since either happened or are now well under way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09024A0001",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 219,
+        "text": "That paper was reported on the front page of the New York Times and led to me testifying to Congress in the 1980's, testimony in which I emphasized that global warming increases both extremes of the Earth's water cycle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1F6857465",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "Heatwaves and droughts on one hand, directly from the warming, but also, because a warmer atmosphere holds more water vapor with its latent energy, rainfall will become in more extreme events.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0ED9E3A44E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "There will be stronger storms and greater flooding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "471D84CAAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Global warming hoopla",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D5D8B333FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "So I decided to go back to strictly doing science and leave the communication to others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90D2DBE884",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "By 15 years later, evidence of global warming was much stronger.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FE84B3DEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Most of the things mentioned in our 1981 paper were facts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0714F085B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "warming up enough to again radiate to space as much energy as it absorbs from the Sun",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B17478CA2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So the key quantity is Earth's energy imbalance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B38482010",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Is there more energy coming in than going out?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "47CBF8B4BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "If so, more warming is in the pipeline.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7B797537C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It will occur without adding any more greenhouse gasses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9ED4BA657",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Now finally, we can measure Earth's energy imbalance precisely by measuring the heat content in Earth's heat reservoirs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "676A49DDCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "The biggest reservoir, the ocean, was the least well measured, until more than 3,000 Argo floats were distributed around the world's ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B20F563C4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "These floats reveal that the upper half of the ocean is gaining heat at a substantial rate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F64DC30656",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "The deep ocean is also gaining heat at a smaller rate, and energy is going into the net melting of ice all around the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32FA68A8E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And the land, to depths of tens of meters, is also warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B03506B84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "The total energy imbalance now is about six-tenths of a watt per square meter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD4EDA40E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "That may not sound like much, but when added up over the whole world, it's enormous.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "93EDB610AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It's about 20 times greater than the rate of energy use by all of humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7763DBE5A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "It's equivalent to exploding 400,000 Hiroshima atomic bombs per day 365 days per year.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "56FBBC4D57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "That's how much extra energy Earth is gaining each day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E91EF8DB58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "66975D856B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 16,
+        "endOffset": 47,
+        "text": "if we want to stabilize climate",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1080A9EE22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "That is the change needed to restore energy balance and prevent further warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D62EE7F16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Climate change deniers argue that the Sun is the main cause of climate change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "761FA95644",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "But the measured energy imbalance occurred during the deepest solar minimum in the record, when the Sun's energy reaching Earth was least.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF9B5FA263",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Yet, there was more energy coming in than going out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E19CDCDCE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "This shows that the effect of the Sun's variations on climate is overwhelmed by the increasing greenhouse gasses, mainly from burning fossil fuels.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BA3CFAA04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Now consider Earth's climate history.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBA6103118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 163,
+        "endOffset": 187,
+        "text": "piled up year after year",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8483CF7377",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 242,
+        "text": "These curves for global temperature, atmospheric CO2 and sea level were derived from ocean cores and Antarctic ice cores, from ocean sediments and snowflakes that piled up year after year over 800,000 years forming a two-mile thick ice sheet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA7B328498",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "As you see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D82FF12AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 12,
+        "endOffset": 78,
+        "text": "There's a high correlation between temperature, CO2 and sea level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D94C1C9E30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Careful examination shows that the temperature changes slightly lead the CO2 changes by a few centuries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC2BD7C051",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Climate change deniers like to use this fact to confuse and trick the public by saying, \"Look, the temperature causes CO2 to change, not vice versa.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D28726210",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "But that lag is exactly what is expected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13060EDA7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "Small changes in Earth's orbit that occur over tens to hundreds of thousands of years alter the distribution of sunlight on Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9FF3E9403",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "When there is more sunlight at high latitudes in summer, ice sheets melt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A28CB0597",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Shrinking ice sheets make the planet darker, so it absorbs more sunlight and becomes warmer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "969DD97FD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 29,
+        "endOffset": 58,
+        "text": "just as a warm Coca-Cola does",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "41A40F75F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "A warmer ocean releases CO2, just as a warm Coca-Cola does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F67B3E039",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And more CO2 causes more warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA64A2A51C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 37,
+        "endOffset": 87,
+        "text": "feedbacks that amplified global temperature change",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6CBD420854",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 211,
+        "text": "So CO2, methane, and ice sheets were feedbacks that amplified global temperature change causing these ancient climate oscillations to be huge, even though the climate change was initiated by a very weak forcing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14B3B45C8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "The important point is that these same amplifying feedbacks will occur today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92A92009F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "The physics does not change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0CF3E0BAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "As Earth warms, now because of extra CO2 we put in the atmosphere, ice will melt, and CO2 and methane will be released by warming ocean and melting permafrost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA0B735A72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "While we can't say exactly how fast these amplifying feedbacks will occur, it is certain they will occur, unless we stop the warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0867E169F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "There is evidence that feedbacks are already beginning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E2E594A13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Precise measurements by GRACE, the gravity satellite, reveal that both Greenland and Antarctica are now losing mass, several hundred cubic kilometers per year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06E3CC5AAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And the rate has accelerated since the measurements began nine years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E99072964",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Methane is also beginning to escape from the permafrost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3772A9E26C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "What sea level rise can we look forward to?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7C95B155D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "The last time CO2 was 390 ppm, today's value, sea level was higher by at least 15 meters, 50 feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36B72C8913",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Where you are sitting now would be under water.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "782D39C03A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Most estimates are that, this century, we will get at least one meter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71C7A81E10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 70,
+        "endOffset": 99,
+        "text": "five meters, which is 18 feet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAA1C5ACF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "I think it will be more if we keep burning fossil fuels, perhaps even five meters, which is 18 feet, this century or shortly thereafter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BACC6EC3C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "The important point is that we will have started a process that is out of humanity's control.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E182863D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Ice sheets would continue to disintegrate for centuries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4070D9FF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "There would be no stable shoreline.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D33D7D528",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 30,
+        "endOffset": 48,
+        "text": "almost unthinkable",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "52FE98E622",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "The economic consequences are almost unthinkable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE0D4B9107",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Hundreds of New Orleans-like devastations",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E5FF7146EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Hundreds of New Orleans-like devastations around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B02BF23382",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "What may be more reprehensible, if climate denial continues",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF67A6C10E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "What may be more reprehensible, if climate denial continues, is extermination of species.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66AE615347",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 143,
+        "endOffset": 166,
+        "text": "ticketed for extinction",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F9EB705436",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "The monarch butterfly could be one of the 20 to 50 percent of all species that the Intergovernmental Panel on Climate Change estimates will be ticketed for extinction by the end of the century if we stay on business-as-usual fossil fuel use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "189C9439F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Global warming is already affecting people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0AE0B6F69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 112,
+        "endOffset": 184,
+        "text": "exceptional events, more than three standard deviations outside the norm",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CFF38842D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "The Texas, Oklahoma, Mexico heatwave and drought last year, Moscow the year before and Europe in 2003, were all exceptional events, more than three standard deviations outside the norm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32956BF5C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Fifty years ago, such anomalies covered only two- to three-tenths of one percent of the land area.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF2E5F3B9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 82,
+        "endOffset": 114,
+        "text": "increase by a factor of 25 to 50",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7F8C9EB67F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "In recent years, because of global warming, they now cover about 10 percent -- an increase by a factor of 25 to 50.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9E64DC8BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "So we can say with a high degree of confidence that the severe Texas and Moscow heatwaves were not natural; they were caused by global warming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A9CF88A41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 65,
+        "endOffset": 104,
+        "text": "breadbasket of our nation and the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0C6CEB041D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 207,
+        "endOffset": 216,
+        "text": "Dust Bowl",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3F02ED3BD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 279,
+        "text": "An important impact, if global warming continues, will be on the breadbasket of our nation and the world, the Midwest and Great Plains, which are expected to become prone to extreme droughts, worse than the Dust Bowl, within just a few decades, if we let global warming continue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38233D45BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "How did I get dragged deeper and deeper into an attempt to communicate",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "429F383572",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "How did I get dragged deeper and deeper into an attempt to communicate, giving talks in 10 countries, getting arrested, burning up the vacation time that I had accumulated over 30 years?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DAC7E3ADC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "More grandchildren helped me along.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDA6163251",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 10,
+        "endOffset": 24,
+        "text": "super-positive",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BDE0880506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Here at age two and a half years, he thinks he can protect his two and a half-day-old little sister.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3196812FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 70,
+        "endOffset": 94,
+        "text": "spiraling out of control",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9CA072E056",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 304,
+        "text": "Now the tragedy about climate change is that we can solve it with a simple, honest approach of a gradually rising carbon fee collected from fossil fuel companies and distributed 100 percent electronically every month to all legal residents on a per capita basis, with the government not keeping one dime.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA0F5368C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Most people would get more in the monthly dividend than they'd pay in increased prices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7A1641CCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 28,
+        "endOffset": 92,
+        "text": "stimulate the economy and innovations, creating millions of jobs",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EE84429970",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "It is the principal requirement for moving us rapidly to a clean energy future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C113BEE1D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Several top economists are coauthors on this proposition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DC522B222",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Jim DiPeso of Republicans for Environmental Protection describes it thusly: \"Transparent.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "325B627F9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Market-based.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F4F4A634B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Does not enlarge government.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A627EFF737",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Leaves energy decisions to individual choices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD67885B99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Sounds like a conservative climate plan.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "31F39F4D90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 129,
+        "endOffset": 173,
+        "text": "forcing the public to subsidize fossil fuels",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9076EF8C75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 276,
+        "endOffset": 372,
+        "text": "mountaintop removal, longwall mining, fracking, tar sands, tar shale, deep ocean Arctic drilling",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "39A057D109",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 54,
+        "endOffset": 68,
+        "text": "tipping points",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6CC83605A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 126,
+        "endOffset": 140,
+        "text": "out of control",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "68E9C96B65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "This path, if continued, guarantees that we will pass tipping points leading to ice sheet disintegration that will accelerate out of control of future generations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39A69BFFA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "A large fraction of species will be committed to extinction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "940079F29A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 69,
+        "endOffset": 94,
+        "text": "breadbaskets of the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A040FA5476",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "And increasing intensity of droughts and floods will severely impact breadbaskets of the world, causing massive famines and economic decline.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "529D1C0645",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Imagine a giant asteroid on a direct collision course with Earth.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "604B89D293",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Imagine a giant asteroid on a direct collision course with Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DF7083AE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 12,
+        "endOffset": 22,
+        "text": "equivalent",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6FD0E8D619",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "That is the equivalent of what we face now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D23F54503E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Yet, we dither, taking no action to divert the asteroid, even though the longer we wait, the more difficult and expensive it becomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42C5064C06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "If we had started",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F120786200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "If we had started in 2005, it would have required emission reductions of three percent per year to restore planetary energy balance and stabilize climate this century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "519DCBDB65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "If we start",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4E6C3EC96B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "If we start next year, it is six percent per year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2379A61E71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "If we wait",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "65CF56039C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "If we wait 10 years, it is 15 percent per year -- extremely difficult and expensive, perhaps impossible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27061C9999",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "But we aren't even starting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "753BD1191C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So now you know what I know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E3CA195A5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So now you know what I know that is moving me to sound this alarm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F756C4B090",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Clearly, I haven't gotten this message across.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B67734CD4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "The science is clear.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC2CFAD22D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "I need your help",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "20FCD65404",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "I need your help to communicate the gravity and the urgency of this situation and its solutions more effectively.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "150CF7996C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "We owe it to our children and grandchildren.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4EE722F45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "802F9CC11C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20FA92FAA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "I had the privilege to speak twice to the president's climate task force.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "22025F1E2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "But energy policies continued to focus on finding more fossil fuels.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1131F23A09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "By then we had two grandchildren, Sophie and Connor.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "138402124E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "I decided that I did not want them in the future to say, \"Opa understood what was happening, but he didn't make it clear.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "17BFBFC9CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "So I decided to give a public talk criticizing the lack of an appropriate energy policy.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8C4D835376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "I gave the talk at the University of Iowa in 2004 and at the 2005 meeting of the American Geophysical Union.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "740D924C56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "This led to calls from the White House to NASA headquarters and I was told that I could not give any talks or speak with the media without prior explicit approval by NASA headquarters.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7D350EE4BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "After I informed the New York Times about these restrictions, NASA was forced to end the censorship.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8D909B56DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "But there were consequences.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B75A3B735F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "I had been using the first line of the NASA mission statement, \"To understand and protect the home planet,\" to justify my talks.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F21A9DC829",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Soon the first line of the mission statement was deleted, never to appear again.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2BCD3FBDF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "Over the next few years I was drawn more and more into trying to communicate the urgency of a change in energy policies, while still researching the physics of climate change.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9859F34A5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "Let me describe the most important conclusion from the physics -- first, from Earth's energy balance and, second, from Earth's climate history.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "106F627480",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Adding CO2 to the air is like throwing another blanket on the bed.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "28AFDA75C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "It reduces Earth's heat radiation to space, so there's a temporary energy imbalance.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "83487588C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

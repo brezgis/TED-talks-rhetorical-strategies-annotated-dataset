@@ -1,0 +1,4129 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7905,
+  "title": "HIV and flu -- the vaccine strategy",
+  "author": "Seth Berkley",
+  "url": "https://www.ted.com/talks/seth_berkley_hiv_and_flu_the_vaccine_strategy",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T04:15:50.188027Z",
+  "updated_at": "2026-05-07T04:15:50.188027Z",
+  "lead_time": 153.088,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Do you worry",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A8885FB43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Do you worry about what is going to kill you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB8C20BCE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Heart disease, cancer, a car accident?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "609564E0DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Most of us worry about things we can’t control, like war, terrorism, the tragic earthquake that just occurred in Haiti.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B3DFD7503",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "But what really threatens humanity?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9111EDC357",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "A few years ago, Professor Vaclav Smil tried to calculate the probability of sudden disasters large enough to change history.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5231E0403E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 18,
+        "endOffset": 49,
+        "text": "massively fatal discontinuities",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4DFD0F0148",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "He called these, \"massively fatal discontinuities,\" meaning that they could kill up to 100 million people in the next 50 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39FA5DFE3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "He looked at the odds of another world war, of a massive volcanic eruption, even of an asteroid hitting the Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D7703F930",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "placed the likelihood...above all others",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DCC87D6C3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "But he placed the likelihood of one such event above all others at close to 100 percent, and that is a severe flu pandemic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAF2BE1572",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Now, you might think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8105923FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Now, you might think of flu as just a really bad cold, but it can be a death sentence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "109B73FF23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Every year, 36,000 people in the United States die of seasonal flu.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65071A33A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "In the developing world, the data is much sketchier but the death toll is almost certainly higher.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0CF77C059",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CEA0829CB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "You know, the problem is if this virus occasionally mutates so dramatically, it essentially is a new virus and then we get a pandemic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98017B154A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "In 1918, a new virus appeared that killed some 50 to 100 million people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C66AB3F0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 3,
+        "endOffset": 23,
+        "text": "spread like wildfire",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BCE891BE03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "It spread like wildfire and some died within hours of developing symptoms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E678181744",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Are we safer today?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8CA5AFC9F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "Well, we seem to have dodged the deadly pandemic this year that most of us feared, but this threat could reappear at any time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D5944BA3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 91,
+        "endOffset": 140,
+        "text": "converging to create an unprecedented possibility",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5B1CB9035A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 146,
+        "endOffset": 173,
+        "text": "possibility to make history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "83C25085F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "We can do this.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BE3F425E03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "We're already preventing millions of deaths with existing vaccines, and if we get these to more people, we can certainly save more lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE098214D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 93,
+        "endOffset": 157,
+        "text": "suffering that has been on the Earth since the beginning of time",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "615F708B31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 33,
+        "endOffset": 40,
+        "text": "for you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC66C2B21C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 91,
+        "endOffset": 112,
+        "text": "really like a whisper",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E4EE6398EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 25,
+        "endOffset": 37,
+        "text": "make history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "986F09D22E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 57,
+        "endOffset": 81,
+        "text": "you can barely hear them",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6B5A8F6FF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "Now, some of us are old enough to have a small, circular scar on our arms from an inoculation we received as children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74C4E60502",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But when was the last time you worried about smallpox",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C31285E3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Or polio?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFA643BD76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "How many of you remember the iron lung?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "41EA7D6371",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "We don't see scenes like this anymore because of vaccines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A40FC9408",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Now, it's interesting because there are 30-odd diseases that can be treated with vaccines now, but we're still threatened by things like HIV and flu.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5928A35BCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Why is that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "371A257CB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 17,
+        "endOffset": 36,
+        "text": "dirty little secret",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5B75D9D74D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Well, here's the dirty little secret.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C9DE5B06A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Until recently, we haven't had to know exactly how a vaccine worked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF5B73DE9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "We knew they worked through old-fashioned trial and error.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "700C71C6CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "You took a pathogen, you modified it, you injected it into a person or an animal and you saw what happened.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "41CC94EC7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 11,
+        "endOffset": 19,
+        "text": "pathogen",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A499F43EAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "This worked well for most pathogens, somewhat well for crafty bugs like flu, but not at all for HIV, for which humans have no natural immunity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "784BFB7035",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So let's explore how vaccines work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0665121C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 24,
+        "endOffset": 40,
+        "text": "cache of weapons",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1F9995A052",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 45,
+        "endOffset": 63,
+        "text": "your immune system",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4ACFB508DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "They basically create a cache of weapons for your immune system which you can deploy when needed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05080B58D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "Now, when you get a viral infection, what normally happens is it takes days or weeks for your body to fight back at full strength, and that might be too late.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85D68379B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 52,
+        "endOffset": 122,
+        "text": "forces in your body pre-trained to recognize and defeat specific foes.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7FBF3A3F8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 62,
+        "endOffset": 71,
+        "text": "your body",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4624D60101",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "When you're pre-immunized, what happens is you have forces in your body pre-trained to recognize and defeat specific foes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ED0949CE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So that's really how vaccines work.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FD584BB82B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So that's really how vaccines work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA5B1DA5AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Now, let's take a look at a video that we're debuting at TED, for the first time, on how an effective HIV vaccine might work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "107F24D504",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 18,
+        "endOffset": 106,
+        "text": "A vaccine trains the body in advance how to recognize and neutralize a specific invader.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E76E858D64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "(Music) Narrator: A vaccine trains the body in advance how to recognize and neutralize a specific invader.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "550DCAF72A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "After HIV penetrates the body's mucosal barriers, it infects immune cells to replicate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42E8972F46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 55,
+        "endOffset": 72,
+        "text": "front-line troops",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BB9B5E195D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The invader draws the attention of the immune system's front-line troops.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07A301BC79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Dendritic cells, or macrophages, capture the virus and display pieces of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ACC7160DD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 96,
+        "endOffset": 113,
+        "text": "front-line troops",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B70F0EA13D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Memory cells generated by the HIV vaccine are activated when they learn HIV is present from the front-line troops.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDE47994B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "These memory cells immediately deploy the exact weapons needed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAED220894",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 53,
+        "endOffset": 68,
+        "text": "wave after wave",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DC67A7EC73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 101,
+        "endOffset": 111,
+        "text": "latch onto",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5583F5FA50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 243,
+        "text": "Memory B cells turn into plasma cells, which produce wave after wave of the specific antibodies that latch onto HIV to prevent it from infecting cells, while squadrons of killer T cells seek out and destroy cells that are already HIV infected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6765C2BE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "The virus is defeated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E48EF0525",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Without a vaccine, these responses would have taken more than a week.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D07F8EEF9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "By that time, the battle against HIV would already have been lost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C489EDF33D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Seth Berkley: Really cool video, isn't it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B43E74CDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 15,
+        "endOffset": 27,
+        "text": "you just saw",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1BCB3B6DB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "The antibodies you just saw in this video, in action, are the ones that make most vaccines work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31F6DF2230",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 52,
+        "endOffset": 61,
+        "text": "your body",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5C8FAAED9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "So the real question then is: How do we ensure that your body makes the exact ones that we need to protect against flu and HIV?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F0071ABB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "The principal challenge for both of these viruses is that they're always changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2401E32A01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So let's take a look at the flu virus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E108CF380",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 42,
+        "endOffset": 66,
+        "text": "different colored spikes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D87BCDB632",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "In this rendering of the flu virus, these different colored spikes are what it uses to infect you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A3B01E2FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 39,
+        "endOffset": 45,
+        "text": "handle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9BC75AD93E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And also, what the antibodies use is a handle to essentially grab and neutralize the virus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9B5851C21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "When these mutate, they change their shape, and the antibodies don't know what they're looking at anymore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCA4C92337",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So that's why every year you can catch a slightly different strain of flu.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "557F775F66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "It's also why in the spring, we have to make a best guess at which three strains are going to prevail the next year, put those into a single vaccine and rush those into production for the fall.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D956B61A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "Even worse, the most common influenza -- influenza A -- also infects animals that live in close proximity to humans, and they can recombine in those particular animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "116BCBFE9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "In addition, wild aquatic birds carry all known strains of influenza.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35C84F9AF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "So, you've got this situation: In 2003, we had an H5N1 virus that jumped from birds into humans in a few isolated cases with an apparent mortality rate of 70 percent.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "066F2397EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Now luckily, that particular virus, although very scary at the time, did not transmit from person to person very easily.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54186F5E32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "This year's H1N1 threat was actually a human, avian, swine mixture that arose in Mexico.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5698A168B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It was easily transmitted, but, luckily, was pretty mild.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAC1CC7955",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And so, in a sense, our luck is holding out, but you know, another wild bird could fly over at anytime.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "37DC3D1590",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Now let's take a look at HIV.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05E7B80C85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "As variable as flu is, HIV makes flu look like the Rock of Gibraltar.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8FD303DAD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "The virus that causes AIDS is the trickiest pathogen scientists have ever confronted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF27DC830D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "It mutates furiously, it has decoys to evade the immune system, it attacks the very cells that are trying to fight it and it quickly hides itself in your genome.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "05211EE387",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "Here's a slide looking at the genetic variation of flu and comparing that to HIV, a much wilder target.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D7BAAFDAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "In the video a moment ago, you saw fleets of new viruses launching from infected cells.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E94C277653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Now realize that in a recently infected person, there are millions of these ships; each one is just slightly different.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CBD8A9C9E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Finding a weapon that recognizes and sinks all of them makes the job that much harder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D14654AA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "Now, in the 27 years since HIV was identified as the cause of AIDS, we've developed more drugs to treat HIV than all other viruses put together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CE92B8CD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "These drugs aren't cures, but they represent a huge triumph of science because they take away the automatic death sentence from a diagnosis of HIV, at least for those who can access them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67C74E1C24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "The vaccine effort though is really quite different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78129F448B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Large companies moved away from it because they thought the science was so difficult and vaccines were seen as poor business.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EEE2590E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Many thought that it was just impossible to make an AIDS vaccine, but today, evidence tells us otherwise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31076EA999",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "In September, we had surprising but exciting findings from a clinical trial that took place in Thailand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEDE110432",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "For the first time, we saw an AIDS vaccine work in humans -- albeit, quite modestly -- and that particular vaccine was made almost a decade ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCC8ABF4E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Newer concepts and early testing now show even greater promise in the best of our animal models.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB3308FCBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "But in the past few months, researchers have also isolated several new broadly neutralizing antibodies from the blood of an HIV infected individual.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C43055D01A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now, what does this mean?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A194A3CE38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "We saw earlier that HIV is highly variable, that a broad neutralizing antibody latches on and disables multiple variations of the virus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD231CAD63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "If you take these and you put them in the best of our monkey models, they provide full protection from infection.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A2026E3322",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "In addition, these researchers found a new site on HIV where the antibodies can grab onto, and what's so special about this spot is that it changes very little as the virus mutates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "320D36174F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "It's like, as many times as the virus changes its clothes, it's still wearing the same socks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A6B647EC5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 92,
+        "endOffset": 169,
+        "text": ", and now our job is to make sure we get the body to really hate those socks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8952FD7ED3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So what we've got is a situation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7549BF698",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "The Thai results tell us we can make an AIDS vaccine, and the antibody findings tell us how we might do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB917C9EC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "This strategy, working backwards from an antibody to create a vaccine candidate, has never been done before in vaccine research.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50434937BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "It's called retro-vaccinology, and its implications extend way beyond that of just HIV.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3300B7038",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "So think of it this way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1896A7F3C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "We've got these new antibodies we've identified, and we know that they latch onto many, many variations of the virus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "928FC1238D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 146,
+        "endOffset": 228,
+        "text": "what we hope is we can prompt your immune system to make these matching antibodies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE5A24A5E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 176,
+        "endOffset": 180,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E2F5BAF14A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And that would create a universal HIV vaccine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09B96631FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 64,
+        "endOffset": 142,
+        "text": "looks more like this blue antibody diagram attached to its yellow binding site",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7BCCB20CA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 230,
+        "text": "Now, it sounds easier than it is because the structure actually looks more like this blue antibody diagram attached to its yellow binding site, and as you can imagine, these three-dimensional structures are much harder to work on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44998B7EA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 7,
+        "endOffset": 15,
+        "text": "you guys",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FC403A5D0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 50,
+        "endOffset": 76,
+        "text": "we'd love to hear about it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6A8A13D539",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "But, you know, the research that has occurred from HIV now has really helped with innovation with other diseases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E83DF38E5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "So for instance, a biotechnology company has now found broadly neutralizing antibodies to influenza, as well as a new antibody target on the flu virus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62764D7EDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "They’re currently making a cocktail -- an antibody cocktail -- that can be used to treat severe, overwhelming cases of flu.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB47DAA004",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "In the longer term, what they can do is use these tools of retro-vaccinology to make a preventive flu vaccine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69990A6551",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Now, retro-vaccinology is just one technique within the ambit of so-called rational vaccine design.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE6212C942",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Let me give you another example.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A90F71A1B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "We talked about before the H and N spikes on the surface of the flu virus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29A9C1B095",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Notice these other, smaller protuberances.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF7F249F18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "These are largely hidden from the immune system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8261FABC44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Now it turns out that these spots also don't change much when the virus mutates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64E1248420",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 11,
+        "endOffset": 49,
+        "text": "cripple these with specific antibodies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B69775091A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 51,
+        "endOffset": 68,
+        "text": "you could cripple",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7D63A5790A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 89,
+        "endOffset": 102,
+        "text": "you might get",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F8E501111",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "So if this works in humans, what we're talking about is a universal flu vaccine, one that doesn't need to change every year and would remove the threat of death.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "435BABFAC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 39,
+        "endOffset": 54,
+        "text": "just a bad cold",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D0179C2946",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Of course, the best vaccine imaginable is only valuable to the extent we get it to everyone who needs it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C0B2C5BCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 34,
+        "endOffset": 123,
+        "text": "smart vaccine design with smart production methods and, of course, smart delivery methods",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C2440F145E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So I want you to think back",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3758F07E65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "In June, the World Health Organization declared the first global flu pandemic in 41 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CBA7EC60B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "The U.S. government promised 150 million doses of vaccine by October 15th for the flu peak.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3C3477531",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Vaccines were promised to developing countries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90C2075D22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 47,
+        "endOffset": 53,
+        "text": "flowed",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAA6DD183F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Hundreds of millions of dollars were spent and flowed to accelerating vaccine manufacturing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D335218571",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "So what happened?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC1400C228",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Well, we first figured out how to make flu vaccines, how to produce them, in the early 1940s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7C16095B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "It was a slow, cumbersome process that depended on chicken eggs, millions of living chicken eggs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23278932C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Viruses only grow in living things, and so it turned out that, for flu, chicken eggs worked really well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E47072188",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "For most strains, you could get one to two doses of vaccine per egg.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CECA9BCA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 37,
+        "endOffset": 49,
+        "text": "breathtaking",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DFC5D17E3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Luckily for us, we live in an era of breathtaking biomedical advances.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A09C6F50A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So today, we get our flu vaccines from ... chicken eggs, (Laughter) hundreds of millions of chicken eggs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FA01D9EF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Almost nothing has changed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5079038339",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "The system is reliable but the problem is you never know how well a strain is going to grow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA65C8F977",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "This year's swine flu strain grew very poorly in early production: basically .6 doses per egg.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "984CC94861",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "So, here's an alarming thought.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D07C1E1BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "What if that wild bird flies by again?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4E6284833D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "You could see an avian strain that would infect the poultry flocks, and then we would have no eggs for our vaccines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EC73678C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 4,
+        "endOffset": 103,
+        "text": "Dan [Barber], if you want billions of chicken pellets for your fish farm, I know where to get them.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C33BFCF93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "So right now, the world can produce about 350 million doses of flu vaccine for the three strains, and we can up that to about 1.2 billion doses if we want to target a single variant like swine flu.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBFC9C7691",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 26,
+        "endOffset": 47,
+        "text": "factories are humming",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BB5DAE3FE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "But this assumes that our factories are humming because, in 2004, the U.S. supply was cut in half by contamination at one single plant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2DA2FF291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And the process still takes more than half a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05985325BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "So are we better prepared than we were in 1918?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2E108E4404",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 79,
+        "endOffset": 83,
+        "text": "Yes.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "324F83B322",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Well, with the new technologies emerging now, I hope we can say definitively, \"Yes.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDDA7D7751",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "Imagine we could produce enough flu vaccine for everyone in the entire world for less than half of what we're currently spending now in the United States.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "304A7C8AB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "Imagine we could produce enough flu vaccine for everyone in the entire world for less than half of what we're currently spending now in the United States.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E3234B8C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "With a range of new technologies, we could.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AA660EEB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Here's an example: A company I'm engaged with has found a specific piece of the H spike of flu that sparks the immune system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F8BAFA874",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 7,
+        "endOffset": 70,
+        "text": "lop this off and attach it to the tail of a different bacterium",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8631DD1047",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 88,
+        "endOffset": 112,
+        "text": "vigorous immune response",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F78F7F6ABB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "If you lop this off and attach it to the tail of a different bacterium, which creates a vigorous immune response, they've created a very powerful flu fighter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80F9A2AE6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "This vaccine is so small it can be grown in a common bacteria, E. coli.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6171F6E1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 48,
+        "endOffset": 71,
+        "text": "it's like making yogurt",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3DD1E42C37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 240,
+        "text": "Now, as you know, bacteria reproduce quickly -- it's like making yogurt -- and so we could produce enough swine origin flu for the entire world in a few factories, in a few weeks, with no eggs, for a fraction of the cost of current methods.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71B626FAD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF12F1A6AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 30,
+        "endOffset": 50,
+        "text": "increased production",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7392218DEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 55,
+        "endOffset": 72,
+        "text": "huge cost savings",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DC47F67886",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "And, aside from the radically increased production and huge cost savings -- for example, the E. coli method I just talked about -- look at the time saved: this would be lives saved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "421CA17541",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 126,
+        "endOffset": 147,
+        "text": "leapfrogging the West",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "31451140C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "The developing world, mostly left out of the current response, sees the potential of these alternate technologies and they're leapfrogging the West.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4882BA8E32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "India, Mexico and others are already making experimental flu vaccines, and they may be the first place we see these vaccines in use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ACCDB651C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 104,
+        "endOffset": 123,
+        "text": "lifesaving vaccines",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3089E9ACF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "Because these technologies are so efficient and relatively cheap, billions of people can have access to lifesaving vaccines if we can figure out how to deliver them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17B2CBA8B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Now think of where this leads us.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4BF99BE477",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "New infectious diseases appear or reappear every few years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE9277FAE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Some day, perhaps soon, we'll have a virus that is going to threaten all of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3AE3C5B28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Will we be quick enough to react before millions die?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F032522365",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Luckily, this year's flu was relatively mild.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D957835BC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 8,
+        "endOffset": 15,
+        "text": "luckily",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D46CACF124",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "I say, \"luckily\" in part because virtually no one in the developing world was vaccinated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F2471C7DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 80,
+        "endOffset": 243,
+        "text": "we will master these and new tools of vaccinology, and with these tools we can produce enough vaccine for everyone at low cost and ensure healthy productive lives.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5B84247F13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 243,
+        "text": "So if we have the political and financial foresight to sustain our investments, we will master these and new tools of vaccinology, and with these tools we can produce enough vaccine for everyone at low cost and ensure healthy productive lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CCD3E608C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "No longer must flu have to kill half a million people a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F55FF19E3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "No longer does AIDS need to kill two million a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C3586437E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "No longer do the poor and vulnerable need to be threatened by infectious diseases, or indeed, anybody.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EA596ED64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 32,
+        "endOffset": 63,
+        "text": "\"massively fatal discontinuity\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "39A7B36910",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "Instead of having Vaclav Smil's \"massively fatal discontinuity\" of life, we can ensure the continuity of life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "534CF76A71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "What the world needs now are these new vaccines, and we can make it happen.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA9FA49B5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A380A993E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "(Applause) Chris Anderson: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "660020B8EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Applause) Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55F2EBF44B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So, the science is changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F915F39E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "In your mind, Seth",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B9E8940E83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 30,
+        "endOffset": 55,
+        "text": "you must dream about this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C310939E4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 8,
+        "endOffset": 19,
+        "text": "game change",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0CF3F0DD26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And with these types of antibodies, we know humans can make them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE64E414E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "So, if we can figure out how to do that, then we have the vaccine, and what's interesting is there already is some evidence that we're beginning to crack that problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "263755222B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So, the challenge is full speed ahead.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E5705426F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 4,
+        "endOffset": 15,
+        "text": "In your gut",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E9E472C5F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 48,
+        "endOffset": 81,
+        "text": "it's been 10 years every 10 years",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6F183537B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "So I hate to put a timeline on scientific innovation, but the investments that have occurred are now paying dividends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3544F0A4CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "CA: And that's the same with universal flu vaccine, the same kind of thing?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A904ECBAA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "SB: I think flu is different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21F42AC3F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 87,
+        "endOffset": 131,
+        "text": "bunch of really cool and useful technologies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB867D2E1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "They look good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A36AB20E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "The problem has been that, what we did is we invested in traditional technologies because that's what we were comfortable with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0760C030E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "You also can use adjuvants",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "76EE225729",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "You also can use adjuvants, which are chemicals you mix.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C76BE0E1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 106,
+        "endOffset": 145,
+        "text": "going back to what Michael Specter said",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EE2579E368",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "That's what Europe is doing, so we could have diluted out our supply of flu and made more available, but, going back to what Michael Specter said, the anti-vaccine crowd didn't really want that to happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF1217A03B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "CA: And malaria's even further behind?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E98210F7E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "SB: No, malaria, there is a candidate that actually showed efficacy in an earlier trial and is currently in phase three trials now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CEB2BADE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "It probably isn't the perfect vaccine, but it's moving along.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A50ED0F323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "CA: Seth, most of us do work where every month, we produce something; we get that kind of gratification.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0789D1C877",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 12,
+        "endOffset": 24,
+        "text": "slaving away",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "668B0DF32B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "You've been",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E6A485F64E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 61,
+        "endOffset": 93,
+        "text": "I salute you and your colleagues",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B4C7384711",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "You've been slaving away at this for more than a decade, and I salute you and your colleagues for what you do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE7E8D42F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "The world needs people like you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B263874B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "The world needs people like you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7270793711",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0910930C54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "SB: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9912F74D94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "514F3FFA40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

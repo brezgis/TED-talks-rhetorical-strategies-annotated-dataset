@@ -1,0 +1,2123 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10239,
+  "title": "The art of stillness",
+  "author": "Pico Iyer",
+  "url": "https://www.ted.com/talks/pico_iyer_the_art_of_stillness",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:53:25.131696Z",
+  "updated_at": "2026-05-07T10:53:25.131696Z",
+  "lead_time": 88.245,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I'm a lifelong traveler.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23118E78C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 66,
+        "endOffset": 109,
+        "text": "cheaper to go to boarding school in England",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5EFCD85F56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Even as a little kid, I was actually working out that it would be",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52A8136FA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 110,
+        "endOffset": 190,
+        "text": "than just to the best school down the road from my parents' house in California.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB212560DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "So, from the time I was nine years old I was flying alone several times a year over the North Pole, just to go to school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73225D81C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 14,
+        "endOffset": 60,
+        "text": "the more I flew the more I came to love to fly",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BA933E304F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "And of course the",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A07045B5BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 62,
+        "endOffset": 218,
+        "text": "so the very week after I graduated from high school, I got a job mopping tables so that I could spend every season of my 18th year on a different continent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA2FEC8C6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 60,
+        "endOffset": 91,
+        "text": "job and my joy could become one",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CD0B403F4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And then, almost inevitably, I became a travel writer so my",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8DB17B673",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 76,
+        "endOffset": 102,
+        "text": "candlelit temples of Tibet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "33217D82DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 355,
+        "text": "seasfronts in Havana",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "90B734A459",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 320,
+        "endOffset": 337,
+        "text": "magic and clarity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE14F8A373",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 35,
+        "endOffset": 56,
+        "text": "you were lucky enough",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7954F373D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And I really began to feel that if",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3757B61581",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 83,
+        "endOffset": 101,
+        "text": "nowhere is magical",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "044EB16FE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 11,
+        "endOffset": 23,
+        "text": "you all know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0945D37957",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "You take an angry man to the Himalayas, he just starts complaining about the food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "936FC11328",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "And I found that the best way that I could develop more attentive and more appreciative eyes was, oddly, by going nowhere, just by sitting still.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33842D9937",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And of course sitting still is how many of us get what we most crave and need in our accelerated lives, a break.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2A4DA94D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "But it was also the only way that I could find to sift through the slideshow of my experience and make sense of the future and the past.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67BE0D3064",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And so, to my great surprise, I found that going nowhere was at least as exciting as going to Tibet or to Cuba.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB72018A0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 391,
+        "text": "And by going nowhere, I mean nothing more intimidating than taking a few minutes out of every day or a few days out of every season, or even, as some people do, a few years out of a life in order to sit still long enough to find out what moves you most, to recall where your truest happiness lies and to remember that sometimes making a living and making a life point in opposite directions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA2DF77506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "And of course, this is what wise beings through the centuries from every tradition have been telling us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FF3D853B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It's an old idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DE3D29B64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 56,
+        "endOffset": 125,
+        "text": "it's not our experience that makes our lives, it's what we do with it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E4C7FEC26E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "it's not...it's",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ACE0447687",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Imagine a hurricane suddenly sweeps through your town and reduces every last thing to rubble",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F09C468A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Imagine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9C31EF1A41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "One man is traumatized for life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B9121CCCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 37,
+        "endOffset": 59,
+        "text": "almost feels liberated",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EF3DC38556",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "But another, maybe even his brother",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1611433EE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 33,
+        "endOffset": 62,
+        "text": "radically different responses",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EA791375B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "There is nothing either good or bad",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B1F4C90B60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "\"Hamlet\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B8FA0F9BC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 24,
+        "endOffset": 35,
+        "text": "good or bad",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BFB4A8D52C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And this has certainly been my experience as a traveler.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "317A1CDF59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Twenty-four years ago I took the most mind-bending trip across North Korea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DCC2CE251",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But the trip lasted a few days.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "986E09DEC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "mind-bending",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A079E06788",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "What I've done with it sitting still, going back to it in my head, trying to understand it, finding a place for it in my thinking, that's lasted 24 years already and will probably last a lifetime.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "487AC6D0B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 39,
+        "endOffset": 53,
+        "text": "amazing sights",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CF90FA54ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 117,
+        "endOffset": 133,
+        "text": "lasting insights",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "49E0150E2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "And I sometimes think that so much of our life takes place inside our heads, in memory or imagination or interpretation or speculation, that if I really want to change my life I might best begin by changing my mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C3A145C69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "Again, none of this is new; that's why Shakespeare and the Stoics were telling us this centuries ago, but Shakespeare never had to face 200 emails in a day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2FCD84596",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC6C2FCDD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 11,
+        "endOffset": 62,
+        "text": "The Stoics, as far as I know, were not on Facebook.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADD1FDDC48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "We all know that in our on-demand lives, one of the things that's most on demand is ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6024733A66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 55,
+        "endOffset": 67,
+        "text": "junk-mailers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6E3D024816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Wherever we are, any time of night or day, our bosses, junk-mailers, our parents can get to us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2FE85C3F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 114,
+        "endOffset": 143,
+        "text": "feel as if we're working more",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "80A9B0E247",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "Sociologists have actually found that in recent years Americans are working fewer hours than 50 years ago, but we feel as if we're working more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2792AEB78E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "We have more and more time-saving devices, but sometimes, it seems, less and less time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A597C31B9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "We can more and more easily make contact with people on the furthest corners of the planet, but sometimes in that process we lose contact with ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DE3A3CCD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And one of my biggest surprises as a traveler has been to find that often it's exactly the people who have most enabled us to get anywhere who are intent on going nowhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35317F5ABB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 16,
+        "endOffset": 197,
+        "text": "precisely those beings who have created the technologies that override so many of the limits of old, are the ones wisest about the need for limits, even when it comes to technology.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FBC3003FC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "In other words, precisely those beings who have created the technologies that override so many of the limits of old, are the ones wisest about the need for limits, even when it comes to technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05A9159992",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 64,
+        "endOffset": 92,
+        "text": "many of you have heard about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5DD9ED53A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 260,
+        "text": "But what impressed me even more was that as I was waiting for my digital I.D., one Googler was telling me about the program that he was about to start to teach the many, many Googlers who practice yoga to become trainers in it, and the other Googler was telling me about the book that he was about to write on the inner search engine, and the ways in which science has empirically shown that sitting still, or meditation, can lead not just to better health or to clearer thinking, but even to emotional intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8D4E8E0CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 516,
+        "text": "But what impressed me even more was that as I was waiting for my digital I.D., one Googler was telling me about the program that he was about to start to teach the many, many Googlers who practice yoga to become trainers in it, and the other Googler was telling me about the book that he was about to write on the inner search engine, and the ways in which science has empirically shown that sitting still, or meditation, can lead not just to better health or to clearer thinking, but even to emotional intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E4564866C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "I have another friend in Silicon Valley who is really one of the most eloquent spokesmen for the latest technologies, and in fact was one of the founders of Wired magazine, Kevin Kelly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26C095C97B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And Kevin wrote his last book on fresh technologies without a smartphone or a laptop or a TV in his home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD9CE7E981",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 262,
+        "text": "And like many in Silicon Valley, he tries really hard to observe what they call an Internet sabbath, whereby for 24 or 48 hours every week they go completely offline in order to gather the sense of direction and proportion they'll need when they go online again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E97E571C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "The one thing perhaps that technology hasn't always given us is a sense of how to make the wisest use of technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85DC03AD99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 35,
+        "endOffset": 63,
+        "text": "look at the Ten Commandments",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "93E2D27E77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "And when you speak of the sabbath, look at the Ten Commandments -- there's only one word there for which the adjective \"holy\" is used, and that's the Sabbath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40BCF60814",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "I pick up the Jewish holy book of the Torah -- its longest chapter, it's on the Sabbath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "676E088F2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "And we all know that it's really one of our greatest luxuries, the empty space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BA0D47704",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 35,
+        "endOffset": 52,
+        "text": "pause or the rest",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4DB41C5C25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 78,
+        "endOffset": 98,
+        "text": "beauty and its shape",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "927EAEB123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 174,
+        "endOffset": 189,
+        "text": "room to breathe",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DB02B3080D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 84,
+        "endOffset": 141,
+        "text": "so that the reader can complete my thoughts and sentences",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "657A099207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Now, in the physical domain, of course, many people, if they have the resources, will try to get a place in the country, a second home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F23C48DFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "I've never begun to have those resources, but I sometimes remember that any time I want, I can get a second home in time, if not in space, just by taking a day off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49EE244D09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "And it's never easy because, of course, whenever I do I spend much of it worried about all the extra stuff that's going to crash down on me the following day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64F8B2CAD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 18,
+        "endOffset": 56,
+        "text": "I'd rather give up meat or sex or wine",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "EBEBEAEE7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 66,
+        "endOffset": 94,
+        "text": "chance to check on my emails",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7255E6FD86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 259,
+        "text": "(Laughter) And every season I do try to take three days off on retreat but a part of me still feels guilty to be leaving my poor wife behind and to be ignoring all those seemingly urgent emails from my bosses and maybe to be missing a friend's birthday party.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53A5B4E440",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "But as soon as I get to a place of real quiet, I realize that it's only by going there that I'll have anything fresh or creative or joyful to share with my wife or bosses or friends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6819CEB8D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Otherwise, really, I'm just foisting on them my exhaustion or my distractedness, which is no blessing at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9582A404EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And so when I was 29, I decided to remake my entire life in the light of going nowhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34BEDD6B37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "One evening I was coming back from the office, it was after midnight, I was in a taxi driving through Times Square, and I suddenly realized that I was racing around so much I could never catch up with my life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F2D03E6A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "And my life then, as it happened, was pretty much the one I might have dreamed of as a little boy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "550027F63E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "I had really interesting friends and colleagues, I had a nice apartment on Park Avenue and 20th Street.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2515E3FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "I had, to me, a fascinating job writing about world affairs, but I could never separate myself enough from them to hear myself think -- or really, to understand if I was truly happy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AC7F20B0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 158,
+        "endOffset": 176,
+        "text": "gravitational pull",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C09F5D4BAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "And so, I abandoned my dream life for a single room on the backstreets of Kyoto, Japan, which was the place that had long exerted a strong, really mysterious gravitational pull on me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00461370E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 68,
+        "endOffset": 122,
+        "text": "recognized it; I knew it before I ever laid eyes on it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7C087A0B4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Even as a child I would just look at a painting of Kyoto and feel",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EDD8292DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 15,
+        "endOffset": 30,
+        "text": "as you all know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "30E359B7CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "But it's also, a beautiful city encircled by hills, filled with more than 2,000 temples and shrines, where people have been sitting still for 800 years or more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E03D0C418",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 383,
+        "text": "And quite soon after I moved there, I ended up where I still am with my wife, formerly our kids, in a two-room apartment in the middle of nowhere where we have no bicycle, no car, no TV I can understand, and I still have to support my loved ones as a travel writer and a journalist, so clearly this is not ideal for job advancement or for cultural excitement or for social diversion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83ACC4697C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "But I realized that it gives me what I prize most, which is days and hours.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE93903277",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "I have never once had to use a cell phone there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0120A48AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 82,
+        "endOffset": 134,
+        "text": "the day stretches in front of me like an open meadow",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D2AD18E45F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 41,
+        "endOffset": 81,
+        "text": "And every morning when I wake up, really",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9164948E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 206,
+        "endOffset": 217,
+        "text": "in my bones",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "578EDFE99B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 371,
+        "text": "And when life throws up one of its nasty surprises, as it will, more than once, when a doctor comes into my room wearing a grave expression, or a car suddenly veers in front of mine on the freeway, I know, that it's the time I've spent going nowhere that is going to sustain me much more than all the time I've spent racing around to Bhutan or Easter Island.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B7AE95A84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 125,
+        "endOffset": 168,
+        "text": "stillness into the motion and the commotion",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B85F68D2F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "I'll always be a traveler -- my livelihood depends on it -- but one of the beauties of travel is that it allows you to bring",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DB00BE9FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 227,
+        "text": "I once got on a plane in Frankfurt, Germany, and a young German woman came down and sat next to me and engaged me in a very friendly conversation for about 30 minutes, and then she just turned around and sat still for 12 hours.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C59518CDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "She didn't once turn on her video monitor, she never pulled out a book, she didn't even go to sleep, she just sat still, and something of her clarity and calm really imparted itself to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7C8116E36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "I've noticed more and more people taking conscious measures these days to try to open up a space inside their lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEA4A5C231",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "Some people go to black-hole resorts where they'll spend hundreds of dollars a night in order to hand over their cell phone and their laptop to the front desk on arrival.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A352762D02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 236,
+        "text": "Some people I know, just before they go to sleep, instead of scrolling through their messages or checking out YouTube, just turn out the lights and listen to some music, and notice that they sleep much better and wake up much refreshed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4585FDAC33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "I was once fortunate enough to drive into the high, dark mountains behind Los Angeles, where the great poet and singer and international heartthrob Leonard Cohen was living and working for many years as a full-time monk in the Mount Baldy Zen Center.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33B25C2436",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 239,
+        "text": "And I wasn't entirely surprised when the record that he released at the age of 77, to which he gave the deliberately unsexy title of 'Old Ideas,' went to number one in the charts in 17 nations in the world, hit the top five in nine others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DFACA839F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 29,
+        "endOffset": 39,
+        "text": "crying out",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8328D06F84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "Something in us, I think, is crying out for the sense of intimacy and depth that we get from people like that. who take the time and trouble to sit still.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EAC1AE8EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 70,
+        "endOffset": 119,
+        "text": "standing about two inches away from a huge screen",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0739CC3DE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 219,
+        "text": "And I think many of us have the sensation, I certainly do, that we're standing about two inches away from a huge screen, and it's noisy and it's crowded and it's changing with every second, and that screen is our lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8285E873B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 108,
+        "endOffset": 114,
+        "text": "canvas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D18DF67DB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 138,
+        "endOffset": 152,
+        "text": "larger picture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "666D9068C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "And it's only by stepping back, and then further back, and holding still, that we can begin to see what the canvas means and to catch the larger picture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBD486F34F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And a few people do that for us by going nowhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "148A29F898",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "So, in an age of acceleration, nothing can be more exhilarating than going slow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46CC0516B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And in an age of distraction, nothing is so luxurious as paying attention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0127A20EC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And in an age of constant movement, nothing is so urgent as sitting still.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "032E5E34A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 3,
+        "endOffset": 6,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5C99CCA529",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "So you can go on your next vacation to Paris or Hawaii, or New Orleans; I bet you'll have a wonderful time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A20A9B245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 8,
+        "endOffset": 11,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B24167B289",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "But, if you want to come back home alive and full of fresh hope, in love with the world, I think you might want to try considering going nowhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E238E14261",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97A6E3D541",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "346C463BF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

@@ -1,0 +1,1613 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10019,
+  "title": "The psychology of your future self",
+  "author": "Dan Gilbert",
+  "url": "https://www.ted.com/talks/dan_gilbert_the_psychology_of_your_future_self",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T06:47:29.285139Z",
+  "updated_at": "2026-05-07T06:47:29.285139Z",
+  "lead_time": 59.593,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "At every stage of our lives we make decisions that will profoundly influence the lives of the people we're going to become, and then when we become those people, we're not always thrilled with the decisions we made.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A598E3CB20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "So young people pay good money to get tattoos removed that teenagers paid good money to get.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "6E6A55845D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Middle-aged people rushed to divorce people who young adults rushed to marry.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "907AF49964",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Older adults work hard to lose what middle-aged adults worked hard to gain.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AB599C8D72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "On and on and on.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B9A750781B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "The question is, as a psychologist",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0E0A0501AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 59,
+        "endOffset": 123,
+        "text": "why do we make decisions that our future selves so often regret?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E63AB8BE9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 35,
+        "endOffset": 65,
+        "text": "I'll try to convince you today",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7F89080309",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "magical point",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8B43C171F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 78,
+        "endOffset": 170,
+        "text": "that your children seem to change by the minute but your parents seem to change by the year.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CF4CAB03DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "But what is the name of this magical point in life where change suddenly goes from a gallop to a crawl?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A5075C22CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Is it teenage years?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F6AD86AE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Is it middle age?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A373169E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Is it old age?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD9C0BB0D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "The answer, it turns out, for most people, is now, wherever now happens to be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECDC938A82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 79,
+        "endOffset": 87,
+        "text": "illusion",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3E89930443",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "What I want to convince you today",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "91CF267ECA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Let me give you some data to back up that claim.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B96A3384A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So here's a study of change in people's personal values over time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C913AAF05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Here's three values.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E2286902C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 38,
+        "endOffset": 55,
+        "text": "you probably know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "325C13DF17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Everybody here holds all of them, but you probably know that as you grow, as you age, the balance of these values shifts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D04A6D8172",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So how does it do so?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "660E97BFD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Well, we asked thousands of people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC5AD2722B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "We asked half of them to predict for us how much their values would change in the next 10 years, and the others to tell us how much their values had changed in the last 10 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0BAD7FE37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 238,
+        "text": "And this enabled us to do a really interesting kind of analysis, because it allowed us to compare the predictions of people, say, 18 years old, to the reports of people who were 28, and to do that kind of analysis throughout the lifespan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7C4DE5BBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Here's what we found.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A13E9F3C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 74,
+        "endOffset": 86,
+        "text": "you're wrong",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1549F18E67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "First of all, you are right, change does slow down as we age, but second, you're wrong, because it doesn't slow nearly as much as we think.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF5B473208",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "At every age, from 18 to 68 in our data set, people vastly underestimated how much change they would experience over the next 10 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFFFC9FB1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 13,
+        "endOffset": 42,
+        "text": "the \"end of history\" illusion",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B0A6FD5563",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "We call this the \"end of history\" illusion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C9532681B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 53,
+        "endOffset": 68,
+        "text": "you can connect",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A75229ABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 190,
+        "text": "To give you an idea of the magnitude of this effect, you can connect these two lines, and what you see here is that 18-year-olds anticipate changing only as much as 50-year-olds actually do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F162882A46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now it's not just values.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9322F40A7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's all sorts of other things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0299661669",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "For example, personality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6117D2A5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Many of you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57E404AB7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "Many of you know that psychologists now claim that there are five fundamental dimensions of personality: neuroticism, openness to experience, agreeableness, extraversion, and conscientiousness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFC24E3D53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 80,
+        "endOffset": 156,
+        "text": "and also how much they had changed over the last 10 years, and what we found",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "22ABC284C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 235,
+        "endOffset": 385,
+        "text": "once again the rate of change does slow as we age, but at every age, people underestimate how much their personalities will change in the next decade.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C87D666AD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 164,
+        "endOffset": 225,
+        "text": "you're going to get used to seeing this diagram over and over",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9D014E550D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 385,
+        "text": "Again, we asked people how much they expected to change over the next 10 years, and also how much they had changed over the last 10 years, and what we found, well, you're going to get used to seeing this diagram over and over, because once again the rate of change does slow as we age, but at every age, people underestimate how much their personalities will change in the next decade.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E01D0A55B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And it isn't just ephemeral things like values and personality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C17A204A96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "You can ask people",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CC649D5A35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "You can ask people about their likes and dislikes, their basic preferences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F4DA19B60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "For example, name your best friend, your favorite kind of vacation, what's your favorite hobby, what's your favorite kind of music.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DB0FEBDA71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "For example, name your best friend, your favorite kind of vacation, what's your favorite hobby, what's your favorite kind of music.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FA14F109A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "People can name these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66B39941CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "We ask half of them to tell us, \"Do you think that that will change over the next 10 years?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEA01FE64B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "and half of them to tell us, \"Did that change over the last 10 years?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FA90EEF1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 24,
+        "endOffset": 70,
+        "text": "you've seen it twice now, and here it is again",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3438F1C085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 314,
+        "text": "And what we find, well, you've seen it twice now, and here it is again: people predict that the friend they have now is the friend they'll have in 10 years, the vacation they most enjoy now is the one they'll enjoy in 10 years, and yet, people who are 10 years older all say, \"Eh, you know, that's really changed.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21D6DCFF15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Does any of this matter?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AED9F14C84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Does any of this matter?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EBD239BE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Is this just",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "018FDDF2E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Is this just a form of mis-prediction that doesn't have consequences?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15FBBF92A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "No, it matters quite a bit, and I'll give you an example of why.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "808F52F90B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It bedevils our decision-making in important ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "289A20D57A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Bring to mind right now for yourself your favorite musician today and your favorite musician 10 years ago.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E24C311022",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Bring to mind right now for yourself your favorite musician today and your favorite musician 10 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "163DA8780F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "I put mine up on the screen to help you along.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22F784E180",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 238,
+        "text": "Now we asked people to predict for us, to tell us how much money they would pay right now to see their current favorite musician perform in concert 10 years from now, and on average, people said they would pay 129 dollars for that ticket.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B7349146C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "And yet, when we asked them how much they would pay to see the person who was their favorite 10 years ago perform today, they say only 80 dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "682792E938",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 36,
+        "endOffset": 67,
+        "text": "these should be the same number",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2FA0BA43F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "Now, in a perfectly rational world, these should be the same number, but we overpay for the opportunity to indulge our current preferences because we overestimate their stability.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEA8499B9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Why does this happen?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F726392FFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "We're not entirely sure, but it probably has to do with the ease of remembering versus the difficulty of imagining.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D67694F02D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "Most of us can remember who we were 10 years ago, but we find it hard to imagine who we're going to be, and then we mistakenly think that because it's hard to imagine, it's not likely to happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6391BAF69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Sorry",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8679B0C864",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "Sorry, when people say \"I can't imagine that,\" they're usually talking about their own lack of imagination, and not about the unlikelihood of the event that they're describing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9AA2A8980",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 20,
+        "endOffset": 44,
+        "text": "time is a powerful force",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89F72BA646",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The bottom line is, time is a powerful force.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51DF2B9DF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It transforms our preferences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3DD3601AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "It reshapes our values.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0300CC65F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It alters our personalities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E843CC281D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We seem to appreciate this fact, but only in retrospect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8392202253",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Only when we look backwards",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A602F63546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Only when we look backwards do we realize how much change happens in a decade.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB8D2FDD50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 28,
+        "endOffset": 55,
+        "text": "the present is a magic time",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E634A5C6AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It's as if, for most of us, the present is a magic time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "744F1EBF89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 5,
+        "endOffset": 32,
+        "text": "a watershed on the timeline",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1DFE10852F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It's a watershed on the timeline.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15CEC96D6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 36,
+        "endOffset": 52,
+        "text": "become ourselves",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1EC5AF4E43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "It's the moment at which we finally become ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D215993C33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 17,
+        "endOffset": 34,
+        "text": "works in progress",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7EF8E8FF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Human beings are works in progress that mistakenly think they're finished.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D531A1F3DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 32,
+        "endOffset": 74,
+        "text": "as transient, as fleeting and as temporary",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "465E287A2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "The person you are right now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9C3C2BEF06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "The person you are right now is as transient, as fleeting and as temporary as all the people you've ever been.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBF19948CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "The one constant",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9A80758244",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "The one constant in our life is change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C86B588202",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C53797C14C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D8B2F9FDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

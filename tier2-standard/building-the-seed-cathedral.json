@@ -1,0 +1,3126 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8818,
+  "title": "Building the Seed Cathedral",
+  "author": "Thomas Heatherwick",
+  "url": "https://www.ted.com/talks/thomas_heatherwick_building_the_seed_cathedral",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T01:34:34.320621Z",
+  "updated_at": "2026-05-07T01:34:34.320621Z",
+  "lead_time": 115.994,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Hello, my name is Thomas Heatherwick.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DF83BB390",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "I have a studio in London that has a particular approach to designing buildings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FC843246D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 40,
+        "endOffset": 85,
+        "text": "making and crafts and materials and invention",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0580F0DAEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 195,
+        "endOffset": 212,
+        "text": "soulless and cold",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6FEF5C175C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 213,
+        "text": "and that were around me and that were being designed and that were there",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CC6FA54517",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 104,
+        "endOffset": 133,
+        "text": "materiality and a soulfulness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F8C66D9048",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And this influenced me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A57ED7537A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "The first building I built was 20 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "174DAE73E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And since, in the last 20 years, I've developed a studio in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E9251A3C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Sorry, this was my mother, by the way, in her bead shop in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A59E96BFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I spent a lot of time counting beads and things like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D1900ACA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 24,
+        "endOffset": 66,
+        "text": "for people who don't know my studio's work",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2FCD84B780",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This is a hospital building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FBDBC3FA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "This is a shop for a bag company.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C838D169E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This is studios for artists.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "802074E606",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 30,
+        "endOffset": 101,
+        "text": "a million yards of wire and 150,000 glass beads the size of a golf ball",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "36D36CB7D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And this is a window display.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A39687717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 12,
+        "endOffset": 34,
+        "text": "pair of cooling towers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "795466878A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And this is pair of cooling towers for an electricity substation next to St. Paul's Cathedral in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "577D28BBE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And this is pair of cooling towers for an electricity substation next to St. Paul's Cathedral in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92D73EAF0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 14,
+        "endOffset": 20,
+        "text": "temple",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C69D9B564C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And this is a temple in Japan for a Buddhist monk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E0EF9463F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And this is a cafe by the sea in Britain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFF7C4009F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4896A41CD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "And just very quickly, something we've been working on very recently is we were commissioned by the mayor of London to design a new bus that gave the passenger their freedom again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB2503C379",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 42,
+        "endOffset": 53,
+        "text": "some of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "409994D922",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "Because the original Routemaster bus that some of you may be familiar with, which had this open platform at the back -- in fact, I think all our Routemasters are here in California now actually.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FACDA5014",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "But they aren't in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "930F0F6909",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And so you're stuck on a bus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF0E2CDC64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 91,
+        "endOffset": 99,
+        "text": "prisoner",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5BFDD55CF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And if the bus is going to stop and it's three yards away from the bus stop, you're just a prisoner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80F91C0978",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "But the mayor of London wanted to reintroduce buses with this open platform.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4866A4216",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "So we've been working with Transport for London, and that organization hasn't actually been responsible as a client for a new bus for 50 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FEC5996B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And so we've been very lucky to have a chance to work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43C03435A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "The brief is that the bus should use 40 percent less energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBAFAA13E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So it's got hybrid drive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CE67335DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 61,
+        "endOffset": 67,
+        "text": "fabric",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "990FCE8A72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 100,
+        "endOffset": 110,
+        "text": "aesthetics",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "810DAA2971",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And we've been working to try to improve everything from the fabric to the format and structure and aesthetics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDB4890BE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I was going to show four main projects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "885F0C7DE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And this is a project for a bridge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66656BFE21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And so we were commissioned to design a bridge that would open.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "783BD57E02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 23,
+        "endOffset": 53,
+        "text": "everyone loves opening bridges",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9A2BEA2B18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And openings seemed -- everyone loves opening bridges, but it's quite a basic thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF3B0D4B16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I think we all kind of stand and watch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88CD2B233B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 67,
+        "endOffset": 76,
+        "text": "squeamish",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DB93748A86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "But the bridges that we saw that opened and closed -- I'm slightly squeamish -- but I once saw a photograph of a footballer who was diving for a ball.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2EEDE2B90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 66,
+        "endOffset": 82,
+        "text": "broken like this",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "46D60EE427",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And as he was diving, someone had stamped on his knee, and it had broken like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEE020DEC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 90,
+        "endOffset": 121,
+        "text": "beautiful thing that had broken",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9901D2B448",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And then we looked at these kinds of bridges and just couldn't help feeling that it was a beautiful thing that had broken.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "865B92B90C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And so this is in Paddington in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BD9262BDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And it's a very boring bridge, as you can see.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3799E5AB9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "It's just steel and timber.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58B7D77893",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "But instead of what it is, our focus was on the way it worked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7772C92F5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 78,
+        "endOffset": 96,
+        "text": "kissing each other",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D85D328431",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "(Applause) So we liked the idea that the two farthest bits of it would end up kissing each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3229D7844F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "(Applause) We actually had to halve its speed, because everyone was too scared when we first did it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67E8DCC1BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "So that's it speeded up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3C4C6CD51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "A project that we've been working on very recently is to design a new biomass power station -- so a power station that uses organic waste material.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49D083C94C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "In the news, the subject of where our future water is going to come from and where our power is going to come from is in all the papers all the time.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B64C0350A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And we used to be quite proud of the way we generated power.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "853F70B8A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "But recently, any annual report of a power company doesn't have a power station on it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66510B9FC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "It has a child running through a field, or something like that.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0E42D43014",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 249,
+        "text": "(Laughter) And so when a consortium of engineers approached us and asked us to work with them on this power station, our condition was that we would work with them and that, whatever we did, we were not just going to decorate a normal power station.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2057C537D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And instead, we had to learn -- we kind of forced them to teach us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "196AFBFD5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "And so we spent time traveling with them and learning about all the different elements, and finding that there were plenty of inefficiencies that weren't being capitalized on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F95D978D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "That just taking a field and banging all these things out isn't necessarily the most efficient way that they could work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5794BF2CE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "So we looked at how we could compose all those elements -- instead of just litter, create one composition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C837DC8E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And what we found -- this area is one of the poorest parts of Britain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "017EA5651A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "It was voted the worst place in Britain to live.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E7AD918E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And there are 2,000 new homes being built next to this power station.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "323D89E4E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So it felt this has a social dimension.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78C4317590",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 9,
+        "endOffset": 28,
+        "text": "symbolic importance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "62F0FEF477",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "And we should be proud of where our power is coming from, rather than something we are necessarily ashamed of.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74AA8A6478",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 158,
+        "endOffset": 170,
+        "text": "pulls you in",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "027203E1DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 158,
+        "endOffset": 170,
+        "text": "pulls you in",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FE038A9395",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And it has to be -- I'm trying to get my -- 250 feet high.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E05800673",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "So it felt that what we could try to do is make a power park and actually bring the whole area in, and using the spare soil that's there on the site, we could make a power station that was silent as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10F37C7D61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Because just that soil could make the acoustic difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F9D3E1097",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And we also found that we could make a more efficient structure and have a cost-effective way of making a structure to do this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "927AC59DDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "The finished project is meant to be more than just a power station.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58DF8CAEC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 21,
+        "endOffset": 49,
+        "text": "you could have a bar mitzvah",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DCA90000FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "(Laughter) And it's a power park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF71A4F1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "So people can come and really experience this and also look out all around the area, and use that height that we have to have for its function.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B60B15A041",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "In Shanghai, we were invited to build -- well we weren't invited; what am I talking about.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0BAD41BCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We won the competition, and it was painful to get there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "799BE0739E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "(Laughter) So we won the competition to build the U.K. pavilion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79482DADD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 17,
+        "endOffset": 38,
+        "text": "totally bonkers thing",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9C0AB2C199",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "There's 250 pavilions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D032A66C49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's the world's biggest ever expo that had ever happened.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A2A91E34E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "So there are up to a million people there everyday.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "103BB62D23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And 250 countries all competing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C99788577F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And the British government saying, \"You need to be in the top five.\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6A2646EE80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 77,
+        "endOffset": 113,
+        "text": "chaos, which is an expo of stimulus?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "86986C0CE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 48,
+        "endOffset": 68,
+        "text": "how do you stand out",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2FA5A162C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "So our sense was we had to do one thing, and only one thing, instead of trying to have everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EC72E38F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And so what we also felt was that whatever we did we couldn't do a cheesy advert for Britain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD6FF0A623",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "777E78AFF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 40,
+        "endOffset": 79,
+        "text": "the expo was about the future of cities",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "04AC83BBF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And the world's first public park of modern times was in Britain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07CEA67496",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "And the world's first major botanical institution is in London, and they have this extraordinary project where they've been collecting 25 percent of all the world's plant species.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CE8132512",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So we suddenly realized that there was this thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBDD43EE24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And everyone agrees that trees are beautiful, and I've never met anyone who says, \"I don't like trees.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C45027E39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And the same with flowers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "912760DED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "I've never met anyone who says, \"I don't like flowers.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A7CC19921",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "But we realized that seeds -- there's been this very serious project happening -- but that seeds -- at these major botanical gardens, seeds aren't on show.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9783F530F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "But you just have to go to a garden center, and they're in little paper packets.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "98B16E1531",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "But this phenomenal project's been happening.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A717E5F686",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "So we realized we had to make a project that would be seeds, some kind of seed cathedral.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F625275C92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But how could we show these teeny-weeny things?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7994472005",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And the film \"Jurassic Park\" actually really helped us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "524D7EED20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "Because the DNA of the dinosaur that was trapped in the amber gave us some kind of clue that these tiny things could be trapped and be made to seem precious, rather than looking like nuts.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "455CC13BA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "So the challenge was, how are we going to bring light and expose these things?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "986B78F5CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "We didn't want to make a separate building and have separate content.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C62101F915",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "So we were trying to think, how could we make a whole thing emanate.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "97DD3A664F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "By the way, we had half the budget of the other Western nations.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9931E62F77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "So that was also in the mix with the site the size of a football pitch.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1E4B3924F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And so there was one particular toy that gave us a clue.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A344269A93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "(Video) Voice Over: The new Play-Doh Mop Top Hair Shop.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "88EBF735B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "Song: ♫ We've got the Mop Tops, the Play-Doh Mop Tops ♫ ♫ Just turn the chair and grow Play-Doh hair ♫ ♫ They're the Mop Tops ♫ Thomas Heatherwick: Okay, you get the idea.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C8850F8511",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 114,
+        "endOffset": 135,
+        "text": "precious optical hair",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2AA431BAFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 244,
+        "text": "So the idea was to take these 66,000 seeds that they agreed to give us, and to take each seed and trap it in this precious optical hair and grow that through this box, very simple box element, and make it a building that could move in the wind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3597DDBCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "So the whole thing can gently move when the wind blows.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3E34F3177",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 43,
+        "endOffset": 48,
+        "text": "optic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F291ACD63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And inside, the daylight -- each one is an optic and it brings light into the center.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "765B56B2D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And by night, artificial light in each one emanates and comes out to the outside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CB7E26E41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And to make the project affordable, we focused our energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "244013EF0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Instead of building a building as big as the football pitch, we focused it on this one element.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF9AA1163A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 67,
+        "endOffset": 83,
+        "text": "focus our energy",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "03B0A324EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And the government agreed to do that and not do anything else, and focus our energy on that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E4A3D113F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And so the rest of the site was a public space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74C45269A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And with a million people there a day, it just felt like offering some public space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EE541B756",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "We worked with an AstroTurf manufacturer to develop a mini-me version of the seed cathedral, so that, even if you're partially-sighted, that it was kind of crunchy and soft, that piece of landscape that you see there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59C8870245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 174,
+        "endOffset": 183,
+        "text": "shaved it",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8441C06401",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "And then, you know when a pet has an operation and they shave a bit of the skin and get rid of the fur -- in order to get you to go into the seed cathedral, in effect, we’ve shaved it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C997627656",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And inside there's nothing; there's no famous actor's voice; there's no projections; there's no televisions; there's no color changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5DE1C0BD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "There's just silence and a cool temperature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A15AF20089",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And if a cloud goes past, you can see a cloud on the tips where it's letting the light through.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DCCE02362",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "This is the only project that we've done where the finished thing looked more like a rendering than our renderings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D36C36DA15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 11,
+        "endOffset": 53,
+        "text": "A key thing was how people would interact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C60EFA7D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I mean, in a way it was the most serious thing you could possible do at the expo.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "74C1957684",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And I just wanted to show you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A9416F6E20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 56,
+        "endOffset": 85,
+        "text": "the worst client in the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C2749E015F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 86,
+        "endOffset": 122,
+        "text": "you could ever possibly want to have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0BCC5E1F75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And there was a lot of terror.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31CC8EA90D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "But there was an underlying support.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "669FFC2920",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And so there was a moment when suddenly -- actually, the next thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D430A2BEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "This is the head of U.K.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8B0045581",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Trade and Investment, who was our client, with the Chinese children, using the landscape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C23BF82DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "(Video) Children: One, two, three, go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD8E11B0C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 15,
+        "endOffset": 53,
+        "text": "I'm sorry about my stupid voice there.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5B27480683",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 11,
+        "endOffset": 44,
+        "text": "So finally, texture is something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B34F8EEDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 214,
+        "text": "In the projects we've been working on, these slick buildings, where they might be a fancy shape, but the materiality feels the same, is something that we've been trying to research really, and explore alternatives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0772765A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And the project that we're building in Malaysia is apartment buildings for a property developer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5101F5D1E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And it's in a piece of land that's this site.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7540AB69E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "And the mayor of Kuala Lumpur said that, if this developer would give something that gave something back to the city, they would give them more gross floor area, buildable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75E9981AA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "So there was an incentive for the developer to really try to think about what would be better for the city.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A23974B01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 81,
+        "endOffset": 170,
+        "text": "you have your tower, and you squeeze a few trees around the edge, and you see cars parked",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9976934A5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "It's actually only the first couple of floors that you really experience, and the rest of it is just for postcards.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4AA1026CFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The lowest value is actually the bottom part of a tower like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4001EFF17A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "So if we could chop that away and give the building a small bottom, we could take that bit and put it at the top where the greater commercial value is for a property developer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2249173D2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "And by linking these together, we could have 90 percent of the site as a rainforest, instead of only 10 percent of scrubby trees and bits of road around buildings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D480067250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "(Applause) So we're building these buildings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "852107516C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "They're actually identical, so it's quite cost-effective.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D3A9C4755",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "They're just chopped at different heights.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "370B4D2695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 20,
+        "endOffset": 99,
+        "text": "trying to give back an extraordinary piece of landscape, rather than engulf it.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BF973E1819",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And that's my final slide.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D23752841F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "659EF96C4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Applause) Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E962F3788",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 11,
+        "endOffset": 36,
+        "text": "June Cohen: So thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4C11443DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Thank you, Thomas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BABCA8DE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "You're a delight.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "38B90451F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "Since we have an extra minute here, I thought perhaps you could tell us a little bit about these seeds, which maybe came from the shaved bit of the building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD5D3C5C41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "TH: These are a few of the tests we did when we were building the structure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BED9E77E41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So there were 66,000 of these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5C8EC01F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "This optic was 22 feet long.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA08A53353",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 7,
+        "endOffset": 123,
+        "text": "the daylight was just coming -- it was caught on the outside of the box and was coming down to illuminate each seed.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D6431EA8F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Waterproofing the building was a bit crazy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C7536D6C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Because it's quite hard to waterproof buildings anyway, but if you say you're going to drill 66,000 holes in it -- we had quite a time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "455AB4810C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "There was one person in the contractors who was the right size -- and it wasn't a child -- who could fit between them for the final waterproofing of the building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C546263AA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "JC: Thank you, Thomas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA343C6671",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58A1F48C5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

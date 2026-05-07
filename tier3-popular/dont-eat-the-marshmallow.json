@@ -1,0 +1,1290 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10163,
+  "title": "Don't eat the marshmallow!",
+  "author": "Joachim de Posada",
+  "url": "https://www.ted.com/talks/joachim_de_posada_don_t_eat_the_marshmallow",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T06:40:01.418402Z",
+  "updated_at": "2026-05-07T06:40:01.418402Z",
+  "lead_time": 40.968,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 50,
+        "endOffset": 110,
+        "text": "I think we have found the most important factor for success.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A5E80AEBF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "I'm here because I have a very important message: I think we have found the most important factor for success.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5156A965DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And it was found close to here, Stanford.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6619D55527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Psychology professor took kids that were four years old and put them in a room all by themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76D1EDCA2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And he would tell the child, a four-year-old kid, \"Johnny, I am going to leave you here with a marshmallow for 15 minutes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87358BD037",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "If, after I come back, this marshmallow is here, you will get another one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E2704EE82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So you will have two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F1DA00F52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 77,
+        "endOffset": 144,
+        "text": "is equivalent to telling us, \"We'll bring you coffee in two hours.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C210CBC258",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 77,
+        "endOffset": 104,
+        "text": "is equivalent to telling us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9504B14190",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11823E722D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So what happened when the professor left the room?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "06A0CC2EDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "As soon as the door closed... two out of three ate the marshmallow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18086AACFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Five seconds, 10 seconds, 40 seconds, 50 seconds, two minutes, four minutes, eight minutes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25CCE45D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Some lasted 14-and-a-half minutes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5599C0E507",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E0D05555D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Couldn't do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ACE86D943",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Could not wait.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D96B8C776",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What's interesting is that one out of three would look at the marshmallow and go like this ...",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C33E23FC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Would look at it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CE5761B93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Put it back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "350B15CC03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "They would walk around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E53BEA5E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 11,
+        "endOffset": 43,
+        "text": "play with their skirts and pants",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE1F43E573",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 40,
+        "endOffset": 80,
+        "text": "the most important principle for success",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3A79E3CCB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 73,
+        "endOffset": 80,
+        "text": "success",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "94D0FDE30A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Self-discipline: the most important factor for success.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "61149A733F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 56,
+        "endOffset": 92,
+        "text": "15 years later, 14 or 15 years later",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "39B83733E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "What did they find?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10978EFA33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "They went to look for these kids who were now 18 and 19.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B719B45FF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 20,
+        "endOffset": 99,
+        "text": "100 percent of the children that had not eaten the marshmallow were successful.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BC5CBE7631",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 88,
+        "endOffset": 98,
+        "text": "successful",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DE7CB8F474",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "They had good grades.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "035E940A14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "They were doing wonderful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C6B4CC1EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "They were happy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14FFA2982D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "They had their plans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F16AD44CCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "They had good relationships with the teachers, students.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02397CE9E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "They were doing fine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D3F264786",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "A great percentage of the kids that ate the marshmallow, they were in trouble.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECAFCCD80E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "They did not make it to university.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26691311C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "They had bad grades.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "391BCDD887",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Some of them dropped out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "552E1250B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "A few were still there with bad grades.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FECED42C7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "A few had good grades.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7E57C2308",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 29,
+        "endOffset": 89,
+        "text": "Would Hispanic kids react the same way as the American kids?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "42F9540E2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So I went to Colombia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5D0ECC573",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And I reproduced the experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2589132FFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And it was very funny.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "84044D37B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "I used four, five and six years old kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C402BDEE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And let me show you what happened.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7803E7BD48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "(Spanish) (Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9F9295E77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Hispanic kids, two out of three ate the marshmallow; one out of three did not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FCC7CACB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "This little girl was interesting; she ate the inside of the marshmallow.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C69F8BF9F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 11,
+        "endOffset": 98,
+        "text": "In other words, she wanted us to think that she had not eaten it, so she would get two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD9E4D9532",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "But she ate it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85047910BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So we know she'll be successful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9238F47142",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "But we have to watch her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "626CCCAEDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 11,
+        "endOffset": 83,
+        "text": "She should not go into banking, for example, or work at a cash register.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "64C92BD500",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "But she will be successful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52C0CE7034",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And this applies for everything.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "378C616717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Even in sales.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F175510F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The sales person that -- the customer says, \"I want that.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F63F8FEB3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And the person says, \"Okay, here you are.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "184C8C2726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "That person ate the marshmallow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7508EC19C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "If the sales person says, \"Wait a second.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3AEC2C78BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Let me ask you a few questions to see if this is a good choice.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "24D0B4CD73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Then you sell a lot more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72F07EA382",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So this has applications in all walks of life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0691D6F601",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I end with -- the Koreans did this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84D9D5A3F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "You know what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8CB16E7995",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "This is so good that we want a marshmallow book for children.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "849EF1CD80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We did one for children.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7057AE028",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And now it is all over Korea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C17ADD815",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "They are teaching these kids exactly this principle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "757BF0EE7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And we need to learn that principle here in the States, because we have a big debt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FCCA6FCF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "We are eating more marshmallows than we are producing.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F73C31ED5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Thank you so much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E51BB3A9E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

@@ -1,0 +1,4418 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8343,
+  "title": "3 warp-speed architecture tales",
+  "author": "Bjarke Ingels",
+  "url": "https://www.ted.com/talks/bjarke_ingels_3_warp_speed_architecture_tales",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T01:51:57.684103Z",
+  "updated_at": "2026-05-07T01:51:57.684103Z",
+  "lead_time": 155.202,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 99,
+        "endOffset": 119,
+        "text": "architectural object",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "549B1086EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "The public debate about architecture quite often just stays on contemplating the final result, the architectural object.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "646B3386EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Is the latest tower in London",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F3A87E3C71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 30,
+        "endOffset": 67,
+        "text": "a gherkin or a sausage or a sex tool?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7A2A0F59B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 13,
+        "endOffset": 31,
+        "text": "we asked ourselves",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BEF0A7A38A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 216,
+        "text": "So recently, we asked ourselves if we could invent a format that could actually tell the stories behind the projects, maybe combining images and drawings and words to actually sort of tell stories about architecture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "817A84D0EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And we discovered that we didn't have to invent it, it already existed in the form of a comic book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2D8E52E4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 173,
+        "text": "So we basically copied the format of the comic book to actually tell the stories of behind the scenes, how our projects actually evolve through adaptation and improvisation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4284C61FE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 8,
+        "endOffset": 85,
+        "text": "through the turmoil and the opportunities and the incidents of the real world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "787D54AC45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Sort of through the turmoil and the opportunities and the incidents of the real world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76201373C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "We call this comic book \"Yes is More,\" which is obviously a sort of evolution of the ideas of some of our heroes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADD6AFF1B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 38,
+        "endOffset": 50,
+        "text": "Less is More",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8BCFD85C2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "In this case it's Mies van der Rohe's Less is More.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6BECCF823",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "He triggered the modernist revolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D8E92EDA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "After him followed",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8E44AE6458",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "After him followed the post-modern counter-revolution, Robert Venturi saying, \"Less is a bore.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10A5EB2EE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 56,
+        "endOffset": 138,
+        "text": "you could say promiscuity, or at least openness to new ideas with, \"I am a whore.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A919A4B6D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "Recently, Obama has introduced optimism at a sort of time of global financial crisis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEC6A9C0C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "what we'd like to say",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AA855D1E2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And what we'd like to say with \"Yes is More\" is basically trying to question this idea that the architectural avant-garde is almost always negatively defined, as who or what we are against.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DB19E9E71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 92,
+        "endOffset": 157,
+        "text": "the architectural avant-garde is almost always negatively defined",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4DC0D96831",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "The cliche of the radical architect is the sort of angry young man rebelling against the establishment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCC790C794",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 39,
+        "endOffset": 66,
+        "text": "the sort of angry young man",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8F852EF917",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "The cliche of the radical architect is the sort of angry young man rebelling against the establishment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "387D864248",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Or this idea of the misunderstood genius, frustrated that the world doesn't fit in with his or her ideas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "655EA9AFE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 13,
+        "endOffset": 22,
+        "text": "evolution",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC4DEC0676",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "Rather than revolution, we're much more interested in evolution, this idea that things gradually evolve by adapting and improvising to the changes of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "929A639B8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In fact, I actually think that Darwin is one of the people who best explains our design process.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B2A82D44B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 11,
+        "endOffset": 28,
+        "text": "evolutionary tree",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0052548D36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "His famous evolutionary tree could almost be a diagram of the way we work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ECB2572CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "As you can see, a project evolves through a series of generations of design meetings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C810DEA086",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "At each meeting, there's way too many ideas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F69D809EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Only the best ones can survive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE2130DCB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 25,
+        "endOffset": 48,
+        "text": "architectural selection",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "700CBBE62D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "And through a process of architectural selection, we might choose a really beautiful model or we might have a very functional model.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10A9B72E78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "We mate them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74C2B4621F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 18,
+        "endOffset": 34,
+        "text": "mutant offspring",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2BAC38DA16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "They have sort of mutant offspring.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "139B8606F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "And through these sort of generations of design meetings we arrive at a design.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3BC0E357F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "A very literal way of showing it is a project we did for a library and a hotel in Copenhagen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAB3A9DA73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 51,
+        "endOffset": 72,
+        "text": "struggle for survival",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "504D8A9C52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 252,
+        "endOffset": 293,
+        "text": "Scandinavian version of the Spanish Steps",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8A1A9F0FD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 381,
+        "text": "The design process was really tough, almost like a struggle for survival, but gradually an idea evolved: this sort of idea of a rational tower that melts together with the surrounding city, sort of expanding the public space onto what we refer to as a Scandinavian version of the Spanish Steps in Rome, but sort of public on the outside, as well as on the inside, with the library.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0B61340BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "But Darwin doesn't only explain the evolution of a single idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADD6A4B968",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "As you can see, sometimes a subspecies branches off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A5EF79308",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And quite often we sit in a design meeting and we discover that there is this great idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7452B8CAEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "It doesn't really work in this context.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4034994BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 66,
+        "endOffset": 78,
+        "text": "right answer",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "098C3CEBA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 8,
+        "endOffset": 41,
+        "text": "another client in another culture",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7849E94902",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "So as a result, we never throw anything out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC62DCC183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 34,
+        "endOffset": 71,
+        "text": "archive of architectural biodiversity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C08F5950ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "You never know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "069CFEBAC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 42,
+        "endOffset": 65,
+        "text": "warp-speed storytelling",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "174E941081",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 116,
+        "endOffset": 140,
+        "text": "adapting and improvising",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ECFB9CB204",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "The first story starts last year when we went to Shanghai to do the competition for the Danish National Pavilion for the World Expo in 2010.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEA2FECAAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "And we saw this guy, Haibao.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBB754E70E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "He's the mascot of the expo, and he looks strangely familiar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61572F68B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 11,
+        "endOffset": 33,
+        "text": "looked like a building",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A0A5777842",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "When we submitted it for the Swedish competition we thought it was a really cool scheme, but it didn't exactly look like something from the north of Sweden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6B1ABF576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "The Swedish jury didn't think so either.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2048E1FDBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "So we lost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB525CC065",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 83,
+        "endOffset": 139,
+        "text": "Wow, that's the Chinese character for the word 'people.'",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F6A68A0AEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 141,
+        "endOffset": 151,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "6AA5A05C4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "We even double checked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "252FC376D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And at the same time, we got invited to exhibit at the Shanghai Creative Industry Week.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F30C0B29AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "So we thought like, this is too much of an opportunity, so we hired a feng shui master.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "019EA03CB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "We scaled the building up three times to Chinese proportions, and went to China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54311B5170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "(Laughter) So the People’s Building, as we called it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24A9474559",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "This is our two interpreters, sort of reading the architecture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "182DBDDDAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "It went on the cover of the Wen Wei Po newspaper, which got Mr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "045AC72028",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Liangyu Chen, the mayor of Shanghai, to visit the exhibition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A462FF668",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And we had the chance to explain the project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C231614D6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 14,
+        "endOffset": 70,
+        "text": "Shanghai is the city in the world with most skyscrapers,",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "28CE27C28E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 72,
+        "endOffset": 142,
+        "text": "but to him it was as if the connection to the roots had been cut over.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3380E13F10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 42,
+        "endOffset": 153,
+        "text": "architecture that could bridge the gap between the ancient wisdom of China and the progressive future of China.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E0769AD8F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So we obviously profoundly agreed with him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1355AF978E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Laughter) (Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF7E8BC009",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Unfortunately, Mr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CC26C2FBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Chen is now in prison for corruption.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E343A7C7DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2CCF870FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Haibao looked very familiar, because he is actually the Chinese character for “people.”",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2CA9F46079",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And they chose this mascot because the theme of the expo is “Better City, Better Life.”",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "803CA7D9EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Sustainability.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89DC25D3FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 65,
+        "endOffset": 84,
+        "text": "neo-Protestant idea",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "797D1671D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 90,
+        "endOffset": 124,
+        "text": "it has to hurt in order to do good",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58BE05651C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B9ACC88115",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 10,
+        "endOffset": 57,
+        "text": "You're not supposed to take long, warm showers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2010D3346",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "You're not supposed to fly on holidays",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9329AD6EC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 39,
+        "endOffset": 76,
+        "text": "because it's bad for the environment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EC2147021",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Gradually, you get this idea that sustainable life is less fun than normal life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8096955EDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "So we thought that maybe it could be interesting to focus on examples where a sustainable city actually increases the quality of life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D17A6E9E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "We also asked ourselves",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E99526C15D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 25,
+        "endOffset": 87,
+        "text": "what could Denmark possibly show China that would be relevant?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C1C1BC408",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C6EB39F309",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 10,
+        "endOffset": 78,
+        "text": "it's one of the biggest countries in the world, one of the smallest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BAC29618F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "China symbolized by the dragon",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F7E19CFE7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Denmark, we have a national bird, the swan",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B0D5776624",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB63413572",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 11,
+        "endOffset": 200,
+        "text": "China has many great poets, but we discovered that in the People's Republic public school curriculum, they have three fairy tales by An Tu Sheng, or Hans Christian Anderson, as we call him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "029E5A4303",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "So that means that all 1.3 billion Chinese have grown up with \"The Emperor's New Clothes,\" \"The Matchstick Girl\" and \"The Little Mermaid.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AE952030B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 19,
+        "endOffset": 77,
+        "text": "fragment of Danish culture integrated into Chinese culture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D0CA5BE4EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The biggest tourist attraction in China is the Great Wall.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AD55551B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "The Great Wall is the only thing that can be seen from the moon.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "812D0F9487",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 41,
+        "endOffset": 59,
+        "text": "The Little Mermaid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "510028DD25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "The big tourist attraction in Denmark is The Little Mermaid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C87438EC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "That can actually hardly be seen from the canal tours.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC90E1300B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "(Laughter) And it sort of shows the difference between these two cities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B4E434147",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Copenhagen, Shanghai, modern, European.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE76E9D642",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 68,
+        "endOffset": 112,
+        "text": "this is like a Shanghai street, 30 years ago",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D9C056C16B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "But then we looked at recent urban development, and we noticed that",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "213ABA9765",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "All bikes, no cars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "534A8E981F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "This is how it looks today; all traffic jam.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A616C2C340",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Bicycles have become forbidden many places.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D47827F450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Meanwhile, in Copenhagen we're actually expanding the bicycle lanes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8BCBA3966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "A third of all the people commute by bike.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "397DDC68A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 60,
+        "endOffset": 74,
+        "text": "you can borrow",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4E6CAB0894",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "We have a free system of bicycles called the City Bike that",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "543296676A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "So we thought, why don't we reintroduce the bicycle in China?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1754891D4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "We donate 1,000 bikes to Shanghai.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02DDFEA4D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 3,
+        "endOffset": 14,
+        "text": "if you come",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3FC82B463A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 28,
+        "endOffset": 39,
+        "text": "go straight",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6BD8990A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 64,
+        "endOffset": 81,
+        "text": "get a Danish bike",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36C5E99BAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "So if you come to the expo, go straight to the Danish pavilion, get a Danish bike, and then continue on that to visit the other pavilions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4772064C69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Like I said, Shanghai and Copenhagen are both port cities, but in Copenhagen the water has gotten so clean that you can actually swim in it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "831E41DFF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 81,
+        "endOffset": 123,
+        "text": "continuing the public realm into the water",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "275C4DE7A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "One of the first projects we ever did was the harbor bath in Copenhagen, sort of continuing the public realm into the water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BE49DA702",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 48,
+        "endOffset": 102,
+        "text": "a lot of state financed propaganda, images, statements",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3BD0D2B6BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "So we thought that these expos quite often have a lot of state financed propaganda, images, statements, but no real experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BE8E19020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So just like with a bike, we don't talk about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3096D9D21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You can try it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D2E4109E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 65,
+        "endOffset": 130,
+        "text": "sail a million liters of harbor water from Copenhagen to Shanghai",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB747CD9D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 181,
+        "endOffset": 213,
+        "text": "dive in and feel how clean it is",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8DDC9442F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 214,
+        "text": "Like with the water, instead of talking about it, we're going to sail a million liters of harbor water from Copenhagen to Shanghai, so the Chinese who have the courage can actually dive in and feel how clean it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92274FBE94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "This is where people normally object that it doesn't sound very sustainable to sail water from Copenhagen to China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D50C5277BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "But in fact, the container ships go full of goods from China to Denmark, and then they sail empty back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54DFFEED39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "So quite often you load water for ballast.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50430503ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "So we can actually hitch a ride for free.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5CC1E54BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And in the middle of this sort of harbor bath, we're actually going to put the actual Little Mermaid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1F39A81DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 3,
+        "endOffset": 55,
+        "text": "the real Mermaid, the real water, and the real bikes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "622A9D2495",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 3,
+        "endOffset": 55,
+        "text": "the real Mermaid, the real water, and the real bikes",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EC22FDD6F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And when she's gone, we're going to invite a Chinese artist to reinterpret her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BADEC7BA53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "And when she's gone, we're going to invite a Chinese artist to reinterpret her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7541C5EBB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "The architecture of the pavilion is this sort of loop of exhibition and bikes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB14A41409",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 31,
+        "endOffset": 67,
+        "text": "You'll see the Mermaid and the pool.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4840A46A63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "You'll walk around",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6FEF21BB37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "You'll walk around, start looking for a bicycle on the roof",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9273D4580E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "jump on your ride",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CA942BF8A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "continue out into the rest of the expo",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EAF12C9F91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "When you go to the exhibition, you'll see the Mermaid and the pool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65CDCFA353",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "You'll walk around, start looking for a bicycle on the roof, jump on your ride and then continue out into the rest of the expo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F68E4CAC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So when we actually won the competition we had to do an exhibition in China explaining the project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "344CE04F61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And to our surprise we got one of our boards back with corrections from the Chinese state censorship.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D67A6028B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The first thing, the China map missed Taiwan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9CDD863E39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's a very serious political issue in China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57C98A8E63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "We will add on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36D2E1D2EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 25,
+        "endOffset": 56,
+        "text": "compared the swan to the dragon",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5BBF5F35E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "The second thing, we had",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FB615D460",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 58,
+        "endOffset": 117,
+        "text": "and then the Chinese state said, \"Suggest change to panda.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E381B5EFD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "(Laughter) (Applause) So, when it came out in Denmark that we were actually going to move our national monument, the National People's Party sort of rebelled against it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B344112822",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "They tried to pass a law against moving the Mermaid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6DD1DEF719",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So for the first time, I got invited to speak at the National Parliament.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10C40521E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "It was kind of interesting because in the morning, from 9 to 11, they were discussing the bailout package -- how many billions to invest in saving the Danish economy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C38A275AE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And then at 11 o'clock they stopped talking about these little issues.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "956E9B6200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "And then from 11 to 1, they were debating whether or not to send the Mermaid to China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05A9FE2C5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "(Laughter) (Applause) But to conclude, if you want to see the Mermaid from May to December next year, don't come to Copenhagen, because she's going to be in Shanghai.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93E0FDCE60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 39,
+        "endOffset": 57,
+        "text": "if you want to see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F00CFBE56C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "If you do come to Copenhagen, you will probably see an installation by Ai Weiwei, the Chinese artist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F8BE6A472",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "If you do come",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "62090B532E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "But if the Chinese government intervenes, it might even be a panda.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9278A4372B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 4,
+        "endOffset": 40,
+        "text": "if the Chinese government intervenes",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FB3A6AFF12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "(Laughter) So the second story that I'd like to tell is, actually starts in my own house.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D8FE3D943",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "This is my apartment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD093CAD5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 110,
+        "endOffset": 139,
+        "text": "the Leonardo DiCaprio balcony",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3DAB510B9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 27,
+        "endOffset": 44,
+        "text": "vertical backyard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FE85B4129C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 23,
+        "endOffset": 51,
+        "text": "distortion of a square block",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9BF7074AB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Trying to zigzag it to make sure that all of the apartments look at the straight views, instead of into each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D96B612631",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Until recently, this was the view from my apartment, onto this place where our client actually bought the neighbor site.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96BBB207C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And he said that he was going to do an apartment block next to a parking structure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7863AF319A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 131,
+        "endOffset": 200,
+        "text": "turn all the apartments into penthouses, put them on a podium of cars",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "964EE3DF72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "And because Copenhagen is completely flat, if you want to have a nice south-facing slope with a view, you basically have to do it yourself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FB702FB36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Then we sort of cut up the volume, so we wouldn't block the view from my apartment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB98426E5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "(Laughter) And essentially the parking is sort of occupying the deep space underneath the apartments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A83DD0AE3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 62,
+        "endOffset": 208,
+        "text": "combine all the splendors of a suburban lifestyle, like a house with a garden with a sort of metropolitan view, and a sort of dense urban location",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4BDF7851CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "This is our first architectural model.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F2EDB64E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "This is an aerial photo taken last summer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "835331F769",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And essentially, the apartments cover the parking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07F8453539",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "They are accessed through this diagonal elevator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1227298D4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "It's actually a stand-up product from Switzerland, because in Switzerland they have a natural need for diagonal elevators.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "286C02E31F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "(Laughter) And the facade of the parking, we wanted to make the parking naturally ventilated, so we needed to perforate it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B18B253BFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 109,
+        "endOffset": 157,
+        "text": "gigantic, naturally ventilated, rasterized image",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5CD78DC71B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 44,
+        "endOffset": 56,
+        "text": "The Mountain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C3A239E2EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 11,
+        "endOffset": 45,
+        "text": "So if you go back into the parking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5A797B806A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 101,
+        "endOffset": 118,
+        "text": "parallel universe",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5C66384324",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 159,
+        "endOffset": 183,
+        "text": "south-facing urban oasis",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58DCD42DBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The wood of your apartment continues outside becoming the facades.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "96DD05688B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "If you go even further, it turns into this green garden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B620AD2875",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And all the rainwater that drops on the Mountain is actually accumulated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "493A28911A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 78,
+        "endOffset": 98,
+        "text": "landscape of gardens",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "79D85E42F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 153,
+        "endOffset": 174,
+        "text": "Cambodian temple ruin",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0463604B89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 80,
+        "endOffset": 101,
+        "text": "architectural alchemy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D564DC349F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 47,
+        "endOffset": 51,
+        "text": "gold",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8CC716C1F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 67,
+        "endOffset": 78,
+        "text": "added value",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "02A830F992",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "They can actually have both.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67748DE52B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "As an architect, it's really hard to set the agenda.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61C69B8B63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "You",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F68626EE18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "You can't just say that now I'd like to do a sustainable city in central Asia, because that's not really how you get commissions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96D4CF7A3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 27,
+        "endOffset": 46,
+        "text": "adapt and improvise",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C844E6CC44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "You always have to sort of adapt and improvise to the opportunities and accidents that happen, and the sort of turmoil of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2923B36BD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "One last example is that recently we, like last summer, we won the competition to design a Nordic national bank.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6181E80FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 46,
+        "endOffset": 59,
+        "text": "still smiling",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A681F23FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "This was the director of the bank when he was still smiling.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "610D33C512",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "(Laughter) It was in the middle of the capital so we were really excited by this opportunity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC0F9A8EC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Unfortunately, it was the national bank of Iceland.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65D691AB33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "At the same time, we actually had a visitor -- a minister from Azerbaijan came to our office.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24798E73E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "We took him to see the Mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE5B5DEB10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 61,
+        "endOffset": 95,
+        "text": "make mountains out of architecture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58C5C5F3C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 132,
+        "endOffset": 152,
+        "text": "Alps of Central Asia",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CEF2F05432",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "And he got very excited by this idea that you could actually make mountains out of architecture, because Azerbaijan is known as the Alps of Central Asia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52A7FED09C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "So he asked us if we could actually imagine an urban master plan on an island outside the capital that would recreate the silhouette of the seven most significant mountains of Azerbaijan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C348360E52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "So we took the commission.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC158A28C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And we made this small movie that I'd like to show.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2A57A6B65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "We quite often",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "27782EEE4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "We quite often make little movies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0A032A756",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "We always",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "90EE87D422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We always argue a lot about the soundtrack, but in this case it was really easy to choose the song.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "343005BDDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 35,
+        "endOffset": 47,
+        "text": "crescent bay",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B72A4EAA2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 115,
+        "endOffset": 152,
+        "text": "almost like the diagram of their flag",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CEEB876F11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "So basically, Baku is this sort of crescent bay overlooking the island of Zira, the island that we are planning -- almost like the diagram of their flag.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66736F9AC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 113,
+        "endOffset": 169,
+        "text": "reinterpret them into urban and architectural structures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "124415A343",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "And our main idea was to sort of sample the seven most significant mountains of the topography of Azerbaijan and reinterpret them into urban and architectural structures, inhabitable of human life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFBAF8DEA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 92,
+        "endOffset": 118,
+        "text": "almost like a central park",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "633A001382",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Then we place these mountains on the island, surrounding this sort of central green valley, almost like a central park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EF5EE6FFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And what makes it interesting is that the island right now is just a piece of desert.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2B1B8DD32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "It has no vegetation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9725CD9654",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "It has no water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9749CA00D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It has no energy, no resources.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12BB84DB46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "So we actually sort of designed the entire island as a single ecosystem, exploiting wind energy to drive the desalination plants, and to use the thermal properties of water to heat and cool the buildings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1623C4A4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 93,
+        "endOffset": 170,
+        "text": "gradually transforming the desert island into sort of a green, lush landscape",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "63C45A3157",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "And all the sort of excess freshwater wastewater is filtered organically into the landscape, gradually transforming the desert island into sort of a green, lush landscape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A64AFA88DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 16,
+        "endOffset": 84,
+        "text": "where an urban development normally happens at the expense of nature",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A70A5B5DCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "So, you can say where an urban development normally happens at the expense of nature, in this case it's actually creating nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DC56ECE7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 43,
+        "endOffset": 78,
+        "text": "invoke the imagery of the mountains",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7314F9668C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 80,
+        "endOffset": 112,
+        "text": "they also operate like mountains",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CF52315485",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "And the buildings, they don't only sort of invoke the imagery of the mountains, they also operate like mountains.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DE3105158",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "They create shelter from the wind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2AECFF2DE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "They accumulate the solar energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E241566072",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "They accumulate the water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D32FFD9E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So they actually transform the entire island into a single ecosystem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23412DA6AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So we recently presented the master plan, and it has gotten approved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98097676E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 113,
+        "endOffset": 140,
+        "text": "first carbon-neutral island",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8A592B3040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "And this summer we are starting the construction documents of the two first mountains, in what's going to be the first carbon-neutral island in Central Asia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E53EAF5CAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 11,
+        "endOffset": 40,
+        "text": "Yes, maybe just to round off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6B6FF095E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 3,
+        "endOffset": 11,
+        "text": "in a way",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FCE4EA3084",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "So in a way you can see how the Mountain in Copenhagen sort of evolved into the Seven Peaks of Azerbaijan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5B2BA9BB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 78,
+        "endOffset": 100,
+        "text": "Five Mountains on Mars",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0735E5D8ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 44,
+        "endOffset": 61,
+        "text": "maybe in 10 years",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F492062978",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "With a little luck and some more evolution, maybe in 10 years it could be the Five Mountains on Mars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71DB8111D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FC58FF004",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF9766474A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

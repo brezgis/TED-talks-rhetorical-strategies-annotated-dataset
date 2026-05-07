@@ -1,0 +1,1647 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8561,
+  "title": "How to train employees to have difficult conversations",
+  "author": "Tamekia MizLadi Smith",
+  "url": "https://www.ted.com/talks/tamekia_mizladi_smith_how_to_train_employees_to_have_difficult_conversations",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:33:26.211748Z",
+  "updated_at": "2026-05-07T10:33:26.211748Z",
+  "lead_time": 61.324,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "We live in a world where the collection of data is happening 24 hours a day, seven days a week, 365 days a year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E08F7C142B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "This data is usually collected by what we call a front-desk specialist now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "256938BAC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 10,
+        "endOffset": 62,
+        "text": "the retail clerks at your favorite department stores",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C83FF68977",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 31,
+        "endOffset": 35,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1A6DB2AA5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 36,
+        "endOffset": 68,
+        "text": "May I please have your zip code?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F52DE919C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 5,
+        "endOffset": 51,
+        "text": "Would you like to use your savings card today?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B8644771A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "All of which gives us data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36135E00E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "However, the conversation becomes a little bit more complex when the more difficult questions need to be asked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27505B0969",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Let me tell you a story, see.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C1A9592713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Once upon a time, there was a woman named Miss Margaret.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "345DA1B344",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Miss Margaret had been a front-desk specialist for almost 20 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "765F74FA8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 30,
+        "endOffset": 56,
+        "text": "never, and I do mean never",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C03DCF12A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And in all that time, she has never, and I do mean never, had to ask a patient their gender, race or ethnicity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "765D1EDE10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Because, see, now Miss Margaret has the ability to just look at you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22A3E74584",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Uh-huh.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B05E52C26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 4,
+        "endOffset": 85,
+        "text": "she can tell if you are a boy or a girl, black or white, American or non-American",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2238C7B181",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 20,
+        "endOffset": 23,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "970F064F04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And in her mind, those were the only categories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88D1CF6976",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 16,
+        "endOffset": 25,
+        "text": "grave day",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "665B982F19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 36,
+        "endOffset": 52,
+        "text": "sassy supervisor",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FD64FD87C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 73,
+        "endOffset": 92,
+        "text": "\"change everything\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A87BB5BBCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "So imagine that grave day, when her sassy supervisor invited her to this \"change everything\" meeting and told her that would have to ask each and every last one of her patients to self-identify.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FFC29B223",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "She gave her six genders, eight races and over 100 ethnicities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BC9A7D9DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Well, now, Miss Margaret was appalled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1637A7A2DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I mean, highly offended.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73FA5DED92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "So much so that she marched down to that human-resource department to see if she was eligible for an early retirement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E777AFF80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 111,
+        "endOffset": 173,
+        "text": "didn't, didn't, even, even bring, bring food, food, food, food",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DBA6F36C1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 42,
+        "endOffset": 58,
+        "text": "sassy supervisor",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58C25E47BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 79,
+        "endOffset": 98,
+        "text": "\"change everything\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6CA891539C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "And she ended her rant by saying that her sassy supervisor invited her to this \"change everything\" meeting and didn't, didn't, even, even bring, bring food, food, food, food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C753474FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 31,
+        "endOffset": 83,
+        "text": "You know you've got to bring food to these meetings.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E137114540",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "(Laughter) (Applause) (Cheers) You know you've got to bring food to these meetings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4411B29868",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "(Laughter) Anyway.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8529157D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "(Laughter) Now, that was an example of a healthcare setting, but of course, all businesses collect some form of data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C600B7E907",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "True story: I was going to wire some money.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00BD91F9AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And the customer service representative asked me if I was born in the United States.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F11ACB619",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "Now, I hesitated to answer her question, and before she even realized why I hesitated, she began to throw the company she worked for under the bus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86D323121F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "She said, \"Girl, I know it's stupid, but they makin' us ask this question.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2882AAA07F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 11,
+        "endOffset": 77,
+        "text": "Because of the way she presented it to me, I was like, \"Girl, why?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "895AFE1C9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Why they makin' you ask this question?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3FAF4D7B85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Why they makin' you ask this question?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECD245B39A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "deportin'",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB43909482",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Is they deportin' people?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD495D8F24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "(Laughter) But then I had to turn on the other side of me, the more professional speaker-poet side of me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A38F7F19C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 40,
+        "endOffset": 61,
+        "text": "little Miss Margarets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FFF8006D17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "The one that understood that there were little Miss Margarets all over the place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70243F30EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 233,
+        "text": "People who were good people, maybe even good employees, but lacked the ability to ask their questions properly and unfortunately, that made her look bad, but the worst, that made the business look even worse than how she was looking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C5089C569",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Because she had no idea who I was.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FDE5097DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 10,
+        "endOffset": 19,
+        "text": "literally",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F67975DC92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "I mean, I literally could have been a woman who was scheduled to do a TED Talk and would use her as an example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DCD00F200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Imagine that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F075BBF82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 115,
+        "endOffset": 144,
+        "text": "you would use the information",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2DFF341136",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 11,
+        "endOffset": 224,
+        "text": "And unfortunately, what happens is people would decline to answer the questions, because they feel like you would use the information to discriminate against them, all because of how you presented the information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BE1EFA85D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And at that point, we get bad data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CF3C78802",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And everybody knows what bad data does.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "77A076AFA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And everybody knows what bad data does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BF5198208",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "it costs you time, it costs you money and it costs you resources.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EFA80B3B2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Bad data costs you time, it costs you money and it costs you resources.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43139628AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 289,
+        "text": "Unfortunately, when you have bad data, it also costs you a lot more, because we have health disparities, and we have social determinants of health, and we have the infant mortality, all of which depends on the data that we collect, and if we have bad data, than we have those issues still.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F646D78AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 129,
+        "endOffset": 194,
+        "text": "outdated, or is not good at all or we don't have anything at all.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "32072A2837",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "And we have underprivileged populations that remain unfortunate and underprivileged, because the data that we're using is either outdated, or is not good at all or we don't have anything at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA3B1EADF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 122,
+        "endOffset": 128,
+        "text": "graced",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5F2D2F94AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "Now, wouldn't it be amazing if people like Miss Margaret and the customer-service representative at the wiring place were graced to collect data with compassionate care?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3B7C1BD47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Can I explain to you what I mean by \"graced\"?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D1CF99D927",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I wrote an acrostic poem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2508EAAFAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 323,
+        "text": "bright light",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "819EF7E34C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 3,
+        "endOffset": 323,
+        "text": "Getting the front desk specialist involved and letting them know R: the Relevance of their role as they become A: Accountable for the accuracy of data while implementing C: Compassionate care within all encounters by becoming E: Equipped with the education needed to inform people of why data collection is so important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F692A22FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 11,
+        "endOffset": 30,
+        "text": "Now, I'm an artist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E0DCF1E65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And so what happens with me is that when I create something artistically, the trainer in me is awakened as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E3E1359A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So what I did was, I began to develop that acrostic poem into a full training entitled \"I'm G.R.A.C.E.D.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F89994DF19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 124,
+        "endOffset": 171,
+        "text": "Is that why they asked us to ask that question?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDE53FF38E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 16,
+        "endOffset": 28,
+        "text": "bright light",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C68E52A7ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 306,
+        "text": "It all became a bright light to me, and I realized that I asked people and I told people about -- I called them by the wrong gender, I called them by the wrong race, I called them by the wrong ethnicity, and the environment became hostile, people was offended and I was frustrated because I was not graced.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "870F42C422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "I remember my computerized training, and unfortunately, that training did not prepare me to deescalate a situation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C013F81FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "It did not prepare me to have teachable moments when I had questions about asking the questions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "474245AACC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "I would look at the computer and say, \"So, what do I do when this happens?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36F72590A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And the computer would say ... nothing, because a computer cannot talk back to you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E37AB29FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "(Laughter) So that's the importance of having someone there who was trained to teach you and tell you what you do in situations like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDBF66A2F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "So, when I created the \"I'm G.R.A.C.E.D\" training, I created it with that experience that I had in mind, but also that conviction that I had in mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "048F9B6BFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Because I wanted the instructional design of it to be a safe space for open dialogue for people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "138DEE987F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "I wanted to talk about biases, the unconscious ones and the conscious ones, and what we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F88B3FBCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 29,
+        "endOffset": 46,
+        "text": "you engage people",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57A960B7BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 59,
+        "endOffset": 122,
+        "text": "it challenges their perspective, and it changes their attitudes",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7F7DF56EC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Now I know that data that we have at the front desk translates into research that eliminates disparities and finds cures.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C79664B079",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Now I know that teaching people transitional change instead of shocking them into change is always a better way of implementing change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF126ACABE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "See, now I know people are more likely to share information when they are treated with respect by knowledgeable staff members.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6D14B1148",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 16,
+        "endOffset": 36,
+        "text": "you don't have to be",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "153E8E4251",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "Now I know that you don't have to be a statistician to understand the power and the purpose of data, but you do have to treat people with respect and have compassionate care.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BE886B27F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 33,
+        "endOffset": 39,
+        "text": "graced",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0C6CAAD242",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Now I know that when you've been graced, it is your responsibility to empower somebody else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "359E4CF15F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "But most importantly, now I know that when teaching human beings to communicate with other human beings, it should be delivered by a human being.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6F3E4B46D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 11,
+        "endOffset": 125,
+        "text": "So when y'all go to work and y'all schedule that \"change everything\" meeting -- (Laughter) remember Miss Margaret.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D357BF3C67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 17,
+        "endOffset": 55,
+        "text": "the food, the food, the food, the food",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "99BB1CED53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5F9619F54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Applause) (Cheers) Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04EC75B50A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9617E82B73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

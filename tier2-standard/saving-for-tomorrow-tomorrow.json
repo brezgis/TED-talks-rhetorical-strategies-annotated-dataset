@@ -1,0 +1,3959 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8640,
+  "title": "Saving for tomorrow, tomorrow",
+  "author": "Shlomo Benartzi",
+  "url": "https://www.ted.com/talks/shlomo_benartzi_saving_for_tomorrow_tomorrow",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:33:12.988803Z",
+  "updated_at": "2026-05-07T03:33:12.988803Z",
+  "lead_time": 136.937,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 43,
+        "endOffset": 66,
+        "text": "but not today, tomorrow",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AAE959A4A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "I'm going to talk about Save More Tomorrow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "994303A2CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "It's a program that Richard Thaler from the University of Chicago and I devised maybe 15 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F204CE7A8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 61,
+        "endOffset": 72,
+        "text": "on steroids",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D79BA3519C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Now you might ask, what is behavioral finance?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D4C8FEFE38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "So let's think about how we manage our money.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1F67062B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Let's start with mortgages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFFC244AE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "It's kind of a recent topic, at least in the U.S.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FB38156B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "A lot of people buy the biggest house they can afford, and actually slightly bigger than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5D506D122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And then they foreclose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FC6B1DEC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And then they blame the banks for being the bad guys who gave them the mortgages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A94FA27F99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Let's also think about how we manage risks -- for example, investing in the stock market.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0316199A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Two years ago, three years ago, about four years ago",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "48D00A0119",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "We were risk takers, of course.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B96142A961",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Then market stocks seize and we're like, \"Wow.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3475209BC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 14,
+        "endOffset": 47,
+        "text": "they feel, emotionally, they feel",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E90DBD9F2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "These losses, they feel, emotionally, they feel very different from what we actually thought about it when markets were going up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBFC57C739",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So we're probably not doing a great job when it comes to risk taking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D3F1B8619",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "How many of you have iPhones?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8675B264C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "How many of you have iPhones?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "923F16EF89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Anyone?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33E2A35CD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Wonderful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16D2B29464",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0C09B7A1B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 69,
+        "endOffset": 85,
+        "text": "buying insurance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9542571282",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "I would bet many more of you insure your iPhone -- you're implicitly buying insurance by having an extended warranty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57A3D48A02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 8,
+        "endOffset": 11,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5EAC78E66A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "What if you lose your iPhone?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF9AFC027F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "What if you do this?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FA1239DDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 12,
+        "endOffset": 15,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0B8E6FC9A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "How many of you have kids?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E50765C84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Anyone?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12173D3162",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 5,
+        "endOffset": 8,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7AA6398B02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Keep your hands up if you have sufficient life insurance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A6EB38696",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I see a lot of hands coming down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3E19FA031",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 20,
+        "endOffset": 23,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "790514A6A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "I would predict, if you're a representative sample, that many more of you insure your iPhones than your lives, even when you have kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69CAE02C8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We're not doing that well when it comes to insurance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C373345573",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "The average American household spends 1,000 dollars a year on lotteries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F4AC0EE2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And I know it sounds crazy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE1829A564",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "How many of you spend a thousand dollars a year on lotteries?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "92236A2CF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "No one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4771D770FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "So that tells us that the people not in this room are spending more than a thousand to get the average to a thousand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7A017A6CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Low-income people spend a lot more than a thousand on lotteries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5855D6C21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So where does it take us?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CAA7074E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "We're not doing a great job managing money.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51DDE5DA1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "Behavioral finance is really a combination of psychology and economics, trying to understand the money mistakes people make.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "676AEC9AD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "And I can keep standing here for the 12 minutes and 53 seconds that I have left and make fun of all sorts of ways we manage money, and at the end you're going to ask, \"How can we help people?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08B1DE6923",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And that's what I really want to focus on today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4540A7B999",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "How do we take an understanding of the money mistakes people make, and then turning the behavioral challenges into behavioral solutions?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D81E36B785",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And what I'm going to talk about today is Save More Tomorrow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33527184FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I want to address the issue of savings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E05EAC2093",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "We have on the screen a representative sample of 100 Americans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D444967B88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And we're going to look at their saving behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35C073DCC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "First thing to notice is, half of them do not even have access to a 401(k) plan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "868FA90042",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They cannot make savings easy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E97F1D4A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "They cannot have money go away from their paycheck into a 401(k) plan before they see it, before they can touch it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB43BF69C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "What about the remaining half of the people?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F1E5AB8B52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Some of them elect not to save.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B07ECAC37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "They're just too lazy.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "847FCB3DFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "They never get around to logging into a complicated website and doing 17 clicks to join the 401(k) plan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "708C4D5954",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And then they have to decide how they're going to invest in their 52 choices, and they never heard about what is a money market fund.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA9E6927AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And they get overwhelmed and the just don't join.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85C23CA174",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "How many people end up saving to a 401(k) plan?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FC079E3FA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "One third of Americans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D912DC46CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Two thirds are not saving now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B96BAC86DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Are they saving enough?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "324FE6D189",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Take out those who say they save too little.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE3419612C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "One out of 10 are saving enough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1195E1F10D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 86,
+        "endOffset": 120,
+        "text": "don't decide -- or save too little",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D0D2D6213F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Nine out of 10 either cannot save through their 401(k) plan, decide not to save -- or don't decide -- or save too little.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1718DFBEE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We think we have a problem of people saving too much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "729A235E78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Let's look at that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF76CBA120",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 52,
+        "endOffset": 69,
+        "text": "slice him in half",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D4BD81788E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We have one person -- well, actually we're going to slice him in half because it's less than one percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9D1CE7FBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Roughly half a percent of Americans feel that they save too much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "680132F559",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "What are we going to do about it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "53B93D4C7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "That's what I really want to focus on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC7643F8EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 75,
+        "endOffset": 131,
+        "text": "flip the behavioral challenges into behavioral solutions",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2F3503B339",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "We have to understand why people are not saving, and then we can hopefully flip the behavioral challenges into behavioral solutions, and then see how powerful it might be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5C55DF26D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 61,
+        "endOffset": 112,
+        "text": "problems, the challenges, the behavioral challenges",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "02653CC0D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "So let me divert for a second as we're going to identify the problems, the challenges, the behavioral challenges, that prevent people from saving.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31E6617E5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I'm going to divert and talk about bananas and chocolate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB0CAF27F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Suppose we had another wonderful TED event next week.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F3DDB800F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "And during the break there would be a snack and you could choose bananas or chocolate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB36EE261A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "How many of you think you would like to have bananas during this hypothetical TED event next week?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7CED25BA84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Who would go for bananas?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FAE6701090",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Wonderful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EA8BDBE2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 39,
+        "endOffset": 42,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D3D881ECB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "I predict scientifically 74 percent of you will go for bananas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CE7BAFCEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Well that's at least what one wonderful study predicted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "137A90A825",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And then count down the days and see what people ended up eating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21E9BB9F91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "The same people that imagined themselves eating the bananas ended up eating chocolates a week later.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "810691947D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Self-control is not a problem in the future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1611B15F00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's only a problem now when the chocolate is next to us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31398642BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "What does it have to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2F0D427EE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "What does it have to do with time and savings, this issue of immediate gratification?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40B96019B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Or as some economists call it, present bias.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1E7E4AEA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "We think about saving.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DC665C1CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We know we should be saving.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A2A2EA795",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 31,
+        "endOffset": 60,
+        "text": "but today let us go and spend",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "89D0586010",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "We know we'll do it next year, but today let us go and spend.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5ECAD82933",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Christmas is coming, we might as well buy a lot of gifts for everyone we know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DFEB94674",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 63,
+        "endOffset": 82,
+        "text": "but end up spending",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "90498A9455",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "So this issue of present bias causes us to think about saving, but end up spending.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "848F4760DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Let me now talk about another behavioral obstacle to saving having to do with inertia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "685BCC694A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "But again, a little diversion to the topic of organ donation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA312C3458",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Wonderful study comparing different countries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4D13BD1FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "We're going to look at two similar countries, Germany and Austria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A6B0A7D15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 16,
+        "endOffset": 55,
+        "text": "if you would like to donate your organs",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4AB02976C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 109,
+        "endOffset": 153,
+        "text": "when you get your driving license or an I.D.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8494F57DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 155,
+        "endOffset": 172,
+        "text": "you check the box",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "843B463980",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Not many people like checking boxes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51CE70887F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "It takes effort.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFB7D65217",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "You need to think.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3788E7E04B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Twelve percent do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE6B717C46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Austria, a neighboring country, slightly similar, slightly different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8752986C12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "What's the difference?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "78FB511BAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Well, you still have choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16F523C164",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "You will decide whether you want to donate your organs or not.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C0D16AA055",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 39,
+        "endOffset": 96,
+        "text": "you check the box if you do not want to donate your organ",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10BBE94A38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Nobody checks boxes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13F82103BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "That's kind of too much effort.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4A88FC23A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "One percent check the box.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "194DAE3828",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "The rest do nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB92C10410",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Doing nothing is very common.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABFC92C4C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Not many people check boxes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74F5D997A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "What are the implications to saving lives and having organs available?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "006973A86A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "In Germany, 12 percent check the box.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C70E2F4221",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Twelve percent are organ donors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "204AC4EB8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Huge shortage of organs, God forbid, if you need one.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1C36891BFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "In Austria, again, nobody checks the box.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2084FD79EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Therefore, 99 percent of people are organ donors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3BB9145F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Inertia, lack of action.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C10FB504A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "What is the default setting if people do nothing, if they keep procrastinating, if they don't check the boxes?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B7A8CBDF32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Very powerful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94A0A4CF58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We're going to talk about what happens if people are overwhelmed and scared to make their 401(k) choices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB5B69D910",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Are we going to make them automatically join the plan, or are they going to be left out?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AE146740BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "In too many 401(k) plans, if people do nothing, it means they're not saving for retirement, if they don't check the box.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51E3E7CB0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And checking the box takes effort.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20AA6DC311",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "So we’ve chatted about a couple of behavioral challenges.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4750C1D3B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "One more before we flip the challenges into solutions, having to do with monkeys and apples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F7645C4B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "No, no, no, this is a real study and it's got a lot to do with behavioral economics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70996DA263",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "One group of monkeys gets an apple, they're pretty happy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94DB09596F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "The other group gets two apples, one is taken away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79F3F88E2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They still have an apple left.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CA02A2701",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "They're really mad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9E0FE813C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Why have you taken our apple?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1DA9D3B88D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "This is the notion of loss aversion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0224A14040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "We hate losing stuff, even if it doesn't mean a lot of risk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EED39D2C3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "You would hate to go to the ATM, take out 100 dollars and notice that you lost one of those $20 bills.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8171AA2E48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It's very painful, even though it doesn't mean anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E7701D9A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Those 20 dollars might have been a quick lunch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1B7F21755",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "So this notion of loss aversion kicks in when it comes to savings too, because people, mentally and emotionally and intuitively frame savings as a loss because I have to cut my spending.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23D70B79E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "So we talked about all sorts of behavioral challenges having to do with savings eventually.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BA31FE1B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 57,
+        "endOffset": 82,
+        "text": "chocolates versus bananas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F39ED8F67E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2FA850E447",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It's a lot more fun to spend now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FADC962E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "We talked about inertia and organ donations and checking the box.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47B0BC0C32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 18,
+        "endOffset": 38,
+        "text": "check a lot of boxes",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9A4933D400",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "If people have to check a lot of boxes to join a 401(k) plan, they're going to keep procrastinating and not join.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "643938628D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And last, we talked about loss aversion, and the monkeys and the apples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C492887EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 10,
+        "endOffset": 56,
+        "text": "frame mentally saving for retirement as a loss",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8FFD5F7F64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "If people frame mentally saving for retirement as a loss, they're not going to be saving for retirement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F784D1F5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 95,
+        "endOffset": 153,
+        "text": "behavioral finance, make it behavioral finance on steroids",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "736E488FBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 157,
+        "endOffset": 179,
+        "text": "behavioral finance 2.0",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "97E77E3425",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 183,
+        "endOffset": 211,
+        "text": "behavioral finance in action",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9AF1643527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "So we've got these challenges, and what Richard Thaler and I were always fascinated by -- take behavioral finance, make it behavioral finance on steroids or behavioral finance 2.0 or behavioral finance in action -- flip the challenges into solutions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93FB393068",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And we came up with an embarrassingly simple solution called Save More, not today, Tomorrow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "684F6C894D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "How is it going to solve",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6CCA07E09B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "How is it going to solve the challenges we chatted about?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BA8EE976D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 34,
+        "endOffset": 59,
+        "text": "bananas versus chocolates",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FD6BC9246D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "If you think about the problem of bananas versus chocolates, we think we're going to eat bananas next week.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E84E34CE16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "We think we're going to save more next year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7898A84898",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 235,
+        "text": "Save More Tomorrow invites employees to save more maybe next year -- sometime in the future when we can imagine ourselves eating bananas, volunteering more in the community, exercising more and doing all the right things on the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E9AFE7C06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Now we also talked about checking the box and the difficulty of taking action.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5BBE397BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Save More Tomorrow makes it easy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C29129A04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's an autopilot.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "33CF4A16D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Once you tell me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7EE6EAC833",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 193,
+        "endOffset": 284,
+        "text": "before you see it, before you touch it, before you get the issue of immediate gratification",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BF718FE07F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "But what are we going to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AB84E342DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Next January comes and people might feel that if they save more, they have to spend less, and that's painful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F49AED10FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Well, maybe it shouldn't be just January.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74053DE060",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Maybe we should make people save more when they make more money.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A895FBAA65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 10,
+        "endOffset": 62,
+        "text": "when they make more money, when they get a pay raise",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3CDEF167A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "They take a little bit of the increase in the paycheck home and spend more -- take a little bit of the increase and put it in a 401(k) plan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DE4528025",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "So that is the program, embarrassingly simple, but as we're going to see, extremely powerful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "596288E417",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "We first implemented it, Richard Thaler and I, back in 1998.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58333BDA3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "Mid-sized company in the Midwest, blue collar employees struggling to pay their bills repeatedly told us they cannot save more right away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A21E224FCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Saving more today is not an option.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6C45073B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "We invited them to save three percentage points more every time they get a pay raise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06FDCC3322",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And here are the results.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DEBF70BB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 229,
+        "text": "We're seeing here a three and a half-year period, four pay raises, people who were struggling to save, were saving three percent of their paycheck, three and a half years later saving almost four times as much, almost 14 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "657EB85E41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 85,
+        "endOffset": 110,
+        "text": "throw numbers in a vacuum",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F743A7ABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And there's shoes and bicycles and things on this chart because I don't want to just throw numbers in a vacuum.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73017C4AE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "I want, really, to think about the fact that saving four times more is a huge difference in terms of the lifestyle that people will be able to afford.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37727430EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "It's real.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF14EC8553",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "It's not just numbers on a piece of paper.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA9F126D1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 248,
+        "text": "Whereas with saving three percent, people might have to add nice sneakers so they can walk, because they won't be able to afford anything else, when they save 14 percent they might be able to maybe have nice dress shoes to walk to the car to drive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9F7F81A48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "This is a real difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18C057A15D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "By now, about 60 percent of the large companies actually have programs like this in place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42EAB42E17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's been part of the Pension Protection Act.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "760BA7A46F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And needless to say that Thaler and I have been blessed to be part of this program and make a difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F551F464E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Let me wrap with two key messages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FB86D873E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "One is behavioral finance is extremely powerful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "665C13B778",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "This is just one example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03D3A70275",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Message two is there's still a lot to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03935B143D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 19,
+        "endOffset": 37,
+        "text": "tip of the iceberg",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6220673859",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "This is really the tip of the iceberg.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "980B920F63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "If you think about people and mortgages and buying houses and then not being able to pay for it, we need to think about that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F0B3EDB98E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "If you're thinking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DF6EE77FFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "If you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "424F175468",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 131,
+        "endOffset": 158,
+        "text": "we need to think about that",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "69C508479E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "If you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BFEECAC425",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 81,
+        "endOffset": 108,
+        "text": "we need to think about that",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2578612A35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "The average actually, the record is in Singapore.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D06FD2EAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "The average household spends $4,000 a year on lottery tickets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12C4E06174",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 10,
+        "endOffset": 37,
+        "text": "a lot to do, a lot to solve",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1C498E5BEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "We've got a lot to do, a lot to solve, also in the retirement area when it comes to what people do with their money after retirement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DF5834D5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 19,
+        "endOffset": 39,
+        "text": "How many of you feel",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F3A08A051",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 60,
+        "endOffset": 75,
+        "text": "you're planning",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3AAF9A4359",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 125,
+        "endOffset": 147,
+        "text": "you're going to retire",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "73FCDB5028",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 154,
+        "endOffset": 200,
+        "text": "you're going to claim Social Security benefits",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E2FD8D6061",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 228,
+        "endOffset": 298,
+        "text": "how much to spend every month so you're not going to run out of money?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "18687EAC26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "How many of you feel",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0FBEA94D9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 21,
+        "endOffset": 29,
+        "text": "you have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9C6945C0D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "One, two, three, four.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE8F198F62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Less than three percent of a very sophisticated audience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8584D2A88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Behavioral finance has a long way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A93F7078BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 51,
+        "endOffset": 76,
+        "text": "again and again and again",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A3149B1C59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "There's a lot of opportunities to make it powerful again and again and again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "221E57F4B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "467077E03B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB1B8F36CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

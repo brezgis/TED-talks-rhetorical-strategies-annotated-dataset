@@ -1,0 +1,3432 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9706,
+  "title": "What we think we know",
+  "author": "Jonathan Drori",
+  "url": "https://www.ted.com/talks/jonathan_drori_what_we_think_we_know",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:31:17.705639Z",
+  "updated_at": "2026-05-07T10:31:17.705639Z",
+  "lead_time": 121.882,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "I'm going to try and explain why it is that perhaps we don't understand as much as we think we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5309D3023F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I'd like to begin with four questions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FAF95A6C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "This is not some sort of cultural thing for the time of year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B152A23A6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "That's an in-joke, by the way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3757C9B47A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "But these four questions, actually, are ones that people who even know quite a lot about science find quite hard.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A31C20121",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 279,
+        "text": "And they're questions that I've asked of science television producers, of audiences of science educators -- so that's science teachers -- and also of seven-year-olds, and I find that the seven-year-olds do marginally better than the other audiences, which is somewhat surprising.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F704BD58EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 27,
+        "endOffset": 60,
+        "text": "you might want to write this down",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "54C3754945",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "So the first question, and you might want to write this down, either on a bit of paper, physically, or a virtual piece of paper in your head.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "163E194B4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 26,
+        "endOffset": 50,
+        "text": "you can try this as well",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2525D5187D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And, for viewers at home, you can try this as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C0265382F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "a little seed weighs next to nothing and a tree weighs a lot, right?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F0D36A5FF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I think we agree on that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5048B39216",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Where does the tree get the stuff that makes up this chair, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFC6F875FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Where does all this stuff come from?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5595A34917",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 13,
+        "endOffset": 31,
+        "text": "your next question",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F697D6CFE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "(Knocks) And your next question is, can you light a little torch-bulb with a battery, a bulb and one piece of wire?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7994F0D7F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 45,
+        "endOffset": 79,
+        "text": "you don't have to draw the diagram",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "998B97EE30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "And would you be able to, kind of, draw a -- you don't have to draw the diagram, but would you be able to draw the diagram, if you had to do it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7EB01A067",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Or would you just say, that's actually not possible?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B00856D35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "The third question is, why is it hotter in summer than in winter?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C11DDD5175",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 35,
+        "endOffset": 72,
+        "text": "it is hotter in summer than in winter",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "268AE83B5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 41,
+        "endOffset": 68,
+        "text": "you can sort of scribble it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4B51D2E38B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 73,
+        "endOffset": 81,
+        "text": "you like",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7D8B0907F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Would you be able to do that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E5709322F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 4,
+        "endOffset": 14,
+        "text": "if you can",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D182A3C802",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE85A0AA84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 262,
+        "text": "Now, children get their ideas not from teachers, as teachers often think, but actually from common sense, from experience of the world around them, from all the things that go on between them and their peers, and their carers, and their parents, and all of that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E39AF08764",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB5B2A7909",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And one of the great experts in this field, of course, was, bless him, Cardinal Wolsey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD11C9B75F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 107,
+        "endOffset": 113,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BF16C24D12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "(Laughter) I'm not quite sure how he died, actually.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9094FABDFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Was he beheaded in the end, or hung?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6A3827EF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "(Laughter) Now, those questions, which, of course, you've got right, and you haven't been conferring, and so on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE415D4F29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 9,
+        "endOffset": 17,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1F4DF75DA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "you pick people out and humiliate",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A1C9FD5E5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "a little seed weighs a lot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "671103241B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 22,
+        "endOffset": 45,
+        "text": "about 85 percent of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B2FE80745C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Now, I guarantee that about 85 percent of you, or maybe it's fewer at TED, will have said it comes out of the ground.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0276E6E21C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 26,
+        "endOffset": 36,
+        "text": "two of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B1C5151293",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "And some people, probably two of you, will come up and argue with me afterwards, and say that actually, it comes out of the ground.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "067A0172F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 112,
+        "endOffset": 132,
+        "text": "a fantastic business",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "ACCC512E74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Now, if that was true, we'd have trucks going round the country, filling people's gardens in with soil, it'd be a fantastic business.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDAEFDD9B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "But, actually, we don't do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "906FC5EEDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "The mass of this comes out of the air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8388D0369",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Now, I passed all my biology exams in Britain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07402D5996",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "I passed them really well, but I still came out of school thinking that that stuff came out of the ground.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "028965FF0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 12,
+        "endOffset": 19,
+        "text": "can you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "445958130D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Second one: can you light a little torch-bulb with a battery bulb and one piece of wire?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A11763D5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Yes, you can, and I'll show you in a second how to do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "677C7A937D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 194,
+        "endOffset": 224,
+        "text": "in true \"Monty Python\" fashion",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5A5CF1D7CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 252,
+        "text": "Now, I have some rather bad news, which is that I had a piece of video that I was about to show you, which unfortunately -- the sound doesn't work in this room, so I'm going to describe to you, in true \"Monty Python\" fashion, what happens in the video.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "771D7E20EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And in the video, a group of researchers go to MIT on graduation day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B75F698CE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "We chose MIT because, obviously, that's a very long way away from here, and you wouldn't mind too much, but it sort of works the same way in Britain and in the West Coast of the USA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A77778FC4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And we asked them these questions, and we asked those questions of science graduates, and they couldn't answer them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEC364E3DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And so, there's a whole lot of people saying, \"I'd be very surprised if you told me that this came out of the air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77458B162F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 47,
+        "endOffset": 68,
+        "text": "I'd be very surprised",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B951CFE3F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "That's very surprising to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0EFCCE33F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And those are science graduates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B56D4D86BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 90,
+        "endOffset": 109,
+        "text": "British-like hubris",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CD7B83F78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And we intercut it with, \"We are the premier science university in the world,\" because of",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED403D95D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "(Laughter) And when we gave graduate engineers that question, they said it couldn't be done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8293A20A7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 77,
+        "endOffset": 91,
+        "text": "Can you do it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A09472EA8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "They couldn't do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8FC0697A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CCDA8C6B1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "And that's no different from Imperial College in London, by the way, it's not some sort of anti-American thing going on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1965AE39E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "As if.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A5CEB08DF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Now, the reason this matters is we pay lots and lots of money for teaching people -- we might as well get it right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEB668C217",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And there are also some societal reasons why we might want people to understand what it is that's happening in photosynthesis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E32FA83CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 29,
+        "endOffset": 44,
+        "text": "carbon equation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "19AA805335",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 171,
+        "endOffset": 178,
+        "text": "soak up",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9C7A534EDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "That's what plants actually do for a living.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C8AB5F0CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 111,
+        "endOffset": 130,
+        "text": "skating on thin ice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7154B48E13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "And, for any Finnish people in the audience, this is a Finnish pun: we are, both literally and metaphorically,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D61DA4CDB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 5,
+        "endOffset": 22,
+        "text": "here's how you do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BD0FF881AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 14,
+        "endOffset": 23,
+        "text": "isn't it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9769247FBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 11,
+        "endOffset": 18,
+        "text": "you all",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EE34A60A03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Of course, you all knew that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9C8D1D2D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 7,
+        "endOffset": 25,
+        "text": "you haven't played",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BCFF2C8D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 56,
+        "endOffset": 72,
+        "text": "you've only seen",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8E91CB86A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 92,
+        "endOffset": 113,
+        "text": "you might not be able",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "959A329FBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "But if you haven't played with a battery and a bulb, if you've only seen a circuit diagram, you might not be able to do that, and that's one of the problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A47299F78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "So, why is it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF7D07C1DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So, why is it hotter in summer than in winter?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "781AF448E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 36,
+        "endOffset": 66,
+        "text": "closer to something that's hot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7074DC909D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "We learn, as children, that you get closer to something that's hot, and it burns you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55340B2CA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "It's a very powerful bit of learning, and it happens pretty early on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23219DB497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 101,
+        "endOffset": 118,
+        "text": "closer to the Sun",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0E1108F66F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "By extension, we think to ourselves, \"Why it's hotter in summer than in winter must be because we're closer to the Sun.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEE3BE53E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 10,
+        "endOffset": 13,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A26643F19A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I promise you that most of you will have got that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD2EADAA7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 4,
+        "endOffset": 22,
+        "text": "you're all shaking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "17363474A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 53,
+        "endOffset": 68,
+        "text": "you are shaking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "05166BD3E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Oh, you're all shaking your heads, but only a few of you are shaking your heads very firmly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8748577C6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Other ones are kind of going like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C23EA544AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "All right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DFE63944E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "It's hotter in summer than in winter because the rays from the Sun are spread out more, right, because of the tilt of the Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4B84E44E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 7,
+        "endOffset": 16,
+        "text": "you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7E152F576A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And if you think the tilt is tilting us closer, no, it isn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB16AED1FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "The Sun is 93 million miles away, and we're tilting like this, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0C83164B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It makes no odds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C02D8FB6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "In fact, in the Northern Hemisphere, we're further from the Sun in summer, as it happens, but it makes no odds, the difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF6F17EC39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "OK, now, the scribble of the diagram of the solar system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "374AE3640E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "If you believe, as most of you probably do, that it's hotter in summer than in winter because we're closer to the Sun, you must have drawn an ellipse.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3FB46E9DD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08021E9C4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "That would explain it, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A02D19A561",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Except, in your -- you're nodding -- now, in your ellipse, have you thought, \"Well, what happens during the night?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B6ABC5FCAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "Between Australia and here, right, they've got summer and we've got winter, and what -- does the Earth kind of rush towards the Sun at night, and then rush back again?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C62338B3A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 48,
+        "endOffset": 180,
+        "text": "we hold these two models in our head, of what's right and what isn't right, and we do that, as human beings, in all sorts of fields.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E98AF04F46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So, here's Copernicus' view of what the solar system looked like as a plan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F315BBB9D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "That's pretty much what you should have on your piece of paper.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B6A75C080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5816A42964",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And this is NASA's view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6D70ED9B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "They're stunningly similar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "591301232F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I hope you notice the coincidence here.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B2995F7BA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "What would you do if you knew that people had this misconception, right, in their heads, of elliptical orbits caused by our experiences as children?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "28247D2EA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "What sort of diagram would you show them of the solar system, to show that it's not really like that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6503ED6BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 37,
+        "endOffset": 50,
+        "text": "wouldn't you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2FBB94636D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "You'd show them something like this, wouldn't you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68A7B540B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 13,
+        "endOffset": 36,
+        "text": "looking down from above",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4F022B4B81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "It's a plan, looking down from above.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E8C8ADE88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "But, no, look what I found in the textbooks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C8AF41CCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 29,
+        "endOffset": 35,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1121812FCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "That's what you show people, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A87281867",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 100,
+        "endOffset": 109,
+        "text": "like that",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2C507FB8BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "These are from textbooks, from websites, educational websites -- and almost anything you pick up is like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F0CD8BF34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 46,
+        "endOffset": 57,
+        "text": "dead boring",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5140CF6EF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "And the reason it's like that is because it's dead boring to have a load of concentric circles, whereas that's much more exciting, to look at something at that angle, isn't it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1631D4FE15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "392709591D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "445CE63519",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "And by doing it at that angle, if you've got that misconception in your head, then that two-dimensional representation of a three-dimensional thing will be ellipses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D04CF675EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 13,
+        "endOffset": 22,
+        "text": "it's crap",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3269371337",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 24,
+        "endOffset": 40,
+        "text": "isn't it really?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1879B2CE8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So you've -- it's crap, isn't it really?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36547009EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "As we say.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49DA1AF4DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So, these mental models -- we look for evidence that reinforces our models.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB1B442F22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "We do this, of course, with matters of race, and politics, and everything else, and we do it in science as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B30C7A6FFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 61,
+        "endOffset": 108,
+        "text": "we look for evidence that reinforces our models",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8CA84D9790",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "So we look, just look -- and scientists do it, constantly -- we look for evidence that reinforces our models, and some folks are just all too able and willing to provide the evidence that reinforces the models.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6E7974797",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So, being I'm in the United States, I'll have a dig at the Europeans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20D56E308E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "These are examples of what I would say is bad practice in science teaching centers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA862AD467",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "These pictures are from La Villette in France and the welcome wing of the Science Museum in London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABC0879900",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 184,
+        "endOffset": 298,
+        "text": "Woody Allen comes up from under the sheets in that scene in \"Annie Hall,\" and said, \"God, that's so professional.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F657437638",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 5,
+        "endOffset": 23,
+        "text": "if you look at the",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A9B1616ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 93,
+        "endOffset": 105,
+        "text": "pun intended",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E0322C3EDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 83,
+        "endOffset": 91,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F024AF028",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 287,
+        "text": "Whereas good interpretation -- I'll use an example from nearby -- is San Francisco Exploratorium, where all the things that -- the demonstrations, and so on, are made out of everyday objects that children can understand, it's very hands-on, and they can engage with, and experiment with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D621E9AECA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 133,
+        "endOffset": 145,
+        "text": "and you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8EF5690B82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 285,
+        "text": "you would have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A65B9CA79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "So good interpretation is more about things that are bodged and stuffed and of my world, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05B15BC722",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And things that -- where there isn't an extra barrier of a piece of glass or machined titanium, and it all looks fantastic, OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05CF3AE72E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And the Exploratorium does that really, really well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E40031F5A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 65,
+        "endOffset": 111,
+        "text": "the root of the word being of love and passion",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E318254908",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "So, children are not empty vessels, OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08ED28D098",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So, children are not empty vessels, OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BEB60193E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 37,
+        "endOffset": 76,
+        "text": "this is a bit Lord Privy Seal to say so",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "971505791D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "So, as \"Monty Python\" would have it, this is -- children are not empty vessels.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C39A04BF2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "They come with their own ideas and their own theories, and unless you work with those, then you won't be able to shift them, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54C44DAFEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 92,
+        "endOffset": 112,
+        "text": "you won't be able to",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E6E43E7191",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And I probably haven't shifted your ideas of how the world and universe operates, either.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2851AAC8AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 31,
+        "endOffset": 41,
+        "text": "your ideas",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "655BDEBE3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "But this applies, equally, to matters of trying to sell new technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70065109A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "For example, we are, in Britain, we're trying to do a digital switchover of the whole population into digital technology [for television].",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "997DC6B438",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 33,
+        "endOffset": 48,
+        "text": "we're trying to",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6B3221452",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "And it's one of the difficult things is that when people have preconceptions of how it all works, it's quite difficult to shift those.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9426F0A74D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "So we're not empty vessels; the mental models that we have as children persist into adulthood.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7AB5A619D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Poor teaching actually does more harm than good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "463A4592C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "In this country and in Britain, magnetism is understood better by children before they've been to school than afterwards, OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6541B623B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 52,
+        "endOffset": 66,
+        "text": "quite humbling",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ED6D9B0371",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 74,
+        "endOffset": 82,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6F86A45270",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 84,
+        "endOffset": 103,
+        "text": "if you're a teacher",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BA7183D1CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "They do worse in tests afterwards, after the teaching.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A04AE57232",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "And we collude.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19F9F6CC04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "We design tests, or at least in Britain, so that people pass them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E7BDC26AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD985C5FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And governments do very well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AAFF74A7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "They pat themselves on the back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "737DEE4085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07543201EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 348,
+        "text": "We collude, and actually if you -- if someone had designed a test for me when I was doing my biology exams, to really understand, to see whether I'd understood more than just kind of putting starch and iodine together and seeing it go blue, and really understood that plants took their mass out of the air, then I might have done better at science.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D77641B48F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "So the most important thing is to get people to articulate their models.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FC8B5C928",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Your homework is",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C3990E498C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 20,
+        "endOffset": 28,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2025DF0D8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 25,
+        "endOffset": 64,
+        "text": "you'll have an answer now in your heads",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AF2208D5B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F329023199",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 41,
+        "endOffset": 64,
+        "text": "ensure you've explained",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BB4D5C7917",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 48,
+        "endOffset": 51,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "631EBEBDB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Ah ha, right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92A9894342",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Second question is, why is the sea blue?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5C0368113",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "All right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50F3C2172E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 4,
+        "endOffset": 53,
+        "text": "you've all got an idea in your head of the answer",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4A7E45BDD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 4,
+        "endOffset": 7,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B07F532100",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "So, why is it blue on cloudy days?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B389A71F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Ah, see.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "043CF7833B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "(Laughter) I've always wanted to say that in this country.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "684C715023",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 31,
+        "endOffset": 34,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "38243CD3F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 63,
+        "endOffset": 76,
+        "text": "your children",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9E5BA827EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 82,
+        "endOffset": 97,
+        "text": "anyone you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "773769AC48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 47,
+        "endOffset": 97,
+        "text": "yourselves, and your children, and anyone you know",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "106E5A649E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "It's not a replacement, it's just part of learning that's important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50E2149B78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8608DBFEFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Now -- oh, oh yeah, go on then, go on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F14DC6CC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00DC069924",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

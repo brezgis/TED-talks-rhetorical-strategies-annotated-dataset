@@ -1,0 +1,916 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7470,
+  "title": "4 tips to future-proof your career",
+  "author": "Michelle R. Weise",
+  "url": "https://www.ted.com/talks/michelle_r_weise_4_tips_to_future_proof_your_career",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:40:02.280251Z",
+  "updated_at": "2026-05-07T05:40:02.280251Z",
+  "lead_time": 30.12,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "How many jobs have you had?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "28083371BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "How many do you expect to have over the course of your career?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B8B098E8C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Well, the scary thing is that number has historically been around 12.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1865974D3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 48,
+        "endOffset": 64,
+        "text": "20 or 30 or more",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E64B8DBA38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And a lot of those jobs don't even exist yet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B8361DA6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 52,
+        "endOffset": 78,
+        "text": "when you take into account",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ADC80EED5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "It's hard enough to navigate just a single career transition, but you're far more prepared than you think to navigate your next job change and all the ones that come after. [The Way We Work] I’m Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4975956EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Michelle Weise, and I advise companies and educational institutions on how to prepare workers for successful and longer careers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8987BD445E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 32,
+        "endOffset": 52,
+        "text": "how you can navigate",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FB7837142F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Number one, highlight your human skills.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEE148DE52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "When we talk about skills, we tend to focus on hard skills like coding, editing, data visualization or budgeting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A42499334E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "But human skills need to share the spotlight, too.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "82DC92BDC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "These are skills like adaptability, collaboration, exercising judgment or mediating tense situations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C692B8190",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "They may not always show up in obvious ways on your resume, but they have enormous value.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0834A6B9D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "To surface your human skills, make a timeline of all of your experiences, both personal and professional.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8A22B9C25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Do you see patterns?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "38167F52C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Have certain skills grown over time?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "78BFFFC9A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 70,
+        "endOffset": 92,
+        "text": "communicating in chaos",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C6ED53D595",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 6,
+        "endOffset": 29,
+        "text": "your stint as a barista",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1F24BB2372",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 91,
+        "endOffset": 125,
+        "text": "strengths like patience or empathy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AE97513C47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 133,
+        "endOffset": 155,
+        "text": "informs how you design",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84F7CCAE9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 9,
+        "endOffset": 39,
+        "text": "your experience as a caregiver",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2FF4E2205D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Human skills are deeply transferable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00970DFB04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "You might surprise yourself",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "24C9D0224F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Second, become a skills translator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "141F9858A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "You need to translate",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9CE4D287BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "Research the industry you want to move into because the same skill can have vastly different meanings depending on the context.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B93DE432C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 140,
+        "endOffset": 171,
+        "text": "storytelling or branding skills",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "832811F68F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 14,
+        "endOffset": 49,
+        "text": "when a marketing position is asking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A04F0E39CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 123,
+        "endOffset": 154,
+        "text": "counseling or crisis management",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E69F50D47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 4,
+        "endOffset": 46,
+        "text": "when a behavioral health position mentions",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B035CB7196",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Become their translator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18985730E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Third, find data in discomfort.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BECBA21AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "At work, when do you feel uncomfortable?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D97924FD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 15,
+        "endOffset": 27,
+        "text": "out of depth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FCBED3E5E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Maybe you feel",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CAFB4826C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Pay attention to those signals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A540A33E3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "That kind of discomfort is good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC41AFD9FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "It's data telling you where you need to level up.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ED5062B09A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Sign up for a course to get up to speed on that new platform or application.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89B65925C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Transform that discomfort around your skills gaps into action.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8C27E5378E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Finally, get picky.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5A9C4C890",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "You shouldn't be the only one committed to your skill development.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DBA174246C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Your employer should be too.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5B6A09710B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "The next time you change jobs, try to choose a company or organization that is building talent from within.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A69E612A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Look at LinkedIn and see if people have risen within the company.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF1659B2F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Ask during the interview whether there are clear road maps for internal advancement.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "43D2BBD0EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "The reality is, most companies have so much work to do when it comes to recognizing human skills, spotting talent in unexpected places and cultivating the careers of their own employees.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "894F3BFEBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "You want an employer that takes the long view on your career and can help you fill your skills gaps on the job.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A34BE0C85E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 59,
+        "endOffset": 192,
+        "text": "you can take control, you can steer the process, you can surface your hidden skills, translate your strengths and level up your gaps.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "93AB69D1C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "You can show employers new ways to think about why they should hire you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A80A918E12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "And when you do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7E7521F75A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 59,
+        "endOffset": 88,
+        "text": "a whole lot less intimidating",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EB66E3F560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

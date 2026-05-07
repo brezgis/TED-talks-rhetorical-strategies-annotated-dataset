@@ -1,0 +1,4333 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8426,
+  "title": "A Rosetta Stone for a lost language",
+  "author": "Rajesh Rao",
+  "url": "https://www.ted.com/talks/rajesh_rao_a_rosetta_stone_for_a_lost_language",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:38:00.267430Z",
+  "updated_at": "2026-05-07T03:38:00.267430Z",
+  "lead_time": 153.124,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "I'd like to begin with a thought experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C575C7DDB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Imagine that it's 4,000 years into the future.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "781AC1C67B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Civilization as we know it has ceased to exist -- no books, no electronic devices, no Facebook or Twitter.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "07B209F77F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "All knowledge of the English language and the English alphabet has been lost.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "695F88CC57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Now imagine archeologists digging through the rubble of one of our cities.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E77D23952F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "What might they find?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "151E21CEDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Well perhaps some rectangular pieces of plastic with strange symbols on them.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E08E7596CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Perhaps some circular pieces of metal.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7F265DBE90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Maybe some cylindrical containers with some symbols on them.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0B0B6B8717",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "And perhaps one archeologist becomes an instant celebrity when she discovers -- buried in the hills somewhere in North America -- massive versions of these same symbols.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4382FC9487",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Now let's ask ourselves, what could such artifacts say about us to people 4,000 years into the future?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EC38FC960C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "This is no hypothetical question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD5E550903",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "In fact, this is exactly the kind of question we're faced with when we try to understand the Indus Valley civilization, which existed 4,000 years ago.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E67764C64F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "The Indus civilization was roughly contemporaneous with the much better known Egyptian and the Mesopotamian civilizations, but it was actually much larger than either of these two civilizations.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "440A0F5DFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "It occupied the area of approximately one million square kilometers, covering what is now Pakistan, Northwestern India and parts of Afghanistan and Iran.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "419E7F1548",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 44,
+        "endOffset": 60,
+        "text": "you might expect",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "11B73A4E75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "Given that it was such a vast civilization, you might expect to find really powerful rulers, kings, and huge monuments glorifying these powerful kings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF3D4651ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "In fact, what archeologists have found is none of that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "145F70ED58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "They've found small objects such as these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E39D4F9F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Here's an example of one of these objects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DCF1E0715",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Well obviously this is a replica.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73DBE50CD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "But who is this person?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "788802B494",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "A king?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C36EDEB2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "A god?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A58375D75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "A priest?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56635E0AA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 30,
+        "endOffset": 44,
+        "text": "like you or me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C979E0E319",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Or perhaps an ordinary person like you or me?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "129E630B64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "We don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCBCEEDDF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "But the Indus people also left behind artifacts with writing on them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47F65934E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "Well no, not pieces of plastic, but stone seals, copper tablets, pottery and, surprisingly, one large sign board, which was found buried near the gate of a city.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AEF310797",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 29,
+        "endOffset": 57,
+        "text": "Hollywood, or even Bollywood",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F5B81EE777",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Now we don't know if it says Hollywood, or even Bollywood for that matter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "774C8F4BB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "In fact, we don't even know what any of these objects say, and that's because the Indus script is undeciphered.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFFF253299",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "We don't know what any of these symbols mean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAE65D36C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The symbols are most commonly found on seals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7CD5DDB05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So you see up there one such object.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B18A6B60AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's the square object with the unicorn-like animal on it.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4F3D2AC038",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Now that's a magnificent piece of art.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F639CBC8FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So how big do you think that is?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D96C8F8B8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Perhaps that big?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A3A517B28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Or maybe that big?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "812BE57063",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Well let me show you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63FF7B1355",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Here's a replica of one such seal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "444378E459",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It's only about one inch by one inch in size -- pretty tiny.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0FF4A7601",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So what were these used for?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC5982BC9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "We know that these were used for stamping clay tags that were attached to bundles of goods that were sent from one place to the other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F4A3A0269",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "So you know those packing slips you get on your FedEx boxes?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C93CDA6DD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "These were used to make those kinds of packing slips.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB10CF5939",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "You might wonder",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "597C4E767F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "You might wonder what these objects contain in terms of their text.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D32BD97CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Perhaps they're the name of the sender or some information about the goods that are being sent from one place to the other -- we don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F08640CB31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "We need to decipher the script to answer that question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A738B5F17E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 38,
+        "endOffset": 57,
+        "text": "intellectual puzzle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D01A590A21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 59,
+        "endOffset": 90,
+        "text": "it's actually become a question",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E2CF80B6A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "Deciphering the script is not just an intellectual puzzle; it's actually become a question that's become deeply intertwined with the politics and the cultural history of South Asia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A83026400",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 33,
+        "endOffset": 54,
+        "text": "battleground of sorts",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CFDFEF8F9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In fact, the script has become a battleground of sorts between three different groups of people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1470D3B30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "First, there's a group of people who are very passionate in their belief that the Indus script does not represent a language at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71EB119280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 30,
+        "endOffset": 139,
+        "text": "symbols are very similar to the kind of symbols you find on traffic signs or the emblems you find on shields.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9A6465C92C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 78,
+        "endOffset": 86,
+        "text": "you find",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D3583C920F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "These people believe that the symbols are very similar to the kind of symbols you find on traffic signs or the emblems you find on shields.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEE998DE41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "There's a second group of people who believe that the Indus script represents an Indo-European language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFCE7325DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "If you look",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F244CDE9E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "If you look at a map of India today, you'll see that most of the languages spoken in North India belong to the Indo-European language family.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03CD7EE2CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "So some people believe that the Indus script represents an ancient Indo-European language such as Sanskrit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E86E94D08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "There's a last group of people who believe that the Indus people were the ancestors of people living in South India today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EF02414D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "These people believe that the Indus script represents an ancient form of the Dravidian language family, which is the language family spoken in much of South India today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "051B1A5473",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 304,
+        "text": "And the proponents of this theory point to that small pocket of Dravidian-speaking people in the North, actually near Afghanistan, and they say that perhaps, sometime in the past, Dravidian languages were spoken all over India and that this suggests that the Indus civilization is perhaps also Dravidian.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E343E264A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Which of these hypotheses",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3BE8C5E9A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Which of these hypotheses can be true?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4615B3BCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 27,
+        "endOffset": 44,
+        "text": "if you deciphered",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "471AF6AE5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 57,
+        "endOffset": 74,
+        "text": "you would be able",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "89CB57D661",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We don't know, but perhaps if you deciphered the script, you would be able to answer this question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6B3522AC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "But deciphering the script is a very challenging task.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29EF2CE8FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "First, there's no Rosetta Stone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2936E688DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "I don't mean the software; I mean an ancient artifact that contains in the same text both a known text and an unknown text.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "14AE8F847C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "We don't have such an artifact for the Indus script.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F180F6CE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And furthermore, we don't even know what language they spoke.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37F44AE8E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And to make matters even worse, most of the text that we have are extremely short.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9453FAEBF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "So as I showed you, they're usually found on these seals that are very, very tiny.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "60ABB33661",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And so given these formidable obstacles, one might wonder and worry whether one will ever be able to decipher the Indus script.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AFA1078A42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "In the rest of my talk, I'd like to tell you about how I learned to stop worrying and love the challenge posed by the Indus script.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D48A471A73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "I've always been fascinated by the Indus script ever since I read about it in a middle school textbook.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9631968475",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And why was I fascinated?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1DE1760E7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Well it's the last major undeciphered script in the ancient world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2D3D2FBDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 236,
+        "text": "My career path led me to become a computational neuroscientist, so in my day job, I create computer models of the brain to try to understand how the brain makes predictions, how the brain makes decisions, how the brain learns and so on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AAB0EE155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "But in 2007, my path crossed again with the Indus script.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41F44C077B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "That's when I was in India, and I had the wonderful opportunity to meet with some Indian scientists who were using computer models to try to analyze the script.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C26F70319",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 105,
+        "endOffset": 111,
+        "text": "and so",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "203DC7F5A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 105,
+        "endOffset": 111,
+        "text": "and so",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4EEC8D33E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And I'd like to describe some of the results that we have found.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "428F797884",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 15,
+        "endOffset": 46,
+        "text": "let's all collectively decipher",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "476F55F9F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Are you ready?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6033C7C88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 21,
+        "endOffset": 35,
+        "text": "you need to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "02C814D8B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Here are two texts that contain some symbols on them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "971BB168C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Can you tell me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AEB1F2DBEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I'll give you a couple of seconds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FD6264ADD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "830C28BB72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Right to left, how many?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BBD504BC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEB23D41A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC3FC2AA3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Left to right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AA7CFEE2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Oh, it's almost 50/50.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76C50651EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "338EA53E5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 15,
+        "endOffset": 26,
+        "text": "if you look",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "01B90F51C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 96,
+        "endOffset": 113,
+        "text": "cramping of signs",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "33857BD1DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And so they had to cram the sign.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81A1180391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "One of the signs is also below the text on the top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F468C1AB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 72,
+        "endOffset": 78,
+        "text": "and so",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AC911DE8E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 149,
+        "endOffset": 159,
+        "text": "key aspect",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "88B735B001",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And the Indus script now has this particular property.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44CDCF5CCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "What other properties of language does the script show?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9480EF4853",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Languages contain patterns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C9B629955",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "If I give you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6AE78E14F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 31,
+        "endOffset": 38,
+        "text": "ask you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DD2D967C49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 35,
+        "endOffset": 49,
+        "text": "you to predict",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF78B39AB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Most of you said U, which is right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4F0FBA896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 4,
+        "endOffset": 18,
+        "text": "if I asked you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E4986A89F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 15,
+        "endOffset": 29,
+        "text": "you to predict",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "787235A3C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Now there's several thoughts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50C07C5EB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "There's E.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91EA85A14E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "It could be I.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2DF169A84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It could be A, but certainly not B, C or D, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F46E76B06E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "The Indus script also exhibits similar kinds of patterns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D181432280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 43,
+        "endOffset": 64,
+        "text": "diamond-shaped symbol",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DE29AC59A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "There's a lot of text that start with this diamond-shaped symbol.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9117641F15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 46,
+        "endOffset": 73,
+        "text": "quotation marks-like symbol",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9BC07A262A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And this in turn tends to be followed by this quotation marks-like symbol.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5105CD430B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And this is very similar to a Q and U example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5049DB98C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 45,
+        "endOffset": 62,
+        "text": "fish-like symbols",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "348BE2941E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "This symbol can in turn be followed by these fish-like symbols and some other signs, but never by these other signs at the bottom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F5D3DD651",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 86,
+        "endOffset": 101,
+        "text": "jar-shaped sign",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "299848AE0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 118,
+        "endOffset": 125,
+        "text": "in fact",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A38C752D73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 190,
+        "text": "And furthermore, there's some signs that really prefer the end of texts, such as this jar-shaped sign, and this sign, in fact, happens to be the most frequently occurring sign in the script.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A58B8E028",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Given such patterns, here was our idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD7EE581A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "The idea was to use a computer to learn these patterns, and so we gave the computer the existing texts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D8729C7DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "And the computer learned a statistical model of which symbols tend to occur together and which symbols tend to follow each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2560A63809",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Given the computer model, we can test the model by essentially quizzing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15C7AE3DE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "So we could deliberately erase some symbols, and we can ask it to predict the missing symbols.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED2E4CA5AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Here are some examples.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD93D29639",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 35,
+        "endOffset": 72,
+        "text": "most ancient game of Wheel of Fortune",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4C12255013",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "You may regard this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C2E5E7DD20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "You may regard this as perhaps the most ancient game of Wheel of Fortune.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10D3BFF3BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "What we found was that the computer was successful in 75 percent of the cases in predicting the correct symbol.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C028CA5E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "In the rest of the cases, typically the second best guess or third best guess was the right answer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "887EE9705C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "There's also practical use for this particular procedure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCF57E8E45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "There's a lot of these texts that are damaged.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23074D7085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Here's an example of one such text.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6CD394BE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And we can use the computer model now to try to complete this text and make a best guess prediction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9F375D6DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Here's an example of a symbol that was predicted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "595261CFC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "And this could be really useful as we try to decipher the script by generating more data that we can analyze.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC1AF77BC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Now here's one other thing you can do with the computer model.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "022CB8DB7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "So imagine a monkey sitting at a keyboard.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A1886C4014",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "I think you might get a random jumble of letters that looks like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D36B32E7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Such a random jumble of letters is said to have a very high entropy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2ACB25FCB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "This is a physics and information theory term.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3676926177",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "But just imagine it's a really random jumble of letters.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8CBB00ABB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "How many of you have ever spilled coffee on a keyboard?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "793F016F24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "You might have encountered the stuck-key problem -- so basically the same symbol being repeated over and over again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDBA16FE74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "This kind of a sequence is said to have a very low entropy because there's no variation at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39F04618B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "Language, on the other hand, has an intermediate level of entropy; it's neither too rigid, nor is it too random.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72E218AA66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "What about the Indus script?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E822FE4DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Here’s a graph that plots the entropies of a whole bunch of sequences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA828F8730",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 67,
+        "endOffset": 91,
+        "text": "random jumble of letters",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "60B1E4E90E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 16,
+        "endOffset": 24,
+        "text": "you find",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7B3F5B06F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 22,
+        "endOffset": 41,
+        "text": "very, very flexible",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4DC10F8B61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 56,
+        "endOffset": 64,
+        "text": "you find",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2A2BE3A6C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 42,
+        "endOffset": 56,
+        "text": "rigid sequence",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E94B816A32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 31,
+        "endOffset": 39,
+        "text": "you find",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "58AC7ECAD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Linguistic scripts occupy the middle range.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BA108DA02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Now what about the Indus script?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1AD687CE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "We found that the Indus script actually falls within the range of the linguistic scripts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63EAF77117",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "When this result was first published, it was highly controversial.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A21272A2DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 31,
+        "endOffset": 42,
+        "text": "hue and cry",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F4FF4C8420",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "There were people who raised a hue and cry, and these people were the ones who believed that the Indus script does not represent language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36838412F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I even started to get some hate mail.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "662CA21EDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "My students said that I should really seriously consider getting some protection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49BCDF6749",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Who’d have thought that deciphering could be a dangerous profession?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A125541EC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What does this result really show?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C8808913E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "It shows that the Indus script shares an important property of language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29C97B53C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 28,
+        "endOffset": 101,
+        "text": "if it looks like a linguistic script and it acts like a linguistic script",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0DA89C3DC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "So, as the old saying goes, if it looks like a linguistic script and it acts like a linguistic script, then perhaps we may have a linguistic script on our hands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78CA81620B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "What other evidence is there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "44C87D19D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "What other evidence is there that the script could actually encode language?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DE3291A7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Well linguistic scripts can actually encode multiple languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A097543A99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "So for example, here’s the same sentence written in English and the same sentence written in Dutch using the same letters of the alphabet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45E6185D21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "If you don't know Dutch and you only know English",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "49046E58DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "If you don't know Dutch and you only know English and I give you some words in Dutch, you'll tell me that these words contain some very unusual patterns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF53393A8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Some things are not right, and you'll say these words are probably not English words.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23C4705C77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "The same thing happens in the case of the Indus script.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03016C52B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "The computer found several texts -- two of them are shown here -- that have very unusual patterns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "706D7E1837",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So for example the first text: there’s a doubling of this jar-shaped sign.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D07D111726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "This sign is the most frequently-occurring sign in the Indus script, and it’s only in this text that it occurs as a doubling pair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "151750F4D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Why is that the case?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A8E35C989A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Why is that the case?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A34DE15F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "We went back and looked at where these particular texts were found, and it turns out that they were found very, very far away from the Indus Valley.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BA3205F43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "They were found in present day Iraq and Iran.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CE3DA88C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And why were they found there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A9F60F0BB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And why were they found there?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2A3ABDA5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "What I haven't told you is that the Indus people were very, very enterprising.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9891CAEBCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "They used to trade with people pretty far away from where they lived, and so in this case, they were traveling by sea all the way to Mesopotamia, present-day Iraq.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D4EE7D593",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "And what seems to have happened here is that the Indus traders, the merchants, were using this script to write a foreign language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECB3C8A2EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's just like our English and Dutch example.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB74F65A83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "And that would explain why we have these strange patterns that are very different from the kinds of patterns you see in the text that are found within the Indus Valley.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8839D246F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "This suggests that the same script, the Indus script, could be used to write different languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F1864683B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "The results we have so far seem to point to the conclusion that the Indus script probably does represent language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2F5A83250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "If it does represent language, then how do we read the symbols?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1AC26D311E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "That's our next big challenge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E16BE4D7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "So you'll notice that many of the symbols look like pictures of humans, of insects, of fishes, of birds.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CAF6C9F1B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Most ancient scripts use the rebus principle, which is, using pictures to represent words.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F4E8EEEEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So as an example, here's a word.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95B4CE71DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Can you write it using pictures?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C8E45DCD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I'll give you a couple seconds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06B5769EEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Got it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E4E6E727CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FFD2CE8F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3D0D6E719",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Here's my solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9228DEBFB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 18,
+        "endOffset": 66,
+        "text": "picture of a bee followed by a picture of a leaf",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DFF2E2F233",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "\"belief\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9DEDF4340D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "There could be other solutions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FC8822092",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "In the case of the Indus script, the problem is the reverse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F6D442B98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "You have to figure out",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9D883905D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 11,
+        "endOffset": 39,
+        "text": "just like a crossword puzzle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0C90FF6394",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 65,
+        "endOffset": 96,
+        "text": "mother of all crossword puzzles",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2A602095DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "My colleagues, Iravatham Mahadevan and Asko Parpola, have been making some headway on this particular problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3DE21BC6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And I'd like to give you a quick example of Parpola's work.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BF4BF1E554",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Here's a really short text.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C2BC3E8D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "It contains seven vertical strokes followed by this fish-like sign.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FA7F8BCC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 200,
+        "text": "And I want to mention that these seals were used for stamping clay tags that were attached to bundles of goods, so it's quite likely that these tags, at least some of them, contain names of merchants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE11A45560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "And it turns out that in India there's a long tradition of names being based on horoscopes and star constellations present at the time of birth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E866C3BF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "In Dravidian languages, the word for fish is \"meen\" which happens to sound just like the word for star.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90DE85C291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "And so seven stars would stand for \"elu meen,\" which is the Dravidian word for the Big Dipper star constellation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C51C9025DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "Similarly, there's another sequence of six stars, and that translates to \"aru meen,\" which is the old Dravidian name for the star constellation Pleiades.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA8B430157",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And finally, there's other combinations, such as this fish sign with something that looks like a roof on top of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C37DF7F613",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And that could be translated into \"mey meen,\" which is the old Dravidian name for the planet Saturn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E45B970BA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So that was pretty exciting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2777B35546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It looks like we're getting somewhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B360622424",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "But does this prove that these seals contain Dravidian names based on planets and star constellations?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A7E666BE5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Well not yet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0239785757",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 59,
+        "endOffset": 173,
+        "text": "but if more and more of these readings start making sense, and if longer and longer sequences appear to be correct",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "14D1E07B08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "Today, we can write a word such as TED in Egyptian hieroglyphics and in cuneiform script, because both of these were deciphered in the 19th century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C16F3F3ED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "The decipherment of these two scripts enabled these civilizations to speak to us again directly.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3C163F70A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "The Mayans started speaking to us in the 20th century, but the Indus civilization remains silent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "103DCA7696",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Why should we care?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4DD8E546B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "The Indus civilization does not belong to just the South Indians or the North Indians or the Pakistanis; it belongs to all of us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A19271B3DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "These are our ancestors -- yours and mine.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "693CE10365",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "They were silenced by an unfortunate accident of history.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52A71EEE44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "If we decipher the script, we would enable them to speak to us again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E45EDBD23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "What would they tell us?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D005BA88A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What would we find out about them?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "15F4B3BFAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "About us?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F5D820AD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I can't wait to find out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21FD956BE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BCD77C8F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0A9CFDCD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

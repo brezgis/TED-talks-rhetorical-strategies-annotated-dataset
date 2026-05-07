@@ -1,0 +1,1902 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9344,
+  "title": "Why tech needs the humanities",
+  "author": "Eric Berridge",
+  "url": "https://www.ted.com/talks/eric_berridge_why_tech_needs_the_humanities",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:58:34.241619Z",
+  "updated_at": "2026-05-07T03:58:34.241619Z",
+  "lead_time": 66.174,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "You've all been in a bar, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FB9262D384",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 11,
+        "endOffset": 85,
+        "text": "But have you ever gone to a bar and come out with a $200 million business?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9092669AD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "That's what happened to us about 10 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BE93CC7E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We'd had a terrible day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36147B18A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "We had this huge client that was killing us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4E96153C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "We're a software consulting firm, and we couldn't find a very specific programming skill to help this client deploy a cutting-edge cloud system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2822CAAA3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "We have a bunch of engineers, but none of them could please this client.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1915D1DC7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And we were about to be fired.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF84E8DF48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 240,
+        "text": "So we go out to the bar, and we're hanging out with our bartender friend Jeff, and he's doing what all good bartenders do: he's commiserating with us, making us feel better, relating to our pain, saying, \"Hey, these guys are overblowing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5041666619",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Don't worry about it.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F915B38873",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And finally, he deadpans us and says, \"Why don't you send me in there?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1852AA66A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "I can figure it out.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D89CD326EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "So the next morning, we're hanging out in our team meeting, and we're all a little hazy ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27B8930CB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F9C7100D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "and I half-jokingly throw it out there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CB4392AC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "So I say, \"Why don't we send in Jeff, the bartender?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CC1D72695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67B747B449",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Finally, my chief of staff says, \"That is a great idea.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18DC8878F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "(Laughter) \"Jeff is wicked smart.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5846D7E7A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "He's brilliant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7E6CD2930",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "He'll figure it out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78C9D5CA83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Let's send him in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80B04993E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Now, Jeff was not a programmer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB89C6070B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "In fact, he had dropped out of Penn as a philosophy major.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1127D3D058",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "But he was brilliant, and he could go deep on topics, and we were about to be fired.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F21854E15E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So we sent him in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22720D3885",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "After a couple days of suspense, Jeff was still there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F52E8D3278",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "They hadn't sent him home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "433189AC50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "I couldn't believe it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCF4383125",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "What was he doing?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A216DB1636",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Here's what I learned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F625FB1582",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 7,
+        "endOffset": 41,
+        "text": "completely disarmed their fixation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E3B7EBB696",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 37,
+        "endOffset": 72,
+        "text": "even changing what we were building",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "578D709FC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "The conversation was now about what we were going to build and why.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAD5CB8C90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "And yes, Jeff figured out how to program the solution, and the client became one of our best references.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F5357CE6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 156,
+        "endOffset": 198,
+        "text": "Could we repeat this through our business?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5DB604E819",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "So we changed the way we recruited and trained.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7AEB966DAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 83,
+        "endOffset": 123,
+        "text": "sprinkled in artists, musicians, writers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "745906DFD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 145,
+        "endOffset": 171,
+        "text": "started to multiply itself",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1F8EBB1BE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Our chief technology officer is an English major, and he was a bike messenger in Manhattan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E44938CAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And today, we're a thousand people, yet still less than a hundred have degrees in computer science or engineering.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C0D4D442C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And yes, we're still a computer consulting firm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B49A99EF12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "We're the number one player in our market.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF215CEA06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We work with the fastest-growing software package to ever reach 10 billion dollars in annual sales.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22AAB5C1E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "So it's working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF6899C845",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Meanwhile, the push for STEM-based education in this country -- science, technology, engineering, mathematics -- is fierce.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A545737A13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's in all of our faces.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F0D4E560AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And this is a colossal mistake.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "77D938C597",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Since 2009, STEM majors in the United States have increased by 43 percent, while the humanities have stayed flat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E0AC95E24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 232,
+        "text": "Our past president dedicated over a billion dollars towards STEM education at the expense of other subjects, and our current president recently redirected 200 million dollars of Department of Education funding into computer science.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8A24BE036",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And CEOs are continually complaining about an engineering-starved workforce.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92DD6A838E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 99,
+        "endOffset": 190,
+        "text": "seven out of the 10 most valuable companies in the world by market cap are technology firms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "98F30C0195",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 76,
+        "endOffset": 97,
+        "text": "I mean, let's face it",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BCD68FFD90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "I get it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "004FB7D9E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "On paper, it makes sense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF35C747E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "It's tempting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70C6DDD7B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "But it's totally overblown.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C6CB7EDE55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "It's like, the entire soccer team chases the ball into the corner, because that's where the ball is.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89C735AC12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We shouldn't overvalue STEM.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "619DB5E09A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "We shouldn't value the sciences any more than we value the humanities.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6DF87E3233",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And there are a couple of reasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "457D3BEB4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Number one, today's technologies are incredibly intuitive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC8C01A8B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 63,
+        "endOffset": 74,
+        "text": "swivel into",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1B8011BF22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "The reason we've been able to recruit from all disciplines and swivel into specialized skills is because modern systems can be manipulated without writing code.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F98E331478",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "like LEGO",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "705143B133",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "They're like LEGO: easy to put together, easy to learn, even easy to program, given the vast amounts of information that are available for learning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "971BCC27D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "Yes, our workforce needs specialized skill, but that skill requires a far less rigorous and formalized education than it did in the past.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFD31D6C3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Number two",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FB1CD66DAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 299,
+        "text": "Number two, the skills that are imperative and differentiated in a world with intuitive technology are the skills that help us to work together as humans, where the hard work is envisioning the end product and its usefulness, which requires real-world experience and judgment and historical context.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B365FC1A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "What Jeff's story taught us is that the customer was focused on the wrong thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4AB52AE5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "It's the classic case: the technologist struggling to communicate with the business and the end user, and the business failing to articulate their needs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CE550B752",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "I see it every day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4048624FDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 7,
+        "endOffset": 29,
+        "text": "scratching the surface",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9CA0C0C829",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 214,
+        "text": "We are scratching the surface in our ability as humans to communicate and invent together, and while the sciences teach us how to build things, it's the humanities that teach us what to build and why to build them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBFA20086A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And they're equally as important, and they're just as hard.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "603923C7F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And they're equally as important, and they're just as hard.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "528400A0A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 3,
+        "endOffset": 10,
+        "text": "irks me",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D67F46C9F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "It irks me ... when I hear people treat the humanities as a lesser path, as the easier path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB220E5882",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Come on!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3831241E54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "The humanities give us the context of our world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71D417FC38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "They teach us how to think critically.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A839E86423",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "They are purposely unstructured, while the sciences are purposely structured.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD1C9D3945",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "They teach us to persuade, they give us our language, which we use to convert our emotions to thought and action.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07C944BDDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And they need to be on equal footing with the sciences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CA6B8BF5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 9,
+        "endOffset": 12,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "38CE58E43A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And yes, you can hire a bunch of artists and build a tech company and have an incredible outcome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DAD1B2019",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Now, I'm not here today to tell you that STEM's bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "876FDA2EEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I'm not here today to tell you that girls shouldn't code.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C29494B3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A094487FAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 63,
+        "endOffset": 72,
+        "text": "jump into",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7A75B22560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And that next bridge I drive over or that next elevator we all jump into -- let's make sure there's an engineer behind it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDB01DFD12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C56B7EE809",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 102,
+        "endOffset": 107,
+        "text": "folly",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F6D6AEA44B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 3,
+        "endOffset": 6,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "018C0FC86E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "If you have friends or kids or relatives or grandchildren or nieces or nephews ... encourage them to be whatever they want to be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B505F7CB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE7F9ABF42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 51,
+        "endOffset": 54,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "523607839B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Those tech CEOs that are clamoring for STEM grads, you know what they're hiring for?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C6E5E6720",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Google, Apple, Facebook.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B738A62F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "Sixty-five percent of their open job opportunities are non-technical: marketers, designers, project managers, program managers, product managers, lawyers, HR specialists, trainers, coaches, sellers, buyers, on and on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97BD5228E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "These are the jobs they're hiring for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52EEF5F56F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 100,
+        "endOffset": 114,
+        "text": "it's diversity",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "37ABBDC4CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And if there's one thing that our future workforce needs -- and I think we can all agree on this -- it's diversity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DCCAC8A2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But that diversity shouldn't end with gender or race.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A92738923",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 52,
+        "endOffset": 103,
+        "text": "introverts and extroverts and leaders and followers",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A6802FAD67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "We need a diversity of backgrounds and skills, with introverts and extroverts and leaders and followers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90F23CF4B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "That is our future workforce.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B4ED22E22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 118,
+        "endOffset": 134,
+        "text": "damn well please",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "ECB5A0A310",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "And the fact that the technology is getting easier and more accessible frees that workforce up to study whatever they damn well please.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "911877FB4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Thank you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "83243E701B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8090305F19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

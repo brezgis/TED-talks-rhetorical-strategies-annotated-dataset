@@ -1,0 +1,4384 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7646,
+  "title": "The sticky wonder of gecko feet",
+  "author": "Robert Full",
+  "url": "https://www.ted.com/talks/robert_full_the_sticky_wonder_of_gecko_feet",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:09:56.368254Z",
+  "updated_at": "2026-05-07T07:09:56.368254Z",
+  "lead_time": 153.781,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "I want you to imagine that you're a student in my lab.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A728D00AF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "What I want you to do is to create a biologically inspired design.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C4D52BF34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 29,
+        "endOffset": 107,
+        "text": "I want you to help me create a fully 3D, dynamic, parameterized contact model.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E683A2334D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 46,
+        "endOffset": 59,
+        "text": "build a foot?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "612B276E80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 32,
+        "endOffset": 57,
+        "text": "I do want you to help me.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A9AA2CDCC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Of course, in the challenge there is a prize.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63B6616927",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "It's not quite the TED Prize, but it is an exclusive t-shirt from our lab.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "10D1F0A9FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "So please send me your ideas about how to design a foot.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3482F3D94E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Now if we want to design a foot, what do we have to do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D7C7704DD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We have to first know what a foot is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "315F378BC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 47,
+        "endOffset": 136,
+        "text": "lower extremity of a leg that is in direct contact with the ground in standing or walking",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C3FC18CA88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 41,
+        "endOffset": 64,
+        "text": "what do you have to do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "35110184AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "You have to go to the literature and look up what's known about feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1C2F848D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So you go to the literature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BE9B19506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 11,
+        "endOffset": 54,
+        "text": "Maybe you're familiar with this literature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F719DB401F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "The problem is, there are many, many feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB66F12164",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "How do you do this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "454D4C751C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "You need to survey all feet and extract the principles of how they work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFBA435109",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And I want you to help me do that in this next clip.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CC2220F50E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "As you see this clip, look for principles, and also think about experiments that you might design in order to understand how a foot works.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "92391EE21F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "See any common themes?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "082A9FADC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Principles?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7CB0E5B6F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "What would you do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4629F49778",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "What experiments would you run?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "04BABF185F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Wow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A99FC06C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 11,
+        "endOffset": 111,
+        "text": "Our research on the biomechanics of animal locomotion has allowed us to make a blueprint for a foot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDA0BD6CBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "It's a design inspired by nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BB7847B490",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 34,
+        "endOffset": 150,
+        "text": "but it's not a copy of any specific foot you just looked at, but it's a synthesis of the secrets of many, many feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAD66EA5C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Now it turns out that animals can go anywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A86B00F8F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "They can locomote on substrates that vary as you saw -- in the probability of contact, the movement of that surface and the type of footholds that are present.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC0FFF3B32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "If you want to study how a foot works, we're going to have to simulate those surfaces, or simulate that debris.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "718F303F60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "When we did that, here's a new experiment that we did: we put an animal and had it run -- this grass spider -- on a surface with 99 percent of the contact area removed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3F10589D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "But it didn't even slow down the animal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4693D53E0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "It's still running at the human equivalent of 300 miles per hour.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D50AE084CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now how could it do that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "879D6DF518",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Well, look more carefully.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8BD5FF52E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "When we slow it down 50 times we see how the leg is hitting that simulated debris.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FFE4DCDF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "The leg is acting as a foot.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "71B38AAE5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "And in fact, the animal contacts other parts of its leg more frequently than the traditionally defined foot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FED7F286A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "The foot is distributed along the whole leg.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "776E946B51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "You can do another experiment where you can take a cockroach with a foot, and you can remove its foot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB66203494",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I'm passing some cockroaches around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02FC40D559",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Take a look at their feet.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ACF568C277",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Without a foot, here's what it does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9D7DFDFA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It doesn't even slow down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B12964E39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "It can run the same speed without even that segment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEEEEA5D25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 41,
+        "endOffset": 55,
+        "text": "grow them back",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "537FDABF05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 57,
+        "endOffset": 68,
+        "text": "if you care",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5CF142E5F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "How do they do it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71C70A75BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Look carefully",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E70DF8A014",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 24,
+        "endOffset": 45,
+        "text": "slowed down 100 times",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2EA39FDD36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 25,
+        "endOffset": 41,
+        "text": "distributed foot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7F65B400E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Now, the question we had is",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2417A7D8E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 51,
+        "endOffset": 66,
+        "text": "just stunned us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2DCCB098B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Journalists, this is off the record; it's embargoed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90B27B03A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Take a look at what that is!",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B161711BA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 32,
+        "endOffset": 62,
+        "text": "disguised as a rolling coconut",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B43D7C13D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "It was discovered by Christina Huffard and filmed by Sea Studios, right here from Monterey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFE450298B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We've also described another species of bipedal octopus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04CD387607",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 9,
+        "endOffset": 43,
+        "text": "disguises itself as floating algae",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB708C2EFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "It walks on two legs and it holds the other arms up in the air so that it can't be seen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BA16DBC9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2561853C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 23,
+        "endOffset": 39,
+        "text": "distributed foot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FF695E537D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 51,
+        "endOffset": 91,
+        "text": "as if those obstacles are not even there",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "0345F7F03B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "In 1951, Escher made this drawing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFEAC22845",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "He thought he created an animal fantasy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A406C9421E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "But we know that art imitates life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3AAB7CA1A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "But we know that art imitates life, and it turns out nature, three million years ago, evolved the next animal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BBABC6802",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "It's a shrimp-like animal called the stomatopod, and here's how it moves on the beaches of Panama: it actually rolls, and it can even roll uphill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36FC2CC8A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "It's the ultimate distributed foot: its whole body in this case is acting like its foot.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DDD0E6717F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "So, if we want to then, to our blueprint, add the first important feature, we want to add distributed foot contact.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2CFEBCA2DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Not just with the traditional foot, but also the leg, and even of the body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F225D3E77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Can this help us inspire the design of novel robots?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "54B835BF89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "We biologically inspired this robot, named RHex, built by these extraordinary engineers over the last few years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A6242EE50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "RHex's foot started off to be quite simple, then it got tuned over time, and ultimately resulted in this half circle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C14131E15C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Why is that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "790AAF6E51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "The video will show you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9FA2159C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Watch where the robot, now, contacts its leg in order to deal with this very difficult terrain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0970A8E85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "What you'll see, in fact, is that it's using that half circle leg as a distributed foot.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FE2A633005",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Watch it go over this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3458EB23B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "You can see it here well on this debris.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B74FBEB6B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Extraordinary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04F95FB130",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "No sensing, all the control is built right into the tuned legs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A92D6B520F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Really simple, but beautiful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75888E5584",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Now, you might have noticed something else about the animals when they were running over the rough terrain.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3D01F42C2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And my assistant's going to help me here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA1E6A61D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "When you touched the cockroach leg -- can you get the microphone for him?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C32AF739BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "When you touched the cockroach leg, what did it feel like?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4CF50792A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Did you notice something?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0FBFE15D63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Boy: Spiny.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EBF7C3B99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Robert Full: It's spiny, right?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "05DA48EE2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It's really spiny, isn't it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77CC54EE42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It sort of hurts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DFF7A053A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Maybe we could give it to our curator and see if he'd be brave enough to touch the cockroach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85E9874AE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 11,
+        "endOffset": 44,
+        "text": "Chris Anderson: Did you touch it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F630FA6E2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 4,
+        "endOffset": 36,
+        "text": "So if you look carefully at this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D08BB9C808",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 4,
+        "endOffset": 129,
+        "text": "So if you look carefully at this, what you see is that they have spines and until a few weeks ago, no one knew what they did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3AB1CA3D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "They assumed that they were for protection and for sensory structures.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95C8D99EE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "We found that they're for something else -- here's a segment of that spine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3BC542BED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "They're tuned such that they easily collapse in one direction to pull the leg out from debris, but they're stiff in the other direction so they capture disparities in the surface.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3A8D13973",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Now crabs don't miss footholds, because they normally move on sand -- until they come to our lab.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "122C092A24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And where they have a problem with this kind of mesh, because they don't have spines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60EA15DA56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "The crabs are missing spines, so they have a problem in this kind of rough terrain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFB0012DEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "But of course, we can deal with that because we can produce artificial spines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDD27BA173",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "We can make spines that catch on simulated debris and collapse on removal to easily pull them out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E18408C2B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "We did that by putting these artificial spines on crabs, as you see here, and then we tested them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B5B3F9EE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Do we really understand that principle of tuning?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4D2FF9349A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "The answer is, yes!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9D80D35CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "This is slowed down 20-fold, and the crab just zooms across that simulated debris.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B06D7C7897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Laughter) (Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E49A2C55C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So to our blueprint, we need to add tuned spines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0CBD9F075",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Now will this help us think about the design of more effective climbing robots?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "18EE20A591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Well, here’s RHex",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F4629194FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 19,
+        "endOffset": 81,
+        "text": "RHex has trouble on rails -- on smooth rails, as you see here.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D743EEB9D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So why not add a spine?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46EEB146DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "My colleagues did this at U.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEC7C2BCD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Penn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D7A1ED204",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "Dan Koditschek put some steel nails -- very simple version -- on the robot, and here's RHex, now, going over those steel -- those rails.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41F1031190",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "No problem!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CED22A74E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "How does it do it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "507E283E77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Let's slow it down and you can see the spines in action.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7125D6A178",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Watch the leg come around, and you'll see it grab on right there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B0E7539D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "It couldn't do that before; it would just slip and get stuck and tip over.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B4D2AE608",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And watch again, right there -- successful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C707645207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Now just because we have a distributed foot and spines doesn't mean you can climb vertical surfaces.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6B98C7E68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "This is really, really difficult.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "0AC89FE29F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "But look at this animal do it!",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FEC34D8BEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 38,
+        "endOffset": 71,
+        "text": "climbing up this vertical surface",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2C7A4D6F0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 48,
+        "endOffset": 67,
+        "text": "if you slow it down",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1315FC002F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "It's a secret.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4AFAB4B86E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "The animal effectively climbs by slipping and look -- and doing, actually, terribly, with respect to grabbing on the surface.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BF46B7A7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 19,
+        "endOffset": 52,
+        "text": "like it's swimming up the surface",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "94C0F37A76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 55,
+        "endOffset": 72,
+        "text": "if you look at it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E68226C44D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 35,
+        "endOffset": 61,
+        "text": "working more like a paddle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8CE4CBB549",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The same is true when we looked at this lizard running on fluidized sand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE34E101E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Watch its feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76144E1388",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 14,
+        "endOffset": 37,
+        "text": "functioning as a paddle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0A1061E127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "This is not different from what my former undergraduate discovered when she figured out how lizards can run on water itself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "085AB63BC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Can you use this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B9C9F8ED5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Martin Buehler did -- who's now at Boston Dynamics -- he took this idea and made RHex to be Aqua RHex.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46B88725D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "So here's RHex with paddles, now converted into an incredibly maneuverable swimming robot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A624D1470A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "For rough surfaces, though, animals add claws.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F4E16814D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And you probably feel them if you grabbed it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E48CFC78FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Did you touch it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FBA2AEEC0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "CA: I did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78D2462419",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 8,
+        "endOffset": 70,
+        "text": "they do really well at grabbing onto surfaces with these claws",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "049919B06B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "Mark Cutkosky at Stanford University, one of my collaborators, is an extraordinary engineer who developed this technique called Shape Deposition Manufacturing, where he can imbed claws right into an artificial foot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A6723336C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And here's the simple version of a foot for a new robot that I'll show you in a bit.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C2BDB00D44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So to our blueprint, let's attach claws.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "802CF79A65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 232,
+        "text": "Now if we look at animals, though, to be really maneuverable in all surfaces, the animals use hybrid mechanisms that include claws, and spines, and hairs, and pads, and glue, and capillary adhesion and a whole bunch of other things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6499EA5FFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "These are all from different insects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "661129883B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "There's an ant crawling up a vertical surface.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF72D73D66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Let's look at that ant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77F748963D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "This is the foot of an ant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C53A08522",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "You see the hairs and the claws",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "110798491C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "This is when its foot's in the air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71133769C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Watch what happens when the foot goes onto your sandwich.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1DF714239",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "You see what happens?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FFDC52F4FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "That pad comes out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7841F21002",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And that's where the glue is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "335338EC64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 27,
+        "endOffset": 35,
+        "text": "ant foot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "520FDA636E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "Here from underneath is an ant foot, and when the claws don't dig in, that pad automatically comes out without the ant doing anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77A2A8E4C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It just extrudes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6060540CF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 55,
+        "endOffset": 95,
+        "text": "shot of the ant foot on the superstrings",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "509076BE68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And this was a hard shot to get -- I think this is the shot of the ant foot on the superstrings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83EC4F72D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So it's pretty tough to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDF9FF93ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 50,
+        "endOffset": 58,
+        "text": "ant foot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EAC2586F1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 76,
+        "endOffset": 80,
+        "text": "glue",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "12285C2ACC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "This is what it looks like close up -- here's the ant foot, and there's the glue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0AE42D963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And we discovered this glue may be an interesting two-phase mixture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE174ADE1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It certainly helps it to hold on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC4D0A9DF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 38,
+        "endOffset": 49,
+        "text": "sticky pads",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6C00D41AE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So to our blueprint, we stick on some sticky pads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFCEFE36A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Now you might think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E37098F6E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Now you might think for smooth surfaces we get inspiration here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BC8BB6357",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Now we have something better here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AF1F1D862",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "The gecko's a really great example of nanotechnology in nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ED0EAF29A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 14,
+        "endOffset": 18,
+        "text": "feet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC45033C82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "These are its feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "801186C127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 18,
+        "endOffset": 28,
+        "text": "look alien",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4138C41728",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And the secret, which they stick on with, involves their hairy toes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED3D584C53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 85,
+        "endOffset": 108,
+        "text": "you can hardly see them",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00DB23CC5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "If we slow it down, they attach their feet at eight milliseconds, and detach them in 16 milliseconds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7CEA65A9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 39,
+        "endOffset": 52,
+        "text": "it is bizarre",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "87F0D6B52E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "peel away like you'd peel away a piece of tape",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8E6302960E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Very strange.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2E7432CE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "How do they stick?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "81803E5595",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 37,
+        "endOffset": 57,
+        "text": "leaf-like structures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F246500AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 22,
+        "endOffset": 55,
+        "text": "worst case of split ends possible",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7B0BDD0C8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "It has a hundred to a thousand split ends, and that's the secret, because it allows intimate contact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E4B0CA322",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "The gecko has a billion of these 200-nanometer-sized split ends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CC10DDC47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 30,
+        "endOffset": 93,
+        "text": "or they don't work like Velcro, or they don't work with suction",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9E8AA5F5B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "We discovered they work by intermolecular forces alone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27C119B346",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "So to our blueprint, we split some hairs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5169F73B04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "This has inspired the design of the first self-cleaning dry adhesive -- the patent issued, we're happy to say.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C38D834AE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "And here's the simplest version in nature, and here's my collaborator Ron Fearing's attempt at an artificial version of this dry adhesive made from polyurethane.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "156E64E107",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And here's the first attempt to have it work on some load.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9BDC26A59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "There's enormous interest in this in a variety of different fields.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D46996387",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "You could think of a thousand possible uses, I'm sure.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E637D6DA0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Lots of people have, and we're excited about realizing this as a product.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AFCAD5C9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "We have imagined products; for example, this one: we imagined a bio-inspired Band-Aid, where we took the glue off the Band-Aid.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A28303265",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "We took some hairs from a molting gecko; put three rolls of them on here, and then made this Band-Aid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7AA7F16A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "This is an undergraduate volunteer -- we have 30,000 undergraduates so we can choose among them -- that's actually just a red pen mark.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1C344BF66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "But it makes an incredible Band-Aid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ABD6982DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "It's aerated, it can be peeled off easily, it doesn't cause any irritation, it works underwater.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC23E3A12A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "I think this is an extraordinary example of how curiosity-based research -- we just wondered how they climbed up something -- can lead to things that you could never imagine.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "05A45E6413",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "It's just an example of why we need to support curiosity-based research.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17EBC2C988",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Here you are, pulling off the Band-Aid.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BE4968878B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So we've redefined, now, what a foot is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F545D324F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "The question is",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D63CD4F8FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 34,
+        "endOffset": 41,
+        "text": "secrets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "09B80F4C95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "Here's the new project: we're trying to create the first climbing search-and-rescue robot -- no suction or magnets -- that can only move on limited kinds of surfaces.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0BC09C763",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "I call the new robot RiSE, for \"Robot in Scansorial Environment\" -- that's a climbing environment -- and we have an extraordinary team of biologists and engineers creating this robot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F694A22315",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "And here is RiSE.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB2FD75ADB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's six-legged and has a tail.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F9F1A529F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Here it is on a fence and a tree.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75432079BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And here are RiSE's first steps on an incline.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "000D2BEEB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "You have the audio?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0962710400",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "You can hear it go up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C61F947E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And here it is coming up at you, in its first steps up a wall.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D41CD00A2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Now it's only using its simplest feet here, so this is very new.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7D0CA5080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "But we think we got the dynamics right of the robot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BB474A1E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Mark Cutkosky, though, is taking it a step further.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF9906572F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "He's the one able to build this shape-deposition manufactured feet and toes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D6F3439FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "The next step is to make compliant toes, and try to add spines and claws and set it for dry adhesives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB9AFFC5AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "So the idea is to first get the toes and a foot right, attempt to make that climb, and ultimately put it on the robot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63580E6A51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And that's exactly what he's done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBF6915FEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 21,
+        "endOffset": 59,
+        "text": "a climbing foot-bot inspired by nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D6AC1B3A01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And here's Cutkosky's and his amazing students' design.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC4300E3AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 13,
+        "endOffset": 23,
+        "text": "tuned toes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "199DD5D44B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 124,
+        "endOffset": 133,
+        "text": "blueprint",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BC2A61C17B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 111,
+        "endOffset": 146,
+        "text": "biologically inspired as the animal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F5E98FFACA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Here you see it, next, going up the side of a building at Stanford.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA11FFED98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It's sped up -- again, it's a foot climbing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DACD7C197",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 53,
+        "endOffset": 87,
+        "text": "now you can see how it's attaching",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E45DDDA692",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 6,
+        "endOffset": 22,
+        "text": "tuned structures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F37CE33782",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 41,
+        "endOffset": 54,
+        "text": "friction pads",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "37A09898BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 74,
+        "endOffset": 88,
+        "text": "adhesive hairs",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B86A80D1A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 75,
+        "endOffset": 150,
+        "text": "can you imagine it trying to go up and rescue somebody at that upper floor?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3BF95CC84A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1723A6F1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "You can visualize this now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C03B09E2E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's a very challenging task.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEFCC38BAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "But more to come later.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62D2768C9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 24,
+        "endOffset": 50,
+        "text": "design secrets from nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A1306EDF55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "To finish: we've gotten design secrets from nature by looking at how feet are built.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B147D62DA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "We've learned we should distribute control to smart parts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3C8B95AD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 35,
+        "endOffset": 92,
+        "text": "put some of the control in tuned feet, legs and even body",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7419CD5A3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Don't put it all in the brain, but put some of the control in tuned feet, legs and even body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "682AB79933",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "228",
+        "end": "228",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "That nature uses hybrid solutions, not a single solution, to these problems, and they're integrated and beautifully robust.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A2A4E3F85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "229",
+        "end": "229",
+        "startOffset": 36,
+        "endOffset": 101,
+        "text": "we do not want to mimic nature but instead be inspired by biology",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D5C1E063A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "229",
+        "end": "229",
+        "startOffset": 0,
+        "endOffset": 244,
+        "text": "And third, we believe strongly that we do not want to mimic nature but instead be inspired by biology, and use these novel principles with the best engineering solutions that are out there to make -- potentially -- something better than nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46D0888895",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 28,
+        "endOffset": 50,
+        "text": "whether you care about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A0DC532873",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 135,
+        "endOffset": 152,
+        "text": "you want to build",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "744DA92E04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 36,
+        "endOffset": 50,
+        "text": "you care about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "46B02A070E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 0,
+        "endOffset": 307,
+        "text": "So there's a clear message: whether you care about a fundamental, basic research of really interesting, bizarre, wonderful animals, or you want to build a search-and-rescue robot that can help you in an earthquake, or to save someone in a fire, or you care about medicine, we must preserve nature's designs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16C3B0E61B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "231",
+        "end": "231",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Otherwise these secrets will be lost forever.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CE906F62F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "232",
+        "end": "232",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EF8C63A88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

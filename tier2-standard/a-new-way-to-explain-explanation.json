@@ -1,0 +1,2769 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9153,
+  "title": "A new way to explain explanation",
+  "author": "David Deutsch",
+  "url": "https://www.ted.com/talks/david_deutsch_a_new_way_to_explain_explanation",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:40:38.380007Z",
+  "updated_at": "2026-05-07T10:40:38.380007Z",
+  "lead_time": 97.591,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 150,
+        "endOffset": 159,
+        "text": "stars are",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E663263B43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 226,
+        "endOffset": 239,
+        "text": "things unseen",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0848F27702",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 240,
+        "text": "wondering, therefore, wondering",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "385E9C4426",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "OK, so, most people only wondered that occasionally, like today, in breaks from whatever normally preoccupied them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DD5F577E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "But what normally preoccupied them also involved yearning to know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "462E99471D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 191,
+        "text": "how to prevent...how they could rest",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A17722AA80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 155,
+        "endOffset": 190,
+        "text": "warmer, cooler, safer, in less pain",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9014E1E02A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I bet those prehistoric cave artists would have loved to know how to draw better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE79007E72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6177166250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "But they failed, almost completely, to make any.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E14922F74C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "They didn't know how to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9E76C2302",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "Discoveries like fire happened so rarely that, from an individual's point of view, the world never improved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E06CEF7C94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Nothing new was learned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F2D026640",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "The first clue to the origin of starlight happened as recently as 1899: radioactivity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F82A6D7026",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And within 40 years, physicists discovered the whole explanation, expressed, as usual, in elegant symbols.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A79F86A1B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "But never mind the symbols.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA55F7F752",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Think how many discoveries they represent.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "794FDAD851",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Nuclei and nuclear reactions, of course.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1516FA8612",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 106,
+        "endOffset": 111,
+        "text": "E=mc2",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "53ADF3992E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "But isotopes, particles of electricity, antimatter, neutrinos, the conversion of mass to energy -- that's E=mc2 -- gamma rays, transmutation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D46C15F9E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 5,
+        "endOffset": 18,
+        "text": "ancient dream",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0CE6462E41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "That ancient dream that had always eluded the alchemists was achieved through these same theories that explained starlight and other ancient mysteries and new, unexpected phenomena.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2566763C17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 5,
+        "endOffset": 13,
+        "text": "all that",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0166894590",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "That all that, discovered in 40 years, had not been in the previous hundred thousand was not for lack of thinking about stars and all those other urgent problems they had.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF193CC722",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "They even arrived at answers, such as myths, that dominated their lives, yet bore almost no resemblance to the truth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C3957A856",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "The tragedy of that protracted stagnation isn't sufficiently recognized, I think.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "877A632C43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "These were people with brains of essentially the same design that eventually did discover all those things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9889A070BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "But that ability to make progress remained almost unused, until the event that revolutionized the human condition and changed the universe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "577FC57AF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 6,
+        "endOffset": 20,
+        "text": "we should hope",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "927BE912A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "Or so we should hope, because that event was the scientific revolution, ever since which our knowledge of the physical world and of how to adapt it to our wishes has been growing relentlessly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A4335A2F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Now, what had changed?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B9CFF325F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "What were people now doing",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0A64CD7258",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "What were people now doing for the first time that made that difference between stagnation and rapid, open-ended discovery?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB187DABC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "How to make that difference is surely the most important universal truth that it's possible to know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CF53F634A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And worryingly, there's no consensus about what it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06879E0338",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So, I'll tell you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C085BE82E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "(Laughter) But I'll have to backtrack a little first.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F13A0E1B9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 265,
+        "text": "Before the scientific revolution, they believed that everything important, knowable, was already known, enshrined in ancient writings, institutions and in some genuinely useful rules of thumb -- which were, however, entrenched as dogmas, along with many falsehoods.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F479F9AC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7A7513B6FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "So, they believed that knowledge came from authorities that actually knew very little.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDF2EF1D6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 76,
+        "endOffset": 123,
+        "text": "learned men, the priests, traditions and rulers",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "01808D1A35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 289,
+        "text": "And therefore, progress depended on learning how to reject the authority of learned men, the priests, traditions and rulers, which is why the scientific revolution had to have a wider context: the Enlightenment, a revolution in how people sought knowledge, trying not to rely on authority.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F6CFCC0F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "\"Take no one's word for it.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00AC2AFFAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "But that can't be what made the difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6F664964D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Authorities had been rejected before, many times.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCB28CBBEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And that rarely, if ever, caused anything like the scientific revolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E11C6E020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "At the time, what they thought distinguished science was a radical idea about things unseen, known as empiricism -- all knowledge derives from the senses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47F4D16D49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Well, we've seen that that can't be true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "243D7B127A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "It did help by promoting observation and experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3534E1B41C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "But, from the outset, it was obvious that there was something horribly wrong with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCB7E56A6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Knowledge comes from the senses?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2574BA5C67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "In what language?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "005A487353",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 79,
+        "endOffset": 93,
+        "text": "book of nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "90DBAE3059",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Certainly not the language of mathematics, in which, Galileo rightly said, the book of nature is written.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "481564FA47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Look at the world.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8588B83B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "You don't see equations carved on the mountainsides.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F49B16FC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "If you did",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8072EB6E48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "If you did, it would be because people had carved them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A30A1B24A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 12,
+        "endOffset": 33,
+        "text": "why don't we do that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B6B74647F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "By the way, why don't we do that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "248954EBC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "(Laughter) What's wrong with us?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD2F46857C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 88,
+        "endOffset": 110,
+        "text": "in terms of the unseen",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F285BCC8A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "(Laughter) Empiricism is inadequate because, well, scientific theories explain the seen in terms of the unseen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9B868BAF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 16,
+        "endOffset": 33,
+        "text": "you have to admit",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "20609881C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And the unseen, you have to admit, doesn't come to us through the senses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45ED795040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "We don't see those nuclear reactions in stars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C3139541F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "We don't see the origin of species.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "643D4809C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "We don't see the curvature of space-time, and other universes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9F6D2946E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But we know about those things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA86E127A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "How?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19EFE32391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Well, the classic empiricist answer is induction -- the unseen resembles the seen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F62904209B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "But it doesn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1ABD6B27A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "You know what the clinching evidence was",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "55FFD9A291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "You know what the clinching evidence was that space-time is curved?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5A90F64C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "It was a photograph -- not of space-time, but of an eclipse, with a dot there rather than there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C032DD026A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And the evidence for evolution?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F37FCBA75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Some rocks and some finches.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9014513D8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And parallel universes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B90A33DA9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Again: dots there rather than there, on a screen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAD448CFD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 31,
+        "endOffset": 51,
+        "text": "bears no resemblance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4C49084519",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "What we see in all these cases bears no resemblance to the reality that we conclude is responsible -- only a long chain of theoretical reasoning and interpretation connects them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1F96298D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "\"Ah!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57E2038DC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "say creationists.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BDCE19E03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 1,
+        "endOffset": 38,
+        "text": "So you admit it's all interpretation.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "46ED717BA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "No one's ever seen evolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DD1B5F8D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "We see rocks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2A371AB53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "You have your interpretation.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C461FF762C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "We have ours.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "467360AB33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Yours comes from guesswork; ours, from the Bible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B2D6547D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 42,
+        "endOffset": 106,
+        "text": "ignore is that, in that sense, no one's ever seen a Bible either",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2C47DA29A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "But what creationist and empiricists both ignore is that, in that sense, no one's ever seen a Bible either, that the eye only detects light, which we don't perceive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A8F4E0EEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Brains only detect nerve impulses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECA697A87F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 67,
+        "endOffset": 86,
+        "text": "electrical crackles",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "61D04A168B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And they don't perceive even those as what they really are, namely electrical crackles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32641772CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 26,
+        "endOffset": 43,
+        "text": "what it really is",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AA8F1DFF92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "So we perceive nothing as what it really is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78ABBF98D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Our connection to reality is never just perception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD395D4620",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 36,
+        "endOffset": 48,
+        "text": "theory-laden",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A6744CA267",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "It's always, as Karl Popper put it, theory-laden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "283F974A58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Scientific knowledge isn't derived from anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1933DA41D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 38,
+        "endOffset": 47,
+        "text": "guesswork",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "36B3F2F734",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 25,
+        "endOffset": 70,
+        "text": "conjectural, guesswork, tested by observation",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BF3B294653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Like all knowledge, it's conjectural, guesswork, tested by observation, not derived from it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B10EEC40A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 4,
+        "endOffset": 93,
+        "text": "were testable conjectures the great innovation that opened the intellectual prison gates?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CBBC911FC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "So, were testable conjectures the great innovation that opened the intellectual prison gates?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C23356196",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "No, contrary to what's usually said, testability is common in myths and all sorts of other irrational modes of thinking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99C285409B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Any crank claiming the sun will go out next Tuesday has got a testable prediction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8598EE588F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Consider the ancient Greek myth explaining seasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C3659C2AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "Hades, god of the underworld, kidnaps Persephone, the goddess of spring, and negotiates a forced marriage contract, requiring her to return regularly, and lets her go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C254E6E159",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And each year, she is magically compelled to return.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0C058E895",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And her mother, Demeter, goddess of the earth, is sad, and makes it cold and barren.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87F9D0DD02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "That myth is testable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7933274A11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "If winter is caused by Demeter's sadness, then it must happen everywhere on earth simultaneously.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2273E561C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "So if the ancient Greeks had only known that Australia is at its warmest when Demeter is at her saddest ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77313AB323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "(Laughter) they'd have known that their theory is false.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6387C89377",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 11,
+        "endOffset": 81,
+        "text": "So, what was wrong with that myth and with all prescientific thinking?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C1FC72395E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And what, then, made that momentous difference?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C42D37ACBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "I think there's one thing you have to care about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A62FCA5C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And here's the crucial thing: there is such a thing as a defect in a story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A4CAC1440",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I don't just mean a logical defect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C84A45986",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I mean a bad explanation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2600D65E20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "What does that mean?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF43F597CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 6,
+        "endOffset": 94,
+        "text": "an explanation is an assertion about what's there, unseen, that accounts for what's seen",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "06A74A49B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 96,
+        "endOffset": 229,
+        "text": "because the explanatory role of Persephone's marriage contract could be played equally well by infinitely many other ad hoc entities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "301E60ADC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Why a marriage contract and not any other reason for regular annual action?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A478B8527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Here's one: Persephone wasn't released.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D50302EE68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "She escaped, and returns every spring to take revenge on Hades, with her spring powers.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "607015EDE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "She cools his domain with spring air, venting heat up to the surface, creating summer.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2C82D40075",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "That accounts for the same phenomena as the original myth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B08F4D4506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's equally testable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "275DC5A62A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Yet what it asserts about reality is, in many ways, the opposite.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "254C0D9D36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "And that's possible because the details of the original myth are unrelated to seasons, except via the myth itself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9499261FD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "This easy variability is the sign of a bad explanation",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B4CFA5880A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 56,
+        "endOffset": 195,
+        "text": "because, without a functional reason to prefer one of countless variants, advocating one of them in preference to the others is irrational.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90718E7096",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "So, for the essence of what makes the difference to enable progress, seek good explanations, the ones that can't be easily varied, while still explaining the phenomena.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B347B22055",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "Now our current explanation of seasons is that the Earth's axis is tilted like that, so each hemisphere tilts towards the sun for half the year, and away for the other half. [Not to scale!] Better put that up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "029FE4EBD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 11,
+        "endOffset": 97,
+        "text": "That's a good explanation: hard to vary, because every detail plays a functional role.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "764624E8BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "For instance, we know, independently of seasons, that surfaces tilted away from radiant heat are heated less, and that a spinning sphere, in space, points in a constant direction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "146323372B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "And the tilt also explains the sun's angle of elevation at different times of year, and predicts that the seasons will be out of phase in the two hemispheres.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76DF2F0F1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "If they'd been observed in phase, the theory would have been refuted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "579FDDFAE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "But now, the fact that it's also a good explanation, hard to vary, makes the crucial difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90B0F07F78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "If the ancient Greeks had found out about seasons in Australia, they could have easily varied their myth to predict that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F0C5788A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "For instance, when Demeter's upset, she banishes heat from her vicinity into the other hemisphere, where it makes summer.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8F286EF00A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "So, being proved wrong by observation and changing their theory accordingly still wouldn’t have got the ancient Greeks one jot closer to understanding seasons, because their explanation was bad -- easy to vary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81C64E22A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And it's only when an explanation is good that it even matters whether it's testable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF281B84F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "If the axis-tilt theory had been refuted, its defenders would have had nowhere to go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07B777C7A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "No easily implemented change could make that tilt cause the same seasons in both hemispheres.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A754724E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 44,
+        "endOffset": 70,
+        "text": "the origin of all progress",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DCB94773A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's the basic regulating principle of the Enlightenment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "734DC1CE93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "So, in science, two false approaches blight progress.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2E36043E25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "One's well-known: untestable theories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15CC065F5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "But the more important one is explanationless theories.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD0D9F088",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 143,
+        "endOffset": 176,
+        "text": "you're being told a wizard did it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58A99266BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 9,
+        "endOffset": 20,
+        "text": "you're told",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1F8B6D095B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 130,
+        "endOffset": 136,
+        "text": "wizard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7114240442",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 246,
+        "text": "wizard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A6D3BB2583",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 47,
+        "endOffset": 54,
+        "text": "wizards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "671AFC5F93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 16,
+        "endOffset": 75,
+        "text": "The truth consists of hard-to-vary assertions about reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2B34A05916",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 11,
+        "endOffset": 128,
+        "text": "That the truth consists of hard-to-vary assertions about reality is the most important fact about the physical world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "618A2732BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's a fact that is itself unseen, yet impossible to vary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D3E809A34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "655B517F42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31DB120BE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

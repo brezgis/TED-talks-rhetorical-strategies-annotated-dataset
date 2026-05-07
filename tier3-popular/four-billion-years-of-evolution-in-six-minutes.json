@@ -1,0 +1,1137 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10158,
+  "title": "Four billion years of evolution in six minutes",
+  "author": "Prosanta Chakrabarty",
+  "url": "https://www.ted.com/talks/prosanta_chakrabarty_four_billion_years_of_evolution_in_six_minutes",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:28:03.594839Z",
+  "updated_at": "2026-05-07T12:28:03.594839Z",
+  "lead_time": 61.872,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 28,
+        "endOffset": 56,
+        "text": "why are there still monkeys?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F1D43303A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "(Laughter) Well, because we're not monkeys, we're fish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1733E0B33C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 16,
+        "endOffset": 37,
+        "text": "knowing you're a fish",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DEA9C9A508",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "I teach one of the largest evolutionary biology classes in the US, and when my students finally understand why I call them fish all the time, then I know I'm getting my job done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B7C7F4DF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "But I always have to start my classes by dispelling some hardwired myths, because without really knowing it, many of us were taught evolution wrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37FE56220D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "For instance, we're taught to say \"the theory of evolution.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "259F90CB25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 38,
+        "endOffset": 66,
+        "text": "just like the process itself",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "302BA164A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 68,
+        "endOffset": 125,
+        "text": "the ones that best fit the data are the ones that survive",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "40F84DB36D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "The one we know best is Darwinian natural selection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3894C27B0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 28,
+        "endOffset": 74,
+        "text": "organisms that best fit an environment survive",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "95082EAEDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "And that's it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A859DABB8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Evolution is as simple as that, and it's a fact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E424219DF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "\"theory of gravity\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BEE214ADE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "You can prove it just as easily.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD5096429B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 30,
+        "endOffset": 85,
+        "text": "bellybutton that you share with other placental mammals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1A7B36F3C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 95,
+        "endOffset": 141,
+        "text": "backbone that you share with other vertebrates",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "444675F70A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 151,
+        "endOffset": 198,
+        "text": "DNA that you share with all other life on earth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6A94F2FE39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Those traits didn't pop up in humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6482AD5D55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "They are certainly going to be here well after us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98CC71F45F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "About three billion years ago, multicellularity evolved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82EF062460",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "This includes your fungi and your plants and your animals.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2288062C46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "The first animals to develop a backbone were fishes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34799F5F5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "So technically, all vertebrates are fishes, so technically, you and I are fish.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7D0182C4BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 60,
+        "endOffset": 69,
+        "text": "you and I",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3994102132",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "So don't say I didn't warn you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "719514A6A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "One fish lineage came onto land and gave rise to, among other things, the mammals and reptiles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8E1C24FF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 58,
+        "endOffset": 131,
+        "text": "some primates become monkeys with tails, and others become the great apes",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FC195ABFD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 3,
+        "endOffset": 10,
+        "text": "you see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0240E1D009",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 80,
+        "endOffset": 96,
+        "text": "fish, fish, fish",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BD4A8BCB81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "If you couldn't tell",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4F829E3AC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "697D154353",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Most species just last for a few million years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5A678B896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "So you see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "433128ACD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 3,
+        "endOffset": 34,
+        "text": "it's hubris, it's self-centered",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8A1C1CFE75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Think of life as being this book, an unfinished book",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "58387507C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Think of life as being this book, an unfinished book for sure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "444DE6E7A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We're just seeing the last few pages of each chapter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3310BA331",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "If you look out on the eight million species that we share this planet with",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E157A33B7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "If you look out on the eight million species that we share this planet with, think of them all being four billion years of evolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD9A08CDE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "They're all the product of that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76D4263443",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Think of us all as young leaves on this ancient and gigantic tree of life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2A221F3312",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 61,
+        "endOffset": 73,
+        "text": "tree of life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "39E613419C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 98,
+        "endOffset": 116,
+        "text": "invisible branches",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B234E3A6EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 75,
+        "endOffset": 200,
+        "text": "all of us connected by invisible branches not just to each other, but to our extinct relatives and our evolutionary ancestors",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0FA2A75A17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "Think of us all as young leaves on this ancient and gigantic tree of life, all of us connected by invisible branches not just to each other, but to our extinct relatives and our evolutionary ancestors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C351F9065",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "As a biologist, I'm still trying to learn, with others, how everyone's related to each other, who is related to whom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A5DB02F7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 29,
+        "endOffset": 70,
+        "text": "think of us as a little fish out of water",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "16FDB5287E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Perhaps it's better still to think of us as a little fish out of water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E71C1F058",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "Yes, one that learned to walk and talk, but one that still has a lot of learning to do about who we are and where we came from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92544390A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6868F43200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3936387CF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "They were passed down from different ancestors to all their descendants, not just us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7247813D37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But that's not really how we learn biology early on, is it?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AA20AE7A23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "We learn plants and bacteria are primitive things, and fish give rise to amphibians followed by reptiles and mammals, and then you get you, this perfectly evolved creature at the end of the line.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "35F2E3D28A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "But life doesn't evolve in a line, and it doesn't end with us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "51A5A7BF67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "But we're always shown evolution portrayed something like this, a monkey and a chimpanzee, some extinct humans, all on a forward and steady march to becoming us.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2A75E6B715",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "But they don't become us any more than we would become them.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DC89453474",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We're also not the goal of evolution.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7AACBD4AAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "But why does it matter?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "58C0D15FC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Why do we need to understand evolution the right way?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "73C6DBB59A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Well, misunderstanding evolution has led to many problems, but you can't ask that age-old question, \"Where are we from?\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DDD25E7C47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "without understanding evolution the right way.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "071971AA1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "Misunderstanding it has led to many convoluted and corrupted views of how we should treat other life on earth, and how we should treat each other in terms of race and gender.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1B86BF496E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So let's go back four billion years.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4299FA2C59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "This is the single-celled organism we all came from.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CF41056993",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 207,
+        "text": "At first, it gave rise to other single-celled life, but these are still evolving to this day, and some would say the Archaea and Bacteria that make up most of this group is the most successful on the planet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8FCFC93751",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

@@ -1,0 +1,3755 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10439,
+  "title": "Why does the universe exist?",
+  "author": "Jim Holt",
+  "url": "https://www.ted.com/talks/jim_holt_why_does_the_universe_exist",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:24:15.288700Z",
+  "updated_at": "2026-05-07T07:24:15.288700Z",
+  "lead_time": 132.618,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Why does the universe exist?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "08B1122182",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Why is there — Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA2BB57D0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3E75965FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "(Laughter) This is a cosmic mystery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A403500DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Be solemn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93948B36F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "why is there a world, why are we in it, and why is there something rather than nothing at all?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "483033F8E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I mean, this is the super ultimate \"why\" question?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "25AB4F759F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "So I'm going to talk about the mystery of existence, the puzzle of existence, where we are now in addressing it, and why you should care, and I hope you do care.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B6B3FDD62C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 117,
+        "endOffset": 136,
+        "text": "why you should care",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "68323E6542",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 160,
+        "endOffset": 178,
+        "text": "mentally deficient",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5B8E36F497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "That's a little harsh, but still.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "10624A4314",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "(Laughter) So this has been called the most sublime and awesome mystery, the deepest and most far-reaching question man can pose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6714FB4122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's obsessed great thinkers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D25338CD11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "Ludwig Wittgenstein, perhaps the greatest philosopher of the 20th century, was astonished that there should be a world at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCB4455C63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 48,
+        "endOffset": 135,
+        "text": "It is not how things are in the world that is the mystical, it's that the world exists.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B20247A4AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 63,
+        "endOffset": 78,
+        "text": "try a scientist",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9F9D15C08D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 232,
+        "text": "the teacher of Richard Feynman, the coiner of the term \"black hole\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3F8181DF66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 152,
+        "endOffset": 175,
+        "text": "I want to know how come",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FF3AB34C76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 167,
+        "endOffset": 231,
+        "text": "how come the quantum, how come the universe, how come existence?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D1C395EED0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 28,
+        "endOffset": 107,
+        "text": "sorry that I'll be doing a lot of name-dropping in this talk, so get used to it",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A5D33E6B73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And I've no doubt there are five Einsteins in the audience tonight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBD801D5A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Any Einsteins?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3926DB71DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Show of hands?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1AFA786680",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F0298E719",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "868BB88D31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50034D8F8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "No Einsteins?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B8DC6D0D28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1B80A3F27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 62,
+        "endOffset": 83,
+        "text": "this sublime question",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D3E222172B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "So this question, why is there something rather than nothing, this sublime question, was posed rather late in intellectual history.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E53F9850F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 290,
+        "text": "It was towards the end of the 17th century, the philosopher Leibniz who asked it, a very smart guy, Leibniz, who invented the calculus independently of Isaac Newton, at about the same time, but for Leibniz, who asked why is there something rather than nothing, this was not a great mystery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF23BE16D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "He either was or pretended to be an Orthodox Christian in his metaphysical outlook, and he said it's obvious why the world exists: because God created it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E35386C56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And God created, indeed, out of nothing at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51ADF31132",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "That's how powerful God is.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "619806031C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 45,
+        "endOffset": 67,
+        "text": "fashion a world out of",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC3BD0E8E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "He doesn't need any preexisting materials to fashion a world out of.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72384BD786",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 41,
+        "endOffset": 59,
+        "text": "creation ex nihilo",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C71C03190F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "He can make it out of sheer nothingness, creation ex nihilo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C25FB7CDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And by the way, this is what most Americans today believe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "213536F457",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "There is no mystery of existence for them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB37BA7C31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "God made it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A41A072CF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So let's put this in an equation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6988CCE18C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 60,
+        "endOffset": 81,
+        "text": "use your imaginations",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "19010948A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "So I don't have any slides so I'm going to mime my visuals, so use your imaginations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB8C33F7A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "So it's God + nothing = the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEAD117F65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA3E8D884F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Now that's the equation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D509701729",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 13,
+        "endOffset": 37,
+        "text": "you don't believe in God",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E879C3F5FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And so maybe you don't believe in God.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B3F59AD17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Maybe you're a scientific atheist or an unscientific atheist, and you don't believe in God, and you're not happy with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E2BE23000",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "By the way, even if we have this equation, God + nothing = the world, there's already a problem: Why does God exist?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "891DD90FC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "God doesn't exist by logic alone unless you believe the ontological argument, and I hope you don't, because it's not a good argument.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5EF247B67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "So it's conceivable, if God were to exist, he might wonder, I'm eternal, I'm all-powerful, but where did I come from?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8BB38DBF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 11,
+        "endOffset": 28,
+        "text": "Whence then am I?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBBF7D993E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "God speaks in a more formal English.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "32C63192FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 37,
+        "endOffset": 152,
+        "text": "God was so bored with pondering the puzzle of His own existence that He created the world just to distract himself.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8703C9A219",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "But anyway, let's forget about God.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78EC0CB8B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Take God out of the equation: We have ________ + nothing = the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44C47E1AAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Now, if you're a Buddhist, you might want to stop right there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9265B2B792",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 63,
+        "endOffset": 183,
+        "text": "because essentially what you've got is nothing = the world, and by symmetry of identity, that means the world = nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E88A433CD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D91D0C3134",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And to a Buddhist, the world is just a whole lot of nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21310FB817",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's just a big cosmic vacuity.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "699BB41F1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And we think there's a lot of something out there but that's because we're enslaved by our desires.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7516AAD509",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 75,
+        "endOffset": 97,
+        "text": "a vacuity, nothingness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "67F84016FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 173,
+        "endOffset": 217,
+        "text": "having just enough life to enjoy being dead.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "33FA5562B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 11,
+        "endOffset": 43,
+        "text": "So that's the Buddhist thinking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3C4E16F90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "But I'm a Westerner, and I'm still concerned with the puzzle of existence, so I've got ________ + — this is going to get serious in a minute, so — ________ + nothing = the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C84A4689B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "What are we going to put in that blank?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7613CC6B91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Well, how about science?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F04D31A84C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Science is our best guide to the nature of reality, and the most fundamental science is physics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EB0F98417",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 82,
+        "endOffset": 125,
+        "text": "True And Ultimate Furniture Of The Universe",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E70DB4D06A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 284,
+        "text": "So maybe physics can fill this blank, and indeed, since about the late 1960s or around 1970, physicists have purported to give a purely scientific explanation of how a universe like ours could have popped into existence out of sheer nothingness, a quantum fluctuation out of the void.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4604D927B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 346,
+        "text": "Stephen Hawking is one of these physicists, more recently Alex Vilenkin, and the whole thing has been popularized by another very fine physicist and friend of mine, Lawrence Krauss, who wrote a book called \"A Universe from Nothing,\" and Lawrence thinks that he's given — he's a militant atheist, by the way, so he's gotten God out of the picture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "007E1F2D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 144,
+        "endOffset": 173,
+        "text": "little nugget of false vacuum",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "72369C3AB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 221,
+        "endOffset": 241,
+        "text": "miracle of inflation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "597E4A58A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Okay, this is a really ingenious scenario.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B46DA9BC92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's very speculative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C11B08648A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It's fascinating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D55FD96EA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 61,
+        "endOffset": 99,
+        "text": "It's a pseudo-religious point of view.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "75EDF023AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Now, Lawrence thinks he's an atheist, but he's still in thrall to a religious worldview.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3B4C7947C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "laws of quantum field theory are like divine commands",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "280F16E97F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 50,
+        "endOffset": 81,
+        "text": "fiat lux, \"Let there be light.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "50D7ACF700",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 77,
+        "endOffset": 113,
+        "text": "abyss, that it's pregnant with being",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "797DAAD707",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "They can call a world into existence out of nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EEED827D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 60,
+        "endOffset": 66,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1FE3EFDBFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 52,
+        "endOffset": 64,
+        "text": "descriptions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B0063FB530",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "We know that physical laws are actually generalized descriptions of patterns and regularities in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "698997C9B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "They don't exist outside the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F2B628ECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "They don't have any ontic cloud of their own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79960E02BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "They can't call a world into existence out of nothingness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4697B3B2D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "That's a very primitive view of what a scientific law is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E555C6B85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 4,
+        "endOffset": 35,
+        "text": "if you don't believe me on this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "881CFFA109",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 251,
+        "text": "And if you don't believe me on this, listen to Stephen Hawking, who himself put forward a model of the cosmos that was self-contained, didn't require any outside cause, any creator, and after proposing this, Hawking admitted that he was still puzzled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D262B96821",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "He said, this model is just equations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "589698CF67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 5,
+        "endOffset": 37,
+        "text": "breathes fire into the equations",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "17B724B1A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "What breathes fire into the equations and creates a world for them to describe?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D345ADFE44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "He was puzzled by this, so equations themselves can't do the magic, can't resolve the puzzle of existence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "204754C7DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 45,
+        "endOffset": 66,
+        "text": "why this set of laws?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "262BAECDAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And besides, even if the laws could do that, why this set of laws?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C1E52291D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "Why quantum field theory that describes a universe with a certain number of forces and particles and so forth?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEF1DA39E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Why not a completely different set of laws?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7A14E88CEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Why not a completely different set of laws?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DB464C341",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "There are many, many mathematically consistent sets of laws.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "266AC75F17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Why not no laws at all?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "34C11C740A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Why not no laws at all?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA4BC97BA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Why not sheer nothingness?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9FA274BB0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Why not sheer nothingness?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9673D4D6C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 128,
+        "endOffset": 140,
+        "text": "metaphysical",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3B9DB33EDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 409,
+        "endOffset": 418,
+        "text": "out there",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9096EC1971",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 264,
+        "endOffset": 284,
+        "text": "inconceivably exotic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B4381CC81E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 84,
+        "endOffset": 106,
+        "text": "flirted with this idea",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BB4886A4AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 177,
+        "endOffset": 199,
+        "text": "vastly rich multiverse",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "40DCEBB127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "Now, in taking this metaphysical way out, these physicists and also philosophers are actually reaching back to a very old idea that goes back to Plato.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BB73CB4DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 9,
+        "endOffset": 44,
+        "text": "principle of plenitude or fecundity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "85EB55B66F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 5,
+        "endOffset": 60,
+        "text": "as far removed from nothingness as it could possibly be",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B792946E76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "So we have these two extremes now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E991586B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 29,
+        "endOffset": 137,
+        "text": "one side, and we have this vision of a reality that encompasses every conceivable world at the other extreme",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B486C6E546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 143,
+        "endOffset": 167,
+        "text": "fullest possible reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ADBE6D258C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Now what's in between these two extremes?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "759D1E0B47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "There are all kinds of intermediate realities that include some things and leave out others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B365C514EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 52,
+        "endOffset": 87,
+        "text": "most mathematically elegant reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DB5B6D3A96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 109,
+        "endOffset": 145,
+        "text": "inelegant bits, the ugly asymmetries",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "173D2CB7BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Now, there are some physicists who will tell you that we're actually living in the most elegant reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB5B745A17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "I think that Brian Greene is in the audience, and he has written a book called 'The Elegant Universe.'",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D324505011",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 57,
+        "endOffset": 69,
+        "text": "very elegant",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "28D6875A19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Don't believe him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "761B9BF0A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 11,
+        "endOffset": 28,
+        "text": "It's a pious hope",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "372D880812",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 11,
+        "endOffset": 124,
+        "text": "It's a pious hope, I wish it were true, but I think the other day he admitted to me it's really an ugly universe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66A7DE2560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's stupidly constructed",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "508DAE24B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 36,
+        "endOffset": 142,
+        "text": "way too many arbitrary coupling constants and mass ratios and superfluous families of elementary particles",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "19E956CFAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 144,
+        "endOffset": 177,
+        "text": "and what the hell is dark energy?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "93983CF898",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "It's a stick and bubble gum contraption.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA15E48CCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's not an elegant universe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50DF71AAB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "(Laughter) And then there's the best of all possible worlds in an ethical sense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66E58769AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "You should get solemn now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "20793C6ED7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 35,
+        "endOffset": 161,
+        "text": "a world in which sentient beings don't suffer needlessly, in which there aren't things like childhood cancer or the Holocaust.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B741504B70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "This is an ethical conception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BEF4B0B5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Anyway, so between nothingness and the fullest possible reality, various special realities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75DA8B0027",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Nothingness is special.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E392DE9FEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's the simplest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E43585963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Then there's the most elegant possible reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0B9288C59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "That's special.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E70C6071BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The fullest possible reality, that's special.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1376BEEFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "But what are we leaving out here?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FDF0A72C57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "There's also just the crummy, generic realities that aren't special in any way, that are sort of random.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "413BAB0CF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 8,
+        "endOffset": 43,
+        "text": "infinitely removed from nothingness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A910B8ADFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 59,
+        "endOffset": 96,
+        "text": "infinitely short of complete fullness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "71423DE68C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 10,
+        "endOffset": 36,
+        "text": "mixture of chaos and order",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA44D6CCF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 41,
+        "endOffset": 75,
+        "text": "mathematical elegance and ugliness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E3C8B474C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 42,
+        "endOffset": 77,
+        "text": "infinite, mediocre, incomplete mess",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6430A2540F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 108,
+        "endOffset": 124,
+        "text": "cosmic junk shot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5822B1C3EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And these realities, is there a deity in any of these realities?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "534397ECBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Maybe, but the deity isn't perfect like the Judeo-Christian deity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80A1321377",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "The deity isn't all-good and all-powerful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "53D4A25689",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 20,
+        "endOffset": 72,
+        "text": "100 percent malevolent but only 80 percent effective",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5FF11088F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 74,
+        "endOffset": 128,
+        "text": "which pretty much describes the world we see around us",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "675AB975E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 11,
+        "endOffset": 152,
+        "text": "So I would like to propose that the resolution to the mystery of existence is that the reality we exist in is one of these generic realities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D281A1A087",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Reality has to turn out some way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D878B68F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It can either turn out to be nothing or everything or something in between.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9542B3E47A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "So if it has some special feature, like being really elegant or really full or really simple, like nothingness, that would require an explanation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F064A32B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "But if it's just one of these random, generic realities, there's no further explanation for it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E82FA2CC4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And indeed, I would say that's the reality we live in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F86114543",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "That's what science is telling us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B35113D3A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 161,
+        "endOffset": 228,
+        "text": "it's like a big frothing champagne coming out of a bottle endlessly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CDAB7663AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 230,
+        "endOffset": 314,
+        "text": "a vast universe, mostly a wasteland with little pockets of charm and order and peace",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAD358E65E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 514,
+        "text": "At the beginning of the week, we got the exciting information that the theory of inflation, which predicts a big, infinite, messy, arbitrary, pointless reality, it's like a big frothing champagne coming out of a bottle endlessly, a vast universe, mostly a wasteland with little pockets of charm and order and peace, this has been confirmed, this inflationary scenario, by the observations made by radio telescopes in Antarctica that looked at the signature of the gravitational waves from just before the Big Bang.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00A0B10E2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 9,
+        "endOffset": 21,
+        "text": "you all know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDCB3EBA67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I'm sure you all know about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5023EDDB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "So anyway, I think there's some evidence that this really is the reality that we're stuck with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "657AC80CD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 16,
+        "endOffset": 24,
+        "text": "you care",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5A62D1B694",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now, why should you care?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50226B481F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Well — (Laughter) — the question, \"Why does the world exist?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67D60E36B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 28,
+        "endOffset": 45,
+        "text": "it sort of rhymes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5AAE59C83D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "that's the cosmic question, it sort of rhymes with a more intimate question: Why do I exist?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE72F9713A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 7,
+        "endOffset": 16,
+        "text": "you exist",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0D638A7519",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 365,
+        "text": "Why do you exist? you know, our existence would seem to be amazingly improbable, because there's an enormous number of genetically possible humans, if you can compute it by looking at the number of the genes and the number of alleles and so forth, and a back-of-the-envelope calculation will tell you there are about 10 to the 10,000th possible humans, genetically.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A4135CF6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "That's between a googol and a googolplex.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1911AA6598",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 129,
+        "endOffset": 166,
+        "text": "we've won this amazing cosmic lottery",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84FA14E61F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "And the number of the actual humans that have existed is 100 billion, maybe 50 billion, an infinitesimal fraction, so all of us, we've won this amazing cosmic lottery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A23D3041D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "We're here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DD1C80347",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "700AEFE34B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So what kind of reality do we want to live in?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD2EA44EAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Do we want to live in a special reality?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "867298C1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "What if we were living in the most elegant possible reality?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "893EFE822F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 12,
+        "endOffset": 32,
+        "text": "existential pressure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "50CBE4D312",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Imagine the existential pressure on us to live up to that, to be elegant, not to pull down the tone of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9443CFF2A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 34,
+        "endOffset": 58,
+        "text": "fullest possible reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C14CA73493",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Or, what if",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A67D9023A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Well then our existence would be guaranteed, because every possible thing exists in that reality, but our choices would be meaningless.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2B6DC7838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 33,
+        "endOffset": 53,
+        "text": "agonize and I decide",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1C1E98E926",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 77,
+        "endOffset": 105,
+        "text": "what difference does it make",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C173B618AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So my choices are meaningless.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19BB6DD712",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So we don't want to live in that special reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "775FA8A68E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And as for the special reality of nothingness, we wouldn't be having this conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE596234E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "So I think living in a generic reality that's mediocre, there are nasty bits and nice bits and we could make the nice bits bigger and the nasty bits smaller and that gives us a kind of purpose in life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E79A1B525",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 4,
+        "endOffset": 22,
+        "text": "universe is absurd",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "827D64E727",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 53,
+        "endOffset": 95,
+        "text": "purpose, and that's a pretty good one, and",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1C0650FF9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 212,
+        "text": "mediocrity...resonates nicely with the mediocrity we all feel in the core of our being.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5B4AA6C6A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And I know you feel it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7762A36146",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I know you're all special, but",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0936C435F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 52,
+        "endOffset": 69,
+        "text": "secretly mediocre",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "78CD294D6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 71,
+        "endOffset": 87,
+        "text": "don't you think?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F7A35EADED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 22,
+        "endOffset": 119,
+        "text": "So anyway, you may say, this puzzle, the mystery of existence, it's just silly mystery-mongering.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C412C8C4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "You're not astonished",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3BBC5CC118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 55,
+        "endOffset": 82,
+        "text": "and you're in good company.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F774BEB15D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Bertrand Russell said, \"I should say the universe is just there, and that's all.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62DDE4464B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Just a brute fact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F817B7BA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "And my professor at Columbia, Sidney Morgenbesser, a great philosophical wag, when I said to him, \"Professor Morgenbesser, why is there something rather than nothing?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CB324C023",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 45,
+        "endOffset": 48,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3DDB411C66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And he said, \"Oh, even if there was nothing, you still wouldn't be satisfied.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46686FAB78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So — (Laughter) — okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F70D23EB2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 3,
+        "endOffset": 6,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5CF6C5980B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So you're not astonished.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B822CB00AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "I don't care.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57659DBB3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 68,
+        "endOffset": 80,
+        "text": "astonish you",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EF7F71F36E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 95,
+        "endOffset": 105,
+        "text": "astonished",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "16FA7C77F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 255,
+        "text": "But I will tell you something to conclude that I guarantee you will astonish you, because it's astonished all of the brilliant, wonderful people I've met at this TED conference, when I've told them, and it's this: Never in my life have I had a cell phone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05D67A9E88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA27A981FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Laughter) (Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "944F0764E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

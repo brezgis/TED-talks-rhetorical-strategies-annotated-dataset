@@ -1,0 +1,2871 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 8268,
+  "title": "3 ways to lead tough, unavoidable conversations",
+  "author": "Adar Cohen",
+  "url": "https://www.ted.com/talks/adar_cohen_3_ways_to_lead_tough_unavoidable_conversations",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:15:17.445176Z",
+  "updated_at": "2026-05-07T12:15:17.445176Z",
+  "lead_time": 151.276,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 9,
+        "endOffset": 22,
+        "text": "concrete maze",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "76644D220A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "I'm in a concrete maze the size of 72 football fields.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "265B2CA31D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "I'm being led from checkpoint to checkpoint, and before each door opens, the door behind me slams shut.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A406851A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "The lock echoes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "48C1DEB786",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "The lock echoes while I'm searched and interviewed again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "884CBD3AB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "It's a maximum security jail, the largest in the country: the Cook County Jail, in Chicago, Illinois.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5035C1E0B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 28,
+        "endOffset": 39,
+        "text": "I say again",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "512FD12B3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "\"I'm here for the meeting,\" I say again, repeat my credentials.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7918881E7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's my first time visiting a jail, and everyone can tell.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D441D8A291",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "they take my phone, they take my keys, and they take my little bag of almonds.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2DD8CA9DED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "They take my phone, they take my keys, and they take my little bag of almonds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90C7BE2D61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Almonds!",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2D4C1E4583",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Finally, I'm left in a room with two men who stare at me as I enter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E7E5AE9F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 82,
+        "endOffset": 100,
+        "text": "size of four of me",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5496966E10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "One is a gang leader, the other is a corrections officer, and each of them is the size of four of me, which basically means I'm outnumbered eight to one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E757D5A7B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 45,
+        "endOffset": 75,
+        "text": "flashes of anger in their eyes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C97B39A6D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 110,
+        "endOffset": 145,
+        "text": "They were worried about my almonds?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "66174DA91A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "Their arms are strapped across their chests, flashes of anger in their eyes - I'm terrified and I'm thinking, They were worried about my almonds?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB99893E50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A04DE06528",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It's just the three of us now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39D21EA479",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "No one moves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "716C7FD3C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Now, who's had the very same experience?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA93A7212D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 23,
+        "endOffset": 98,
+        "text": "you're a C-level executive or a spouse or you're a part of any kind of team",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "48B627007C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 23,
+        "endOffset": 26,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "605F4EC4DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 11,
+        "endOffset": 179,
+        "text": "But whether you're a C-level executive or a spouse or you're a part of any kind of team, you probably know this to be true: that one conversation can change everything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CB5D196CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 10,
+        "endOffset": 13,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "64CC5D90A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "So I want you to think of a tough conversation that people around you need to have.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A553B42EFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "You got it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E890AA2982",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "You got it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1086303B04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "There's some issue that's holding them back from accomplishing what they want to accomplish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8D92AA3C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "I believe they might be one conversation away from accomplishing that thing but they're not having the conversation they need to have, or they've tried and it hasn't gone well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B1CFC3798",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "I've led some pretty tough conversations in some pretty tough environments: Northern Ireland, the Middle East, corporate boardrooms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0D7DFEFB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "I actually have a PhD in leading difficult conversations, and here's what I've learned: We're not having the conversations we need to have.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4E098F356",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And that's mostly because we're afraid; we don't want to make things worse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBA5C64821",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "But not having these conversations or having them poorly is really bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BAB5B75BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And most of us know this from our work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "024D30B153",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Some issue arises for a team - it could be a minor issue, but it goes unaddressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1F38FB832",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Frustration sets in, communication constricts, tensions rise, trust evaporates, and collaboration is done.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D579ABE23D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Remember, we're talking about teams that perform surgeries, land planes, run schools.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8952C007A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Many of us are a part of teams that perform crucial functions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6856E5FFE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "We can't afford to avoid tough conversations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CEC9B49F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 26,
+        "endOffset": 40,
+        "text": "you thought of",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5863F572C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 26,
+        "endOffset": 29,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2F74B2F317",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "So that conversation that you thought of that people around you need to have, you can lead that conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CB20331E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 22,
+        "endOffset": 25,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C468F5EB74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And I'm going to give you three simple rules to being vastly more effective in leading it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F30A22777",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Wherever you use these rules - at work, at home - people are going to thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1215C1E5AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 234,
+        "text": "And then, they'll start reaching goals they couldn't reach before, and they will come find you and thank you again, and you'll benefit because the people around you will be more successful, not miserable, which makes your life better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FCDC79537",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So, the three rules.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C6D183AEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Rule number one: move toward the conflict.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5980F1FECE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Most of us don't like conflict, but it's normal, healthy and totally human.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "129E918010",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 18,
+        "endOffset": 42,
+        "text": "problems hide everywhere",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "761D632254",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Without conflict, problems hide everywhere - big problems, problems we all want to solve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CD22CCC8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 47,
+        "endOffset": 70,
+        "text": "conflict is opportunity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F6931E6027",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "So, conflict is information, and handled well, conflict is opportunity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A79FE6FF73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "So rather than running from it or pretending it's not there, move toward it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AFCCDF1A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "More on this in a minute.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA7A327D91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "But rule number two: you don't know anything, and even if you do, pretend you don't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AA218D19B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Ask questions about people's experiences and listen to what they say.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB9F9A9B21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "Important things will be said because you are listening, and the better you listen, the better the people having the conversation will listen to each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AB89750FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And finally, rule three: keep quiet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C063CCF81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Don't panic in the few seconds it takes for people to respond; they just need time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE7518FFF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "If you're jumpy about pauses",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EE1B2EB90A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Some of the best breakthroughs I've seen",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2CC77E7409",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Don't rush in to rescue everyone from that awkward moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDFD709896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's your job to show them that moment is OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E36E95EBB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Now, let me tell you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2C9D050679",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We left off in the Cook County Jail, with an inmate population that has at times swelled to above 10,000.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9249C54EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's not an easy place to be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96E23B4898",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "But getting released and not winding up back inside is also difficult.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76626CA768",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Inmates are released into gang territory, often with no way to get home - if they have a home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6972F1EDAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "And the barriers to finding housing, employment and education are such that it's no wonder so many returned to the jail again and again, back through the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0745E16BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 213,
+        "text": "So my team convened every stakeholder we could - former gang members, business leaders, corrections officers in the jail, social workers, the sheriff's office, clergy - to see if they could start working together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84CB237F5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "City officials warned me not to bring all of these groups together, but I felt no chance of success without having this tough conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE644F7ECB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Well, the first meeting came, and whatever I tried, nothing worked.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B1C39D2AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "The groups wouldn't sit next to each other, wouldn't even look at each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7410BFE0BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Tell me what this is like for you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DDA8AFF020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And his face changes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC10B0CDE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "He looks like a different person.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1D261C717B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And he says, \"People think that I feel normal about this, keeping people in cages all day.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9650A4DBCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "There's nothing normal about my job.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "46CEB52699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 223,
+        "text": "and I ditch my agenda, and I ask the same question again, and I kept my eyes off the business leaders, and I avoided eye contact with the city officials, and I stared down my big buddy until he went for it.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "32B5B9FDC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 96,
+        "endOffset": 155,
+        "text": "and it's a huge opening, and now others are ready to share.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "97AE3366D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 223,
+        "text": "And because I don't know anything, I keep asking questions, and one by one, they all have their chance to describe everything about their day-to-day, minute-to-minute work, which means everyone is getting heard by everyone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B401ED1814",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "My naive questions make it possible for them to hear one another because they're not addressing each other head on; they're answering my questions, but they're all hearing it.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "14AC0A84CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Rule number three: keep quiet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A8776C01F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Especially when they start talking, it's tempting to direct the conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86C826988F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "I didn't interfere, and they opened up collaboration that was unprecedented in Chicago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D001C23AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 276,
+        "text": "The guards and the previously incarcerated, business leaders and faith leaders, all bringing their expertise together, joining forces so that inmates would have a mentor waiting for them and a job lined up before their release from jail - all as a result of that conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AF0943939",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "I'll give you one more.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A7523FFED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 35,
+        "endOffset": 100,
+        "text": "bombs could rip through restaurants, bars and shops at any moment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C30CD4B7CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Violence was everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEBC5F86E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Shootings, abductions - people lived in fear.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE8348175A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "This period is known as \"the Troubles.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FE7AC787C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "I led some tough conversations in Belfast, the epicenter of the fighting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B91DB8A6A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 74,
+        "endOffset": 108,
+        "text": "pointing a rifle right down at you",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6E763970AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 105,
+        "endOffset": 108,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D228A89454",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "My job was to help Protestants and Catholics, Loyalists and Republicans have some very difficult conversations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D63EE19DF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "We moved toward the conflict, rule number one, by recruiting men who had committed acts of political violence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D29DC74F9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "During armed conflict, fighters become heroes, and afterward, they remain influential, so we did everything we could to include them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "138266132E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 24,
+        "endOffset": 56,
+        "text": "easier not to recruit combatants",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "CB981C0DB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 14,
+        "endOffset": 38,
+        "text": "move toward the conflict",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "79EABAC8C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 17,
+        "endOffset": 20,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B73D35A7BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 11,
+        "endOffset": 48,
+        "text": "Pretend you don't. pretend you don't.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ABC80D1170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "No advice from me, no commentary, no ideas - those are all short cuts, and the point here is to take the long way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27C64A56BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "The more I asked, the more they shared.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F90D3D4DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The more they shared, the more they listened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61E1AF2F43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 58,
+        "endOffset": 95,
+        "text": "silence as a part of their experience",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "358F26B43B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 4,
+        "endOffset": 47,
+        "text": "the more they listened, the more they began",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E2C205B24D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 36,
+        "endOffset": 58,
+        "text": "keep quiet - show them",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BAC99ACE64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 64,
+        "endOffset": 77,
+        "text": "silence is OK",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8FC30C0163",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And what will happen then is that the group will start to hear new voices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFA8FE3463",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And often it's one of these voices that can bring about a breakthrough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D68A2F01F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And so, in one of these meetings, we suddenly heard from a man who hadn't spoken.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3010B80AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "He shared his experience as a newcomer to Belfast, standing on a bus, exhausted after work, and suddenly being surrounded by a group of men.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56D88FE9C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "They came in really close, whispered horrible threats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3693F4D77E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "They trapped him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0568BC6338",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "And he explained how his heart pounded and he just gripped the railing of the bus and waited until it stopped and he could dash out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CACC076BF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "He had feared for his life that day, he told the group, and he had hoped that immigrating to Northern Ireland from Somalia would have been the end of having to fear for his life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E94793B195",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "The room fell totally quiet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEF85B7488",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Everyone heard him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68A7DF5863",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Protestants, Catholics - suddenly it didn't matter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "557B5ED298",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "\"That's unacceptable,\" the first said.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96F1C87B96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "\"That's not Belfast,\" said the second.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5AAB1F75D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 34,
+        "endOffset": 62,
+        "text": "hid their faces in ski masks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9C604DDA53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "I think of the men in Belfast who hid their faces in ski masks to bring great violence into each other's lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B0EFF13CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Today they know each other's faces and first names; they were enemies and they're neighbors now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD413A0123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "I think of the CEOs and health care leaders and technology innovators I've seen transform their teams and reach their goals, all starting with one conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67426D9104",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "I think of the lives saved, the jobs created, the dreams achieved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EC39F11AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 3,
+        "endOffset": 28,
+        "text": "back to your conversation",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FCBD652BA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So back to your conversation, the one that people around you really need to have, the one that you can lead.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5E5E2DAFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 19,
+        "endOffset": 32,
+        "text": "concrete maze",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B051FE85A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 33,
+        "endOffset": 63,
+        "text": "the size of 72 football fields",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "19C8ED9598",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "It can feel like a concrete maze the size of 72 football fields, but there's almost always a way through, and you'll find the way through by moving toward the conflict, asking questions and keeping quiet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60E32FEF08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Conversations create the future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E70B9D2528",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Whether or not we have them and how we have them is up to us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C932CE4BF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27D06D3689",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00D20511F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "The gang leader and the corrections officer I told you about, they were the first to arrive that day.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9F946B71F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "This was the toughest conversation I've ever led.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "641014CEA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "We take a break, and I'm desperate.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7A7B27695F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I approach that corrections officer, who hasn't said a single word all morning, and I just go for it.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C796DB7D48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "I charge up to him, and I say, \"Hey, buddy, what do I gotta do to get you to pipe down in there?\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D3BFBFA587",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "(Laughter) And he looks at me like - (Laughter) And I think I looked at him kind of like - (Laughter) Remember rule number one: move toward the conflict.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F4A471923C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Miraculously, he doesn't squish me.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FC9D1371E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "(Laughter) He actually laughs and says, \"Nah, I'm not much for talking.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "63458BD2B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "But because I had moved toward the conflict and called out the obvious, I had a small opening with him, and the disastrous meeting was about to start again, and I needed something.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1FF805D1D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "I needed him.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "089CDD4364",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Rule number two: you don't know anything, and even if you do, pretend you don't.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6A084A253D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "So I asked him, \"What do people get wrong about what you do?\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E492D994FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "which is another way of asking, How are you misunderstood?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3DB34AAA12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "I don't know.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A1338C57AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Tell me.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "366AC785C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "\"Not how we want it to be,\" says the third.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "751E8A0113",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 320,
+        "text": "Now, these are men who have taken lives, who have devastated many families, in some cases their own, and now they start finishing each other's sentences about tolerance, inclusion and respect, and this builds and builds in the room until finally, I can't resist the irony, and so I announce, \"Well, mission accomplished.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E0C11CD217",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Let's go to Disneyland!\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C7AFF203BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And they all turn and stare at me and start laughing, all of them.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2AD4291A23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "They laughed hard for minutes, and what that laughter gave way to was a deeper discussion than they'd ever had before.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F4BE35EDB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "They talked about what kind of future they all hoped for, for their kids and their grandkids.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4C21D6D9DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Now, here's the thing.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EB43AB20EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "Our man on the bus who experienced that terrifying moment, he might not have spoken if I had avoided the conflict, held forth with my own ideas and rushed to fill every silence.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EC43A93A62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I moved toward the conflict.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "81314DAD89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "I didn't presume to know, which meant I kept asking questions.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B4F433BF8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And for the most part, I kept quiet.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3D1A1D496B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "These rules helped him to speak, and these rules helped the group to hear him, and in the end, his story was just what they needed to hear to move forward together.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "53B3854462",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "One conversation can change everything.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "748A8BF2B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "I think of the corrections officer who said there's nothing normal about my job, and the opening that created for the group.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "21AE3C1444",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "I think of the moment when he and the gang leader, at the end of that meeting, embraced one another and how powerful they became as partners.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D2164E2694",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

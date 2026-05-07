@@ -1,0 +1,2021 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7219,
+  "title": "I'll probably lose my job to AI. Here's why that's OK",
+  "author": "Megan J. McArdle",
+  "url": "https://www.ted.com/talks/megan_j_mcardle_i_ll_probably_lose_my_job_to_ai_here_s_why_that_s_ok",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T11:24:01.765139Z",
+  "updated_at": "2026-05-07T11:24:01.765139Z",
+  "lead_time": 71.98,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Well, I gather I'm not the only one who spends a lot of time thinking about AI these days.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "883352BDC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And by think I mean panic.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "97DCA541B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "I'm not even worried about the doomsday scenarios because I have no way to assess those.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1DEBB5AE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "I just think about what's going to happen to jobs, because even if we solve the AI safety problem, it's still going to displace a lot of workers, maybe including me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59663692BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "Twenty years ago, I decided to take my very expensive MBA and use it to become a journalist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2083B166F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "That decision did not have what we MBAs like to call a \"positive expected cash flow.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "8FF1E5E96B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "(Laughter) When I was interviewing for a job at \"The Economist,\" one of the interviewers actually just asked me, \"Why are you doing this?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4059BACC16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "I told him, \"I only have so much time on this planet, and I want to spend it doing something that matters.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F81323B898",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And also, by the way, something I really, really, really love to do.\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "52D5C380D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "I got lucky and it worked out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B53F8668C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Today I'm a columnist at the \"Washington Post.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD53A4F78B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But every day, AI seems to get better and better at writing competent prose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB6ADAECBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And I don't know what I'm supposed to do if typing words in a row stops being a semi profitable occupation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F64DB97D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Now I'm a libertarian columnist, which means I believe in progress and creative destruction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD44D37A0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "But here’s something I also believe: The Luddites had a point.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF1059E819",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 11,
+        "endOffset": 71,
+        "text": "Look, you don't normally hear libertarians praising Luddites",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0A8D402DD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 11,
+        "endOffset": 91,
+        "text": "Look, you don't normally hear libertarians praising Luddites, so let me explain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91D8DB6D66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Today, Luddite is a broad-spectrum term for technophobes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75EA034633",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 25,
+        "endOffset": 133,
+        "text": "your mom using a landline instead of a cell phone or sending you Hallmark cards with little words underlined",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "40C4F3A8B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "But the Luddites weren't your mom using a landline instead of a cell phone or sending you Hallmark cards with little words underlined.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E989DB116D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 86,
+        "endOffset": 115,
+        "text": "lovingly handcrafted textiles",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "07D84225FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "They were skilled artisans who made handcrafted textiles in an era when everyone wore lovingly handcrafted textiles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AD3532462",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 77,
+        "endOffset": 100,
+        "text": "cutting-edge technology",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C630444D01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "Then mechanized mill owners started underpricing them using some of the most cutting-edge technology of their day, like, spinning jennies that could spin thread at record speeds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "909BE46BE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So they decided to destroy the machines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C024FF3140",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Honestly, I have some sympathy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "890ED14080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 9,
+        "endOffset": 19,
+        "text": "every time",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D54C7849A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "In fact, every time one of these companies issues a new model, I get more sympathetic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48C9D880D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 39,
+        "endOffset": 70,
+        "text": "glories of freedom and progress",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6702B74DCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "We libertarians like to talk about the glories of freedom and progress, and they are glorious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F7F5F5F79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "But they are not free.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0284769835",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Sometimes people get hurt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A246CF3D2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Often lots of people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB50749739",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 51,
+        "endOffset": 86,
+        "text": "witch burnings and wars of religion",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9EB0E1C06C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "The printing press democratized knowledge and also witch burnings and wars of religion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6068BC49C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 71,
+        "endOffset": 143,
+        "text": "grim factory jobs, squalid urban living conditions and choking pollution",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E0BB128B32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "The Industrial Revolution raised living standards and offset them with grim factory jobs, squalid urban living conditions and choking pollution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63BE04AD8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Now modern governments can allay many of those costs, but they can't give people back the life they had.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6462BD055C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And we have an obligation to count those costs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B0AFDD138",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "I mean, if only because no one was ever persuaded by being told \"Your fears are stupid.\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F0369441F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 235,
+        "text": "So here's why, even after a full accounting, I think we should be willing to bear those costs and let the future unfold, because we're all the beneficiaries of previous decisions to prioritize future growth over protecting the present.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F03236941",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "Very few people in this room have ever worried about how they were going to obtain food or shelter or heat, or how they were going to bury a child who died of diarrhea before its first birthday.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "54F308D6B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Those worries are the normal condition of humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02EB80B497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We escaped them only through massive chronological luck.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "156B10DCD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "That is a precious and totally unearned inheritance, and I think we have an obligation to pay that forward and leave an even bigger legacy for our descendants.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A10595F994",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "To do otherwise, it's a kind of theft.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "082459D763",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It's stealing from the future.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EDCE9647DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Picture what it would have looked like if the Luddites actually had managed to halt progress in its tracks.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A81C1D3597",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "Effectively, they'd have been reaching forward in time and taking almost everything we have in order to enrich themselves.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6DDE86CDCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Now, obviously, that's not how they understood what they were doing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5AD1E7345",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "But it would have been true just the same.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAD86BEF06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So picture that, really picture it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4709B4B43A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "A spinner sells a few spools of thread and suddenly you don't have a car.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4613BA4895",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 36,
+        "endOffset": 42,
+        "text": "whoops",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FC382D8964",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 53,
+        "endOffset": 119,
+        "text": "your refrigerator, your central heating and your college education",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D67513D03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "A whole suit of clothes and thousands of kids just died of preventable disease.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE38F5F266",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 79,
+        "endOffset": 103,
+        "text": "you have to ask yourself",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "60D4174BC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 105,
+        "endOffset": 154,
+        "text": "how much am I willing to steal from my grandkids?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AFBA4CAD2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I mean, from everyone's grandkids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22F7E3A810",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Now, I know some people in the audience are probably thinking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8D1D788B8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "We already have it really good, we've got airplanes and mRNA vaccines and HBO.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "730A8366D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But of course, a Luddite would have thought the same thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB6CBBD1CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 68,
+        "endOffset": 123,
+        "text": "literally leading a healthier and more comfortable life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "33E5998E9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Others might be asking, quite reasonably, but what about global warming and endangered species?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9711A749B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 8,
+        "endOffset": 42,
+        "text": "is progress really all that great?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9D5C7B207F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 69,
+        "endOffset": 103,
+        "text": "reimagine it without the Novocaine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BDB886B8E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 6,
+        "endOffset": 59,
+        "text": "I'd ask you to remember your last trip to the dentist",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "78505C4850",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Now I know the obvious retort.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9081EC514",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "\"That's a libertarian canard.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "52548934E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "You can want modern medicine without wanting us to have burned all that coal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "890693FA25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "But my retort is that that doesn't work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "183F069051",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "744FEBCC2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "The same Industrial Revolution that led to global warming has also made us so rich that we could afford to divert millions of workers from agriculture and weaving into science and medicine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B25976CC4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "It's also, as we've been hearing all week, giving us the tools to fight ecological disaster.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7307D3849",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But we couldn't have predicted any of that from the outset.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A88B09BDF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "We kind of had to live the change in order to understand what it meant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CEB0C636D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Now, actually, it's worse than that, because it's often quite easy to picture the near-term downsides.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1BCC99B0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I mean, just read any article about AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "506A5CC334",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 116,
+        "endOffset": 131,
+        "text": "weirder it gets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DD3592329E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "But the long-term upside is much harder to grasp because progress is cumulative, and the longer it accumulates, the weirder it gets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F22683C8A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So a final thought experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D675A38528",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Imagine trying to explain your life right now to a Luddite.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9818A8FDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 60,
+        "endOffset": 96,
+        "text": "ordinary British working-class stiff",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C93680D7AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "Better yet, just imagine trying to explain the life of some ordinary British working-class stiff whose great, great, great, something, great grandfather was out there smashing machines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B9C26B1D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And I'm not just talking about the ordinary stuff about daily living standards like indoor plumbing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA1578D9E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 27,
+        "endOffset": 44,
+        "text": "extremely awesome",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2745CF7AAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I mean, indoor plumbing is extremely awesome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC98E5F5FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "But imagine trying to explain mass post-secondary education or the BBC.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B295FDEA6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Nursing homes or bachelorette weekends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DC17CAD92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "I mean, for that matter, weekends and standardized time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D1425F68F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "How about suburbs and pizza delivery?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2376E32D50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 191,
+        "endOffset": 201,
+        "text": "magic shot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6728AABFB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 120,
+        "endOffset": 159,
+        "text": "\"What is a scientist,\" asks the Luddite",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B6A69DD4C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 45,
+        "endOffset": 55,
+        "text": "fairy tale",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "693FB4FEA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 17,
+        "endOffset": 26,
+        "text": "fairyland",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B9B7F723CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 52,
+        "endOffset": 63,
+        "text": "magic wands",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CBA1340646",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 10,
+        "endOffset": 57,
+        "text": "I see a few of you waving them around right now",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "85BD2A01C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And I'm sure he'd have asked, \"But how could a spinning jenny lead to all that?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "368BE1E732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And it wasn't just a spinning jenny.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BA92B7499",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It was an unprecedented wave of innovation after innovation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EAE432454",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "Many of those innovations put people out of good jobs, but collectively, they also made it possible for us to be in this room together or listening on the internet, rather than huddled by a smoky fire knitting stockings to sell.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A977299F71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 161,
+        "endOffset": 180,
+        "text": "mobile love buggies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "71AA52063D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C81F1FDED8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "But we're the ones who profited the most.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F41D4C9143",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So to return to where we started.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DD41E79F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Yes, I am scared of AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93E2A83829",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "I assume that the government is going to try to do something for displaced workers, maybe provide them job retraining.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D93462A810",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 13,
+        "endOffset": 21,
+        "text": "Luddites",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "593FE0303D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "But like the Luddites, I'm a human being working in a proud tradition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D90DD0315",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I don't want a government handout.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3961169EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "I want the career that I have spent more than 20 years building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1AF59E4FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 256,
+        "text": "And still, when I'm lying awake at night and wishing and maybe trying to figure out some way that I could stop this thing, or at least slow it down a little, I remind myself, I try to remind myself of all the reasons I shouldn't want that, even if I could.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7B3C4916B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 26,
+        "endOffset": 42,
+        "text": "steal the future",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6F2E5BD7E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "I don't have any right to steal the future from our descendants, because I'm already living in someone else's future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "087B9DFEC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 10,
+        "endOffset": 19,
+        "text": "literally",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "ECB12C1FD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And it is literally better than they could have imagined.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBC63D601E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF677FCBD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBC0C7DBAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

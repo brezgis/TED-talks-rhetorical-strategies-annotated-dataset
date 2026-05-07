@@ -1,0 +1,5217 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7391,
+  "title": "The Long Now",
+  "author": "Stewart Brand",
+  "url": "https://www.ted.com/talks/stewart_brand_the_long_now",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:45:50.308819Z",
+  "updated_at": "2026-05-07T07:45:50.308819Z",
+  "lead_time": 192.597,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Welcome to 10,000 feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCE88D0D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 39,
+        "endOffset": 50,
+        "text": "some of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "76432C9FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Once upon a time, I did a book called \"How Buildings Learn.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A99F00B969",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 30,
+        "endOffset": 49,
+        "text": "How Mountains Teach",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6D9A5B0169",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 219,
+        "text": "A little background: For 10 years I've been trying to figure out how to hack civilization so that we can get long-term thinking to be automatic and common instead of difficult and rare -- or in some cases, non-existent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A449894A64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 12,
+        "endOffset": 31,
+        "text": "helpful if humanity",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C5727AB9E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 54,
+        "endOffset": 212,
+        "text": "thinking of the now not just as next week or next quarter, but you know, next 10,000 years and the last 10,000 years -- basically civilization's story so far.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF814E2C47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "So we have the Long Now Foundation in San Francisco.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB3330AA57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "It's an incubator for about a dozen projects, all having to do with continuity over the long term.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0964459A33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 20,
+        "endOffset": 79,
+        "text": "a rather ambitious folly -- I suppose, a mythic undertaking",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "EB3160740E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 59,
+        "endOffset": 79,
+        "text": "a mythic undertaking",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "293B145341",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 56,
+        "endOffset": 76,
+        "text": "absolutely delicious",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7B4A83C0B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Go to the clock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "283A73616D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 35,
+        "endOffset": 46,
+        "text": "many of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "618E6CC736",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "It's the first working prototype of the clock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE3C301556",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It's about nine feet high.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2760443CA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Designed by Danny Hillis and Alexander Rose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D321BC578",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "It's presently in London, and is ticking away very deliberately at the science museum there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D1A90016D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 48,
+        "endOffset": 167,
+        "text": "how do you house an eventual monumental clock like this so it can really tick, save time beautifully for 100 centuries?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "07EC122C7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Well, this was the first solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC04B75E75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Alexander Rose came up with this idea of a spiraloid tower with continuous sloping ramps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "009A864DF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 64,
+        "endOffset": 101,
+        "text": "what does deep time do to a building?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A6F13D2A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Well, this is what deep time does to a building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E65CB1756",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "This is the Parthenon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A714529DAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It's only 2,450 years old, and look what happened to it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F126F9B2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Here's a beautiful project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2C9F2EE5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "They really knew it'd last forever, because they'd build it out of absolutely huge stones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42CDECC84F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And now it's a pathetic ruin and no one even knows what it was used for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60444F8F5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "That's what happens to buildings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5D299BDAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "They're vulnerable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA551E9774",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Even the most durable and intactable buildings, like the pyramids of Giza, are in bad shape when you look up close.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23F94C678C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "They've been looted inside and out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EFC4A261C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 12,
+        "endOffset": 35,
+        "text": "built to protect things",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "83DFBD4142",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And they're built to protect things but they don't protect things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0452F9297",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 23,
+        "endOffset": 67,
+        "text": "if you can't put things safely in a building",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4CBC9460C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So we got to thinking, if you can't put things safely in a building, where can you safely put them?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00B12A3305",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We thought, OK, underground.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8E3A8979F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "How about underground with a view?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D01DF0A6A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Underground in a place that's really solid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB8CE48D88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So the obvious answer was, we need a mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F61D2C967",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "You don't want just any mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6313403AD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "You need absolutely the right mountain if you're going to have a clock for 10,000 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "382BEF272B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 10,
+        "endOffset": 35,
+        "text": "an image of the long view",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A58E8C923E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And we got to thinking for various reasons it ought to be a desert mountain, so we got looking in the dry areas of the Southwest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0492A2C8BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "We looked at mesas in New Mexico.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9981540629",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We were looking at dead volcanoes in Arizona.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCFD0A9CA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Then Roger Kennedy, who was the director of the National Parks Service, led us to Eastern Nevada, to America's newest and oldest national park, which is called Great Basin National Park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BD863E696",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "It's right on the eastern border of Nevada.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EB13A76BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "It's the highest range in the state -- over 13,000 feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E69750358",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 23,
+        "endOffset": 60,
+        "text": "on the left, on the left, on the west",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "77261FF378",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "And you'll notice that on the left, on the left, on the west, it's very steep, and on the right it's gentle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EACEFEE0AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "This place is remote.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94095BF015",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "It's over 200 miles from any major city.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00E52B2FB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's nowhere near any Interstate or railroad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BE0EFBE4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And it's -- the only thing that goes by is what's called America's loneliest highway, U.S. 50.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F84CD6664",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Now, inside the yellow line here, on the right is -- that's all national park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45B23CB170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Inside the green line is national forest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1D1941D08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And then over to the left is Bureau of Land Management land and some private land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EDE0DFC08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "Now, as it happened, that two-mile-long strip right in the middle, this vertical, was available because it was private land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51F8265218",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "And thanks to Jay Walker who was here and Mitch Kapor who was here, who started the process, Long Now was able to get that two-mile-long strip of land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30CE40070A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And now let's look at the grand truth of what's there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "722571DBAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "We're in Pole Canyon, looking west up the western escarpment of Mount Washington, which is 11,600 feet on top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75D5131B48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Those white cliffs are a dense Cambrian limestone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C182BE8093",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "That's a 2,000-foot thick formation, and it might be a beautiful place to hide a clock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36034EC199",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "It would be a pilgrimage to get to it; it would be a serious hike to get up to where the clock is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7B67AB0D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 154,
+        "endOffset": 217,
+        "text": "if it's the right mountain, and two, if it's the right mountain",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0C967F7EDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 253,
+        "text": "So last June, the Long Now board, some staff and some donors and advisors, made a two-week expedition to the mountain to explore it and investigate, one, if it's the right mountain, and two, if it's the right mountain, how it might actually work for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "730F23BD2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Now Danny Hillis sort of framed the problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EA57B2EA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "He has a theory of how the overall clock experience should work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A255CD6E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 23,
+        "endOffset": 57,
+        "text": "seven stages of a mythic adventure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F423EE9075",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "It's what he calls the seven stages of a mythic adventure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C28D36C2A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It starts with the image.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4D06CAB12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 15,
+        "endOffset": 44,
+        "text": "picture you have in your mind",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0C014AF2C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "The image is a picture you have in your mind of the goal at the end of the journey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "015712DD2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "In this case it might well be an image of the clock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A95359574",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Then there's the point of embarkation, that is, the point of transition from ordinary life to being a pilgrim on a quest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "105DC971BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 18,
+        "endOffset": 34,
+        "text": "nice image of it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "88BA531E7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Then -- this is a nice image of it, there's the labyrinth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B83CF9D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 40,
+        "endOffset": 53,
+        "text": "twilight zone",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5DA5D9BB97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 229,
+        "text": "The labyrinth is a concept, it's like a twilight zone, it's a place where it's difficult, where you get disoriented, maybe you get scared -- but you have to go through it if you're going to get to some kind of deep reintegration.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C5C53E8F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 61,
+        "endOffset": 82,
+        "text": "beacon that draws you",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "098305B79F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "Then there should always be in sight the draw -- a kind of a beacon that draws you on through the labyrinth to finish the process of getting there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA83ACE0B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "Now Brian Eno, who's been in the thick of the Long Now process, spent two years making a C.D. called \"January 7003,\" and it's \"Bell Studies for the Clock of the Long Now.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26932133BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "Based on -- parts of it are based on an algorithm that Danny Hillis developed, so that a peal of 10 bells makes a different peal every day for 10,000 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE7C29AD19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "The Hillis algorithm. 10 factorial gives you that number.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E029C7CE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And in fact, pretty soon we'll hear the sound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7883A03C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "January 7003.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AED5284F72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "There it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1E5893CBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "OK, back to Danny's list.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E84A51C12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Number five of the seven is the payoff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF739B497E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "This is it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDCA86C026",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "The climax.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "655E071770",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "The goal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6442E40602",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "the main thing that you're trying to get to",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "118E0099E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And then Danny says a really great journey will have a secret payoff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7CDD3D1B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Something you didn't expect that caps what you did expect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "740890DC6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Then there's the return.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "215B2D0AB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "You've got to have a gradual return to the ordinary world, so you have time to assimilate what you've learned.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E9B56CE6B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And then, how about a memento?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "25BF1013C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Number seven.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F598B9026F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "At the end of it there's something physical, a kind of reward that you take away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EFE7F0832",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 14,
+        "endOffset": 51,
+        "text": "piece of a core drill of the mountain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "48DE7351DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Something that's just yours",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "94C8B64FA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "How do you study a mountain",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5547027ECE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "This is not a normal building project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8195BB10CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "What do you look for?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "210B722412",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "What are the elements that will most affect your ideas and decisions?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3D78F42819",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Start with borders.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F960FA12F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "If you look on the left side of the cliffs here",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "68450875E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "That's sacrosanct -- you can't do anything with that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52E2C8DD93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "To the right of it is national forest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1302B332C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "There's possibilities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B08B3CC0AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "The borders are important.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5F475DCAC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Other elements were mines, weather, approaches and elevation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24D6D953CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And especially trees.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "326FEA81AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Look at those things up on top there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B65FAB91AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "It turns out that Mount Washington is covered with bristlecone pines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "068DE75E7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "They're the world's oldest living thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DAFECBBDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "People think they're just the size of shrubs, but that's not actually true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F6ADD3794",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "There are trees on that mountain that are 5,000 years old and still living.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CF6185738",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "The wood is so solid it's like stone",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6DCF1F3E75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 38,
+        "endOffset": 67,
+        "text": "and it lasts for a long time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "128E760EF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "So when you do tree ring studies of trunks that are on the mountain, some of them go back 10,000 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C656A002E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "The stone itself is absolutely beautiful, sculpted by millennia of very tough winters up there.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC14670BC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "We had tree ring analysts from the University of Arizona join us on the expedition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5238953B45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Now, if you guys have a pine cone handy, now's a good time to put it in your hand and feel it, especially on the end.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E6B6EB24BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "That's interesting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C83DCD95A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "You'll find out why it's called a bristlecone pine.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5BF3F95974",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "A little sensory experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA6403A930",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Here's Danny Hillis in the midst of a bristlecone pine forest on Long Now land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8514ACD091",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "I should say that the age of bristlecones was discovered, led by a theory.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE01A47F99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "Edmund Schulman in the 1950s had been studying trees under great stress at Timberline, and came to the realization that he put in an article in Science magazine called, \"Longevity under Adversity in Conifers.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BB032479F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "And then, based on that principle, he started looking around at the various trees at Timberline, and realized that the bristlecone pines -- he found some in the White Mountains that were over 4,000 years old.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2258DE4F1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Longevity under adversity is a pretty interesting design principle in its own right.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "16D4AABFA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "OK, onto the mines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BB6A48AC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "The first asking price for the property when we looked at it in 1998 was one billion dollars for 180 acres and a couple of mines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30C2AC0DD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Because the owner said, \"There's one billion dollars of beryllium in that mountain.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57D990140D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And we said, \"Wow, that's great.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E56D4B810",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Listen, we'll counter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E19D1503C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "How about zero?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4F1D16B7A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 11,
+        "endOffset": 110,
+        "text": "And we're a non-profit foundation, you can give us the property and take a hell of a tax deduction.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "23CF0129CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 11,
+        "endOffset": 86,
+        "text": "All you have to do is prove to the government it's worth a billion dollars.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C6551EDB49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "Well, a few years went by and there was some kind of back and forth, and by and by, thanks to Mitch and Jay, we were able to buy the whole property for 140,000 dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB66365776",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "This is one of the mines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDE0D1956F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It doesn't have any beryllium in it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8ABEF3C0C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It's called the Pole Adit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66921B40D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And it does have tungsten, a little bit of tungsten, left over, that's the kind of mine it was.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84B721D492",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 12,
+        "endOffset": 48,
+        "text": "a mile-and-a-half in a straight line",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "79C4FA04C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 123,
+        "endOffset": 166,
+        "text": "as you'll see when we go inside in a minute",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4ED4BDA4F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And shale is not quite completely competent rock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FF80A6D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Competent rock is rock that will hold itself up without any shoring.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CF6403132",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "The shale would like some shoring",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A2989481E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "That's Ben Roberts from -- he's the bat specialist from the National Park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE21ADAFFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 52,
+        "endOffset": 64,
+        "text": "weird fungus",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "183C4A2499",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "OK, here's another mine that's up on top of the property, and it dates back to 1870.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88BA1DD8E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "That's what the property was originally built around -- it was a set of mining claims.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BBD5A1C46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "It was a very productive silver mine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F137C37D3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "In fact, it was the highest-operating mine in Nevada, and it ran year round.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C9E19D2CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You can imagine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A7E817F7C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "You may recognize",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CBCBA8476E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "There's Jeff Bezos on the right and Paul Saville on the left looking for galena, which is the lead-silver thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9EB183F9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "They didn't find any.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E141957869",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They both kept their day jobs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "887306C6F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Here's the last mine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E7F00B6E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's called the Bonanza Adit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4221BBC53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's down in a canyon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08657FA501",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And Alexander Rose on the left there worked with a bunch of people from the National Park to survey the whole mine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "809090EEBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It's a mile deep.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E166CE633",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And they also found four species of bats in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE8E9B205F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Now, almost all those mines, by the way, meet underneath the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E12890BA54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "They don't quite, but it's something to think about.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93E6F36B71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "They don't quite meet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9FE4F23D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Let's go to weather.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19DF3C6CDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Mountains specialize in interesting weather.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4247D3413A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Way more interesting than Monterey even today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B4D296C69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And so one Tuesday morning last June, there we were.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA31243860",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Woke up in the morning -- the mountain was covered with snow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA28903C2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "That was a great time to go up and visit our weather station which again, thanks to Mitch Kapor, we're building up there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E14A47C44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And it's a pretty interesting scene.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D51DDC5AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "This is, on the left there, the joyful lady is Pat Irwin, who's the regional head of the National Forest Service, and they gave us the temporary use permit to be there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB0FE79D2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "We want a temporary use permit for the clock, eventually -- 10,000-year temporary use permit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D8672D2C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4150B2DF2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Kurt Bollacker and Alexander Rose designed a radically wireless station.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "707DFD830C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 284,
+        "text": "It runs on solar, and it sends a signal with that antenna and bounces it off of micrometeorite trails in the atmosphere to a place in Bozeman, Montana, where the data is taken down and then sent through landlines to San Francisco, where we put the data in real time up on our website.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7474FAB067",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And there you see a week of weather at 9,400 feet on Mount Washington.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD614892F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Let's go to approaches.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "333EB11CBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "As it happens, there are no trails anywhere on Mount Washington, just a few old mining roads like this, so you have to bushwhack everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E08F6C6407",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "But there's no bears, and there's no poison oak, and there's basically no people because this place has been empty for a long time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A9B55F86F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "You can hike for days and not encounter anybody.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "562D8934D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Well, here's a potential approach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03CB316D25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "You need to come up the Lincoln Canyon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FA0C59841",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "It's this beautiful world all of its own",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6903859A83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 40,
+        "endOffset": 184,
+        "text": ", surrounded by cliffs, and it's an easy hike to stroll up the canyon bottom, until you get to this barrier, and it actually presents a problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEEECC69A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So you can scratch Lincoln Canyon as an approach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "254591B5CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Another possible approach is right up the western front of the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBF8E3090E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "You can see why we sometimes call it Long Mountain.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "64F4BD897A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "And from where you're standing at 6,000 feet in the valley, it's an easy hike up to the mature pinyon and juniper forest through that knoll at the front at 7,600 feet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "208DAEC06B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "And you can carry right on up through meadows and steepening forest to the high base of the cliffs at 10,500 feet, where there's a bit of a problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA1E98EA43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Now, Jeff Bezos advised us when he left at the end of the expedition, \"Make the clock inaccessible.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAA9BCDA19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "The harder it is to get to, the more people will value it.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "77E29F3565",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And check -- those are 600-foot vertical walls there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85A3C725C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "So Alexander Rose wanted to explore this route, and he started over here on the left from his pickup truck at 8,900 feet and headed up the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C451B168B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "Now, as you gain elevation your IQ goes down -- (Laughter) but your emotional affect goes up, which is great for having a mythic experience, whether you want to or not.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "47A8D50456",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "In fact, Danny Hillis can estimate altitude by how much math he can't do in his head.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB155360D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "(Laughter) Now, I happened to be on the radio with Alexander when he got to this point at the base of the cliffs, and he said, quote, \"There's a hidden notch. I think I can get up a ways.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AEA4CC6A39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Now, he's a rock climber, but you know, he's our executive director.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A57179429D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "I don't want him killed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9618690DB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I know he's going to love cliffs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3558229F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 13,
+        "endOffset": 47,
+        "text": "be careful, be careful, be careful",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D630548F57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Then he starts going up, and the next thing I hear is, \"I'm half-way up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C22AC59659",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It's like climbing stairs.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A9D2E4F28C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I'm going up 60 degrees.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFB23B9F1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "It's a secret passage.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF4E382BC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It's like something from Tolkien.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D916EBAF06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 16,
+        "endOffset": 32,
+        "text": "Careful, careful",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7CD7DDD7DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Please be careful.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A8AB2313AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And then, of course, the next thing I hear is, \"I've made it to the top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "179908C903",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "You can see all of creation from up here.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1A43913FAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And he dashed across the top of the mountains.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57E4369B2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "In fact, there he is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80F14257D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "That's Alexander Rose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22FEC1EEE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "First ascent of the western face to Mount Washington, and a solo ascent at that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4479204B9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "This discovery changed everything about our sense of these cliffs and what to do with them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "269E9F11C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "We realized that we had to name this thing that Alexander discovered.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E72CA80B47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "How about Zander's Crevice?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "222C915D7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F862838BB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3777E0E8CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 76,
+        "endOffset": 97,
+        "text": "wonderful slot canyon",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2697A4A34F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 31,
+        "endOffset": 61,
+        "text": "some of you have been to Petra",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8717C91273",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And it really is hidden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "477C330F6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 35,
+        "endOffset": 55,
+        "text": "I'm not sure you can",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2AE820B85F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Only when you get fresh snow can you see just along the rim there, and that brings it out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F33E49208",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 325,
+        "text": "Now, Danny and I were up at this same area one day, and Danny looked over to the right and noticed something halfway up the cliffs, which is a kind of a porch or a cliff shelf with bristlecones on it, and supposed that people going up to the clock inside the mountain could come out onto that shelf and look down at the view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EAAABCE71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 61,
+        "endOffset": 79,
+        "text": "tiny little people",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D06B6625AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "How did they get there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "923DCEA42F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Do I have to do that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A0B55EA81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 59,
+        "endOffset": 68,
+        "text": "labyrinth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "054704F8F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "You can get",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C84D8D5685",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 139,
+        "endOffset": 152,
+        "text": "pulse of heat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EFCB655FC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "And you need to know that Danny's clock is to be kept accurate by a ray of sunshine, that perfect noon hitting it every sunny day, and the pulse of heat from that sets off a solar trigger which resets the clock to make it perfectly accurate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9189BBF0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So even with the slowing of the rotation of the earth and so on, the clock will keep perfectly good time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1570C0070D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 38,
+        "endOffset": 48,
+        "text": "look north",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0E20C79510",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This is all Forest Service land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D641925F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "228",
+        "end": "228",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "If you go up on top of those cliffs",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "13DCEBE63C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "229",
+        "end": "229",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And if you go up there and look back, then you'll get a sense of what the view starts to be like from the top of the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6C6A11429",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "That's the long view.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1D6D0F0FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "231",
+        "end": "231",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "That's 80 miles to the horizon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "315459843D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "232",
+        "end": "232",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And that's also timberline and those bristlecones really are shrubs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B01679788",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "233",
+        "end": "233",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "That's a different place to be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC094AF151",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "234",
+        "end": "234",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It's 11,400 feet and it's exquisite.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7657431863",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "235",
+        "end": "235",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Now, if you go over to the right from this image",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2634DA882F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "236",
+        "end": "236",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "He's ambling on over to Zander's Siq.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4B55B60A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "237",
+        "end": "237",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "That's what it looks like looking down it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5C762C378",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "238",
+        "end": "238",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "We should probably put in a rail or something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA29D414B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "239",
+        "end": "239",
+        "startOffset": 38,
+        "endOffset": 52,
+        "text": "as you can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "26EAD8EF43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "240",
+        "end": "240",
+        "startOffset": 4,
+        "endOffset": 65,
+        "text": "that's not snow -- that's what the white limestone looks like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CC3ABC3834",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "241",
+        "end": "241",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "You also see there a bighorn sheep.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8363376DD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "242",
+        "end": "242",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Their herd was reintroduced from Wyoming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDE2EE8A9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "243",
+        "end": "243",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And they're doing pretty well, but they've got a bit of trouble.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4EECEBADD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "244",
+        "end": "244",
+        "startOffset": 0,
+        "endOffset": 254,
+        "text": "This is Danny Hillis, and he's figuring out a design problem. he's trying to determine if where he is on a bit of Long Now land would appear from down in the valley to be the actual peak of the mountain. because the real peak is hidden around the corner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7CD4154B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "245",
+        "end": "245",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "This is what in the infantry we used to call the military crest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "068A2A96DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "246",
+        "end": "246",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "And as it turned out the answer is, yes, that is from down below in the valley it does look like the peak, and that might be conjured with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8005BDE140",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "247",
+        "end": "247",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "We gradually realized we have three serious design domains to work on with this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A5A049957",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "248",
+        "end": "248",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "One is the experience of the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2335E411F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "249",
+        "end": "249",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Another is the experience in the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA9B0C51FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "250",
+        "end": "250",
+        "startOffset": 139,
+        "endOffset": 221,
+        "text": "if you look off to the right, out there, 15 miles across to the Schell Creek range",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A142CBD0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "251",
+        "end": "251",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "In the front, there are 10 ranches strung right along the base of the mountains using the water from the mountains.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7542948AD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "252",
+        "end": "252",
+        "startOffset": 40,
+        "endOffset": 72,
+        "text": "water springs right into the air",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "444F17D9A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "253",
+        "end": "253",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "One of the ranches is called the Kirkeby Ranch, and I'll take you there for a minute.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D86A339730",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "254",
+        "end": "254",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "It's a very nice ranch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F30BE80B93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "255",
+        "end": "255",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Alfalfa and cattle, run by Paul and Ronnie Brenham, and it's pretty idyllic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A376A9335",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "256",
+        "end": "256",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "It's also hard work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF08DE40CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "257",
+        "end": "257",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And most of these ranches are having trouble keeping going.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B4C278E44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "258",
+        "end": "258",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "This is their view to the west of the Schell Creek range.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF56B30C7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "259",
+        "end": "259",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And if you go out to that line of trees at the far end, you'll see what the valley used to look like.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9947721BCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "260",
+        "end": "260",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "This is Rocky Mountain junipers that have been there for thousands of years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A4D2E262F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "261",
+        "end": "261",
+        "startOffset": 0,
+        "endOffset": 490,
+        "text": "And a scheme emerged that Long Now is looking to see if it might be possible to buy up the whole valley, because those 10 ranches with their 17,000 acres dominate a 500 square mile valley with their grazing allotments and so on, and there's a possibility that you could get the whole thing for five million dollars and gradually restore it to its wild condition, and somewhere in the process turn it back over to the National Park, and it would double the size of Great Basin National Park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50D258027E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "262",
+        "end": "262",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "That would be swell.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5CF608887",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "263",
+        "end": "263",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "OK, let's take one more look at the mountain itself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "138F64A17E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "264",
+        "end": "264",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "The clock experience should be profound, but from the outside it should be invisible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A47EE7927",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "265",
+        "end": "265",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Now, at the base of the high cliffs there's this natural cave.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "547A21BBD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "266",
+        "end": "266",
+        "startOffset": 34,
+        "endOffset": 71,
+        "text": "What if it were deepened from inside?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E73D34BAB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "267",
+        "end": "267",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "You excavated from somewhere, came up from inside and deepened it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBF4CFB61E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "268",
+        "end": "268",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "And then you could have an entrance which was very rough and narrow as you first went in, that gradually becomes more refined and then actually quite exquisite.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2D8FAC45F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "269",
+        "end": "269",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And this stone takes a perfect polish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28D7AA4502",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "270",
+        "end": "270",
+        "startOffset": 13,
+        "endOffset": 50,
+        "text": "polished set of passages and chambers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A503972CC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "270",
+        "end": "270",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "You'd have a polished set of passages and chambers in there eventually leading to the 10,000 year clock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "600A3CA2E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "271",
+        "end": "271",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And it's not a mine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEA71C3D26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "272",
+        "end": "272",
+        "startOffset": 74,
+        "endOffset": 106,
+        "text": "and you would be appreciating it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9FF203147C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "272",
+        "end": "272",
+        "startOffset": 16,
+        "endOffset": 33,
+        "text": "nuanced evocation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "56A73CC189",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "272",
+        "end": "272",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "This would be a nuanced evocation of the basic structure of the mountain, and you would be appreciating it as much from inside as you do from outside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5A397AEE21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "273",
+        "end": "273",
+        "startOffset": 8,
+        "endOffset": 83,
+        "text": "architecture not made by building, but by what you very carefully take away",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4A8712AC87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "273",
+        "end": "273",
+        "startOffset": 50,
+        "endOffset": 83,
+        "text": "what you very carefully take away",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DDC535576D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "273",
+        "end": "273",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "This is architecture not made by building, but by what you very carefully take away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E06E8585E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "274",
+        "end": "274",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "So that's what the mountain taught us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D6635B06F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "275",
+        "end": "275",
+        "startOffset": 12,
+        "endOffset": 87,
+        "text": "amazingness of the clock we can borrow from the amazingness of the mountain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A364D9B386",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "275",
+        "end": "275",
+        "startOffset": 12,
+        "endOffset": 87,
+        "text": "amazingness of the clock we can borrow from the amazingness of the mountain",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C9CFD4F58C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "275",
+        "end": "275",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "Most of the amazingness of the clock we can borrow from the amazingness of the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5062E32E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "276",
+        "end": "276",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "All we have to do is highlight its spectacular features and blend in with them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD2F3B7B5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "277",
+        "end": "277",
+        "startOffset": 41,
+        "endOffset": 55,
+        "text": "mountain clock",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F8F8DB3A17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "277",
+        "end": "277",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It's not a clock in a mountain -- it's a mountain clock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6947734413",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "278",
+        "end": "278",
+        "startOffset": 57,
+        "endOffset": 76,
+        "text": "what you need to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AC58C84A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "278",
+        "end": "278",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Now, the Tewa Indians in the Southwest have a saying for what you need to do when you want to think long term about anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A9E3914AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "279",
+        "end": "279",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "They say, \"pin peya obe\" -- welcome to the mountain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D7AFDB3D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "280",
+        "end": "280",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B68D7D58ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "281",
+        "end": "281",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D05C94D99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

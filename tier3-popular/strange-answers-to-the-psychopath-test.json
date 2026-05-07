@@ -1,0 +1,4418 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10378,
+  "title": "Strange answers to the psychopath test",
+  "author": "Jon Ronson",
+  "url": "https://www.ted.com/talks/jon_ronson_strange_answers_to_the_psychopath_test",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:25:22.966887Z",
+  "updated_at": "2026-05-07T12:25:22.966887Z",
+  "lead_time": 168.751,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 109,
+        "endOffset": 135,
+        "text": "manual of mental disorders",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B52BCAF49F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "The story starts: I was at a friend's house, and she had on her shelf a copy of the DSM manual, which is the manual of mental disorders.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0719A574F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "It lists every known mental disorder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3036A2538",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And it used to be, back in the '50s, a very slim pamphlet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8B127E101",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 16,
+        "endOffset": 44,
+        "text": "bigger and bigger and bigger",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A600BFD1D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And then it got bigger and bigger and bigger, and now it's 886 pages long.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7D96A2B7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And it lists currently 374 mental disorders.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D1B26FAD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So I was leafing through it, wondering if I had any mental disorders, and it turns out I've got 12.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34E0C5DAC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "(Laughter) I've got generalized anxiety disorder, which is a given.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06F293A72A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 152,
+        "endOffset": 205,
+        "text": "chasing me down the street going, \"You're a failure!\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E1A47021A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 62,
+        "endOffset": 95,
+        "text": "recurrent dreams of being pursued",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EDDAA3F024",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 205,
+        "text": "I've got nightmare disorder, which is categorized if you have recurrent dreams of being pursued or declared a failure, and all my dreams involve people chasing me down the street going, \"You're a failure!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F08D99855",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "(Laughter) I've got parent-child relational problems, which I blame my parents for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "119BE1FEE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 11,
+        "endOffset": 23,
+        "text": "I'm kidding.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "214F6353F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "I'm not kidding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F4F79C746",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I'm kidding.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "17387910CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And I've got malingering.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C1B4D8D44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "And I think it's actually quite rare to have both malingering and generalized anxiety disorder, because malingering tends to make me feel very anxious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DAA661BCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 41,
+        "endOffset": 93,
+        "text": "wondering if I was much crazier than I thought I was",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EB0B4B9CC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 95,
+        "endOffset": 205,
+        "text": "or maybe it's not a good idea to diagnose yourself with a mental disorder if you're not a trained professional",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "172755130F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 207,
+        "endOffset": 341,
+        "text": "or maybe the psychiatry profession has a kind of strange desire to label what's essentially normal human behavior as a mental disorder",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7AB2E0D693",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 342,
+        "text": "Anyway, I was looking through this book, wondering if I was much crazier than I thought I was, or maybe it's not a good idea to diagnose yourself with a mental disorder if you're not a trained professional, or maybe the psychiatry profession has a kind of strange desire to label what's essentially normal human behavior as a mental disorder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "080A08AAA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 218,
+        "text": "I didn't know which of these was true, but I thought it was kind of interesting, and I thought maybe I should meet a critic of psychiatry to get their view, which is how I ended up having lunch with the Scientologists.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3395C8B88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA43222CA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "They're called the CCHR.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A82FA3A299",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 20,
+        "endOffset": 98,
+        "text": "Can you prove to me that psychiatry is a pseudo-science that can't be trusted?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1C29939B9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And he said, \"Yes, we can prove it to you.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF259EBB0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And I said, \"How?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD334B8530",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And he said, \"We're going to introduce you to Tony.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD3FC792D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And I said, \"Who's Tony?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AB61C02AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And he said, \"Tony's in Broadmoor.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C1298DCA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Now, Broadmoor is Broadmoor Hospital.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B111E04DEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "It used to be known as the Broadmoor Asylum for the Criminally Insane.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2A7D846AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "It's where they send the serial killers, and the people who can't help themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FADFB131FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And I said to Brian, \"Well, what did Tony do?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "313B7E8081",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And he said, \"Hardly anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9845143440",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "He beat someone up or something, and he decided to fake madness to get out of a prison sentence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D4A80B7E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "But he faked it too well, and now he's stuck in Broadmoor and nobody will believe he's sane.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11F0CD8FFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Do you want us to try and get you into Broadmoor to meet Tony?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F9612B9980",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So I said, \"Yes, please.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A917F62CEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So I got the train to Broadmoor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8C8ECD66A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 52,
+        "endOffset": 128,
+        "text": "which apparently is what dogs also do when anxious, they yawn uncontrollably",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7FE74FEA48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And we got to Broadmoor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "857B0A16B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 24,
+        "endOffset": 61,
+        "text": "gate after gate after gate after gate",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A52CFF1414",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 88,
+        "endOffset": 131,
+        "text": "which is where you get to meet the patients",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DA2796E2BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It looks like a giant Hampton Inn.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "21042469EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 9,
+        "endOffset": 42,
+        "text": "peach and pine and calming colors",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "771461D4D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 29,
+        "endOffset": 58,
+        "text": "the reds of the panic buttons",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0342B7D052",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And the patients started drifting in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D0A677881",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And they were quite overweight and wearing sweatpants, and quite docile-looking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E77DFE0031",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 96,
+        "endOffset": 131,
+        "text": "is like the worst evil in the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "08009A40A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 66,
+        "endOffset": 176,
+        "text": "which, to the Scientologists, is like the worst evil in the world, but I'm thinking it's probably a good idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16A5A9FA2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75590E7AA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And a man was walking in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D2C634297",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And he wasn't overweight, he was in very good physical shape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F25D62BAD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And he wasn't wearing sweatpants, he was wearing a pinstripe suit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C19BF9EDBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 32,
+        "endOffset": 66,
+        "text": "like someone out of The Apprentice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "652649BFAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "He looked like a man who wanted to wear an outfit that would convince me that he was very sane.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D119F7D87A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "And he sat down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1743F0CE65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 13,
+        "endOffset": 59,
+        "text": "So is it true that you faked your way in here?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36FB42B21F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And he said, \"Yep.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0102F3CA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Yep.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9EBA06500",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Absolutely.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37C3BF6CFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I beat someone up when I was 17.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ED901B9B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And I was in prison awaiting trial, and my cellmate said to me, 'You know what you have to do?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0850BB4891",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Fake madness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CF2CC6A0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Tell them you're mad, you'll get sent to some cushy hospital.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E50F7289CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Nurses will bring you pizzas, you'll have your own PlayStation.'\" I said, \"Well, how did you do it?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCAE293450",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "He said, \"Well, I asked to see the prison psychiatrist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A44C255AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 82,
+        "endOffset": 106,
+        "text": "crashing cars into walls",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CF2F818C3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And I'd just seen a film called 'Crash,' in which people get sexual pleasure from crashing cars into walls.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6EAF4B7A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 59,
+        "endOffset": 83,
+        "text": "crashing cars into walls",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DCAAC07145",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 3,
+        "endOffset": 9,
+        "text": "I said",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3AFA7F9412",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "So I said to the psychiatrist, 'I get sexual pleasure from crashing cars into walls.'\" And I said, \"What else?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9C6F17183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "He said, \"Oh, yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A67764AFCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 92,
+        "endOffset": 108,
+        "text": "feel more normal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F9ED48626",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "I told the psychiatrist that I wanted to watch women as they died, because it would make me feel more normal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF8AC1B43D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 9,
+        "endOffset": 35,
+        "text": "Where'd you get that from?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B622B31113",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I said, \"Where'd you get that from?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DBF236031",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "He said, \"Oh, from a biography of Ted Bundy that they had at the prison library.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1145901D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Anyway, he faked madness too well, he said.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EB78F2F2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And they didn't send him to some cushy hospital.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2014ED2CB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "They sent him to Broadmoor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2107401668",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 29,
+        "endOffset": 33,
+        "text": "said",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4D4DC7F0B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "And the minute he got there, said he took one look at the place, asked to see the psychiatrist, said, \"There's been a terrible misunderstanding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "573776175B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "I said",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C75614719F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "I said, \"How long have you been here for?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D366020D7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "He said",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FDE21588A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "He said, \"Well, if I'd just done my time in prison for the original crime, I'd have got five years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC300C648E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "I've been in Broadmoor for 12 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51EDE5B69D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Tony said that it's a lot harder to convince people you're sane than it is to convince them you're crazy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "131B5DEAD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "He said, \"I thought the best way to seem normal would be to talk to people normally about normal things like football or what's on TV.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DD4C2A139",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I subscribe to New Scientist, and recently they had an article about how the U.S.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42AC3A82DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Army was training bumblebees to sniff out explosives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5AD23E74F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So I said to a nurse, 'Did you know that the U.S.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E48F163031",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Army is training bumblebees to sniff out explosives?' When I read my medical notes, I saw they'd written: 'Believes bees can sniff out explosives.'\" (Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F4D4F4E11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "But how do you sit in a sane way?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6DF22022A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "How do you cross your legs in a sane way?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "367FDAD58C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "It's just impossible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02B0670B33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "When Tony said that to me, I thought to myself, \"Am I sitting like a journalist?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EEF5F6AF5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Am I crossing my legs like a journalist?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8B0F1A7E10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "He said, \"You know, I've got the Stockwell Strangler on one side of me, and I've got the 'Tiptoe Through the Tulips' rapist on the other side of me.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "19DBC7DE9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So I tend to stay in my room a lot because I find them quite frightening.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F2ED7D6BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And they take that as a sign of madness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3021A49CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "They say it proves that I'm aloof and grandiose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54C2CBC648",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "So, only in Broadmoor would not wanting to hang out with serial killers be a sign of madness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8DD4ABA55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 47,
+        "endOffset": 63,
+        "text": "what did I know?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0C79059808",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Anyway, he seemed completely normal to me, but what did I know?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44B945351C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And when I got home I emailed his clinician, Anthony Maden.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAD17FB99F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "I said, \"What's the story?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D9AA33A93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And he said, \"Yep.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24BC96C241",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 119,
+        "endOffset": 125,
+        "text": "cliche",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F5D477D44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "However, we have assessed him, and we've determined that what he is is a psychopath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBF86ED658",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And in fact, faking madness is exactly the kind of cunning and manipulative act of a psychopath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EE9D44C35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "It's on the checklist: cunning, manipulative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6312CEA979",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "So, faking your brain going wrong is evidence that your brain has gone wrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "265B93F21B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "classic psychopath",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5DA1DDB4DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 66,
+        "endOffset": 84,
+        "text": "classic psychopath",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "32C0E183E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "And I spoke to other experts, and they said the pinstripe suit -- classic psychopath -- speaks to items one and two on the checklist: glibness, superficial charm and grandiose sense of self-worth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF719AF54A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And I said, \"Well, but why didn't he hang out with the other patients?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94BAD92DA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Classic psychopath",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "142E35B25C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Classic psychopath -- it speaks to grandiosity and also lack of empathy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DCF435C13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "So all the things that had seemed most normal about Tony was evidence, according to his clinician, that he was mad in this new way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF366B26CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "He was a psychopath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "806A2D6D85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 31,
+        "endOffset": 73,
+        "text": "If you want to know more about psychopaths",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "393E8631CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "And his clinician said to me, \"If you want to know more about psychopaths, you can go on a psychopath-spotting course run by Robert Hare, who invented the psychopath checklist.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "783614388F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "You want to go",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2BA4DC4C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 43,
+        "endOffset": 64,
+        "text": "corporate psychopaths",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BD58E86BD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "So I gave it a try.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F0055F2C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I wrote to the Enron people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78F0284510",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 9,
+        "endOffset": 39,
+        "text": "Could I come and interview you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8175B0B835",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 51,
+        "endOffset": 85,
+        "text": "to find out it you're psychopaths?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7E2E4946E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CC7EC275C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "(Laughter) So I changed tack.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE2EF30F5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 10,
+        "endOffset": 30,
+        "text": "\"Chainsaw Al\" Dunlap",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A39E8C4AFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 112,
+        "endOffset": 123,
+        "text": "ghost towns",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "55456EE611",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 61,
+        "endOffset": 82,
+        "text": "special brain anomaly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "34C9571EFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 133,
+        "endOffset": 149,
+        "text": "predatory spirit",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "49CE8AF12B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 155,
+        "endOffset": 163,
+        "text": "fearless",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6E9B01B88D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Can I come and interview you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2C05E07157",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 40,
+        "endOffset": 61,
+        "text": "special brain anomaly",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2588CF16C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "And he said, \"Come on over!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12005C8341",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "(Laughter) So I went to Al Dunlap's grand Florida mansion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E78944E135",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 19,
+        "endOffset": 50,
+        "text": "sculptures of predatory animals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A6F9B87FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 11,
+        "endOffset": 27,
+        "text": "lions and tigers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F1BABAB575",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 81,
+        "endOffset": 99,
+        "text": "falcons and eagles",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CCBC092D14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 139,
+        "endOffset": 145,
+        "text": "sharks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "147B31141E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 21,
+        "endOffset": 27,
+        "text": "tigers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FC8A2BCC19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 12,
+        "endOffset": 18,
+        "text": "Narnia",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "344D0082ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 11,
+        "endOffset": 45,
+        "text": "And then we went into his kitchen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "119900C838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Now, Al Dunlap would be brought in to save failing companies, he'd close down 30 percent of the workforce.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75BBD1B7D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And he'd quite often fire people with a joke.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF95BE092D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "Like, for instance, one famous story about him, somebody came up to him and said, \"I've just bought myself a new car.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5801BE2057",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 13,
+        "endOffset": 92,
+        "text": "\"Well, you may have a new car, but I'll tell you what you don't have -- a job.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F89BD976C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "So in his kitchen -- he was in there with his wife, Judy, and his bodyguard, Sean -- and I said, \"You know how I said in my email that you might have a special brain anomaly that makes you special?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ADAF7FCEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "\"Yeah, it's an amazing theory, it's like Star Trek.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C70696C4B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "\"You're going where no man has gone before.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D216436538",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And I said, \"Well --\" (Clears throat) (Laughter) Some psychologists might say that this makes you --\" (Mumbles) (Laughter) And he said, \"What?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81745EC6DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And I said, \"A psychopath.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E1355A75C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And I said, \"I've got a list of psychopathic traits in my pocket.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20E1C3F783",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "\"Can I go through them with you?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EDC6CF49B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And he looked intrigued despite himself, and he said, \"Okay, go on.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83BD055ACB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "And I said, \"Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9481C4A38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Grandiose sense of self-worth.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4BEA41CDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Which I have to say, would have been hard for him to deny, because he was standing under a giant oil painting of himself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CE2D3581A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 11,
+        "endOffset": 57,
+        "text": "He said, \"Well, you've got to believe in you!\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "ECDDCF4811",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And I said, \"Manipulative.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4B8859C4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "He said, \"That's leadership.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAD0F164EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 24,
+        "endOffset": 87,
+        "text": "Shallow affect, an inability to experience a range of emotions.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A31A601538",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "He said, \"Who wants to be weighed down by some nonsense emotions?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F17EE47C84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 57,
+        "endOffset": 95,
+        "text": "turning it into \"Who Moved My Cheese?\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7E9534019C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 11,
+        "endOffset": 83,
+        "text": "But I did notice something happening to me the day I was with Al Dunlap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9186AE735",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "Whenever he said anything to me that was kind of normal -- like he said \"no\" to juvenile delinquency, he said he got accepted into West Point, and they don't let delinquents in West Point.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B761C6841C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "He said \"no\" to many short-term marital relationships.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D5C269022C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "He's only ever been married twice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0465F7CE6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 129,
+        "endOffset": 152,
+        "text": "human flesh tasted like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "46A0A7D31F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 286,
+        "text": "Admittedly, his first wife cited in her divorce papers that he once threatened her with a knife and said he always wondered what human flesh tasted like, but people say stupid things to each other in bad marriages in the heat of an argument, and his second marriage has lasted 41 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB42ADED62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "So whenever he said anything to me that just seemed kind of non-psychopathic, I thought to myself, well I'm not going to put that in my book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1837B92CBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And then I realized that becoming a psychopath spotter had kind of turned me a little bit psychopathic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB7AEBA5A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Because I was desperate to shove him in a box marked \"Psychopath.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E527F19771",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 37,
+        "endOffset": 50,
+        "text": "maddest edges",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9A9013461A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And I realized, my God -- this is what I've been doing for 20 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD9C667743",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's what all journalists do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76465864BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 79,
+        "endOffset": 83,
+        "text": "gems",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "92D98943A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 8,
+        "endOffset": 12,
+        "text": "gems",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "759E7B2647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 33,
+        "endOffset": 47,
+        "text": "medieval monks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4957216C7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FD8BB03086",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "Childhood bipolar -- children as young as four are being labeled bipolar because they have temper tantrums, which scores them high on the bipolar checklist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "724149F841",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "When I got back to London, Tony phoned me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6A54049E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "He said, \"Why haven't you been returning my calls?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFFB51E33E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I said, \"Well, they say that you're a psychopath.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FF8D070A54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And he said, \"I'm not a psychopath.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A47F8E97C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "You know?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9D4287165F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 37,
+        "endOffset": 52,
+        "text": "lack of remorse",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1B80B5FA13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 91,
+        "endOffset": 112,
+        "text": "cunning, manipulative",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "69A0039462",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 148,
+        "endOffset": 158,
+        "text": "witchcraft",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A316FCF144",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 165,
+        "endOffset": 192,
+        "text": "turn everything upside-down",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "24BC7FF15F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "He said, \"I've got a tribunal coming up.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBF0092D7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Will you come to it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "28697D6BB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "So I said okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3123D58FC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "So I went to his tribunal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "527EC12DF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And after 14 years in Broadmoor, they let him go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3475C650CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "They decided that he shouldn't be held indefinitely because he scores high on a checklist that might mean that he would have a greater than average chance of recidivism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C384B9C732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "So they let him go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFD9DE2925",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And outside in the corridor he said to me, \"You know what, Jon?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D10EB1E8E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Everyone's a bit psychopathic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2746F37EA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "He said, \"You are, I am.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "486E25E34A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Well, obviously I am.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FF529C44A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I said, \"What are you going to do now?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F9468AB87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "He said, \"I'm going to go to Belgium.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FB2558E63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "There's a woman there that I fancy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66F03CC6DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "But she's married, so I'm going to have to get her split up from her husband.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7DAC6D6CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 11,
+        "endOffset": 74,
+        "text": "Anyway, that was two years ago, and that's where my book ended.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3671E14E24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And for the last 20 months, everything was fine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44915252D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Nothing bad happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BE8162562",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "He was living with a girl outside London.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6D595BAF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 46,
+        "endOffset": 69,
+        "text": "making up for lost time",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6C11935225",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 71,
+        "endOffset": 129,
+        "text": "which I know sounds ominous, but isn't necessarily ominous",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "825BF227A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Unfortunately, after 20 months, he did go back to jail for a month.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7823F91202",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "He got into a \"fracas\" in a bar, he called it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5B473C5DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "Ended up going to jail for a month, which I know is bad, but at least a month implies that whatever the fracas was, it wasn't too bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8507C567E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And then he phoned me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F930BE30D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And you know what, I think it's right that Tony is out.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B3000F8119",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 8,
+        "endOffset": 58,
+        "text": "you shouldn't define people by their maddest edges",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EAFC2146D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And what Tony is, is he's a semi-psychopath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E05FE3684",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 7,
+        "endOffset": 16,
+        "text": "gray area",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D926257AD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 22,
+        "endOffset": 56,
+        "text": "world that doesn't like gray areas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B45AD5E1C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But the gray areas are where you find the complexity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B6959B163",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "It's where you find the humanity, and it's where you find the truth.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9ED1D25F49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 39,
+        "endOffset": 50,
+        "text": "you a drink",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "38535FCBFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And Tony said to me, \"Jon, could I buy you a drink in a bar?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91B87D05F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 21,
+        "endOffset": 24,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5893493BFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I just want to thank you for everything you've done for me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46EA105040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "And I didn't go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DAFBDFF78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 11,
+        "endOffset": 14,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "65EADAF3BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "What would you have done?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B1BF7F391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B3837F2C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AE6368221",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 59,
+        "endOffset": 63,
+        "text": "sane",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DE9C5D4350",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 99,
+        "endOffset": 104,
+        "text": "crazy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7F112F067D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Tony said that it's a lot harder to convince people you're sane than it is to convince them you're crazy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88E47CC3D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "So I did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5B6D7BD52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "I went on a psychopath-spotting course, and I am now a certified -- and I have to say, extremely adept -- psychopath spotter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40E9B6D728",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So, here's the statistics: One in a hundred regular people is a psychopath.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA3AF1D2ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So there's 1,500 people in his room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0C60365CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "fifteen of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BAE485889C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Fifteen of you are psychopaths.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A79C26489",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Although that figure rises to four percent of CEOs and business leaders, so I think there's a very good chance there's about 30 or 40 psychopaths in this room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D6F29BABF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It could be carnage by the end of the night.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98AAB69F67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 11,
+        "endOffset": 169,
+        "text": "Hare said the reason why is because capitalism at its most ruthless rewards psychopathic behavior -- the lack of empathy, the glibness, cunning, manipulative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4D7331CF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 59,
+        "endOffset": 81,
+        "text": "physical manifestation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3730BE8419",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "In fact, capitalism, perhaps at its most remorseless, is a physical manifestation of psychopathy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C38ADC3063",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 12,
+        "endOffset": 31,
+        "text": "form of psychopathy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1A4810C5B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "It's like a form of psychopathy that's come down to affect us all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A422025553",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Hare said, \"You know what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "184433DCF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Forget about some guy at Broadmoor who may or may not have faked madness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB6AAB9EAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Who cares?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B32DEF0B3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "That's not a big story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CDAB2E807",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "The big story,\" he said, \"is corporate psychopathy.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F3BDDC632F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

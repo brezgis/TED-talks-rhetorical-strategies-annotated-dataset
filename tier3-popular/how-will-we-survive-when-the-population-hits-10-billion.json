@@ -1,0 +1,3075 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10336,
+  "title": "How will we survive when the population hits 10 billion?",
+  "author": "Charles C. Mann",
+  "url": "https://www.ted.com/talks/charles_c_mann_how_will_we_survive_when_the_population_hits_10_billion",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:26:25.192918Z",
+  "updated_at": "2026-05-07T12:26:25.192918Z",
+  "lead_time": 134.293,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "How are we doing?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7A4103CB1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "No, no, no",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "82D190F6CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Laughter) doing as a species?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F185B70D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "(Laughter) Now the typical way to answer that question is this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FFC709B4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "You choose some measure of human physical well-being: average longevity, average calories per day, average income, overall population, that sort of thing, and draw a graph of its value over time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C518F6922",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "In almost every case, you get the same result.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC3BBBDC45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 9,
+        "endOffset": 23,
+        "text": "skitters along",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8006BD0149",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 59,
+        "endOffset": 83,
+        "text": "rockets up exponentially",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B8274C54AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "Or choose a measure of consumption: consumption of energy, consumption of fresh water, consumption of the world's photosynthesis, and draw a graph of its value over time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BEAF2C296",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 26,
+        "endOffset": 40,
+        "text": "skitters along",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3509188293",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 76,
+        "endOffset": 100,
+        "text": "rockets up exponentially",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "62F8F3C29D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Biologists have a word for this: outbreak.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C464FF7CEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "An outbreak is when a population or species exceeds the bounds of natural selection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8449BE8472",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Natural selection ordinarily keeps populations and species within roughly defined limits.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FF1652298",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Pests, parasites, lack of resources prevent them from expanding too much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94BC847A52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But every now and then, a species escapes its bounds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61324DBDA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "Crown-of-thorns starfish in the Indian Ocean, zebra mussels in the Great Lakes, spruce budworm here in Canada.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EDA8663E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 21,
+        "endOffset": 65,
+        "text": "a hundredfold, a thousandfold, a millionfold",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B03DF2DBAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "So here's a fundamental lesson from biology: outbreaks in nature don't end well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "483D4A7B0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "(Laughter) Put a couple of protozoa into a petri dish full of nutrient goo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCF61466D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "In their natural habitat, soil or water, their environment constrains them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC5DB9098F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 32,
+        "endOffset": 50,
+        "text": "ocean of breakfast",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89A8C8CD21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "In the petri dish, they have an ocean of breakfast and no natural enemies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E880247C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 5,
+        "endOffset": 41,
+        "text": "eat and reproduce, eat and reproduce",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8B978E8C81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "They eat and reproduce, eat and reproduce, until bang, they hit the edge of the petri dish, at which point they either drown in their own waste, starve from lack of resources, or both.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E7B499113",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "The outbreak ends, always, badly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77EDC27AFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 36,
+        "endOffset": 45,
+        "text": "you and I",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "67C2808122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 87,
+        "endOffset": 113,
+        "text": "protozoa in the petri dish",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FBA51A54F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Now, from the viewpoint of biology, you and I are not fundamentally different than the protozoa in the petri dish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0453C3AC63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "We're not special.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E05F28D738",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "All the things that we, in our vanity, think make us different -- art, science, technology, and so forth, they don't matter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34DCED145F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 9,
+        "endOffset": 25,
+        "text": "outbreak species",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "72C9BCEBC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "We're an outbreak species, we're going to hit the edge of the petri dish, simple as that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "344B6DECEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 28,
+        "endOffset": 50,
+        "text": "Is this actually true?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "474B3DA5F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Are we in fact doomed to hit the edge of the petri dish?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "04C7C9968D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 57,
+        "endOffset": 65,
+        "text": "you guys",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D758084B0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "I'd like to set aside this question for a moment and ask you guys another one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6780D637F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 3,
+        "endOffset": 5,
+        "text": "we",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "89538856CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "If we are going to escape biology, how are we going to do it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7A6A16123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 11,
+        "endOffset": 18,
+        "text": "wizards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1C4E26338E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 65,
+        "endOffset": 84,
+        "text": "low-footprint farms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5CE6681F43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 163,
+        "endOffset": 198,
+        "text": "high-throughput desalination plants",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "44EB0866A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 253,
+        "text": "Energy, to wizards, comes from compact nuclear plants; food from low-footprint farms with ultraproductive, genetically modified crops tended by robots; water from high-throughput desalination plants, which means we no longer exploit rivers and aquifers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82219E464D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Wizards envision",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E20F65E90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 50,
+        "endOffset": 84,
+        "text": "ultradense but walkable megacities",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9C1B7BC491",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 89,
+        "endOffset": 158,
+        "text": "urbanized world of maximum human aspiration and maximum human liberty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B58549C5E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Wizards envision all 10 billion of us packed into ultradense but walkable megacities, an urbanized world of maximum human aspiration and maximum human liberty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58E85C4D14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Now, prophets object to every bit of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F27410195",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "You can't dematerialize food and water",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A3D6246F15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "You can't dematerialize food and water, they point out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49D13D7E01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "They say",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1423BAD390",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "They say, you can't eat bits, and industrial agriculture has already given us massive soil erosion, huge coastal dead zones and ruined soil microbiomes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D121F1DD0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And you wizards, you want more of this?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7C6E6F7662",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And you wizards, you want more of this?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA095130F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And those giant desalination plants?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A7B5EB941",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 31,
+        "endOffset": 56,
+        "text": "giant piles of toxic salt",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BB171546C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "You know they generate equally giant piles of toxic salt that are basically impossible to dispose of.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44C18C437E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And those megacities you like?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFD80FDDF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Can you name me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "685CC4442F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 125,
+        "endOffset": 162,
+        "text": "cesspool of corruption and inequality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "591F5C60EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "Can you name me an actually existing megacity that really exists in the world today, except for possibly Tokyo, that isn't a cesspool of corruption and inequality?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83F8B29AE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "Instead, prophets pray for a world of smaller, interconnected communities, closer to the earth, a more agrarian world of maximum human connection and reduced corporate control.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82210E0FB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "More people live in the countryside in this vision, with power provided by neighborhood-scale solar and wind installations that disappear into the background.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A5092A46D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Prophets don't generate water from giant desalination plants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB6078FEFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 5,
+        "endOffset": 29,
+        "text": "capture it from rainfall",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DAEB14D99C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "They capture it from rainfall, and they reuse and recycle it endlessly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6069A6655",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 24,
+        "endOffset": 53,
+        "text": "small-scale networks of farms",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "91C1B6B5E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 68,
+        "endOffset": 84,
+        "text": "trees and tubers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E69AB8A91F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "And the food comes from small-scale networks of farms that focus on trees and tubers rather than less productive cereals like wheat and rice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F76612664",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Above all, though, prophets envision people changing their habits.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2BCF9319B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "They don't drive to work, they take their renewable-powered train.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D784F2DE49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "They don't take 30-minute hot showers every morning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A02CFEE606",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 20,
+        "endOffset": 84,
+        "text": "like Michael Pollan says, real food, mostly plants, not too much",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BA1B37CDBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 10,
+        "endOffset": 18,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "61F9FDDB70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Above all, prophets say submitting to nature's restraints leads to a freer, more democratic, healthier way of life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E136BA6BD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Now, wizards regard all this as hooey.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A403E72106",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "They see it as a recipe for narrowness, regression, and global poverty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1105FCB3F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "Prophet-style agriculture, they say, only extends the human footprint and shunts more people into low-wage agricultural labor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "535A14CEF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Those neighborhood-run solar facilities, they sound great, but they depend on a technology that doesn't exist yet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65BA53667D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "They're a fantasy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "365B675033",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And recycling water?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "128002F3D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "It's a brake on growth and development.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E2D1C0072",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "Above all, though, wizards object to the prophets' emphasis on wide-scale social engineering, which they see as deeply anti-democratic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A88402469",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "If the history of the last two centuries was one of unbridled growth, the history of the coming century may well be the choice we make as a species between these two paths.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19BA65FBBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "These are the arguments that will be resolved, in one way or another, by our children's generation, the generation that will come into the world of 10 billion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "929E9C64CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 51,
+        "endOffset": 106,
+        "text": "rolling their eyes so loud you can barely hear me speak",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FDA9699775",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 78,
+        "endOffset": 106,
+        "text": "you can barely hear me speak",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FB634A5596",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 36,
+        "endOffset": 53,
+        "text": "wizards, prophets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E61A177C35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 55,
+        "endOffset": 72,
+        "text": "it's a pipe dream",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "63EFAEEE63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 24,
+        "endOffset": 37,
+        "text": "illusory path",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "45E4CDD499",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 38,
+        "endOffset": 47,
+        "text": "you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9EBC2328F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Outbreaks in nature don't end well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "989F1A0F38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 84,
+        "endOffset": 116,
+        "text": "Hey guys, time to change society",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "DCB1CAE09E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C0F0663813",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "No.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6DB3DC2EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "They just let her rip.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "023F75CD1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "That's what life does",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F6D61AB3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 27,
+        "endOffset": 45,
+        "text": "we're part of life",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "640DDC8C7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "We'll do the same thing.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6CD7B2A453",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Deal with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "762FB4F74A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 6,
+        "endOffset": 26,
+        "text": "if you're a follower",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ACD1D85BDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "How lame is that?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "7F164EAFFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "I mean, we can accumulate and share knowledge and use it to guide our future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B9653A4B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "are we actually doing this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7CA3000DD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Well,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A1B9013CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Is there any evidence",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1305572A6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "Is there any evidence that we're actually using our accumulated, shared knowledge to guarantee our long-term prosperity?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E895878305",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "It's pretty easy to say no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20955F1FD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "If you're a wizard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0D5320C72D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "If you're a wizard",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C5ADCE29C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 287,
+        "text": "If you're a wizard, and you believe that hyperproductive, genetically engineered crops are key to feeding everyone in tomorrow's world, you have to worry that 20 years of scientists demonstrating that they are safe to consume has failed to convince the public to embrace this technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8625CDA66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "If you're a prophet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0239C3A892",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "If you're a prophet",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1647BCEBBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 279,
+        "text": "If you're a prophet and you believe that key to solving today's growing shortage of fresh water is to stop wasting it, you have to worry that cities around the world, in rich places as well as poor, routinely lose a quarter or more of their water to leaky and contaminated pipes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2694172EE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "I mean, Cape Town, just a little while ago, almost ran out of water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27CE702676",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Cape Town loses a third of its water to leaky pipes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EBAE230EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "This problem has been getting worse for decades, and remarkably little has been done about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B73D4ADA50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "If you're a wizard",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B69624BD3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "If you're a wizard",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7C6E4A4235",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "If you're a wizard, and you think that clean, abundant, carbon-free nuclear power is key to fighting climate change, then you have to worry that the public willingness to build nukes is going down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F80BD38FC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "If you're a prophet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "968BEEB0B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "If you're a prophet",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "61C8540CF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 322,
+        "text": "If you're a prophet, and you think that the solution to the same problem is these neighborhood-run solar facilities shuttling power back and forth, you have to worry that no nation anywhere in the world has devoted anything like the resources necessary to develop this technology and deploy it in the time that we need it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34EFEB3753",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 30,
+        "endOffset": 47,
+        "text": "wizard or prophet",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1F6B35D0CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 249,
+        "text": "And if you're on either side, wizard or prophet, you have to worry that, despite the massive alarm about climate change, the amount of energy generated every year from fossil fuels has gone up by about 30 percent since the beginning of this century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0166B2A6E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So, still think we're different than the protozoa?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FF8B118D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Still think we're special?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DA245FC58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Actually, it's even worse than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07F0E07DA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5714A5DBB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 294,
+        "text": "No seriously, if there's a difference between us and the protozoa, a difference that matters, it's not just our art and science and technology and so forth -- it's that we can yell and scream, we can go out into the streets, and, over time, change the way society works, but we're not doing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D88341BAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Wizards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DDED50B2A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 26,
+        "endOffset": 35,
+        "text": "literally",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "38845DEF16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 85,
+        "endOffset": 92,
+        "text": "dwarfed",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "22C28BA3F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Prophets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CB933EEC75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 34,
+        "endOffset": 43,
+        "text": "literally",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C780319085",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "But in the history of humankind, there has never been a street full of angry protesters waving signs about leaky pipes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "667BF3420B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 64,
+        "endOffset": 84,
+        "text": "wizards and prophets",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5CF0177ED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 85,
+        "endOffset": 127,
+        "text": "fighting each other, protesting each other",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "296A2081B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "After all, these people are concerned about the same thing: How are we going to make our way in the world of 10 billion?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFF98AB98E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "The first step towards generating that necessary social movement, creating that critical mass and getting that yelling and screaming going seems obvious: wizards and prophets join together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48C82ADF26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 4,
+        "endOffset": 32,
+        "text": "how are you going to do this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DC47EA920C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "One way might be this: Each side agrees to accept the fundamental premises of the other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "652E23161F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 81,
+        "endOffset": 96,
+        "text": "hideously dirty",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AE9F6D614E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 146,
+        "endOffset": 153,
+        "text": "rickety",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0CDA8CF0C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "Accept that nuclear power is safe and carbon-free, and that uranium mines can be hideously dirty and that putting large volumes of toxic waste on rickety trains and shuttling them around the countryside is a terrible idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6D8CD3887",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "To me, this leads rather quickly to a vision of small, neighborhood scale, temporary nukes, nuclear power as a bridge technology while we develop and deploy renewables.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84164F46F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 251,
+        "text": "Or accept that genetically modified crops are safe and that industrial agriculture has caused huge environmental problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8751A05E0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "To me, this leads rather quickly to a vision of plant scientists devoting much more of their attention to tree and tuber crops, which can be much more productive than cereals, use much less water than cereals, and cause much less erosion than cereals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A63C4867CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "These are just ideas from a random journalist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A73298D5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I'm sure there's a hundred better ones right here in this room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81BA705558",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "The main point is, wizards and prophets working together have many paths to success.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "127D52C310",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 53,
+        "endOffset": 77,
+        "text": "important though that is",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "472E7430F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And success would mean much more than mere survival, important though that is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54A36C5164",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 56,
+        "endOffset": 131,
+        "text": "if we get food to everybody, get water to everybody, get power to everybody",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9E3CD89C9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 8,
+        "endOffset": 54,
+        "text": "if humankind somehow survives its own outbreak",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "366C942985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 56,
+        "endOffset": 83,
+        "text": "if we get food to everybody",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E5B946E326",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 237,
+        "text": "if we get water to everybody",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8E9C0D9049",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 237,
+        "text": "if we get power to everybody",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E4A750FBBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 133,
+        "endOffset": 180,
+        "text": "if we avoid the worst effects of climate change",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C42904CCAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 182,
+        "endOffset": 215,
+        "text": "if we somehow safeguard the biome",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2AA24EE017",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 237,
+        "text": "I mean, if humankind somehow survives its own outbreak, if we get food to everybody, get water to everybody, get power to everybody, if we avoid the worst effects of climate change, if we somehow safeguard the biome, it would be amazing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E3E364220",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 33,
+        "endOffset": 47,
+        "text": "hardened cynic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D1D1A2AD36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "It would say, I think, even to a hardened cynic like me, maybe we really are special.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63CCAC3952",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2FB6CB7B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57DDE8699B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "In the year 2050, there will be almost 10 billion people in the world, and all of those people will want the things that you and I want: nice cars, nice clothes, nice homes, the odd chunk of Toblerone.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E8C1A1CC4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "I mean, think of it: Toblerone for 10 billion people.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E7923A32FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "How are we going to do this?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9546552521",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "How are we going to feed everybody, get water to everybody, provide power to everybody, avoid the worst impacts of climate change?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A62F8E77F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "I'm a science journalist, and I've been asking these questions to researchers for years, and in my experience, their answers fall into two broad categories, which I call \"wizards\" and \"prophets.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "76E320EF80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Wizards, techno-whizzes, believe that science and technology, properly applied, will let us produce our way out of our dilemmas.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C2962B74E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "\"Be smart, make more,\" they say.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E7629723A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "\"That way, everyone can win.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "66B7614048",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Prophets believe close to the opposite.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D83B16E7E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "They see the world as governed by fundamental ecological processes with limits that we transgress to our peril.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E8BF9AB33C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "\"Use less, conserve,\" they say.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "63FBF7F453",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "\"Otherwise, everybody's going to lose.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E0EC2C47B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "Wizards and prophets have been butting their heads together for decades, but they both believe that technology is key to a successful future.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CC9544F789",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "The trouble is, they envision different types of technology and different types of futures.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8A4EE02D23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 245,
+        "text": "Wizards envision a world of glittering, hyperefficient megacities surrounded by vast tracts of untouched nature, economies that have transitioned from atoms to bits, dematerialized capitalist societies that no longer depend on exploiting nature.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7201F02DD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

@@ -1,0 +1,2565 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8771,
+  "title": "Does working hard really make you a good person?",
+  "author": "Azim Shariff",
+  "url": "https://www.ted.com/talks/azim_shariff_does_working_hard_really_make_you_a_good_person",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:55:28.946037Z",
+  "updated_at": "2026-05-07T07:55:28.946037Z",
+  "lead_time": 90.592,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Imagine for a second",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C4F8F0FD6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 26,
+        "endOffset": 34,
+        "text": "your job",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A449E15D76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "But you happen to have three years left on a guaranteed contract, and so your employer gives you two options.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E145416B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "keep getting paid...keep going",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "85985A6135",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 59,
+        "endOffset": 98,
+        "text": "stay home as the software does your job",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8659ADDA1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "What would you do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B7F55772EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 4,
+        "endOffset": 15,
+        "text": "most of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "844CB7777D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Take the money, go home, watch TED talks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2ED7901E94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 11,
+        "endOffset": 68,
+        "text": "But there's always some who would choose to keep working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0537965795",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What do you think of those people?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0DE00565C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "What does it say about their character?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3233FB2BEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "This is the scenario about a hypothetical medical scribe named Jeff that we gave to our research participants.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D748D1EC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "For half the people in the study, the story ends with Jeff choosing to go home, and for the other half it ends with him choosing to keep working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F39AC976C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And then we asked everybody what they thought of Jeff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1962E80A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 95,
+        "endOffset": 111,
+        "text": "a bit of a chump",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5ECCEE1C2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 151,
+        "endOffset": 172,
+        "text": "warmer and more moral",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "01D3F6D566",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 207,
+        "endOffset": 225,
+        "text": "do the right thing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6BF259096B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They saw him as a good person.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "383111BB50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "Even though Jeff added no extra value, people saw him as virtuous for choosing to keep plugging away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "459E5FA8B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Why is it that we see mere effort as moral?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "214E0E2797",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "I am a psychology professor at the University of British Columbia, where I study morality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCF0A792D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I've worked on religion and morality, I've worked on driverless cars and morality",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7E139CCB8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And in study after study, we find that people attach moral worth to effort regardless of what that effort produces.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0909E3A45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "So in another study, we asked people about two widget makers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92AC4609C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "They produce the same number of widgets in the same amount of time at the same level of quality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1848CF6640",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "But for one of them, it takes a lot more effort to do so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F238B6061",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "People see that harder-working widget maker as, again, less competent but again, more moral.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B078AA6D5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And if you had to choose just one of those two as a cooperation partner, you would choose the one who struggles.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AE507011F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We call this effort moralization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F63A103D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And it doesn't appear to just be a North American thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B91B409C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 247,
+        "text": "Work norms, of course, differ around the world, but we replicated our original American result in South Korea, which is known by the numbers to be one of the hardest-working countries in the OECD, and in France, which is known for other strengths.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E251659F21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 11,
+        "endOffset": 156,
+        "text": "In all of these places, the harder-working person was seen as more moral and a better cooperation partner, even though they added no extra value.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CCE6184FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And it looks like this is something broader than, say, the Protestant work ethic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "071FAEA51D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Even the Hadza people, hunter-gatherers in Tanzania, show something like it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F52BEF192E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "When asked what qualities contribute to good character, they didn't agree on very much, but they did agree on two things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80CC91F6A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Generosity and hard work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B40A37E581",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 82,
+        "endOffset": 87,
+        "text": "quirk",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C2F34E4F7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "So this intuitive connection between effort and morality doesn't appear to be the quirk of any one culture, but potentially something very deep indeed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88A99E62D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Now effort moralization makes sense at the individual level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1613401AFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 68,
+        "endOffset": 131,
+        "text": "meaningless tasks, maybe even especially into meaningless tasks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "03944FF587",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "Somebody who is willing to show that they will put effort into even meaningless tasks, maybe even especially into meaningless tasks, is somebody who's more likely to help you out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E91665F482",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So I have a friend from work, Paul.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DDC9C238D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Paul is an uncommonly charismatic man.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3496FEEDE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 11,
+        "endOffset": 43,
+        "text": "stylish pairs of raw denim jeans",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D619CD2873",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 58,
+        "endOffset": 104,
+        "text": "expensive bars of soap, 60-dollar bars of soap",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1135A3675B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Paul wears stylish pairs of raw denim jeans and Paul buys expensive bars of soap, 60-dollar bars of soap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62C1E788C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And Paul is one of those types who wakes up every morning and goes running.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74E069F2E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 39,
+        "endOffset": 53,
+        "text": "rolled my eyes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "275D1BE180",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And when I first heard this, I sort of rolled my eyes at this being one of those Mr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2148EC98B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Perfect things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69AC6B1C5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Actually, Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32C2668D90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Perfect in this case.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ACA743A1FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95A5460958",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 91,
+        "endOffset": 116,
+        "text": "sleek, type-A personality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2569F80526",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 117,
+        "endOffset": 150,
+        "text": "confidently striding through life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "10795E3078",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 181,
+        "endOffset": 197,
+        "text": "inelegant hobble",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9E34EFC1DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 216,
+        "endOffset": 274,
+        "text": "grotesque grimace of something between annoyance and agony",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9790407C3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 11,
+        "endOffset": 287,
+        "text": "But then one day I saw Paul on one of his morning runs, and instead of seeing a sleek, type-A personality confidently striding through life, I saw Paul struggling, in an inelegant hobble (Laughter) with a grotesque grimace of something between annoyance and agony on his face.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "517B5EA59E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Running was hard for him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFF3224EC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 124,
+        "endOffset": 138,
+        "text": "in your corner",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C371DEE96D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 78,
+        "endOffset": 91,
+        "text": "day after day",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D87FE8AD03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And Paul is in mine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3477C52912",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "He's not just the inspiration behind some of the studies in this research, he is a collaborator on them as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ADE23A793",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And he's a good man.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0846D8E37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "The truth is, we're all in the market for finding the best collaborators in life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "996DA1017E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And we're trying to show others that we are that person as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "345B50C955",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "The evolutionary psychologists call this partner choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22ACED29C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 8,
+        "endOffset": 38,
+        "text": "we are trying to be and select",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F3B04E40CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Just as we are trying to be and select the best romantic partners, we are also trying to be and select the best cooperation partners.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35C3A301A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "We're all trying to surround ourselves with people who will help us out in a pinch, who won't slack off, who will share things fairly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "205B84658E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "And as a result, any quality which makes you a better cooperation partner, say, generosity or self-control or hard work, is seen as a moral quality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EEAAF2EA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And so we have this simple heuristic: people who work hard are good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0F44DDC88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "It's why you're more likely to donate to your friend who pledges to run a marathon for cancer research, than your other friend who pledges to watch a \"Sex in the City\" marathon for the same cause.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BA67FEF8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "194807E06C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Our intuition that effort is good for its own sake, regardless of what it produces, has created a work environment with perverse incentives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE2A53CC7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "So when we start attaching worth to activity rather than to productivity, we start caring more about whether somebody is a hard worker than whatever it is that that work was supposed to achieve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE9474BF47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And this can come at a very steep human cost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36B3B5AD05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 72,
+        "endOffset": 143,
+        "text": "throw his time into the volcano as a sacrifice to the gods of hard work",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E713D57755",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So you'll remember",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A16C16EF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "That was just a contrived scenario.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A1EE0979E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "But how many Jeffs are out there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1D851B6340",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 27,
+        "endOffset": 66,
+        "text": "wearing workaholism as a badge of honor",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EDB0BF40D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And how often are we Jeff",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6D3E7A0506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 120,
+        "endOffset": 182,
+        "text": "even if the person you're just trying to reassure is yourself?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AFD37D130B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "The anthropologist David Graeber wondered how capitalism could sustain so many of what he bluntly called bullshit jobs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE1AFA6B4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "These are jobs in which even the people doing the work see it as pointless, accomplishing nothing of societal worth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BA5600527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 29,
+        "endOffset": 58,
+        "text": "root out those inefficiencies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4C8C25D9F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "A capitalistic system should root out those inefficiencies, but it doesn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FB3B3CDD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And the reason it doesn't is because alongside capitalism, we also operate under another system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60FB454DAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "What the journalist Derek Thompson calls workism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "111D1012EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 78,
+        "endOffset": 140,
+        "text": "source of your identity and your pathway to self-actualization",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "42AB84F592",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "Workism is about your job not just being the source of your paycheck, but the source of your identity and your pathway to self-actualization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4E1D6325C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "Now that works for some people, but what makes workism a culture is that we all get forced to participate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B257D24C38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "Partner choice is not just about being a good cooperation partner, but a better cooperation partner than the next guy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43FD2ED5CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Not just hard working, but harder working.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "85C3AC6F23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And this can create these arms races of workism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8B6D9F074",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So you can imagine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "262D383040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 103,
+        "endOffset": 131,
+        "text": "first car in the parking lot",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0973BE4F13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 52,
+        "endOffset": 83,
+        "text": "earlier and earlier and earlier",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "78ED0F10E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And everybody else just seems like more of a slacker every day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "340E6E85A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "The culture punishes us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ADAC66AB53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "And so we end up putting more and more in regardless of what comes out the other side.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0719799E90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 35,
+        "endOffset": 52,
+        "text": "laborious aspects",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4A434B482D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "effort porn",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7B48EA06A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And as a consequence, every other aspect of our job and our lives, however great, is made just a little less important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45924421B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Now, this is not an argument against hard work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4FE1E91C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "It's not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C9D0C2914",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Hard work can be extremely meaningful when it serves a purpose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "338B4EE3CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Hard work built civilization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "352F2B8567",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "But how much",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A90D3E8753",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 13,
+        "endOffset": 95,
+        "text": "of the effort we spend now is done to build nothing but our own moral reputations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79A76A73E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "To just convince other people that we are hard workers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40A2FC9F8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 49,
+        "endOffset": 60,
+        "text": "effort porn",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "50A644F583",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "In one of his more candid moments, one of my graduate students said that he noticed I would send emails out at all hours of the day, 1 am, 2 am, 3 am.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BD62F9C0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 66,
+        "endOffset": 91,
+        "text": "adolescent sleep schedule",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C9BF1B5083",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Now, this was because being a professor allowed me to maintain an adolescent sleep schedule deep into my 30s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABF3EAC382",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6DA30AAEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 162,
+        "endOffset": 190,
+        "text": "working all hours of the day",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F200A3E260",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 11,
+        "endOffset": 161,
+        "text": "But what he then did was he got some app which scheduled his replies to come to me at one or two in the morning so as to make it seem like he was also",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E49216630F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 67,
+        "endOffset": 137,
+        "text": "willing to delay the work to make it seem like he was more industrious",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A4C5B525C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "I'd clearly sent the wrong message, so much so that my student was",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16EB79D83A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 7,
+        "endOffset": 30,
+        "text": "literally bullshit work",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BAEC2B899C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It was literally bullshit work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B1A7FAD9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I had to change my lab's culture.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "880CEF3BE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 35,
+        "endOffset": 110,
+        "text": "we weren't just about the show of work, but what we were actually producing",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DD416465B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I had to convince my students that",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC477E26F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And it's not such a simple thing to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B550847326",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 61,
+        "endOffset": 73,
+        "text": "stubborn one",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "85A82D0E02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "The mental circuit that connects effort to morality can be a",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C05578E332",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 68,
+        "endOffset": 84,
+        "text": "I tell them that",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7230BFCA1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "When I teach about psychological biases to my intro-psych students,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7703C2EBD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 143,
+        "endOffset": 159,
+        "text": "deeply ingrained",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "997F6ED486",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 85,
+        "endOffset": 142,
+        "text": "you can't always learn to resist a bias, they can be very",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA41F24BC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "We may not be able to break that mental circuit, but we can learn to recognize our biases so they don't run our lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07979F65DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "There is a story, almost certainly apocryphal, about perverse incentives in the era of British rule in India.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAFAC7512B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "Desperate to deal with the cobras that were overrunning colonial Delhi, a bounty was put up for every cobra skin that was brought in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC306ED87E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "But the plan backfired because enterprising Indians started breeding more cobras to kill them, bring in the skins and collect the bounty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76665BAAB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "And when the government finally abandoned the plan, as the story goes, the breeders then released the cobras into the city and the snake problem was worse than ever.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6023A07F98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Oops.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4BDB793497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 96,
+        "endOffset": 102,
+        "text": "cobras",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "119A87BEA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "(Laughter) The plan went awry because of the distance between what they wanted, which was fewer cobras, and what they asked for, which was an imperfect signal of fewer cobras, dead cobras.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBD537C1AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "But I fear we've done something very real and very similar with work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2816A5E954",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "We have built a culture that asks for the wrong thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B142E57D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 60,
+        "endOffset": 129,
+        "text": "we will create a world full of effort and of hard labor and of cobras",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "55298E6B7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "If all we ask from each other is the effort that we put in, we will create a world full of effort and of hard labor and of cobras.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03B6AF251E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 71,
+        "endOffset": 109,
+        "text": "we will create a world full of meaning",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EE085B0D4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "But if what we ask from each other is to produce something meaningful, we will create a world full of meaning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "881D8ADD18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And what could be more moral than that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B068B37057",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2852BB2966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EDDBF1CB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

@@ -1,0 +1,6288 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 8114,
+  "title": "What makes us human in the age of AI? A psychologist and a technologist answer",
+  "author": "Brian S. Lowery",
+  "url": "https://www.ted.com/talks/brian_s_lowery_and_kylan_gibbs_what_makes_us_human_in_the_age_of_ai_a_psychologist_and_a_technologist_answer",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:11:04.592295Z",
+  "updated_at": "2026-05-07T05:11:04.592295Z",
+  "lead_time": 237.876,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Brian S.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BDC655C00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 8,
+        "endOffset": 63,
+        "text": "If you could produce a more immersive social experience",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "324CB09BBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 65,
+        "endOffset": 124,
+        "text": "now everybody's having their individual social experiences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "532788153C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 109,
+        "endOffset": 139,
+        "text": "inhabit our own singular world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CAAA27EC96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "That is more frightening to me than like, you know, that we all converged in the same experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F27C6707B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "[Intersections] [Brian S. Lowery: Social psychologist] [Kylan Gibbs: Technologist] BSL: So what makes a human a human?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75C9356C9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "(Laughter) Kylan Gibbs: It’s one of those questions, isn’t it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66535A7650",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "I mean, there's like, two ways I would look at it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11FA288692",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "One is from my personal life and one is from my work life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D77D48B041",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "One thing that's interesting is like, there's been points when I've been spending four to five hours a day interacting with AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2157F18720",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And the interesting thing that happens in that is the things that you notice, when you first start interacting with it, oh, this is really realistic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "295DC2ECA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "wow, this is like real life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0998791728",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "But then as you get used to it, you start to kind of realize, the things that make it less authentic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DF4B2A351",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And I think something that I realized with AI is there's certain ways that we interact that are just more spontaneous.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F58745118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "There's something about the predictability of AI that teaches you about the spontaneity of being human.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B494FD0832",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "The ways they communicate, the naturalness, the contextual awareness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1891B8876D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "These little things that all add up.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A540CE48E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "That's on the technical side.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A324D2EA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 27,
+        "endOffset": 81,
+        "text": "something of just the shared experience of being human",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2DA7A7C07E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 96,
+        "endOffset": 152,
+        "text": "I think differentiates it from other animals’ experience",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C3C0596983",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "98C4659DE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 10,
+        "endOffset": 13,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D3C429C0DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 108,
+        "endOffset": 111,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "150B4B5E08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 108,
+        "endOffset": 111,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D94CC78BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 156,
+        "endOffset": 164,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "035502F822",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 38,
+        "endOffset": 44,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "820D9ACBE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And then you start to remember, like this is what usually happens to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A7D87708B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "I start crying about something, and then I think about all the things that I did for my mom or my grandma and the things that they felt.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84D1B37752",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 24,
+        "endOffset": 72,
+        "text": "something in that kind of like shared experience",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EFAA9C015A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 79,
+        "endOffset": 149,
+        "text": "we have these things that differentiate us, we’re all different people",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "05E42F9023",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "But there’s something about those common feelings that it all kind of arises from that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65D5E33705",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Anyway, that's one thought.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "697C2689C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 48,
+        "endOffset": 54,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "287D7F519F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Here's why I don't think you're normal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13B9E85145",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "People anthropomorphize anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "648233B361",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It doesn't have to even be that good, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85DA7FE336",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 111,
+        "endOffset": 147,
+        "text": "treat their cars like they're people",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "033F097E8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "It doesn't have to be anywhere near as good AI for people to treat it like it has some human character, people treat their cars like they're people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59D11ADEC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 22,
+        "endOffset": 47,
+        "text": "when you interact with it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EFF83B68FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "So I'm surprised that when you interact with it a lot, it feels less real to you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EB822D9D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "KG: There's something about resolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E572275E96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "It's like the way of seeing the world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4F6158BBEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "It's like the way of seeing the world and you kind of increase this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFDD2B96F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "It's like the same reason you can't look at TV that's not 4K now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B8D9B9E13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 60,
+        "endOffset": 68,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CDE4CED818",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 133,
+        "endOffset": 144,
+        "text": "you're like",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E363839FE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "And it's someone I think who worked on early VR was saying, you know, the interesting thing about it was when you stepped out of it, you're like, oh, the real world is actually amazing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "360BAC9D48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And it's actually really hard to recreate that in technology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E175655F47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 37,
+        "endOffset": 46,
+        "text": "it's like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7E93DDDB25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "And I think the same is true for AI, it's like maybe for some people, when they interact with it, the thing that they see is some commonality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9447C9D2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "But the thing that I always notice is, this is very different from the conversations I have with my parents.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA2FC52C3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Even when it says something similar, there’s something off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "071459A97F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 26,
+        "endOffset": 37,
+        "text": "that's like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "549421CC2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "It's those little things, that's like I think what, over time, will add up as people use AI more, is they’ll start to recognize, and I can't even point at them like, what are those nuances, though, that make us human?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F87C79199C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "010B3F7822",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 42,
+        "endOffset": 53,
+        "text": "you're like",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9FB54D576D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "BSL: You just know it when you see it and you're like, and it's missing an AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA371D2AFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "I mean that's also interesting because what you just suggested is that the more people use AI, the less real it's going to feel to people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E881FD1D41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Do you think that's what's going to happen?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6CEE96C591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 43,
+        "endOffset": 51,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3AC91E86F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "KG: I mean, there's probably another case, you know, it's the same way as, you know, your Instagram and Facebook feed isn't a real conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "672DDFFA4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 105,
+        "endOffset": 124,
+        "text": "real representation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A0CE4507CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 269,
+        "text": "There are certainly, kids especially, who would look at those kinds of feeds and feel like, oh, that's a real representation of my friends or my favorite celebrities or whatever I actually think, when it's like completely -- I shouldn't say completely -- largely false.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E025F7F30E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And I do think something similar will happen with AI, where some people for sure will almost be encaptured.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E723AF69D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And they will believe that that's the most realistic thing that exists and then start to compare people to that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3FC269E7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 64,
+        "endOffset": 78,
+        "text": "you'll be like",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F9B995979",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "But I think that, you know, if you have that degree of empathy, you'll be like, oh, there's something off here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D205C0778A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "It's the same way even if you use a Zoom call, there's something off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97A91A0BE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's hard to pick it up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "876CDCA9D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "But like, I’m not picking up all the signals, and it's the very little nuances that you probably just subtly pick up as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18D5BBF393",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "BSL: So you don't think that the technology is going to advance quickly enough, where it’ll overcome those little things fast enough to capture all of us?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09A7FB0E91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "You're not worried about that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "998A7FD509",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "KG: I am definitely worried about that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEAB0F1659",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 7,
+        "endOffset": 22,
+        "text": "because because",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BF5F6240B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Mainly because because I think for most people it's easy, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F60ED0B620",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "So the thing about AI is it's so beholden, at least if you think about like, the chatbot styles, it's so beholden to what we want.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD461D8098",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And that's kind of like what people, I think, a lot of people want in their life or they need, is the sense of control.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CBBFF1E02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And the AI gives you the sense that, like, I can control this anthropomorphic thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0FD900F1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And honestly, one of my fears is that people get used to that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70734B8311",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And what does it mean",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "037AA31659",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "979F0B7EF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "And what does it mean when I get used to interacting with something that is beholden to only my views and interests, and then I go and interact with a human who has their own interests?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEDD5360BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 5,
+        "endOffset": 17,
+        "text": "Do you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "68180B9EA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "BSL: Do you think people want control?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9237E8A12F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I think people want to be controlled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E811E99FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "KG: Maybe it's a form of control, though.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "614B86C39E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "To be controlled is a predictability, I guess.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52B6D73FC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 48,
+        "endOffset": 63,
+        "text": "don't you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B6DC741F3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "BSL: Yeah, people want the world to make sense, don't you think?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AE4BB34E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "Yes, yes",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D74ACA5068",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "KG: Yes, yes, I think they also want the world to be ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A711CD760",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "There's something about, like, preferring predictability over optimality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B68B977A96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 43,
+        "endOffset": 51,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EEF2D102B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "So, like, I've even felt it when you have, you know, a mental health moment, you have friends who have mental health moments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "168C595A6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "The things that I've always seen as interesting is your brain and your mind prefer to stay in a state that's familiar, even if it's worse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13852FD723",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "So if you're in like a depressed state, you almost would rather like stick in that than break outside of it, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EFCD822F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "So there's something about things that are familiar rather than actually better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "370F78DB06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 42,
+        "endOffset": 50,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F5D7FF1064",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And I don't know, there's a bias towards, you know, you almost identifying then with those kinds of states.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59727269E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "BSL: Yeah, there's research on this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EAA15D631",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "One, it's called the status quo bias.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56CB54209A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "People like things that are already there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FF789A352",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "And two",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "032C9F9D6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 88,
+        "endOffset": 100,
+        "text": "believe them",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "00FC5BB4FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "So that is true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36C1000330",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 10,
+        "endOffset": 41,
+        "text": "what does that look like in AI?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4F98B5C85E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 244,
+        "text": "(Laughter) KG: I mean, it's definitely interesting to me that people seem to love like, you talk to a lot of these things and they sound like computers and they sound like AI, but people love it because it's kind of familiar, it's controllable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0AD0014F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 238,
+        "text": "If you start to add lots of personalities and these kinds of things, it makes sense in context, but I found it interesting that as we started developing these AI systems that people interact with, they all have this kind of similar voice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D8F23140D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And it's a very \"AI voice.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "191C568501",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "You can kind of tell that you're talking to an AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65FBC1B7CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Maybe that’s intentional.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0216F7F58F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "from humans, from AI",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6E477C0786",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "But that could blend, there's already lots of, you know, people in certain demographics who spend a lot of time on the internet and they start to identify, that's their favorite form of interacting with people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17023D8155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "And so I do think that there's a reality where, as we move into the future, there will be people who bias towards that for whatever reasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3459367BD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "Whether it's the comfort of knowing that someone's not judging them, whether it's like the format that it speaks to you with, that will kind of bias towards preferring those types of interactions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6445A46624",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "But on the other hand, I always think there’ll be a distribution of people, and you'll have some people who really don't like it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FBCB7FE6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "And, you know, like I was saying, the more that I interact with it now, I find it almost painful because I just pick up on so many of these issues that you're like, I can't even use it at a certain point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F90B5CDDCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 5,
+        "endOffset": 13,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8146ED3F63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 15,
+        "endOffset": 26,
+        "text": "you'd think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B6B23A768D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 5,
+        "endOffset": 13,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "87B6BD6441",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And, you know, you'd think that, like, you know, I’m in the AI space, and I write 20-page docs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A299C2DCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "I don't need AI for a single bit of it because it does remove that voice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "315322BE82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 63,
+        "endOffset": 167,
+        "text": "will they either identify the differences or start to conform to the things that they're trained with AI",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8FD6521A6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "And I do also wonder, though, as people interact with it more, will they either identify the differences or start to conform to the things that they're trained with AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EBB8071C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 64,
+        "endOffset": 70,
+        "text": "right?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "14A4C62B6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "It's the same as if you interact with your partner for example, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A8292BEDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "You start to be biased by the communication because you're talking so much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFC72A7042",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "BSL: You mean they're training you?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FF77E352F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "KG: They're training you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9BD1FB69E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 31,
+        "endOffset": 39,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5A47E1438A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Your partner is probably like, you know, they have a preferred way of communicating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "386C09435C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "You get used to it, these kinds of things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E809D9CA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "So I do wonder if, as people interact with AI more, that they'll kind of all converge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A96A8775DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "That's probably one of my biggest fears actually of AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1904BFEA0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "BSL: I'm concerned about the exact opposite.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF60BD5084",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I'm going to shift a little bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81E17EACBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "So when we talk about AI, what you're describing, it's usually like dyadic interactions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "128B435446",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Like, I'm interacting with one AI, one agent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72E86D2791",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 60,
+        "endOffset": 66,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F612846EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "But really what people do is interact with multiple people, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E8259B28D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "You interact",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E98F1DC0F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "You interact in some community or some small group setting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71288F10B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And I'm surprised that there's not more of that in AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D2143B633",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 3,
+        "endOffset": 14,
+        "text": "you're also",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C8F9580560",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So you're also in gaming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FDDB986B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "I don't really game, but my understanding is that a lot of the gaming is about connecting with the people, and it's a community kind of experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B229A65ED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So there's two things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3DA24C1CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 67,
+        "endOffset": 90,
+        "text": "one-on-one interactions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3DAD121BFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "One, I'm really surprised that AI seems so focused on these, like, one-on-one interactions as opposed to like, multiple AI agents creating a more immersive social experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0DC3FB1B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 4,
+        "endOffset": 28,
+        "text": "I love you brought it up",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FA2F9B56E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "KG: I love you brought it up because that's really what we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1B6BD5829",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "BSL: Good, so that's one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15B462C66E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 206,
+        "text": "Other thing, like, the reason I worry less about convergence and more about divergence is if you could produce a more immersive social experience, now everybody’s having their individual social experiences.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F73A9A757A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "Like now, what I worry about with AI, with VR, with all these kind of technologies that are expanding, what we can control about our social environment, about our physical perceptions in the environment, is that we all inhabit our own singular world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5348F09D5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "That is more frightening to me than like, you know, that we all converged in the same experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81EF02BBFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 231,
+        "text": "KG: Well, my mom’s a grade-seven teacher, and the one thing that she said is really interesting is if you went back like 20 years, everybody was watching the same TV shows, and they come to class and they'd all be talking about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC7022D882",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And now everybody watches their own favorite YouTube channel.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "481D547240",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 13,
+        "endOffset": 31,
+        "text": "siloing of reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E4A6E9D1C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And it's the siloing of reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3571497E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "Like, what we do is when we work with games, for example, one of the interesting things is like, as people play through games, it's basically the same thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC3EBEFE16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "You could have a million people go through a game, and it’s some differences but you're largely going to hit the same points.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "218A5F284D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And so one of the things that we think about is, what does that mean for agency?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "124CC4DFDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "The way we interact with media changes the way that we feel agency in the world.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EEBBC94FFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So if we see inert media that we can't change, it also gives you this sense that you can't change the world.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "96D0CBF3F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "And so to your point, one of the things that we want to do with games is, how do you make it so that each person can actually influence that outcome?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F2386C5155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "And as you add more agents into that, that you see, OK, I interact with this one and it has a cascade effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D96275728",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "I love it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "908F18B6A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 51,
+        "endOffset": 119,
+        "text": "the magic actually happens when you do have those agents interacting",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B98F86AD49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 121,
+        "endOffset": 249,
+        "text": "because then you’re also not just seeing like that one-to-one interaction but the emergent effect of basically that interaction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22727CCD78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 303,
+        "text": "And another thing is, if your main controls that you have in the computer is like point-and-click or, in games, jump and shoot, we're trying to see like, what does it mean if social skills like interaction like this, are the ways that you actually interact with the games, the technology and the agents.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF7B424304",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "That’s a very different way of conversing or of dialogue than button presses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "558772785B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And I think that changes the way that you sense agents in the world.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A3A9F444A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "Because I think the way that most people change the world is by speaking and interacting and interacting with other humans, not by pressing buttons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63ED992C62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I mean, arguably it's the case in some.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "696B9A30F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 5,
+        "endOffset": 138,
+        "text": "You know, the other thing that's interesting to me is I don't think people have an understanding of the systems they exist in, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3DC23437CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 118,
+        "endOffset": 216,
+        "text": "system affects like I affect you, which affects your partner, which affects your partner's parents",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "010CE4813D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 152,
+        "endOffset": 224,
+        "text": "which affects your partner, which affects your partner's parents, right?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "78B37B6546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "But I think there's something that's fundamentally human about that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32768EA2A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "That is a harder thing to grasp.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "145BE05590",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 73,
+        "endOffset": 148,
+        "text": "we had the person come and put on our makeup, and now I'm looking beautiful",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4CF8922732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1946471AFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "It's glowing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF403DE8AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "How does that fit in?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "54791F65AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "I just haven't heard people talk about it in that way, which is surprising to me, because that, I think, is what fundamentally makes humans human.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98A6584F3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "It's interaction and complex social situations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C70FFED39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "KG: And these like, nested systems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E740ABFF49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 38,
+        "endOffset": 44,
+        "text": "right?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8814A9E97B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "You think that your small activity doesn't affect whatever higher-level political stuff, but it's all aggregate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D64E10D03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And it's all interlinking as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E586F02281",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "I mean, it's like the AI thing is interesting too, because I often hear people talk about it as like this evolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99A6CD9137",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 25,
+        "endOffset": 66,
+        "text": "singular cells to monkeys to humans to AI",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8E3178527E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "Whereas like, you could flip it, where it's like more like, you know, cells to organs to human to AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08D1823846",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 190,
+        "text": "It's a system overarching that just because it's trained on us and we do these things, that we actually influence that system, now that people are interacting with it, it has this interplay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D5A564A4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And that's interesting too, when it becomes like, you know, AI isn't this singular entity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2005B0301D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "It is more of an institution or a system almost that is kind of overarching everything else.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89E54E18DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 5,
+        "endOffset": 68,
+        "text": "And it's also weird because it's like our vision of who we are.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F4995CCB71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "So when we talk about AGI, it's like we don't even know what intelligence is and we think we're going to produce something that has it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E381AB7EC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "It's just an interesting situation where we talk about it, as you said, it's natural evolution, but in fact we’re creating it, and it's not clear that we know exactly what it is we're creating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F9BD03751",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "KG: I actually think that one of the most interesting things is that we're starting to work on AI at a point where, like, I still think we're figuring out, you know, ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61BCAB5BE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "Neuroscience is very early on in its days, and yet we're creating things that are like, based on our own intelligence, and we don't really understand even what's going on inside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "119C8901FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And so to your point on, what are the effects?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "79B8B44E9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "We don't really know yet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EA831DA79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Every year a new paper comes out and changes how people think about child rearing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03C82787F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Like how to bring up a child well, like all those kinds of things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCFD5DC818",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And now we're creating systems that will, you know, kind of be overarching other humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F69FDB50FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What does that mean, I don't know.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "491C0B50C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I do actually think, I happen to be in AI, we happen to be at this point in time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1F46056EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 62,
+        "endOffset": 111,
+        "text": "another few centuries of figuring out what we are",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ED95A13200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 36,
+        "endOffset": 60,
+        "text": "I think it would be good",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B99BD6EF96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 15,
+        "endOffset": 105,
+        "text": "kind of just, you know, it's kind of like taking a photograph and like painting it, right?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B889F145E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "You're not actually getting the person and painting it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4EF40E252",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "There's something about the life that's missing there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BECBE0BEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "So I do agree.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22C9F82B3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "I think that we're honestly kind of premature, but I think it's just how, I guess, you know, life goes that things come out when they naturally should.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE91A2FD67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 5,
+        "endOffset": 81,
+        "text": "So, I mean, you work in AI, so what's the most exciting thing for you in AI?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "67B63772D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "What's your hope for it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "47E5A3FF10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "KG: I think it's kind of back to that agency question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33CD94C1E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 21,
+        "endOffset": 99,
+        "text": "you read a news story, you read a book, you watch a movie, you watch a TV show",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A84D68F699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 11,
+        "endOffset": 19,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "52E2A00E55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 144,
+        "endOffset": 324,
+        "text": "there's something about the communication that we're having right now where, like, I'm adapting to the things that you say, to your body language, all those kinds of things, right?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BCA9CC9EBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "To, like, the people in the room we have here, all these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D718D2293E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And so when you have ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61785F2404",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "AI able to, sort of, help that adaptation so that you have that agency in the things that you interact with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAD292C7CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "I don't necessarily believe in fully personalized media because I think we need like a shared social context.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35B74201E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 83,
+        "endOffset": 89,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1582D737BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "The reason we watch a movie or a TV show is because then we can all talk about it, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2F037C045",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "But there is something about the fact that we're all interacting with these internet objects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9255C02F26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And so the way that technology feels, you're on a screen, it doesn't change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25CDA490FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "You're in a movie, it doesn't change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "921CDECCE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "You're watching Netflix, it doesn't change depending on what you do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE732168A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And I think that changes the way we see our own agency in the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0451F62365",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 221,
+        "text": "And so I hope with AI that one of the things that it does is kind of opens this door to agency in the way that we interact with media and technology in general, such that we do notice that effect that you have on systems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "539F5BCB1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 227,
+        "text": "Because even if it's small, right, where I take a certain action and it completely changes an app or it changes an experience, maybe that helps us learn that we have an effect in the social systems as well that we're affecting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E76D1E197",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So something to that effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D36D7300E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "BSL: So you want to make our agency more transparent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6C38562FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 31,
+        "endOffset": 38,
+        "text": "because",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8AEB656145",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And do you think it does that, because right now I'm not sure it doesn't obfuscate our agency.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "113F93B2A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "KG: No I don't necessarily know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22A1EC864B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "I agree, I mean this is why I think also media and games is, you know, the domain I mainly focus on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39BDAB73EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And I think it's interesting, especially because young people use it a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CF0FA4424",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "And so I've heard very veteran game developers say how people interact with games kind of trains kids how they should interact with the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A8B5F70BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "So even people who tend to be professional players in different games have different psychological profiles because they bias towards certain ways of interacting and seeing the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "637FF67FDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "The same way, I guess, if you trained in something academic, right, you have a different way of viewing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D9F193F9F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "And so if we make games and media in a way that you feel that sort of social impact as well, maybe, maybe it opens the door to like, another realm of understanding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C87FD9EF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 86,
+        "endOffset": 112,
+        "text": "false sense also of agency",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "27BA7D475E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 74,
+        "endOffset": 77,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "058609A065",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 5,
+        "endOffset": 44,
+        "text": "So where do you think things are going?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E96097F9DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So there's obviously a huge race among some very, very well-resourced organizations over AI, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C58746A1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "You know, Microsoft, Google, I mean, are the biggest maybe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FA074CA56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And they are very quickly going to need to monetize it because this is what those companies are designed to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D0BB233D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Like what do you foresee?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB66B71970",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Because I just look at social media as an example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA8DFA3CAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 78,
+        "endOffset": 108,
+        "text": "new way to connect with people",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E2ED6FBA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 147,
+        "endOffset": 155,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "336835A10F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 147,
+        "endOffset": 150,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5412AC5D27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And it changed into something else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32446124D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "In large part because of the way it was monetized, like going to ads, focus on attention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "557A508E3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "What's the trajectory of AI?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A05220A1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "704AFC6019",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 48,
+        "endOffset": 70,
+        "text": "I won’t hold you to it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C59D92A832",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "BSL: Yeah, of course, we're all taking guesses, I won’t hold you to it, don’t worry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C77F3C087",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "KG: I think that the reality is, we were kind of mentioning before about the challenges of scale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99485D4286",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And when you invest tens of billions of dollars in something, you need scale.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7F0E5B718",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 113,
+        "endOffset": 137,
+        "text": "the economic model of it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "12C28C9E80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 220,
+        "text": "And I think that's one of -- the way that AI is developed and specifically even the types of models we're using, the economic model of it, which is effectively the more compute you have, the better models you can create.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5A9400007",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "The better models you can create, the more usage you get.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABD1F615AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "The more usage you get, the better.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A00CDFCAF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 40,
+        "endOffset": 61,
+        "text": "monopolistic tendency",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7D78E7979",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "So it has somewhat of a, honestly, like monopolistic tendency, I think, in the way that actually even like the architectures and the economy of it works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBAECED45A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "And so I think it's almost inevitable that whatever AI systems are produced by these large organizations will be pushed to scale as quickly as possible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "474C4CB479",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 44,
+        "endOffset": 52,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A556FD3C07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "And there's some pluses in that where like, you know, sure, they're building in feedback loops, people can give their input, it biases it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAB24B96BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 27,
+        "endOffset": 44,
+        "text": "what does it mean",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C544BD7ADD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "But also at the same time, what does it mean when a single model is fit to a billion people, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F21D15105",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "So that's kind of what I meant about the converging effect where, what happens when we are pushed to produce something that fits to a billion people?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E56B22A5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "There's a lot of diversity in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A402059AD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And so, you know, we create these scaled systems that are fitting with the whole, like, trying to fit the whole planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB7BAB09C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Does that work?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5D85B45F97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 26,
+        "endOffset": 34,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3FDE68A5BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "And so I think what will, you know, we're going to go through this phase where like, yeah, you're going to have a billion people interacting the same AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C95668422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And I don't know what the effect of that will be.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA5B14E013",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Even the monetization models now are kind of you pay to use these kinds of things",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1EF5D120EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 83,
+        "endOffset": 154,
+        "text": "which are maybe OK, but certainly ads will probably enter the equation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D33AD869CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Also, what happens when you want attention",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9E9433610A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 43,
+        "endOffset": 132,
+        "text": "and AI is much better at that than the algorithms you even have on YouTube and Instagram.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D0BC82060",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "228",
+        "end": "228",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And you can start to capture that attention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D84D73DC95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "229",
+        "end": "229",
+        "startOffset": 0,
+        "endOffset": 248,
+        "text": "And so I certainly think it's going to be an interesting little bit here now, as we see these huge organizations spending tens of billions of dollars and the choices that they make to then monetize that, and what that means for how AI proliferates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E95E65316C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "I know a lot of the folks in the organizations, and their interests have never been in that domain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "179B0F226F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "231",
+        "end": "231",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "But at the same time, you're beholden, you know, to stock market interests and whatever it is, then what happens?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4AE036C3C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "232",
+        "end": "232",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "It shifts it, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F27D1CD127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "233",
+        "end": "233",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We're in a capitalist world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D91B1318BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "234",
+        "end": "234",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And that's kind of like, you know, what ultimately will change the incentives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23D9AA310C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "235",
+        "end": "235",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So yeah it's interesting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19BF118887",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "236",
+        "end": "236",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "I mean I am interested in, coming from your background, you have a very different stance on it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C8B65CD440",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "237",
+        "end": "237",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But, you know, it's all this AI stuff is interesting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF14B47399",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "238",
+        "end": "238",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "But, you know, when you think, almost to your first question",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8A098D87B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "238",
+        "end": "238",
+        "startOffset": 60,
+        "endOffset": 240,
+        "text": ", what makes us human and like as people, just technology in general and specifically with AI, like where can people find the meaning in their life, the values that they find true?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E56FE0F480",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "239",
+        "end": "239",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And how will that change, do you think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "52634CAB4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "239",
+        "end": "239",
+        "startOffset": 38,
+        "endOffset": 96,
+        "text": ", I guess, with like the advent of these new technologies?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A677E220EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "240",
+        "end": "240",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Or how have you seen it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E42C036F14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "240",
+        "end": "240",
+        "startOffset": 24,
+        "endOffset": 85,
+        "text": "change with the technologies we've already seen come to life?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5FC3BB5556",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "241",
+        "end": "241",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "BSL: This is going to sound like a funny answer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25542E7F90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "242",
+        "end": "242",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "I think people are too worked up about technology, personally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "929F0EF85E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "243",
+        "end": "243",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "I mean, you know, we had this conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "527E15E9FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "244",
+        "end": "244",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "I think, you know, people have been using technology since we've been human.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFEE8BB685",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "245",
+        "end": "245",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So paper was a huge invention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5748175376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "246",
+        "end": "246",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Talked about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6342CCD649",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "247",
+        "end": "247",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "The printing press, huge invention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "921B359419",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "248",
+        "end": "248",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Computer, huge invention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA97E2B1B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "249",
+        "end": "249",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Internet, huge invention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A166A4869",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "250",
+        "end": "250",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "AI, great, another huge invention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C32FCAADA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "251",
+        "end": "251",
+        "startOffset": 25,
+        "endOffset": 132,
+        "text": "I think what you see in a lot of the biggest technologies is the desire to connect with other human beings.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F49BDD0AA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "252",
+        "end": "252",
+        "startOffset": 0,
+        "endOffset": 216,
+        "text": "I think what fundamentally makes us human is our connection to other human beings, our ability to engage with other human beings, and like consciousness and all these other things I think are necessary preconditions.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FED25F052F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "253",
+        "end": "253",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "But really, what makes us human is connections with other humans.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7424F0DE37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "254",
+        "end": "254",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And that is incredibly complex.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17C19A0502",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "255",
+        "end": "255",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And I don't think we're close in terms of technology of replicating that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "696B910DAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "256",
+        "end": "256",
+        "startOffset": 32,
+        "endOffset": 103,
+        "text": "it's like you have this feeling of like, this isn't right, this is off.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AC7481B4A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "257",
+        "end": "257",
+        "startOffset": 40,
+        "endOffset": 91,
+        "text": "it still would be off in ways you didn't quite get.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "36236771A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "258",
+        "end": "258",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "I don't think we're close.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00E6BDEF20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "259",
+        "end": "259",
+        "startOffset": 75,
+        "endOffset": 142,
+        "text": "I think it impedes our ability to do what we all kind of want to do",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0FAB2C20F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "260",
+        "end": "260",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And it might change the way we interact with each other in a way that might feel less fulfilling.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B93FD532B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "261",
+        "end": "261",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And I think you see some of that in social interactions now.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "310909079A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "262",
+        "end": "262",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Some of that I mean, recently maybe, COVID was an issue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDA158F3E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "263",
+        "end": "263",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "But, you know, people feeling less comfortable in face-to-face interactions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA8F4A69E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "264",
+        "end": "264",
+        "startOffset": 20,
+        "endOffset": 84,
+        "text": "there's no serendipity in hanging out and you meet who you meet.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2A116CF897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "265",
+        "end": "265",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "It's like you're using an algorithm to try to present to you options.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BDFCCA7E43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "266",
+        "end": "266",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "That's a very different world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01521A423A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "267",
+        "end": "267",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So even that's prior to AI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6464C7C220",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "268",
+        "end": "268",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And I don't know how AI is going to further influence that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "584309486B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "269",
+        "end": "269",
+        "startOffset": 50,
+        "endOffset": 98,
+        "text": "how core do you think the need for connection is",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EF2206563F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "270",
+        "end": "270",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And then it's taken years to overcome that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3C1B2C21A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "271",
+        "end": "271",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "So I do also wonder, like, you know, whether it's through technology or things like COVID or just like circumstances, could we lose that need for connection?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9BAF7EE98E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "272",
+        "end": "272",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Or even if we need it, you know, we might lose the desire for it and feel emotional trauma as a result, but still not go for it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F5E2220699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "273",
+        "end": "273",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Like, how core do you think it is?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A03D2B661D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "274",
+        "end": "274",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And do you think we're safe in that kind of need?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "95777A5555",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "275",
+        "end": "275",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "BSL: So I'm going to give you the most extreme answer, which is I think the true one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC5463BDC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "276",
+        "end": "276",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "That you will cease to be human if you don't have a need for human connection.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CDC2BE06A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "277",
+        "end": "277",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Like I think you will be a physical person, but you will literally break down as a human being.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8B99F64A04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "278",
+        "end": "278",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And this is why in part -- Social isolation or solitary confinement is considered inhumane.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6880D33918",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "279",
+        "end": "279",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Because people literally break down, you will start to have hallucinations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A74798F62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "280",
+        "end": "280",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "You will break down mentally and physically absent human connection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "948EEC7D87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "281",
+        "end": "281",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So I don’t think there’s any possibility, in my mind, of losing the need.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB81108AA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "282",
+        "end": "282",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Like, you may get less than you need, and that will have negative consequences for you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B1F16FEFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "283",
+        "end": "283",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "But I'm not worried about people not wanting to be around people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2691BC34A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "284",
+        "end": "284",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "KG: Are you worried that, like, things like social media or AI or any of these things could give you that sense that you're fulfilling that need, but not actually fulfilling it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "61D495C539",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "285",
+        "end": "285",
+        "startOffset": 19,
+        "endOffset": 25,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9847303579",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "285",
+        "end": "285",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's totally true, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3316CF4083",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "286",
+        "end": "286",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Solitary confinement is a great example because we need it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A449C849E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "287",
+        "end": "287",
+        "startOffset": 14,
+        "endOffset": 29,
+        "text": "lose our sanity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D9ADA96A74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "287",
+        "end": "287",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "We absolutely lose our sanity as well as, you know, our well-being.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F1B2B9541",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "288",
+        "end": "288",
+        "startOffset": 18,
+        "endOffset": 26,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "73B4D31653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "288",
+        "end": "288",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "But maybe we can, you know, technology can manufacture the sense that we're fulfilling it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FAE34A148",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "289",
+        "end": "289",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And then over time, we see these mental health crises evolve as a result?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F3EA57F7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "290",
+        "end": "290",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "BSL: Yeah, that's a good question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4009A0211C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "291",
+        "end": "291",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "I think it's unlikely, but I don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4034760DC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "292",
+        "end": "292",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Honestly I don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A67CAD50E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "293",
+        "end": "293",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I'll talk about meaning for a second.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25B9508757",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "294",
+        "end": "294",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And I think of that as fundamentally tied to our need for connection to other people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A33A3A614",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "295",
+        "end": "295",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "I think sometimes we confuse, for example, our need for meaning, with a desire for personal achievement.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B86B1312E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "296",
+        "end": "296",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "That we chase personal achievement and what we're trying to do is generate meaning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA79F63596",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "297",
+        "end": "297",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "So I think we can be confused and we can have those needs displaced into less productive routes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "488F76ECCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "298",
+        "end": "298",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "But I don't think it's going away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "196B7ECDC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "299",
+        "end": "299",
+        "startOffset": 5,
+        "endOffset": 13,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A9B89BE38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "299",
+        "end": "299",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But, you know, I don't know that it's the healthiest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAE252C4E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "300",
+        "end": "300",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "KG: No, I'm totally aligned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9ABF9CD52F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "301",
+        "end": "301",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Thank you, Brian, that was an awesome conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42C2683706",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "302",
+        "end": "302",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "BSL: It was great to talk to you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39087A5F66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "303",
+        "end": "303",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Really fantastic and super informative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C15EEFDE64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "304",
+        "end": "304",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "490A8C2BE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

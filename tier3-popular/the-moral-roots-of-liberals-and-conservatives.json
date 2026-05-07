@@ -1,0 +1,4571 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10162,
+  "title": "The moral roots of liberals and conservatives",
+  "author": "Jonathan Haidt",
+  "url": "https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:20:17.120298Z",
+  "updated_at": "2026-05-07T12:20:17.120298Z",
+  "lead_time": 186.378,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Suppose that two American friends are traveling together in Italy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9074E39AB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 106,
+        "endOffset": 133,
+        "text": "freeze dead in their tracks",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A7DBD53814",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "They go to see Michelangelo's \"David,\" and when they finally come face-to-face with the statue, they both freeze dead in their tracks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B9BE08859",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "The first guy -- we'll call him Adam -- is transfixed by the beauty of the perfect human form.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2088F4DB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "The second guy -- we'll call him Bill -- is transfixed by embarrassment, at staring at the thing there in the center.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5598841F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "So here's my question for you: Which one of these two guys was more likely to have voted for George Bush, which for Al Gore?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "832937BBBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "I don't need a show of hands, because we all have the same political stereotypes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94D4705E3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "We all know that it's Bill.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "94A811DB7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And in this case, the stereotype corresponds to reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C26733E863",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 15,
+        "endOffset": 68,
+        "text": "fact that liberals are much higher than conservatives",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2950AC0831",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "It really is a fact that liberals are much higher than conservatives on a major personality trait called openness to experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82DB264073",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "People who are high in openness to experience just crave novelty, variety, diversity, new ideas, travel.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3BA9718419",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "People low on it like things that are familiar, that are safe and dependable.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8A32C583FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "If you know about this trait, you can understand a lot of puzzles about human behavior, like why artists are so different from accountants.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B0ECD79642",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "You can predict what kinds of books they like to read, what kinds of places they like to travel to and what kinds of food they like to eat.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D50C39E4A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 55,
+        "endOffset": 118,
+        "text": "anybody would eat at Applebee's, but not anybody that you know.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FCCF053A7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 11,
+        "endOffset": 57,
+        "text": "This trait also tells us a lot about politics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2D01D1D1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 86,
+        "endOffset": 94,
+        "text": "affinity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0DD6228AB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "The main researcher of this trait, Robert McCrae, says that \"Open individuals have an affinity for liberal, progressive, left-wing political views ...\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "618A939A13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "They like a society which is open and changing, \"... whereas closed individuals prefer conservative, traditional, right-wing views.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D2C70EE07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "This trait also tells us a lot about the kinds of groups people join.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59B249E74F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Here's the description of a group I found on the web.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1FA10F719",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "What kinds of people would join",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "05CF86B019",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 227,
+        "text": "What kinds of people would join \"a global community ... welcoming people from every discipline and culture, who seek a deeper understanding of the world, and who hope to turn that understanding into a better future for us all\"?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B010B571F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This is from some guy named Ted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CE0DC2B7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Well, let's see now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7982A9B246",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "If openness predicts who becomes liberal, and openness predicts who becomes a TEDster",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E5963F8C01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 92,
+        "endOffset": 108,
+        "text": "might we predict",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6DD925C91F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "If openness predicts who becomes liberal, and openness predicts who becomes a TEDster, then might we predict that most TEDsters are liberal?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "369414DC73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Let's find out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "330C2C295D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I'll ask you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4DC2726213",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "I'll ask you to raise your hand, whether you are liberal, left of center -- on social issues, primarily -- or conservative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E8C32B2D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And I'll give a third option, because I know there are libertarians in the audience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9A6F8F7D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "So please raise your hand -- in the simulcast rooms too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E2166D80A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Let's let everybody see who's here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13C5DBC3FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Please raise your hand if you'd say that you're liberal or left of center.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA9B019BEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Please raise your hand if you'd say that you're liberal or left of center.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F77C4443E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Please raise your hand high right now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43EBC129B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DBB8B4162",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Please raise your hand if you'd say you're libertarian.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B441BD8BB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5801737EAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "About two dozen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "746CE5C333",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And please raise your hand if you'd say you are right of center or conservative.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3096E9C61A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "One, two, three, four, five -- about eight or 10.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80260EC65A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97E7BDD296",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "This is a bit of a problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C30C8C1B10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "Because if our goal is to seek a deeper understanding of the world, our general lack of moral diversity here is going to make it harder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC5EF84D6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Because when people all share values, when people all share morals, they become a team.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "75AB23C166",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And once you engage the psychology of teams, it shuts down open-minded thinking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D384A584BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "When the liberal team loses, [United States of Canada / Jesusland] as it did in 2004, and as it almost did in 2000, we comfort ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4B5FD8CCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 11,
+        "endOffset": 74,
+        "text": "We try to explain why half of America voted for the other team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "007EA8C2EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "We think they must be blinded by religion [Post-election US map: America / Dumbf*ckistan].",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "041746E838",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 33,
+        "endOffset": 219,
+        "text": "So if you think that half of America votes Republican because they are blinded in this way, then my message to you is that you're trapped in a moral Matrix, in a particular moral Matrix.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "609637C58F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 8,
+        "endOffset": 18,
+        "text": "the Matrix",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "565CD42A9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 66,
+        "endOffset": 76,
+        "text": "The Matrix",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C67C279217",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 27,
+        "endOffset": 39,
+        "text": "you a choice",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "558249C9B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 153,
+        "endOffset": 165,
+        "text": "moral Matrix",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "31A30C9BF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 15,
+        "endOffset": 102,
+        "text": "take the blue pill and stick to your comforting delusions, or you can take the red pill",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2F24D0D60D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Now, because I know -- (Applause) I assume that answers my question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3A52EFC44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "I was going to ask which one you picked, but no need.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B89F81DF27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 75,
+        "endOffset": 85,
+        "text": "taste good",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E447357DD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 91,
+        "endOffset": 101,
+        "text": "you're all",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0AA2803328",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 8,
+        "endOffset": 89,
+        "text": "let's go with the red pill, study some moral psychology and see where it takes us",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "53AC9ABC6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 30,
+        "endOffset": 46,
+        "text": "What is morality",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "015ACAEC4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "The worst idea in all of psychology is the idea that the mind is a blank slate at birth.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F6B0EE7A94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 222,
+        "text": "Developmental psychology has shown that kids come into the world already knowing so much about the physical and social worlds and programmed to make it really easy for them to learn certain things and hard to learn others.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D21E148F32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "The best definition of innateness I've seen, which clarifies so many things for me, is from the brain scientist Gary Marcus.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64128BFD97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "He says, \"The initial organization of the brain does not depend that much on experience.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BF65D3230",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 18,
+        "endOffset": 29,
+        "text": "first draft",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2622AAC9B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 53,
+        "endOffset": 60,
+        "text": "revises",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2B265ADE2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "'Built-in'",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A8163161BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 7,
+        "endOffset": 50,
+        "text": "what's on the first draft of the moral mind",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DA629AA16E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 11,
+        "endOffset": 52,
+        "text": "Sports is to war as pornography is to sex",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "140C3E8319",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "We get to exercise some ancient drives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA7B9E0D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "The fourth foundation is authority/respect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8C39FD31C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 13,
+        "endOffset": 32,
+        "text": "submissive gestures",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BC9DDC0193",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "But authority in humans is not so closely based on power and brutality as it is in other primates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A14926DA57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It's based on more voluntary deference and even elements of love, at times.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC2749E4F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "The fifth foundation is purity/sanctity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "719C11E9B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 25,
+        "endOffset": 49,
+        "text": "The Allegory Of Chastity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6181E5A0EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "It's about any kind of ideology, any kind of idea that tells you that you can attain virtue by controlling what you do with your body and what you put into your body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33C71E58F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "And while the political right may moralize sex much more, the political left is doing a lot of it with food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC10764FB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Food is becoming extremely moralized nowadays.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62E8F5B531",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 15,
+        "endOffset": 33,
+        "text": "ideas about purity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5C26686030",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I believe these are the five best candidates for what's written on the first draft of the moral mind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDBBD3DED6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "I think this is what we come with, a preparedness to learn all these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A00B69B74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 54,
+        "endOffset": 99,
+        "text": "how is this first draft going to get revised?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BF7DB2296C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And how will it end up being different from a kid born 60 miles south of us, in Lynchburg, Virginia?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "13D4C46CED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 44,
+        "endOffset": 64,
+        "text": "a different metaphor",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A85D84FD28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 134,
+        "endOffset": 186,
+        "text": "one of those audio equalizers that has five channels",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "16199FD9B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 101,
+        "endOffset": 119,
+        "text": "www.YourMorals.org",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "64D08EE6E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 61,
+        "endOffset": 73,
+        "text": "you can, too",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A4167D461",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Here are the results from about 23,000 American citizens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91640D5C04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "On the left are the scores for liberals; on the right, conservatives; in the middle, moderates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "596F796973",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "The blue line shows people's responses on the average of all the harm questions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B64F9310C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So as you see, people care about harm and care issues.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86AF2ACA8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "They highly endorse these sorts of statements all across the board, but as you also see, liberals care about it a little more than conservatives; the line slopes down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FBDF7E000",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Same story for fairness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54363BD820",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "But look at the other three lines.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BD02207693",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "For liberals, the scores are very low.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "394B039375",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 27,
+        "endOffset": 48,
+        "text": "This is not morality.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "28EA396954",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "In-group, authority, purity -- this has nothing to do with morality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F73F9105CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I reject it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D65CFB76A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But as people get more conservative, the values rise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D58B03AF43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 27,
+        "endOffset": 65,
+        "text": "two-channel or two-foundation morality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7FABF69F40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 29,
+        "endOffset": 70,
+        "text": "five-foundation, or five-channel morality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C180F1084D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "We find this in every country we look at.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E3762E631",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Here's the data for 1,100 Canadians.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8810FD034",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I'll flip through a few other slides.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4218233924",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "The UK, Australia, New Zealand, Western Europe, Eastern Europe, Latin America, the Middle East, East Asia and South Asia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE33589804",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 54,
+        "endOffset": 92,
+        "text": "steeper on in-group, authority, purity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C559801DB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "I mean",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "82CCCE04FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 8,
+        "endOffset": 87,
+        "text": "we debate over what's fair, but everybody agrees that harm and fairness matter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9374702D3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Moral arguments within cultures are especially about issues of in-group, authority, purity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "554801EB21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "This effect is so robust, we find it no matter how we ask the question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49074DA695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 19,
+        "endOffset": 34,
+        "text": "we asked people",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F17DE46FB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 36,
+        "endOffset": 126,
+        "text": "suppose you're about to get a dog, you picked a particular breed, learned about the breed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0621A5AF14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Suppose you learn that this particular breed is independent-minded and relates to its owner as a friend and an equal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E94B7DDA73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 21,
+        "endOffset": 45,
+        "text": "you say, \"That's great!\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A9843955AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 31,
+        "endOffset": 37,
+        "text": "Fetch!",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2FC2971544",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Please.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "549573E0B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Please.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A0B81C9EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 18,
+        "endOffset": 24,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C18FF69B64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 10,
+        "endOffset": 32,
+        "text": "conservative and learn",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6DB334E1B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 155,
+        "endOffset": 177,
+        "text": "dogs ought to be loyal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6304B83FEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 38,
+        "endOffset": 82,
+        "text": "dog is running for the Republican nomination",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C52FE6F9F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4670211E74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 31,
+        "endOffset": 74,
+        "text": "xenophobia, authoritarianism and puritanism",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "60F65C0D3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "What makes them moral?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8D4B2C1E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "The answer, I think, is contained in this incredible triptych from Hieronymus Bosch, \"The Garden of Earthly Delights.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03F82569C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "In the first panel, we see the moment of creation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "347D63B2D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "All is ordered, all is beautiful, all the people and animals are doing what they're supposed to be doing, are where they're supposed to be.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A7F261DEA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "But then, given the way of the world, things change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4511C7DF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 7,
+        "endOffset": 109,
+        "text": "every person doing whatever he wants, with every aperture of every other person and every other animal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A33D8169D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Some of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FA58639BAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48C5887CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 11,
+        "endOffset": 117,
+        "text": "But the '60s inevitably gives way to the '70s, where the cuttings of the apertures hurt a little bit more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FC3E379B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 29,
+        "endOffset": 33,
+        "text": "hell",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DA9B568178",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 50,
+        "endOffset": 64,
+        "text": "timeless truth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CCD28DF7FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 4,
+        "endOffset": 27,
+        "text": "truth of social entropy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "19962CB9B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 511,
+        "text": "But lest you think this is just some part of the Christian imagination where Christians have this weird problem with pleasure, here's the same story, the same progression, told in a paper that was published in \"Nature\" a few years ago, in which Ernst Fehr and Simon Gächter had people play a commons dilemma, a game in which you give people money, and then, on each round of the game, they can put money into a common pot, then the experimenter doubles what's there, and then it's all divided among the players.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3456799FAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 10,
+        "endOffset": 21,
+        "text": "nice analog",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8A1DBE69DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DEEF6703C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "What happens is that, at first, people start off reasonably cooperative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "698A294C19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "This is all played anonymously.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADF39B93D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "On the first round, people give about half of the money that they can.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C0EE7A9DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "But they quickly see other people aren't doing so much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "463E85716D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "\"I don't want to be a sucker.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5E90618B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "\"I won't cooperate.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FB6A1734F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So cooperation quickly decays from reasonably good down to close to zero.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBEDB60CD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 90,
+        "endOffset": 98,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "368CC02C31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "New rule.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E47BF847B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "If you want",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C119EB39DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "If you want to give some of your own money to punish people who aren't contributing, you can do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CBD9D0F9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "And as soon as people heard about the punishment issue going on, cooperation shoots up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15A666B025",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "It shoots up and it keeps going up.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "72116CFEB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Lots of research shows that to solve cooperative problems, it really helps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9856B56245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's not enough to appeal to people's good motives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D1FD90F5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "It helps to have some sort of punishment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E944D8030",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 52,
+        "endOffset": 60,
+        "text": "you need",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DC80DEBFA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "Even if it's just shame or embarrassment or gossip, you need some sort of punishment to bring people, when they're in large groups, to cooperate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "416C488353",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "There's even some recent research suggesting that religion -- priming God, making people think about God -- often, in some situations, leads to more cooperative, more pro-social behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5013B2C8A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "Some people think that religion is an adaptation evolved both by cultural and biological evolution to make groups to cohere, in part for the purpose of trusting each other and being more effective at competing with other groups.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D21B66F579",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "That's probably right, although this is a controversial issue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94B5D23732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "But I'm particularly interested in religion and the origin of religion and in what it does to us and for us, because I think the greatest wonder in the world is not the Grand Canyon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EDC3CB9EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "The Grand Canyon is really simple -- a lot of rock and a lot of water and wind and a lot of time, and you get the Grand Canyon.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E07BFBF69E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "The Grand Canyon is really simple -- a lot of rock and a lot of water and wind and a lot of time, and you get the Grand Canyon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4228E84DB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It's not that complicated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ADBB9632E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "This is what's complicated: that people lived in places like the Grand Canyon, cooperating with each other, or on the savannahs of Africa or the frozen shores of Alaska.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B169E23985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And some of these villages grew into the mighty cities of Babylon and Rome and Tenochtitlan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC76648899",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "How did this happen?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C42C1AEF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 8,
+        "endOffset": 24,
+        "text": "absolute miracle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6CB089AAA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 26,
+        "endOffset": 70,
+        "text": "much harder to explain than the Grand Canyon",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "965033355C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 39,
+        "endOffset": 64,
+        "text": "every tool in the toolbox",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "63D30327D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "It took all of our moral psychology to create these cooperative groups.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9ED91FCC0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 5,
+        "endOffset": 74,
+        "text": "you need to be concerned about harm, you need a psychology of justice",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0C5AFC3A42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 218,
+        "text": "But it helps to organize a group if you have subgroups, and if those subgroups have some internal structure, and if you have some ideology that tells people to suppress their carnality -- to pursue higher, nobler ends.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DECDB10B0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "Now we get to the crux of the disagreement between liberals and conservatives: liberals reject three of these foundations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "618708E146",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 11,
+        "endOffset": 69,
+        "text": "Let's celebrate diversity, not common in-group membership,",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6B82650185",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 77,
+        "endOffset": 102,
+        "text": "Let's question authority,",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6084B1C76D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 110,
+        "endOffset": 137,
+        "text": "Keep your laws off my body.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D8D40124C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Liberals have very noble motives for doing this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4E501E0F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "Traditional authority and morality can be quite repressive and restrictive to those at the bottom, to women, to people who don't fit in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F885900EFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Liberals speak for the weak and oppressed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6599E845EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "They want change and justice, even at the risk of chaos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E90F55959A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "This shirt says, \"Stop bitching, start a revolution.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47322AA3E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "If you're high in openness to experience, revolution is good; it's change, it's fun.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1835FB4243",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Conservatives, on the other hand, speak for institutions and traditions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8ACCD24BD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "They want order, even at some cost, to those at the bottom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F824D9B958",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "The great conservative insight is that order is really hard to achieve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55D51AC58B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "It's precious",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2FA1587D7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "It's precious, and it's really easy to lose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F97A5430E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 26,
+        "endOffset": 115,
+        "text": "The restraints on men, as well as their liberties, are to be reckoned among their rights.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F1E9FBADFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "This was after the chaos of the French Revolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "76CF9ECEB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Once you see that liberals and conservatives both have something to contribute",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2BCA48E22A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 195,
+        "text": "Once you see that liberals and conservatives both have something to contribute, that they form a balance on change versus stability, then I think the way is open to step outside the moral Matrix.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3FF5D9918",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "This is the great insight that all the Asian religions have attained.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C7DA37D2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Think about yin and yang.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B016607212",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Yin and yang aren't enemies; they don't hate each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D4CF36D47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 33,
+        "endOffset": 51,
+        "text": "like night and day",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "62A63B4E55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Yin and yang are both necessary, like night and day, for the functioning of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83E52D4014",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "You find the same thing in Hinduism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CCD337BAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "There are many high gods in Hinduism.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F1F8EF29C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Two of them are Vishnu, the preserver, and Shiva, the destroyer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59EE09484F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "This image, actually, is both of those gods sharing the same body.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4782E00A7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 66,
+        "endOffset": 96,
+        "text": "Vishnu as the conservative god",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C45EFBE444",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 13,
+        "endOffset": 30,
+        "text": "markings of Shiva",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F2DBE1DE2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You have",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9FF7A57547",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And they work together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A5C9DFEDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You find",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7F4EA66D97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 40,
+        "endOffset": 56,
+        "text": "deepest insights",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E0ADF9CA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 156,
+        "endOffset": 176,
+        "text": "mind's worst disease",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "358C9AD70D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 130,
+        "endOffset": 148,
+        "text": "for' and 'against'",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "88DD6A66C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 22,
+        "endOffset": 29,
+        "text": "disease",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9D3346D74D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 11,
+        "endOffset": 28,
+        "text": "you feel superior",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "215126D9DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 52,
+        "endOffset": 69,
+        "text": "you throw a stone",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3A07CCB3D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 85,
+        "endOffset": 98,
+        "text": "Do you accept",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3624702D28",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Do you accept",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F26468404E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Can you be",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A831CD4ABE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So what's the point?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FF52E2033",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "What should you do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9748AAD864",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 197,
+        "endOffset": 212,
+        "text": "righteous minds",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "27D6F34BD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 218,
+        "endOffset": 239,
+        "text": "designed by evolution",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "99DE5098A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 309,
+        "endOffset": 330,
+        "text": "blind us to the truth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "56DC8E5C2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 240,
+        "endOffset": 296,
+        "text": "to unite us into teams, to divide us against other teams",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9E77586DDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So what should you do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "765C4D3B2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Am I telling you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5EF35C6B99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 40,
+        "endOffset": 50,
+        "text": "stop, stop",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "38D34D927B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 72,
+        "endOffset": 87,
+        "text": "for and against",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "170056A731",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "No, absolutely not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2F9761E03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I'm not saying that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "803A84BCC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 95,
+        "endOffset": 105,
+        "text": "brilliance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F6BD41C6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 137,
+        "endOffset": 166,
+        "text": "make the world a better place",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4B09CA23AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 81,
+        "endOffset": 84,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "14D82ABD97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 121,
+        "endOffset": 148,
+        "text": "You're wrong, and I'm right",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "26F62E0147",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "A lot of the problems we have to solve are problems that require us to change other people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2ECF351C6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 7,
+        "endOffset": 10,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5FA4DFBA0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 266,
+        "text": "moral Matrix",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "656A89A2F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 16,
+        "endOffset": 28,
+        "text": "moral Matrix",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2D77AE0B9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Step out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "090E922732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "Step out",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A18315491C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 103,
+        "endOffset": 121,
+        "text": "self-righteousness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9D216CB0EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Think about the Dalai Lama.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97CAE19B67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 16,
+        "endOffset": 40,
+        "text": "enormous moral authority",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AB48C10127",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It comes from his moral humility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6FAD02341D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 11,
+        "endOffset": 33,
+        "text": "the point -- the point",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A21279BBAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 3,
+        "endOffset": 10,
+        "text": "I think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2EFD92E139",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "People here are passionately engaged in trying to make the world a better place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B68892492A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "But there is also a passionate commitment to the truth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9839620F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 101,
+        "endOffset": 114,
+        "text": "better future",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "00216B7C65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 76,
+        "endOffset": 85,
+        "text": "to try to",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7803262640",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "499644551A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70FF37CC83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 289,
+        "text": "To find out, my colleague Craig Joseph and I read through the literature on anthropology, on culture variation in morality and also on evolutionary psychology, looking for matches: What sorts of things do people talk about across disciplines that you find across cultures and even species?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9F879C1FD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "We found five best matches, which we call the five foundations of morality.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "227CA6D6D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "The first one is harm/care.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7F0B1CD820",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "We're all mammals here, we all have a lot of neural and hormonal programming that makes us really bond with others, care for others, feel compassion for others, especially the weak and vulnerable.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3A600BE16E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "It gives us very strong feelings about those who cause harm.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4ECA526E1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "This moral foundation underlies about 70 percent of the moral statements I've heard here at TED.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1B3628939C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "The second foundation is fairness/reciprocity.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2039A11183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "There's actually ambiguous evidence as to whether you find reciprocity in other animals, but the evidence for people could not be clearer.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DC13B94436",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "This Norman Rockwell painting is called \"The Golden Rule\" -- as we heard from Karen Armstrong, it's the foundation of many religions.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "7FBF9773F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "That second foundation underlies the other 30 percent of the moral statements I've heard here at TED.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E6D5F7417D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "The third foundation is in-group/loyalty.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C8BA880F9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "You do find cooperative groups in the animal kingdom, but these groups are always either very small or they're all siblings.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "021C66DFA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "It's only among humans that you find very large groups of people who are able to cooperate and join together into groups, but in this case, groups that are united to fight other groups.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C1DDF1F118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "This probably comes from our long history of tribal living, of tribal psychology.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8CA44B706F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "And this tribal psychology is so deeply pleasurable that even when we don't have tribes, we go ahead and make them, because it's fun.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5BB1A6B3D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

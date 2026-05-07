@@ -1,0 +1,3823 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7777,
+  "title": "The anthropology of mobile phones",
+  "author": "Jan Chipchase",
+  "url": "https://www.ted.com/talks/jan_chipchase_the_anthropology_of_mobile_phones",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:29:15.821204Z",
+  "updated_at": "2026-05-07T10:29:15.821204Z",
+  "lead_time": 139.076,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I live and work from Tokyo, Japan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2AE1A1BC2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 47,
+        "endOffset": 148,
+        "text": "and applying what we learn to think about the future in different ways, and to design for that future",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4366E2A608",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AB8411648B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And you know, to be honest, I've been doing this for seven years, and I haven't got a clue what the future is going to be like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BCF114E66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "But I've got a pretty good idea how people will behave when they get there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3578DC3DB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "This is my office.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "441A80DC81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "It's out there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C04E58C27C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "It's not in the lab, and it's increasingly in places like India, China, Brazil, Africa.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "524B60706C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "We live on a planet -- 6.3 billion people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85B064580F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "About three billion people, by the end of this year, will have cellular connectivity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B37EA2E6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And it'll take about another two years to connect the next billion after that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A9965CCF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 66,
+        "endOffset": 115,
+        "text": "we need to figure out what those people are about",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57B27D9FC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 28,
+        "endOffset": 115,
+        "text": "if we want to design for that future, we need to figure out what those people are about",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "555FD79DA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And that's, kind of, where I see what my job is and what our team's job is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "991D6EAECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Our research often starts with a very simple question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAD6C1C76C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So I'll give you an example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1AECB115A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "What do you carry?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "57955DB65C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "If you think of everything in your life that you own, when you walk out that door, what do you consider to take with you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "203B365735",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "When you're looking around, what do you consider?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9D32898F2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Of that stuff, what do you carry?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E8972F996B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And of that stuff, what do you actually use?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C85BCD2488",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 169,
+        "endOffset": 209,
+        "text": "spiritual, emotional or functional value",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF10894E76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 210,
+        "text": "So this is interesting to us, because the conscious and subconscious decision process implies that the stuff that you do take with you and end up using has some kind of spiritual, emotional or functional value.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AD43C8D3B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "And to put it really bluntly, you know, people are willing to pay for stuff that has value, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8134A892F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "So I've probably done about five years' research looking at what people carry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6351C946F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "I go in people's bags.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D533DC3D5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I look in people's pockets, purses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F44AA1141",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I go in their homes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB7F3A3FE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And we do this worldwide, and we follow them around town with video cameras.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5D978FC12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "It's kind of like stalking with permission.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BDC1E1A74F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 22,
+        "endOffset": 84,
+        "text": "And to go back to the original question, what do people carry?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "439A7DA723",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And it turns out that people carry a lot of stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BEEEC9B411",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "OK, that's fair enough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "645BF7EA04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "But if you ask people",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CAACFA75AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "But if you ask people what the three most important things that they carry are -- across cultures and across gender and across contexts -- most people will say keys, money and, if they own one, a mobile phone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E695F58A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And I'm not saying this is a good thing, but this is a thing, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E537EBBEA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I mean, I couldn't take your phones off you if I wanted to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EE710C433",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "You'd probably kick me out, or something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "387862BDF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "OK, it might seem like an obvious thing for someone who works for a mobile phone company to ask.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3022519E23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "But really, the question is, why?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "52F380F62A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4BDC47BBF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So why are these things so important in our lives?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6DEDC6335F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And it turns out, from our research, that it boils down to survival -- survival for us and survival for our loved ones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "943A353A10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 4,
+        "endOffset": 48,
+        "text": "keys provide an access to shelter and warmth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DDA826AB93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "So, keys provide an access to shelter and warmth -- transport as well, in the U.S. increasingly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D76C1DFC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Money is useful for buying food, sustenance, among all its other uses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6AD59D349",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And a mobile phone, it turns out, is a great recovery tool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43EA7E573A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 27,
+        "endOffset": 54,
+        "text": "Maslow's hierarchy of needs",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "838F686AAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "If you prefer this kind of Maslow's hierarchy of needs, those three objects are very good at supporting the lowest rungs in Maslow's hierarchy of needs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E4D1010BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Yes, they do a whole bunch of other stuff, but they're very good at this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "677053AC5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 70,
+        "endOffset": 94,
+        "text": "transcend space and time",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4BDA844725",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And in particular, it's the mobile phone's ability to allow people to transcend space and time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7DB0676A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 28,
+        "endOffset": 36,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "94845E05B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 93,
+        "endOffset": 99,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BEE9574FE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 4,
+        "endOffset": 7,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "72681B3FA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 51,
+        "endOffset": 55,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F7CE4869F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 73,
+        "endOffset": 85,
+        "text": "someone else",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "53AC014126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "And this is fairly universally appreciated, it turns out, which is why we have three billion plus people who have been connected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E13F99B504",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And they value that connectivity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C0622A43D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And you can do this kind of stuff with PCs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "450146368E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And you can do them with phone kiosks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47F14CF534",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 43,
+        "endOffset": 51,
+        "text": "personal",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "086738962F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 92,
+        "endOffset": 99,
+        "text": "privacy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "23E8FB2545",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 112,
+        "endOffset": 122,
+        "text": "convenient",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C6718A9C47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 46,
+        "endOffset": 49,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C64B843726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 79,
+        "endOffset": 85,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F133660EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "However, for these things to help us survive, it depends on them being carried.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1D99D431A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "But -- and it's a pretty big but -- we forget.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FD922B697",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "We're human, that's what we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EF2374F0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's one of our features.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "699F1F7D98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I think, quite a nice feature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CB2A33C24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 29,
+        "endOffset": 52,
+        "text": "adaptable, and we adapt",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "63B37DA095",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "So we forget, but we're also adaptable, and we adapt to situations around us pretty well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C636632255",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And so we have these strategies to remember, and one of them was mentioned yesterday.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0450A1EFE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 28,
+        "endOffset": 47,
+        "text": "point of reflection",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "38613BF170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And it's, quite simply, the point of reflection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1B4E72F14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 28,
+        "endOffset": 42,
+        "text": "you're walking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "082E59F2D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 96,
+        "endOffset": 116,
+        "text": "you tap your pockets",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B31D31622A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "And that's that moment when you're walking out of a space, and you turn around, and quite often you tap your pockets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC0FB81F2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Even women who keep stuff in their bags tap their pockets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4834E35B58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And you turn around, and you look back into the space, and some people talk aloud.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "205FDA6011",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And pretty much everyone does it at some point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "521DB0A330",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 25,
+        "endOffset": 36,
+        "text": "most of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA075F0F45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 74,
+        "endOffset": 88,
+        "text": "what I mean is",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1A2B18B815",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "OK, the next thing is -- most of you, if you have a stable home life, and what I mean is that you don't travel all the time, and always in hotels, but most people have what we call a center of gravity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D4CCBF604",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 6,
+        "endOffset": 23,
+        "text": "center of gravity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "35BD9DFE25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And a center of gravity is where you keep these objects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "859066E403",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 74,
+        "endOffset": 83,
+        "text": "gravitate",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2B95F53E33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And these things don't stay in the center of gravity, but over time, they gravitate there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A427169ECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It's where you expect to find stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17B2296844",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 143,
+        "endOffset": 149,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "276755BACD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "And in fact, when you're turning around, and you're looking inside the house, and you're looking for this stuff, this is where you look first, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96E14EAD87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 47,
+        "endOffset": 82,
+        "text": "absolutely, 100 percent, guaranteed",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C506665FC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "OK, so when we did this research, we found the absolutely, 100 percent, guaranteed way to never forget anything ever, ever again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85BFA2A83C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And that is, quite simply, to have nothing to remember.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE4FF0C892",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5DA970F09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "OK, now, that sounds like something you get on a Chinese fortune cookie, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E5E6B1576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "But is, in fact, about the art of delegation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEE50DCCB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "And from a design perspective, it's about understanding what you can delegate to technology and what you can delegate to other people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCE71476DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 32,
+        "endOffset": 52,
+        "text": "if you want it to be",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D35FC6200C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "And it turns out, delegation -- if you want it to be -- can be the solution for pretty much everything, apart from things like bodily functions, going to the toilet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84BEEE4016",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "You can't ask someone to do that on your behalf.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5557F9B4E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "And apart from things like entertainment, you wouldn't pay for someone to go to the cinema for you and have fun on your behalf, or, at least, not yet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E65FC9B0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Maybe sometime in the future, we will.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4955425E96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 4,
+        "endOffset": 30,
+        "text": "let me give you an example",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C10E81335B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "So, let me give you an example of delegation in practice, right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A925A1F15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "So this is -- probably the thing I'm most passionate about is the research that we've been doing on illiteracy and how people who are illiterate communicate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E79C66C0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "So, the U.N. estimated -- this is 2004 figures -- that there are almost 800 million people who can't read and write, worldwide.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA4F6E7FE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "So, we've been conducting a lot of research.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB643970F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 47,
+        "endOffset": 74,
+        "text": "if you can't read and write",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7FFFE6EF16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "And one of the things we were looking at is -- if you can't read and write, if you want to communicate over distances, you need to be able to identify the person that you want to communicate with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F29DBA763D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "It could be a phone number, it could be an e-mail address, it could be a postal address.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF0D1FD30D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 17,
+        "endOffset": 44,
+        "text": "if you can't read and write",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BE5ACB4E34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Simple question: if you can't read and write, how do you manage your contact information?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9213CA752E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And the fact is that millions of people do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "752BEC74E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "Just from a design perspective, we didn't really understand how they did it, and so that's just one small example of the kind of research that we were doing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B71F6097DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And it turns out that illiterate people are masters of delegation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0107DFD19E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "So they delegate that part of the task process to other people, the stuff that they can't do themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28C379D1C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Let me give you another example of delegation.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "31CACD61F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "This one's a little bit more sophisticated, and this is from a study that we did in Uganda about how people who are sharing devices, use those devices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EB9050EA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Sente is a word in Uganda that means money.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3D8A5B988",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 25,
+        "endOffset": 58,
+        "text": "which is to send money as airtime",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3353A0B98C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26A3DFB93B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And it works like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56EB2565E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "So let's say, June, you're in a village, rural village.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F893F96DBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I'm in Kampala and I'm the wage earner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5C403E234",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "I'm sending money back, and it works like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A94D11F8B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So, in your village, there's one person in the village with a phone, and that's the phone kiosk operator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96200F0ECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And it's quite likely that they'd have a quite simple mobile phone as a phone kiosk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E86E6B32CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So what I do is, I buy a prepaid card like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41173181B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And instead of using that money to top up my own phone, I call up the local village operator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EADDBF139",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And I read out that number to them, and they use it to top up their phone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F00F85C77B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "So, they're topping up the value from Kampala, and it's now being topped up in the village.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "894CC4B3F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "You take a 10 or 20 percent commission, and then you -- the kiosk operator takes 10 or 20 percent commission, and passes the rest over to you in cash.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5973A62D88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "OK, there's two things I like about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99F74D66B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 26,
+        "endOffset": 98,
+        "text": "anyone who has access to a mobile phone -- anyone who has a mobile phone",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4CF48F8BDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 102,
+        "endOffset": 133,
+        "text": "essentially into an ATM machine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "88FF208347",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "It brings rudimentary banking services to places where there's no banking infrastructure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C08836409A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "And even if they could have access to the banking infrastructure, they wouldn't necessarily be considered viable customers, because they're not wealthy enough to have bank accounts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAF814D1E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "There's a second thing I like about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40357582D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 157,
+        "endOffset": 167,
+        "text": "as elegant",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E3114F1418",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 175,
+        "endOffset": 216,
+        "text": "totally in tune with the local conditions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A0261838C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 225,
+        "text": "And that is that despite all the resources at my disposal, and despite all our kind of apparent sophistication, I know I could never have designed something as elegant and as totally in tune with the local conditions as this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A98C2EF74F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "89313D7155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And, yes, there are things like Grameen Bank and micro-lending.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A5400B2B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "But the difference between this and that is, there's no central authority trying to control this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2913A6E91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "This is just street-up innovation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27F88422CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 33,
+        "endOffset": 67,
+        "text": "never-ending source of inspiration",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ADD06CE1CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So, it turns out the street is a never-ending source of inspiration for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBDD64D00E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 4,
+        "endOffset": 76,
+        "text": "OK, if you break one of these things here, you return it to the carrier.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "63BA251E5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "They'll give you a new one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A93F8D1C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "They'll probably give you three new ones, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4035168FA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 15,
+        "endOffset": 38,
+        "text": "buy three, get one free",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8758378061",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "That kind of thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48097992C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "If you go on the streets of India and China",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FF85481088",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And this is where they take the stuff that breaks, and they fix it, and they put it back into circulation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B749A6ADA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "This is from a workbench in Jilin City, in China, and you can see people taking down a phone and putting it back together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C0716B025",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They reverse-engineer manuals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F8EC3702F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "This is a kind of hacker's manual, and it's written in Chinese and English.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F00DC51BB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "They also write them in Hindi.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2BEE530A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "You can subscribe to these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A68F63F75A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "There are training institutes where they're churning out people for fixing these things as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "021A215011",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 34,
+        "endOffset": 47,
+        "text": "boils down to",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7015A16D64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 77,
+        "endOffset": 96,
+        "text": "small, flat surface",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7673B346DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 115,
+        "endOffset": 125,
+        "text": "toothbrush",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "132CC0ECCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 56,
+        "endOffset": 71,
+        "text": "floating around",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AEBC0D3C3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And I like this because it challenges the way that we design stuff, and build stuff, and potentially distribute stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DD5770640",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It challenges the norms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B080228D1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "OK, for me the street just raises so many different questions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4AE453C3CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 14,
+        "endOffset": 20,
+        "text": "Viagra",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3874ED990B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Like, this is Viagra that I bought from a backstreet sex shop in China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3B01A3DEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And China is a country where you get a lot of fakes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "718F3CC86B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 33,
+        "endOffset": 47,
+        "text": "did I test it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6A41A8120",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And I know what you're asking -- did I test it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82B065EEEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I'm not going to answer that, OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED67185F8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "But I look at something like this, and I consider the implications of trust and confidence in the purchase process.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0F6AE349A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "And we look at this and we think, well, how does that apply, for example, for the design of -- the lessons from this -- apply to the design of online services, future services in these markets?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F09936DE08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "This is a pair of underpants from -- (Laughter) -- from Tibet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D83F5A739C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 49,
+        "endOffset": 57,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1193C9509A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 59,
+        "endOffset": 116,
+        "text": "why would someone design underpants with a pocket, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A867D43E76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And I look at something like this, and honestly, you know, why would someone design underpants with a pocket, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "335C184900",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 242,
+        "text": "And I look at something like this and it makes me question, if we were to take all the functionality in things like this, and redistribute them around the body in some kind of personal area network, how would we prioritize where to put stuff?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6978E90AAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "And yes, this is quite trivial, but actually the lessons from this can apply to that kind of personal area networks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "687B9EEACC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And what you see here is a couple of phone numbers written above the shack in rural Uganda.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "717A05CF04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This doesn't have house numbers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F34E3E93DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "This has phone numbers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A03F04AA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "So what does it mean",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C0D7C0D35C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "So what does it mean when people's identity is mobile?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "995BD4CDC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "When those extra three billion people's identity is mobile, it isn't fixed?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1001939E8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "When those extra three billion people's identity is mobile, it isn't fixed?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0E1E11159",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Your notion",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9C716B4C73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Your notion of identity is out-of-date already, OK, for those extra three billion people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DD721E297",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "This is how it's shifting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BE7F5D40F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And then I go to this picture here, which is the one that I started with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9114708A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And this is from Delhi.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55A90BAAF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "It's from a study we did into illiteracy, and it's a guy in a teashop.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "551006B31F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "You can see the chai being poured in the background.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19701BEE4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And he's a, you know, incredibly poor teashop worker, on the lowest rungs in the society.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E34EF3B2A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And he, somehow, has the appreciation of the values of Livestrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73E4898D49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "And it's not necessarily the same values, but some kind of values of Livestrong, to actually go out and purchase them, and actually display them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80EF5F634E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 21,
+        "endOffset": 53,
+        "text": "personifies this connected world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8AFFD67AC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 92,
+        "endOffset": 149,
+        "text": "the dots are -- it's all about the dots joining together.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "858C142F45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "For me, this kind of personifies this connected world, where everything is intertwined, and the dots are -- it's all about the dots joining together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD726A479E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 284,
+        "text": "OK, the title of this presentation is \"Connections and Consequences,\" and it's really a kind of summary of five years of trying to figure out what it's going to be like when everyone on the planet has the ability to transcend space and time in a personal and convenient manner, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "486612E645",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "When everyone's connected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B59ED57FC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And there are four things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0A1C310A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "So, the first thing is the immediacy of ideas, the speed at which ideas go around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3E2BFD718",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And I know TED is about big ideas, but actually, the benchmark for a big idea is changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "805AF26221",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "If you want",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B85BEB136E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "If you want a big idea, you need to embrace everyone on the planet, that's the first thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92500F96DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The second thing is the immediacy of objects.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "756BA3775A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 220,
+        "text": "And what I mean by that is, as these become smaller, as the functionality that you can access through this becomes greater -- things like banking, identity -- these things quite simply move very quickly around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3C333F7CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "And so the speed of the adoption of things is just going to become that much more rapid, in a way that we just totally cannot conceive, when you get it to 6.3 billion and the growth in the world's population.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "607EDB6D74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 237,
+        "text": "The next thing is that, however we design this stuff -- carefully design this stuff -- the street will take it, and will figure out ways to innovate, as long as it meets base needs -- the ability to transcend space and time, for example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4453A97BC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And it will innovate in ways that we cannot anticipate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D54739E8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "In ways that, despite our resources, they can do it better than us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F01F7C9703",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "That's my feeling.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6CF8CA062",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "And if we're smart, we'll look at this stuff that's going on, and we'll figure out a way to enable it to inform and infuse both what we design and how we design.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E3E748C9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And the last thing is that -- actually, the direction of the conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B1DB9ABD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "With another three billion people connected, they want to be part of the conversation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2C57A517E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "And I think our relevance and TED's relevance is really about embracing that and learning how to listen, essentially.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "961C9F7C3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And we need to learn how to listen.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E7C66CC9EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "So thank you very, very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8797366E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18BF1253B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

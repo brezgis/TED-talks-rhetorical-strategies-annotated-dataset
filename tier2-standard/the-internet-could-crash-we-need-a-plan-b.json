@@ -1,0 +1,1868 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9395,
+  "title": "The Internet could crash. We need a Plan B",
+  "author": "Danny Hillis",
+  "url": "https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T11:25:19.255539Z",
+  "updated_at": "2026-05-07T11:25:19.255539Z",
+  "lead_time": 77.489,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 42,
+        "endOffset": 51,
+        "text": "directory",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F493513A56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "So, this book that I have in my hand is a directory of everybody who had an email address in 1982.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB561FC25B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "(Laughter) Actually, it's deceptively large.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E6CACBFED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "There's actually only about 20 people on each page, because we have the name, address and telephone number of every single person.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8F333A009",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And, in fact, everybody's listed twice, because it's sorted once by name and once by email address.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "32202E493E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Obviously a very small community.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DCE8E4B49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "There were only two other Dannys on the Internet then.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C16418CF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "I knew them both.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9592DC484A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 206,
+        "text": "We didn't all know each other, but we all kind of trusted each other, and that basic feeling of trust permeated the whole network, and there was a real sense that we could depend on each other to do things.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7973096D93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "So just to give you an idea of the level of trust in this community, let me tell you what it was like to register a domain name in the early days.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9479BD3D65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Now, it just so happened that I got to register the third domain name on the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93C92A6B2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "So I could have anything I wanted other than bbn.com and symbolics.com.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB34826C05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So I picked think.com, but then I thought, you know, there's a lot of really interesting names out there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D67B7235AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Maybe I should register a few extras just in case.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0C303060E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And then I thought, \"Nah, that wouldn't be very nice.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92E5852B4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 16,
+        "endOffset": 24,
+        "text": "attitude",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA495F2871",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 11,
+        "endOffset": 245,
+        "text": "That attitude of only taking what you need was really what everybody had on the network in those days, and in fact, it wasn't just the people on the network, but it was actually kind of built into the protocols of the Internet itself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E46024819B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 129,
+        "endOffset": 198,
+        "text": "from each according to their ability, to each according to their need",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B3C1324591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 200,
+        "text": "So the basic idea of I.P., or Internet protocol, and the way that the -- the routing algorithm that used it, were fundamentally \"from each according to their ability, to each according to their need.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6CC03D044",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 11,
+        "endOffset": 14,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9E996091DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And so, if you had some extra bandwidth, you'd deliver a message for someone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16BBF62AB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 3,
+        "endOffset": 7,
+        "text": "they",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "086527F255",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 67,
+        "endOffset": 70,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F932F0E073",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "If they had some extra bandwidth, they would deliver a message for you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAC941FE5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CA397B9EBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "You'd kind of depend on people to do that, and that was the building block.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "589954F74F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 227,
+        "text": "It was actually interesting that such a communist principle was the basis of a system developed during the Cold War by the Defense Department, but it obviously worked really well, and we all saw what happened with the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27CBE36879",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It was incredibly successful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "916C6C729B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "In fact, it was so successful that there's no way that these days you could make a book like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B81CBA2F11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 42,
+        "endOffset": 56,
+        "text": "25 miles thick",
+        "paragraphlabels": [
+          "HYPER"
+        ]
+      },
+      "id": "C60A7B091D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "My rough calculation is it would be about 25 miles thick.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F5F3E51C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 16,
+        "endOffset": 19,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0F543B35B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 261,
+        "text": "But, of course, you couldn't do it, because we don't know the names of all the people with Internet or email addresses, and even if we did know their names, I'm pretty sure that they would not want their name, address and telephone number published to everyone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "174DB107BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 357,
+        "text": "So the fact is that there's a lot of bad guys on the Internet these days, and so we dealt with that by making walled communities, secure subnetworks, VPNs, little things that aren't really the Internet but are made out of the same building blocks, but we're still basically building it out of those same building blocks with those same assumptions of trust.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A2338E3D91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "And that means that it's vulnerable to certain kinds of mistakes that can happen, or certain kinds of deliberate attacks, but even the mistakes can be bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05EF8728DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "So, for instance, in all of Asia recently, it was impossible to get YouTube for a little while because Pakistan made some mistakes in how it was censoring YouTube in its internal network.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9459137886",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "They didn't intend to screw up Asia, but they did because of the way that the protocols work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EEA628D66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 229,
+        "text": "Another example that may have affected many of you in this audience is, you may remember a couple of years ago, all the planes west of the Mississippi were grounded because a single routing card in Salt Lake City had a bug in it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5880D3AB09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 47,
+        "endOffset": 50,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E48D48737F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Now, you don't really think that our airplane system depends on the Internet, and in some sense it doesn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EC76C359D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 5,
+        "endOffset": 8,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1BC93DE97A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "I'll come back to that later.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D17D145DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "But the fact is that people couldn't take off because something was going wrong on the Internet, and the router card was down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B04209272",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "And so, there are many of those things that start to happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7686207E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Now, there was an interesting thing that happened last April.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD7EC730F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 17,
+        "endOffset": 77,
+        "text": "a very large percentage of the traffic on the whole Internet",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "69F4EF42B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "All of a sudden, a very large percentage of the traffic on the whole Internet, including a lot of the traffic between U.S. military installations, started getting re-routed through China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0975A418B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "So for a few hours, it all passed through China.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6504E3B262",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 266,
+        "text": "Now, China Telecom says it was just an honest mistake, and it is actually possible that it was, the way things work, but certainly somebody could make a dishonest mistake of that sort if they wanted to, and it shows you how vulnerable the system is even to mistakes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A986B0D96D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Imagine how vulnerable the system is to deliberate attacks.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6D5A2520A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "So if somebody really wanted to attack the United States or Western civilization these days, they're not going to do it with tanks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C15D9D589F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "That will not succeed.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B3C72054AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "What they'll probably do is something very much like the attack that happened on the Iranian nuclear facility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B0997909B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Nobody has claimed credit for that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B72072582E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "There was basically a factory of industrial machines.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE1ED7545E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It didn't think of itself as being on the Internet.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1C89D23053",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 252,
+        "text": "It thought of itself as being disconnected from the Internet, but it was possible for somebody to smuggle a USB drive in there, or something like that, and software got in there that causes the centrifuges, in that case, to actually destroy themselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6EAEA8A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Now that same kind of software could destroy an oil refinery or a pharmaceutical factory or a semiconductor plant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6204DE30B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 27,
+        "endOffset": 125,
+        "text": "I'm sure you've read a lot in papers, about worries about cyberattacks and defenses against those.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "15762E80AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "But the fact is, people are mostly focused on defending the computers on the Internet, and there's been surprisingly little attention to defending the Internet itself as a communications medium.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03BD03A439",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "And I think we probably do need to pay some more attention to that, because it's actually kind of fragile.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74632B65E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 202,
+        "text": "So actually, in the early days, back when it was the ARPANET, there were actually times -- there was a particular time it failed completely because one single message processor actually got a bug in it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A8613EE62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 247,
+        "text": "And the way the Internet works is the routers are basically exchanging information about how they can get messages to places, and this one processor, because of a broken card, decided it could actually get a message to some place in negative time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "541E3C51A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "So, in other words, it claimed it could deliver a message before you sent it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFF33F3A9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 267,
+        "text": "So of course, the fastest way to get a message anywhere was to send it to this guy, who would send it back in time and get it there super early, so every message in the Internet started getting switched through this one node, and of course that clogged everything up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "388CB9B00F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Everything started breaking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2AC4B83EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "The interesting thing was, though, that the sysadmins were able to fix it, but they had to basically turn every single thing on the Internet off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4886F5657",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Now, of course you couldn't do that today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0BE9ACCD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "I mean, everything off, it's like the service call you get from the cable company, except for the whole world.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "26C6BB865B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Now, in fact, they couldn't do it for a lot of reasons today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "656D9ACFBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 308,
+        "text": "One of the reasons is a lot of their telephones use IP protocol and use things like Skype and so on that go through the Internet right now, and so in fact we're becoming dependent on it for more and more different things, like when you take off from LAX, you're really not thinking you're using the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5143249CBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "When you pump gas, you really don't think you're using the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09A587F009",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "What's happening increasingly, though, is these systems are beginning to use the Internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A848546375",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 88,
+        "endOffset": 139,
+        "text": "for service functions, for administrative functions",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C41C8B400B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 145,
+        "endOffset": 196,
+        "text": "so if you take something like the cell phone system",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2242DA6F51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 42,
+        "endOffset": 119,
+        "text": "starting to use the same technology and starting to depend on this technology",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "444698A770",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "And so even a modern rocket ship these days actually uses Internet protocol to talk from one end of the rocket ship to the other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "775774AA19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "That's crazy.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5884E26840",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It was never designed to do things like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E63915172",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "So we've built this system where we understand all the parts of it, but we're using it in a very, very different way than we expected to use it, and it's gotten a very, very different scale than it was designed for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBFF95A4A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And in fact, nobody really exactly understands all the things it's being used for right now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B5119ECC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 18,
+        "endOffset": 77,
+        "text": "one of these big emergent systems like the financial system",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "88149A7C0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 7,
+        "endOffset": 55,
+        "text": "if you hear an expert talking about the Internet",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B68DE7DEBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 123,
+        "endOffset": 269,
+        "text": "you should treat it with the same skepticism that you might treat the comments of an economist about the economy or a weatherman about the weather",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7DD0DB2DE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "They have an informed opinion, but it's changing so quickly that even the experts don't know exactly what's going on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8CC71C1F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "So if you see one of these maps of the Internet, it's just somebody's guess.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D03D55747",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Nobody really knows what the Internet is right now because it's different than it was an hour ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C99EBC8932",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's constantly changing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4A0916546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "It's constantly reconfiguring.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A22373F60E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 78,
+        "endOffset": 86,
+        "text": "disaster",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAC879482A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 324,
+        "text": "And the problem with it is, I think we are setting ourselves up for a kind of disaster like the disaster we had in the financial system, where we take a system that's basically built on trust, was basically built for a smaller-scale system, and we've kind of expanded it way beyond the limits of how it was meant to operate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCAA065283",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 242,
+        "text": "And so right now, I think it's literally true that we don't know what the consequences of an effective denial-of-service attack on the Internet would be, and whatever it would be is going to be worse next year, and worse next year, and so on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FD8C16422",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "But so what we need is a plan B.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C887FBBE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "There is no plan B right now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBFAD7171E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "There's no clear backup system that we've very carefully kept to be independent of the Internet, made out of completely different sets of building blocks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD20CD23CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 239,
+        "text": "So what we need is something that doesn't necessarily have to have the performance of the Internet, but the police department has to be able to call up the fire department even without the Internet, or the hospitals have to order fuel oil.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "774D3D0A97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "This doesn't need to be a multi-billion-dollar government project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E23F423DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "It's actually relatively simple to do, technically, because it can use existing fibers that are in the ground, existing wireless infrastructure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "449CB942E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's basically a matter of deciding to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F57CA7C37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "But people won't decide to do it until they recognize the need for it, and that's the problem that we have right now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D95357CA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 219,
+        "text": "So there's been plenty of people, plenty of us have been quietly arguing that we should have this independent system for years, but it's very hard to get people focused on plan B when plan A seems to be working so well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07CC98969D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 301,
+        "text": "So I think that, if people understand how much we're starting to depend on the Internet, and how vulnerable it is, we could get focused on just wanting this other system to exist, and I think if enough people say, \"Yeah, I would like to use it, I'd like to have such a system,\" then it will get built.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B27C26DA2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's not that hard a problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2387330AF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It could definitely be done by people in this room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "450900CEFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "And so I think that this is actually, of all the problems you're going to hear about at the conference, this is probably one of the very easiest to fix.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A7FCE37F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 37,
+        "endOffset": 40,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E2A7F4D01E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "So I'm happy to get a chance to tell you about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08F753A3CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFA3BD5DAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "079BBE9C02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

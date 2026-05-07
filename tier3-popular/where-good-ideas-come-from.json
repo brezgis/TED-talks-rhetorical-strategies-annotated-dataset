@@ -1,0 +1,3602 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10077,
+  "title": "Where good ideas come from",
+  "author": "Steven Johnson",
+  "url": "https://www.ted.com/talks/steven_johnson_where_good_ideas_come_from",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T04:00:55.439910Z",
+  "updated_at": "2026-05-07T04:00:55.439910Z",
+  "lead_time": 141.197,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Fifty-two minutes ago, I took this picture about 10 blocks from here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "909CCD83D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "This is the Grand Café here in Oxford.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3941CF2338",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "I took this picture because this turns out to be the first coffeehouse to open in England, in 1650.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C68936C915",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "That's its great claim to fame.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "188210F021",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 4,
+        "endOffset": 30,
+        "text": "I wanted to show it to you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D8A507C6D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 32,
+        "endOffset": 101,
+        "text": "not because I want to give you the Starbucks tour of historic England",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "48537AFF30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 116,
+        "endOffset": 134,
+        "text": "but rather because",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9BAD048001",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 204,
+        "endOffset": 244,
+        "text": "one of the great intellectual flowerings",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "67C100A068",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "And the coffeehouse played such a big role in the birth of the Enlightenment in part because of what people were drinking there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0D99E18F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "Because, before the spread of coffee and tea through British culture, what people drank -- both elite and mass folks drank -- day in and day out, from dawn until dusk, was alcohol.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C07C807C1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Alcohol was the daytime beverage of choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5DF8F5C39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "You would drink a little beer with breakfast and have a little wine at lunch, a little gin, particularly around 1650, and top it off with a little beer and wine at the end of the day.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C053487BB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "That was the healthy choice, because the water wasn't safe to drink.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2D58382E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "And so, effectively, until the rise of the coffeehouse, you had an entire population that was effectively drunk all day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF674429CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29DBB3850F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 11,
+        "endOffset": 71,
+        "text": "And you can imagine what that would be like in your own life",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3C2A7A8207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 117,
+        "endOffset": 145,
+        "text": "if you were drinking all day",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9AC3FAD893",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "You would have better ideas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A65B3FBBD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "You would be sharper and more alert.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02E6F07D93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So it's not an accident that a great flowering of innovation happened as England switched to tea and coffee.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9EA9DEADA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "But the other thing that makes the coffeehouse important is the architecture of the space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63F541488F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "It was a space where people would get together, from different backgrounds, different fields of expertise, and share.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F28926527A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 45,
+        "endOffset": 71,
+        "text": "where ideas could have sex",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1D6E6007CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 9,
+        "endOffset": 27,
+        "text": "their conjugal bed",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "946A0BDA3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And an astonishing number of innovations from this period have a coffeehouse somewhere in their story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B364A1F94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "I've been spending a lot of time thinking about coffeehouses for the last five years because I've been kind of on this quest to investigate this question of where good ideas come from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B72260FCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "What are the environments that lead to unusual levels of innovation, unusual levels of creativity?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D21FAF1BD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 48,
+        "endOffset": 67,
+        "text": "space of creativity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8A668DE0B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 362,
+        "text": "And what I've done is, I've looked at both environments like the coffeehouse, I've looked at media environments like the World Wide Web, that have been extraordinarily innovative; I've gone back to the history of the first cities; I've even gone to biological environments, like coral reefs and rain forests, that involve unusual levels of biological innovation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A83A9A8BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "And what I've been looking for is shared patterns, signature behavior that shows up again and again in all of these environments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF7A16FC1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "Are there recurring patterns that we can learn from, that we can take and apply to our own lives or our own organizations or our own environments to make them more creative and innovative?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "735699AD75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And I think I've found a few.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D789D265D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 9,
+        "endOffset": 23,
+        "text": "you have to do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B352BEF57C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 138,
+        "endOffset": 225,
+        "text": "conventional metaphors and language steers us towards certain concepts of idea creation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BA1B83D938",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "We have this very rich vocabulary to describe moments of inspiration.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "832E96D55C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "flash of insight",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ACF7FBAF46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "stroke of insight",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6B0820FBDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 66,
+        "endOffset": 76,
+        "text": "epiphanies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E454E89014",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 87,
+        "endOffset": 101,
+        "text": "eureka moments",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "46754193C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "light bulb moments",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F13BCF641C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 26,
+        "endOffset": 45,
+        "text": "rhetorically florid",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B92A88465B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "All of these concepts, as rhetorically florid as they are, share this basic assumption, which is that an idea is a single thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16F05040C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "It's something that happens often in a wonderful, illuminating moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB28F26022",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 37,
+        "endOffset": 71,
+        "text": "what you really need to begin with",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5782004CFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "But, in fact, what I would argue and what you really need to begin with is this idea that an idea is a network on the most elemental level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C87B3E2FE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I mean, this is what is happening inside your brain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E4BCBC956",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "An idea -- a new idea -- is a new network of neurons firing in sync with each other inside your brain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17CA18420A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "It's a new configuration that has never formed before.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07753BEC47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 21,
+        "endOffset": 46,
+        "text": "How do you get your brain",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A6CA6EAC5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And the question is: How do you get your brain into environments where these new networks are going to be more likely to form?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4EF634908",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "And it turns out that, in fact, the network patterns of the outside world mimic a lot of the network patterns of the internal world of a human brain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D84370460D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 7,
+        "endOffset": 15,
+        "text": "metaphor",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A2392122D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "So the metaphor I'd like to use, I can take from a story of a great idea that's quite recent -- a lot more recent than the 1650s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7CB9C7796D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "A wonderful guy named Timothy Prestero has an organization called Design That Matters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B35EC1F0EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "They decided to tackle this really pressing problem of the terrible problems we have with infant mortality rates in the developing world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "09E902813B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 254,
+        "text": "One of the things that's very frustrating about this is that we know by getting modern neonatal incubators into any context, if we can keep premature babies warm, basically -- it's very simple -- we can halve infant mortality rates in those environments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB2FF1A72F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "So the technology is there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8245CE115",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "These are standard in all the industrialized worlds.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "210C1F646E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 372,
+        "text": "The problem is, if you buy a $40,000 incubator, and you send it off to a midsized village in Africa, it will work great for a year or two years, and then something will go wrong and it will break, and it will remain broken forever, because you don't have a whole system of spare parts, and you don't have the on-the-ground expertise to fix this $40,000 piece of equipment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2766F583C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "So you end up having this problem where you spend all this money getting aid and all these advanced electronics to these countries, and it ends up being useless.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4190C2FD4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "So what Prestero and his team decided to do was to look around and see: What are the abundant resources in these developing world contexts?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A44D8E0578",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "And what they noticed was, they don't have a lot of DVRs, they don't have a lot of microwaves, but they seem to do a pretty good job of keeping their cars on the road.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE6C4237AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "There's a Toyota 4Runner on the street in all these places.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D07674B8DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "They seem to have the expertise to keep cars working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "616272E36F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "So they started to think, \"Could we build a neonatal incubator that's built entirely out of automobile parts?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "124F114EE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And this is what they came up with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4E5DE45F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "It's called the NeoNurture device.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E54C0CA5F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "From the outside, it looks like a normal little thing you'd find in a modern Western hospital.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3491902E31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "In the inside, it's all car parts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "356C954F41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "It's got a fan, it's got headlights for warmth, it's got door chimes for alarm, it runs off a car battery.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F2A9780D40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And so all you need is the spare parts from your Toyota and the ability to fix a headlight, and you can repair this thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B3ED3ECCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "Now that's a great idea, but I'd like to say that, in fact, this is a great metaphor for the way ideas happen.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CBF4B21C54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "We like to think our breakthrough ideas, you know, are like that $40,000, brand-new incubator, state-of-the-art technology.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CE7A50C678",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "But more often than not, they're cobbled together from whatever parts that happen to be around nearby.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "815D2958E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "people we've learned from, people we run into in the coffee shop, and people",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A48D5EC2B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 106,
+        "endOffset": 126,
+        "text": "stitch them together",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ED1C62D5F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "That's really where innovation happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FAA50150A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 108,
+        "endOffset": 114,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "37E2376CC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I mean, this is one vision of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DED9DDA363",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Another is Newton and the apple, when Newton was at Cambridge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "879DB1BE8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "This is a statue from Oxford.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5ABD23B5B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 17,
+        "endOffset": 55,
+        "text": "sitting there, thinking a deep thought",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "75F745C11D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 61,
+        "endOffset": 86,
+        "text": "apple falls from the tree",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4787C3EBF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "In fact, the spaces that have historically led to innovation tend to look like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56C90AC751",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "This is Hogarth's famous painting of a kind of political dinner at a tavern, but this is what the coffee shops looked like back then.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D2A94837B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 147,
+        "endOffset": 157,
+        "text": "collisions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "180A09F34B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 159,
+        "endOffset": 192,
+        "text": "people from different backgrounds",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E6D2FAB7D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "So if we're trying to build organizations that are more innovative, we have to build spaces that, strangely enough, look a bit more like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F98F183796",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "This is what your office should look like, it's part of my message here.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C4F2F4BE06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 216,
+        "text": "And one of the problems with this is that, when you research this field, people are notoriously unreliable when they actually self-report on where they have their own good ideas, or their history of their best ideas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1989D2B33F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "And a few years ago, a wonderful researcher named Kevin Dunbar decided to go around and basically do the Big Brother approach to figuring out where good ideas come from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E4A23AB2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 236,
+        "text": "He went to a bunch of science labs around the world and videotaped everyone as they were doing every little bit of their job: when they were sitting in front of the microscope, when they were talking to colleagues at the watercooler ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2DCC975B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "And he recorded all these conversations and tried to figure out where the most important ideas happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D92544DDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 28,
+        "endOffset": 69,
+        "text": "classic image of the scientist in the lab",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FF0BA1C8F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 93,
+        "endOffset": 101,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "051037F71B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 192,
+        "endOffset": 199,
+        "text": "Eureka!",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DC739FF2AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "-- they've got the idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "694972F03B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "What happened, actually, when Dunbar looked at the tape, is that, in fact, almost all of the important breakthrough ideas did not happen alone in the lab, in front of the microscope.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44D1F4A1B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 254,
+        "text": "They happened at the conference table at the weekly lab meeting, when everybody got together and shared their latest data and findings, oftentimes when people shared the mistakes they were having, the error, the noise in the signal they were discovering.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "089CFD734C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 73,
+        "endOffset": 87,
+        "text": "liquid network",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "61D4006707",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 192,
+        "endOffset": 241,
+        "text": "jostling with each other, bouncing off each other",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C39F600AB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "The other problem that people have is, they like to condense their stories of innovation down to shorter time frames.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3F918DE70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "So they want to tell the story of the eureka moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B73EE331B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 19,
+        "endOffset": 99,
+        "text": "There I was, I was standing there, and I had it all, suddenly, clear in my head.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BDC4EFEF26",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "But, in fact, if you go back and look at the historical record, it turns out that a lot of important ideas have very long incubation periods.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6828E8E3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 17,
+        "endOffset": 27,
+        "text": "slow hunch",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D6CC78FB95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "We've heard a lot recently about hunch and instinct and blink-like sudden moments of clarity, but, in fact, a lot of great ideas linger on, sometimes for decades, in the back of people's minds.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "526E079E25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "They have a feeling that there's an interesting problem, but they don't quite have the tools yet to discover them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFAFD52CC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "They spend all this time working on certain problems, but there's another thing lingering there that they're interested in, but can't quite solve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF51F8328D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Darwin is a great example of this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7639B33EF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 116,
+        "endOffset": 129,
+        "text": "eureka moment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DD03256E3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "Darwin himself, in his autobiography, tells the story of coming up with the idea for natural selection as a classic eureka moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1645E19300",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "He's in his study, it's October of 1838, and he's reading Malthus, actually, on population.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "998833AA95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 70,
+        "endOffset": 88,
+        "text": "pops into his head",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A8AF02FE19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "And all of a sudden, the basic algorithm of natural selection kind of pops into his head, and he says, \"Ah, at last, I had a theory with which to work.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79509AA02B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "That's in his autobiography.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6BCDC3653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "About a decade or two ago, a wonderful scholar named Howard Gruber went back and looked at Darwin's notebooks from this period.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36147B5733",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 57,
+        "endOffset": 101,
+        "text": "every little idea he had, every little hunch",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A67B369E78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Darwin kept these copious notebooks, where he wrote down every little idea he had, every little hunch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EFC8F11DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 83,
+        "endOffset": 111,
+        "text": "months and months and months",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D621ABF3E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "And what Gruber found was that Darwin had the full theory of natural selection for months and months and months before he had his alleged epiphany reading Malthus in October of 1838.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "717094F8FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "There are passages where you can read it, and you think you're reading from a Darwin textbook, from the period before he has his epiphany.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3871456733",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "And so what you realize is that Darwin, in a sense, had the idea, he had the concept, but was unable to fully think it yet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85ACEB5D08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 55,
+        "endOffset": 100,
+        "text": "they fade into view over long periods of time",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "38D1A70CCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "And that is, actually, how great ideas often happen -- they fade into view over long periods of time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67EFC4F607",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 36,
+        "endOffset": 66,
+        "text": "How do you create environments",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "95E3710380",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "Now the challenge for all of us is: How do you create environments that allow these ideas to have this long half-life?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38316741A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It's hard to go to your boss",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2B3B023713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "It's hard to go to your boss and say, \"I have an excellent idea for our organization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D763DEA508",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It will be useful in 2020.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95437E2A8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B43AA8FB07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "\"Could you just give me some time to do that?\" (Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01C97444F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Now a couple of companies like Google have innovation time off, 20 percent time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2E6E6317B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "In a sense",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "29805BF9A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "In a sense, those are hunch-cultivating mechanisms in an organization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39CACE010F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "But that's a key thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C243318F2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And the other thing is to allow those hunches to connect with other people's hunches; that's what often happens.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9A5B564E14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 125,
+        "endOffset": 159,
+        "text": "larger than the sum of their parts",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ADBE082C4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "You have half of an idea, somebody else has the other half, and if you're in the right environment, they turn into something larger than the sum of their parts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD5AA32DA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 84,
+        "endOffset": 92,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BC3BDC283C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 322,
+        "text": "So in a sense, we often talk about the value of protecting intellectual property -- you know, building barricades, having secretive R and D labs, patenting everything that we have so that those ideas will remain valuable, and people will be incentivized to come up with more ideas, and the culture will be more innovative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FBEC8E1BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "But I think there's a case to be made that we should spend at least as much time, if not more, valuing the premise of connecting ideas and not just protecting them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F9B3DF2FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And I'll leave you with this story",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "72C5C04D21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And I'll leave you with this story, which I think captures a lot of these values.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "47A4854105",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "It's just a wonderful tale of innovation, and how it happens in unlikely ways.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CAA1A160CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "It's October of 1957, and Sputnik has just launched.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EACC916E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And we're in Laurel, Maryland, at the Applied Physics Lab associated with Johns Hopkins University.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3DE1F1EF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "It's Monday morning, and the news has just broken about this satellite that's now orbiting the planet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8491F270F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 24,
+        "endOffset": 43,
+        "text": "nerd heaven, right?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "66200A4036",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And, of course, this is nerd heaven, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E1BDE8F63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "There are all these physics geeks who are there, thinking, \"Oh my gosh!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DCC4256CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "This is incredible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9783ED0456",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I can't believe this has happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D789C52859",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "And two of them, two twentysomething researchers at the APL, are there at the cafeteria table, having an informal conversation with a bunch of their colleagues.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBB9C60815",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And these two guys are named Guier and Weiffenbach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BF29EAE11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "They start talking, and one of them says, \"Hey, has anybody tried to listen for this thing?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F8CDE44E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "There's this, you know, man-made satellite up there in outer space that's obviously broadcasting some kind of signal.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D524D4FCE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "We could probably hear it, if we tune in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95E088E7BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "So they ask around to a couple of their colleagues, and everybody's like, \"No, I hadn't thought of doing that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EC06531E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "That's an interesting idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73D9763A9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "And it turns out Weiffenbach is kind of an expert in microwave reception, and he's got a little antenna set up with an amplifier in his office.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA5FFCEBB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "So Guier and Weiffenbach go back to Weiffenbach's office, and they start noodling around -- \"hacking,\" as we might call it now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1583F92720",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 285,
+        "text": "And after a couple of hours, they start picking up the signal, because the Soviets made Sputnik very easy to track; it was right at 20 MHz, so you could pick it up really easily, because they were afraid people would think it was a hoax, basically, so they made it really easy to find.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D49372E8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "So these guys are sitting there, listening to this signal, and people start coming into the office and saying, \"That's pretty cool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4D43095C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Can I hear?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7FC3D65ABE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And before long, they think, \"Jeez, this is kind of historic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C02C9ED68A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "We may be the first people in the United States listening to this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35E3F4969B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We should record it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "972BCB4547",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 88,
+        "endOffset": 101,
+        "text": "bleep, bleeps",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DDD9FD1589",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "So they bring in this big, clunky analog tape recorder and start recording these little bleep, bleeps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "625AA602B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And they start writing down the date stamp, time stamps for each little bleep that they record.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F74DEB8078",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And then they start thinking, \"Well, gosh, we're noticing small little frequency variations here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55E61EFEAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 114,
+        "endOffset": 128,
+        "text": "Doppler effect",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "559D90EE7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "We could probably calculate the speed that the satellite is traveling if we do a little basic math here using the Doppler effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6CFD532BB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And they played around with it a little bit more and talked to a couple of their colleagues who had other specialties.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C21792F42C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 69,
+        "endOffset": 83,
+        "text": "Doppler effect",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4382CB04E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 16,
+        "endOffset": 24,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6E25B6F751",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "And they said, \"You know, we could actually look at the slope of the Doppler effect to figure out the points at which the satellite is closest to our antenna and the points at which it's furthest away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2058793AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "That's pretty cool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C4590233F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 245,
+        "text": "Eventually, they get permission -- this is all a little side project that hadn't been officially part of their job description -- they get permission to use the new UNIVAC computer that takes up an entire room that they'd just gotten at the APL.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FEA29384D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 306,
+        "text": "And they run some more of the numbers, and at the end of about three or four weeks, turns out they have mapped the exact trajectory of this satellite around the Earth, just from listening to this one little signal, going off on this little side hunch that they'd been inspired to do over lunch one morning.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "508E6A46B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 85,
+        "endOffset": 98,
+        "text": "Hey, you guys",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7C8FF79CDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 167,
+        "text": "A couple weeks later, their boss, Frank McClure, pulls them into the room and says, \"Hey, you guys, I have to ask you something about that project you were working on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "319BC37D4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "You've figured out an unknown location of a satellite orbiting the planet from a known location on the ground.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A0311CA67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Could you go the other way?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BDE66CD212",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Could you go the other way?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E54A506A2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Could you figure out",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0C1B4CD622",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Could you figure out an unknown location on the ground if you knew the location of the satellite?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12AD0185F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And they thought about it and they said, \"Well, I guess maybe you could.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "909D5C511E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Let's run the numbers here.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EA0F7D71CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Let's run the numbers here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A88EA19DDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "So they went back and thought about it and came back and said, \"Actually, it'll be easier.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50F066A9EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "And he said, \"Oh, that's great, because, see, I have these new nuclear submarines\" (Laughter) \"that I'm building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FE26C4B5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 67,
+        "endOffset": 102,
+        "text": "it will land right on top of Moscow",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A81A409347",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And it's really hard to figure out how to get your missile so that",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBA68F1BDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "So we're thinking we could throw up a bunch of satellites and use it to track our submarines and figure out their location in the middle of the ocean.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7911F1B8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Could you work on that problem?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "85E065E4CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "And that's how GPS was born.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED0F2016D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 304,
+        "text": "Thirty years later, Ronald Reagan, actually, opened it up and made it an open platform that anybody could build upon, and anybody could come along and build new technology that would create and innovate on top of this open platform, left it open for anyone to do pretty much anything they wanted with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B863543EB9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 74,
+        "endOffset": 104,
+        "text": "device sitting in their pocket",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "08228DEF85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 26,
+        "endOffset": 66,
+        "text": "certainly half of this room, if not more",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "22DE74F133",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 26,
+        "endOffset": 189,
+        "text": "if not more, has used said device and said satellite system to locate a nearby coffeehouse somewhere in the last -- (Laughter) in the last day or last week, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B55B4ED415",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 88,
+        "endOffset": 139,
+        "text": "marvelous, unplanned, emergent, unpredictable power",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F36475BC20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 11,
+        "endOffset": 87,
+        "text": "And that, I think, is a great case study, a great lesson in the power -- the",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F007D7FD9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "When you build them right, they will be led to completely new directions the creators never even dreamed of.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C6F7145A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 207,
+        "endOffset": 253,
+        "text": "they're just helping somebody find a soy latte",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2EDCFCF11E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "I mean, here you have these guys who basically thought they were just following this hunch, this little passion that had developed, then they thought they were fighting the Cold War, and then,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F7FA5CA8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 11,
+        "endOffset": 42,
+        "text": "That is how innovation happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3EF9A6C5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Chance favors the connected mind.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D142006BF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8AF0AF8E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "756D838AFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

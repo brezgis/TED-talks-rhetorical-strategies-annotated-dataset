@@ -1,0 +1,2582 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10110,
+  "title": "How to make filthy water drinkable",
+  "author": "Michael Pritchard",
+  "url": "https://www.ted.com/talks/michael_pritchard_how_to_make_filthy_water_drinkable",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T07:16:30.024889Z",
+  "updated_at": "2026-05-07T07:16:30.024889Z",
+  "lead_time": 84.51,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Good morning everybody.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB3DE62178",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "I'd like to talk about a couple of things today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE8B6566AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "The first thing is water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6499912B1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 10,
+        "endOffset": 34,
+        "text": "you've all been enjoying",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A34F3A6144",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 70,
+        "endOffset": 78,
+        "text": "you here",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "405BCED1E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And I'm sure you'll feel that it's from a safe source.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDA2F009EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 4,
+        "endOffset": 22,
+        "text": "What if it wasn't?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "68EE20757A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 22,
+        "endOffset": 38,
+        "text": "source like this",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "05194270E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 40,
+        "endOffset": 88,
+        "text": "half of you would now be suffering with diarrhea",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "36990BB96A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "I talked a lot in the past about statistics, and the provision of safe drinking water for all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C0EAE8B42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "But they just don't seem to get through.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D50A0FCB2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And I think I've worked out why.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26A3FF07E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 42,
+        "endOffset": 105,
+        "text": "scale of the problem just seems too huge to contemplate solving",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "345ECC35FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 23,
+        "endOffset": 55,
+        "text": "us, governments and aid agencies",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DCBBC1A852",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 13,
+        "endOffset": 33,
+        "text": "I'd like to show you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "51FAC926EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "By the way, since I've been speaking, another 13,000 people around the world are suffering now with diarrhea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D7114E722",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And four children have just died.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EED5A3D48C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "I invented Lifesaver bottle because I got angry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D45842065E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "I, like most of you",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "97F19636C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 96,
+        "endOffset": 168,
+        "text": "devastating news of the Asian tsunami as it rolled in, playing out on TV",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9D58804123",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "The days and weeks that followed, people fleeing to the hills, being forced to drink contaminated water or face death.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E122DFF66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "That really stuck with me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0FBDEB45F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "Then, a few months later, Hurricane Katrina slammed into the side of America.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8795481D7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 20,
+        "endOffset": 48,
+        "text": "here's a First World country",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9B574DA3A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 50,
+        "endOffset": 76,
+        "text": "let's see what they can do",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "97EB6BA02B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Day one: nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F4FE9AFF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Day two: nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBF8BC0FFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Do you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00512339B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "People were shooting each other on the streets for TV sets and water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4ADA650DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "That's when I decided I had to do something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "153BA4D98E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Now I spent a lot of time in my garage, over the next weeks and months, and also in my kitchen -- much to the dismay of my wife.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBCBBB08B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D915F30443",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 11,
+        "endOffset": 101,
+        "text": "However, after a few failed prototypes, I finally came up with this, the Lifesaver bottle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7F62D213E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Okay, now for the science bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A453A4023",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Before Lifesaver, the best hand filters were only capable of filtering down to about 200 nanometers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "684D8606F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "The smallest bacteria is about 200 nanometers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A750ACFE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So a 200-nanometer bacteria is going to get through a 200-nanometer hole.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C6CA35CBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "The smallest virus, on the other hand, is about 25 nanometers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E37D3E824",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "So that's definitely going to get through those 200 nanometer holes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98D3E11D05",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Lifesaver pores are 15 nanometers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D96FE316B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So nothing is getting through.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52F7A7C5AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 6,
+        "endOffset": 53,
+        "text": "I'm going to give you a bit of a demonstration.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "545A730756",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Would you like to see that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "60D10DA16F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I spent all the time setting this up, so I guess I should.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F93EEE56CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We're in the fine city of Oxford.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "865352DA64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "So -- someone's done that up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D6ACA47FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "Fine city of Oxford, so what I've done is I've gone and got some water from the River Cherwell, and the River Thames, that flow through here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "208BAFD804",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And this is the water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1256766924",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "But I got to thinking, you know, if we were in the middle of a flood zone in Bangladesh, the water wouldn't look like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65A6AB544E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "So I've gone and got some stuff to add into it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E62F90B89F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And this is from my pond.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B892058EB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 18,
+        "endOffset": 57,
+        "text": "Have a smell of that, mister cameraman.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3EAA14ACF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5F9EDE3354",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "(Laughs) Right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D52260A92D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "We're just going to pour that in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B6687110A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Audience: Ugh!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED133210EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Michael Pritchard: Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A93E939403",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "We've got some runoff from a sewage plant farm.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E639531101",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So I'm just going to put that in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0FCECCA9FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "(Laughter) Put that in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "205C837E21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "There we go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7635CF39DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "(Laughter) And some other bits and pieces, chuck that in there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF7CDB0856",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And I've got a gift here from a friend of mine's rabbit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7B4320F1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So we're just going to put that in there as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86C1E83DA2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "(Laughter) Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4D3C2316A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "(Laughter) Now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "517909ED78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "The Lifesaver bottle works really simply.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "043F322514",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "You just scoop the water up.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "261D35F647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "Today I'm going to use a jug just to show you all.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1A307E3DEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Let's get a bit of that poo in there.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4FAF145AF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "That's not dirty enough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B416448371",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Let's just stir that up a little bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31324A917D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Okay, so I'm going to take this really filthy water, and put it in here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F174C96DF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Do you want a drink yet?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7A579EC8E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "(Laughter) Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0034A4F32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "There we go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B5E607EA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Replace the top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C3D1AC039",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Give it a few pumps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "966DEE03E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6452D485D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "That's all that's necessary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB6C44BF0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 17,
+        "endOffset": 29,
+        "text": "pop the teat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A50EEBDCE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Now as soon as I pop the teat, sterile drinking water is going to come out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4AF6C0A0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "I've got to be quick.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC293DEDC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Okay, ready?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21708BD70C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "There we go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "875335CBFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Mind the electrics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34E190A465",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "That is safe, sterile drinking water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45D626A785",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "(Applause) Cheers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "288E0EDFCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 11,
+        "endOffset": 30,
+        "text": "There you go Chris.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C186BF4AB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Applause) There you go Chris.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E10208D5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 11,
+        "endOffset": 30,
+        "text": "What's it taste of?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "31EFC4C8D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Applause) What's it taste of?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBA304138B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Chris Anderson: Delicious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA304CBDEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Michael Pritchard: Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2F3B18EE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Let's see Chris's program throughout the rest of the show.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E39087A35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "30BDDF9208",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Okay?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41C80CA585",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "(Laughter) Okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C395CB9D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Lifesaver bottle is used by thousands of people around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "623D4247D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It'll last for 6,000 liters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E717F7E0A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 29,
+        "endOffset": 48,
+        "text": "failsafe technology",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "25F97EBC11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And when it's expired, using failsafe technology, the system will shut off, protecting the user.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E915236A0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Pop the cartridge out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA80861F78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Pop a new one in.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4E240606D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "It's good for another 6,000 liters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA2B0DA816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "So let's look at the applications.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8503755A37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Traditionally, in a crisis, what do we do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A0131B72DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "We ship water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BA2ADEC78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Then, after a few weeks, we set up camps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E648786815",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And people are forced to come into the camps to get their safe drinking water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4235FDC85A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "What happens when 20,000 people congregate in a camp?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "796ED123D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Diseases spread.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "727FF5DDF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "More resources are required.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1A4F38525",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 25,
+        "endOffset": 42,
+        "text": "self-perpetuating",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A5318A6666",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "The problem just becomes self-perpetuating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EEE51ADF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "But by thinking differently, and shipping these, people can stay put.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C924579DC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "They can make their own sterile drinking water, and start to get on with rebuilding their homes and their lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "944C730C55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Now, it doesn't require a natural disaster for this to work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D6237B114",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Using the old thinking",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "17ACB9C5BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Using the old thinking, of national infrastructure and pipe work, is too expensive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABF651FD27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 42,
+        "endOffset": 64,
+        "text": "you run out of noughts",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "42F90DD31F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "When you run the numbers on a calculator, you run out of noughts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB83A1D2F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So here is the \"thinking different\" bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "084653EF34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 76,
+        "endOffset": 89,
+        "text": "Mother Nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6E20A23D95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Instead of shipping water, and using man-made processes to do it, let's use Mother Nature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85F58E7C2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 12,
+        "endOffset": 28,
+        "text": "fantastic system",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F71A7E66E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "She's got a fantastic system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC35577DF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Mother Nature",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "32E2F9D96F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "She picks the water up from there, desalinates it, for free, transports it over there, and dumps it onto the mountains, rivers, and streams.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B62B6BD53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And where do people live?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "85F566AC1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Near water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78EF551767",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "All we've go to do is make it sterile.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE56B277BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "How do we do that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4F70D81689",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Well, we could use the Lifesaver bottle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0294719806",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Or we could use one of these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C8F2EB301C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 26,
+        "endOffset": 35,
+        "text": "jerry can",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4ADADD78AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "The same technology, in a jerry can.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D4F9DD28C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "This will process 25,000 liters of water; that's good enough for a family of four, for three years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48F1DF2434",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And how much does it cost?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BF3ADA9DAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "About half a cent a day to run.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "885FEF2BD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50E8CFF895",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 18,
+        "endOffset": 80,
+        "text": "thinking differently, and processing water at the point of use",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F264B8D0C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 11,
+        "endOffset": 166,
+        "text": "So, by thinking differently, and processing water at the point of use, mothers and children no longer have to walk four hours a day to collect their water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "900287DB5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "They can get it from a source nearby.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "246DE263B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "So with just eight billion dollars, we can hit the millennium goal's target of halving the number of people without access to safe drinking water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAE11A56C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "To put that into context, The U.K. government spends about 12 billion pounds a year on foreign aid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6AB2A5F454",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "But why stop there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "80CF6D636C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "With 20 billion dollars, everyone can have access to safe drinking water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CA6F53BE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "So the three-and-a-half billion people that suffer every year as a result, and the two million kids that die every year, will live.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F4126D1E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F758D19A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D38735C60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

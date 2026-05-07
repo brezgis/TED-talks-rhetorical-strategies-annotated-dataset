@@ -1,0 +1,1817 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7497,
+  "title": "What I learned investigating Nixon",
+  "author": "Bob Woodward",
+  "url": "https://www.ted.com/talks/bob_woodward_what_i_learned_investigating_nixon",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T09:06:28.758363Z",
+  "updated_at": "2026-05-07T09:06:28.758363Z",
+  "lead_time": 73.799,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D59BB51D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "You're nice to invite me.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EB71A1C7F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 85,
+        "endOffset": 376,
+        "text": "what we've learned about corruption, what we've learned about Nixon since then - because of his secret taping system, there's so much that comes out; it's almost as if every season, there is a new batch of Nixon tapes - and then try to address the question a little bit, What does that mean?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A9410AF3BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "What does Watergate, what does the kind of corruption that leads to the resignation of a president entail, and what happened?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B9610F49BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "The beginning of Watergate was five burglars caught in the Democratic headquarters at the Watergate, and it seemed bizarre.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5CBC9DFA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 66,
+        "endOffset": 74,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E28245092B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "They all had business suits.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB31F98182",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 58,
+        "endOffset": 103,
+        "text": "none to my knowledge ever had business suits.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2A2D2FABFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "And they were there before the judge, and the judge asked the leader where he worked, and the leader said (whispers), and the judge said, \"Speak up!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C4DA511AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And so it was James McCord, he said, \"CIA.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB6BFF00B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "(Laughter) And the judge then said, \"No, speak up so we can hear.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8BB552857",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And so, McCord said, \"CIA.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0F6890115",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "I was in the front row, listening - and I'm going to speak English here because that's what happened - I said, not in a whisper but kind of blurted it out, \"Holy shit.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4AF7A1B8C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "(Laughter) So it was 26 months of Watergate and the revelations that sort of tumbled out, and as you look at it now, you know, What really was Watergate?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "34537FDB4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 214,
+        "text": "Wasn't just that burglary; it was the series of illegal activities designed to subvert the process of electing a president in this country and nominating - in the case in 1972 - of the Democratic opponent to Nixon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E739ECB245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Sam Ervin, who led the Senate Watergate Committee, addressed the question, \"What was Watergate?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FB72EEC4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "and he said, \"It was this subversion, but why?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEF850D3BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Why Watergate?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BBE1042A9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "\"a lust for political power\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1017408BB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 80,
+        "endOffset": 110,
+        "text": "retaining that political power",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A0A1DC267E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So as you look at \"What was Watergate?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C68E02E1D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "it was really five wars",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "553095A582",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "The first war was, interestingly enough, the war against the anti-war movement, the anti-Vietnam war movement, which was growing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBBDA04713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Nixon had inherited the Vietnam War from President Johnson.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B50078BF03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 395,
+        "text": "\"We're going to withdraw troops, but we're going to bomb and bomb and bomb\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "077B26F7F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 115,
+        "endOffset": 395,
+        "text": "which of course is what they did, but he hated the anti-war movement so strongly that he had one of his aides in the White House, Thomas Charles Huston, draw up a top-secret plan of how to deal with the domestic opposition, people who were thought to be radicals or were radicals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "456F4037C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 259,
+        "text": "This Huston plan - Huston, in proposing it to Nixon, in writing said, \"Oh, this is illegal,\" because it involved break-ins, wiretapping, surveillance - everything necessary to bring the anti-war movement, or the violent parts of the anti-war movement, to toe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "125260F8B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "And Nixon approved it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4FB08DEA1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 2,
+        "text": "J.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD4F55120C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 211,
+        "text": "Edgar Hoover, the FBI Director, objected, not because he thought, gee, these are illegal things, but he thought and he knew that break-ins, wiretapping, surveillance - that's the job of the FBI, that's our turf.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "522CC172E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "(Laughter) We don't want to share it.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "126043DEB4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And so Nixon rescinded the Huston plan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E770266F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "But then, things in 1971 got so intense, and there's a tape of a meeting in the Oval Office.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A419E1C872",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "It was June 17th, 1971.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DF8613E38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 448,
+        "text": "Now, this is a year before the Watergate burglary, and it's Nixon, his Chief of Staff, Haldeman, and Henry Kissinger, the National Security Advisor, and there is a document that they want to get out of the Brookings Institution that's going to help in criticizing President Johnson and his conduct of the war, and they're talking about it, and, literally, Bob Haldeman said, \"Oh, if we get this document, we'll be able to blackmail Lyndon Johnson.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1868DF3801",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Think about it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C7CD3E4358",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "Can you imagine John Adams, the second president, sitting around and saying, \"Let's get something so we can blackmail George Washington\"?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4403F5F089",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "But here, that was the proposal, and Nixon said, \"Well, I want to burglarize the Brookings Institution to get this document.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88CDEAAE7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Listen to the tape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "430DB425D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "It is chilling",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3929E451CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 17,
+        "endOffset": 119,
+        "text": "President of the United States saying, \"Let's blow the safe,\" \"I want to do this on a thievery basis.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DB74E4D00",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "213F6B19DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 10,
+        "endOffset": 101,
+        "text": "it's that anybody would talk this way; that your President would talk this way is stunning.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4E22582F16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "Now, the second war of Nixon was against the news media; set up an operation in the White House called the \"Plumbers,\" led by Howard Hunt and Gordon Liddy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6AE581C593",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "They were to find out leaks to the news media.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D55F152280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "There were 17 wiretaps of reporters, White House officials to gain information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62029BE272",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "They burglarized the psychiatrist's office of Daniel Ellsberg, who had leaked the Pentagon Papers to The New York Times and The Washington Post.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "50F3A91F7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Now think of that.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8AD872B370",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "The government has decided - and Ellsberg is under criminal indictment also - they decide they're going to get him, so let's break into his psychiatrist's office to get dirt on him.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92A4A5EE60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 62,
+        "endOffset": 74,
+        "text": "the Plumbers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B972096142",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 80,
+        "endOffset": 113,
+        "text": "the wiretapping and the break-ins",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9E244F2EFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 114,
+        "endOffset": 184,
+        "text": "and bring it into the White House and to turn it against the Democrats",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CAF0B4CDE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 275,
+        "text": "The third war was to take this apparatus of Hunt and Liddy in the Plumbers, and the wiretapping and the break-ins and bring it into the White House and to turn it against the Democrats - and that was the Watergate operation - and sabotage and espionage that accompanied that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E66933407E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 35,
+        "endOffset": 58,
+        "text": "the war against justice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BF48F0725F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "The fourth war was, significantly, the war against justice, which is the cover-up: \"Oh, my God, we've been caught.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDE6EB29D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "\"Now we have to lie.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35331CD816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Now we have to lie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A867302620",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And if you listen to some of these tapes",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "304E04C32B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 276,
+        "text": "instrument of personal revenge",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "758AD62B66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 276,
+        "text": "And if you listen to some of these tapes - here is the President of the United States proposing to his counsel, John Dean, \"Well, we have to pay the Watergate burglars for their silence,\" and John Dean, the counsel, says on this tape, said, \"Well, it's going to be expensive.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A1E048BF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And Nixon said, \"Well, how much?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A949C44F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And Dean said, \"Well, a million dollars.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2801622B5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Nixon: \"Oh, I know where I can get that.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93C4255D10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "In the White House.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A08311E3A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Level of criminality which is astonishing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD0850F8A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "Then the whole series of investigations, special prosecutor of Senate Watergate Committee, the impeachment investigation of Nixon, and he resigns in August, 1974.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4D962B0D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 75,
+        "endOffset": 98,
+        "text": "the war against history",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DC62ECDDD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "to say, \"Oh, no, Watergate was really not that important. I did not commit impeachable offenses\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D9C240F5A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "And what happened there, he lived for 20 more years, and the fifth war was the war against history, to say, \"Oh, no, Watergate was really not that important. I did not commit impeachable offenses,\" having surrogates go out and say, \"Well, there are unanswered questions about Watergate\" - which there are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3228F266A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "But I think in a very important way, you look at Nixon and this record on the tapes - what he did is - the presidency is supposed to be something that can do good for a majority of people in the country.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B69FA84B7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 37,
+        "endOffset": 54,
+        "text": "you look at Nixon",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6AF4A8DD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 94,
+        "endOffset": 124,
+        "text": "instrument of personal revenge",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8C6A79A647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "Let's use the power of the Presidency as an instrument of personal revenge. Let's get the IRS, the FBI, the CIA on Nixon's real or perceived opponents.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B88AA4FC5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "Listen to those tapes; time and time again, it's \"Let's use the power of the Presidency as an instrument of personal revenge. Let's get the IRS, the FBI, the CIA on Nixon's real or perceived opponents.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1188AB2294",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 88,
+        "endOffset": 113,
+        "text": "the dog that doesn't bark",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "040FB83944",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "The dog - and this is ultimately, I think, the final corruption of Nixon in Watergate - the dog that doesn't bark on the tapes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31C0E657DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "No one, to my knowledge, ever says, What does the country need?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BCA7F88650",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "No one, to my knowledge, ever says, What does the country need?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E71AC521BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What would be good for the people?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9F85EA8A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What would be good for the people?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8248B59B0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 329,
+        "text": "It's all in this vicious way of let's screw somebody, let's help Nixon's career, let's prosecute the Vietnam War so he'll get reelected even though - in one memo in my latest book, Nixon actually wrote out, which we didn't know at the time, just found this out last year, he said, \"Well, the bombing has achieved zilch, nothing.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83D84C166A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And what did he do the year he was running for reelection?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "39633C357A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And what did he do the year he was running for reelection?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84A29FBF13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "He increased the bombing, intensified it: 1.1 million tons of bombs in Southeast Asia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1FC64BF3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 282,
+        "text": "So the day Nixon resigned, he called his aides, friends, cabinet officers to the East Room of the White House and had his wife, two daughters, son-in-law standing there, and there was no script - it was Nixon raw - and he talked about his mother and his father, and he was sweating.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBAC820DB2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "It was just a lot of people worried that he was going to come unglued, because it was televised nationally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFA3076439",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Then at the end, Nixon kind of waved his hand, \"Ah, here is why I called you all here.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8953FF549A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 28,
+        "endOffset": 151,
+        "text": "Always remember, others may hate you, but those who hate you don't win unless you hate them, and then you destroy yourself.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9C698562DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "And he said the following: \"Always remember, others may hate you, but those who hate you don't win unless you hate them, and then you destroy yourself.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1695261EE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 33,
+        "endOffset": 52,
+        "text": "hate was the poison",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0DCD62CE22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 54,
+        "endOffset": 96,
+        "text": "hate was what drove him and his presidency",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2C09841FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 270,
+        "endOffset": 286,
+        "text": "if you look back",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C06259EA4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 421,
+        "endOffset": 442,
+        "text": "if you think about it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6AAA8562C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 483,
+        "text": "Now think of the wisdom in that: hate was the poison, hate was what drove him and his presidency, and at that moment he had to leave office, he understood the poison and how hate had destroyed him, had put the country on edge, and if there is anything to reflect on now if you look back, as we've seen the current presidential election, on the surface and underneath, there is too much contempt, too much hate, and that, if you think about it, we need to know what's really going on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BA4F9B836",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "We don't know enough, and if we don't know what's going on, the judge who said it got it right: \"Democracies die in darkness.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "631AD62BC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And history proves that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6415502D23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "And we think we're resilient - I think we are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6734302C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "We think we're strong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D801C6277",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "We think that we have a process that will protect us from that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21CE69DED7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 14,
+        "endOffset": 32,
+        "text": "infected with hate",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DFFC4FEA52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 37,
+        "endOffset": 72,
+        "text": "infected with the lack of knowledge",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B10826B37A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 104,
+        "endOffset": 117,
+        "text": "what's inside",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5CE8F76535",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 75,
+        "endOffset": 102,
+        "text": "who these people really are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DF03642844",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 119,
+        "endOffset": 138,
+        "text": "what's driving them",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D1208412C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F8A8A8E2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94EFA7F2C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

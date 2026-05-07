@@ -1,0 +1,3347 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10419,
+  "title": "How do you define yourself?",
+  "author": "Lizzie Velásquez",
+  "url": "https://www.ted.com/talks/lizzie_velasquez_how_do_you_define_yourself",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T04:47:13.493255Z",
+  "updated_at": "2026-05-07T04:47:13.493255Z",
+  "lead_time": 118.475,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 4,
+        "endOffset": 26,
+        "text": "really, really, really",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CFC8BF87E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 18,
+        "endOffset": 26,
+        "text": "tell you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C3FD6A6F06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "I was born with this very rare syndrome, that only two other people in the world including myself, that we know of, have.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ECBCE1EA95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Basically what this syndrome causes, is that I cannot gain weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C5E779F19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Yes, it does sound as good as it is.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AD181DBC76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "(Laughter) I could eat absolutely whatever I want, whenever I want and I won't really gain any weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "721F070A92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "I'm going to be 25 in March, and I've never weighed over about 64 pounds in my entire life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEEC4DD8F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 99,
+        "endOffset": 145,
+        "text": "giant tub of Twinkies, donuts, chips, Skittles",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "47DB203E65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 112,
+        "endOffset": 145,
+        "text": "Twinkies, donuts, chips, Skittles",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8BD3F5164C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 15,
+        "endOffset": 29,
+        "text": "You know what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2CD99C5C3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It's alright, I can do these things!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AB49E46E75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Because there are benefits to this syndrome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "547F8242A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "There are benefits to not being able to gain weight.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "629E2584A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "There are benefits to being visually impaired.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "53904005EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "There are benefits to being kind of really small.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2BAEECA5A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 24,
+        "endOffset": 63,
+        "text": "Lizzie, how in the world are you saying",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C17603E0BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Well, let me tell you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E01EB30AC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Well, let me tell you what the benefits are because they are great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9070819EA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 17,
+        "endOffset": 24,
+        "text": "conTACT",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "96C68C8DD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 17,
+        "endOffset": 24,
+        "text": "conTACT",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0A4A54D036",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I wear contacts--conTACT.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8D7F2AA97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Half-off conTACTS",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F2BAE92D21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 9,
+        "endOffset": 17,
+        "text": "conTACTS",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "665595320C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Half-off conTACTS.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5B3057E69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "(Laughter) When I wear my reading glasses: half-off prescription.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1525A6B65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "If somebody is annoying me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7A09CE9731",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "If somebody is annoying me, being rude: Stand on my right side.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CCBA7F1F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "(Laughter) It's like you're not even there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C6BDF7CE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "I don't even know you're standing there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E8357FB519",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "I don't even know you're standing there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA882D1A29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 11,
+        "endOffset": 31,
+        "text": "if I stand like this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FEFB9034F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Right now, if I stand like this, I have no clue that there's this whole side of the room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5102AB9BA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Also, being small, I am very willing to volunteer myself to go to Weight Watchers or to some gym, and say, \"Hi, I'm Lizzie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9745ABD80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I will be your poster child.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00027D6922",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I will be your poster child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D88228A744",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 34,
+        "endOffset": 54,
+        "text": "and I will say, 'Hi!",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5C9BD23E49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Put my face on whatever you need, and I will say, 'Hi!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCD4C7C31A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I used this program.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C31D840BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 38,
+        "endOffset": 188,
+        "text": "Even though there are amazing things that have come from this syndrome, there are also things that have been very, very difficult, as you can imagine.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF67983814",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 38,
+        "endOffset": 188,
+        "text": "Even though there are amazing things that have come from this syndrome, there are also things that have been very, very difficult, as you can imagine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E61E975215",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 25,
+        "endOffset": 29,
+        "text": "150%",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "751888C22C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Growing up, I was raised 150% normally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F55482505F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I was my parents' first child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D7EBCC799",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 47,
+        "endOffset": 60,
+        "text": "Your daughter",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5F9AC58C6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And when I was born, the doctors told my mom, \"Your daughter has no amniotic fluid around her.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD8177D0A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "At all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1CDC25BA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 27,
+        "endOffset": 36,
+        "text": "a miracle",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BD4F682421",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "So when I was born, it was a miracle that I came out screaming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5775BAE9C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "The doctors told my parents, \"We just want to warn you: Expect your daughter to never be able to talk, walk, crawl, think, or do anything by herself.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F442985784",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 28,
+        "endOffset": 43,
+        "text": "you would think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "298B7FEABA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "Now, as first-time parents, you would think that my parents would say, \"Oh no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C59FCBEF99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "32F7F9D2EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD01B69A61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Why",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D999EEAAA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Why are we getting our first child with all these unknown problems?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CB8AC4535",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "But that's not what they did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1427C15CCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "The first thing they told the doctor was, \"We want to see her, and we are going to take her home and love her, and raise her to the best of our abilities.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8457E56D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And that's what they did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42E0934634",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "I credit pretty much everything that I've done in my life to my parents.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E32B9285B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "My dad is here with me today, and my mom is at home watching.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24ECC2C049",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Hi mom!",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5B74CC5D43",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Hi mom!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F497947B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "(Laughter) She's recovering from surgery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "847811266E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 13,
+        "endOffset": 21,
+        "text": "the glue",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4374FF21A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 274,
+        "text": "She has been the glue that's held our family together, and she's given me the strength to see that she's going through so much, but she has this fighting spirit that she's instilled in me, so that I have proudly been able to stand in front of people and say, \"You know what?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45B95C010E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I've had a really difficult life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B57C565B92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "But that's okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E076B35E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "That's okay.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "158FBAF332",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "things have been scary, things have been tough",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AA94650FDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "One of the biggest things that I had to deal with growing up was something I'm pretty sure every single one of us in this room has dealt with before.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "019C1F0079",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Can you guess what that is?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AD88E3419C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "It starts with a 'B'.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C585BE6E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Can you guys guess it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4AD5AC94B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Audience: Boys!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "869D1EBBBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Lizzie: Boys?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCA9C975DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "(Laughter) Bullying!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EB26C9FE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 11,
+        "endOffset": 44,
+        "text": "I know what you all are thinking.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8EE6F693E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "(Laughter) Why can't I sit here with them?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AD5C5CB06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 11,
+        "endOffset": 170,
+        "text": "I had to deal with bullying a lot, but as I said, I was raised very normally, so when I started kindergarten, I had absolutely no idea that I looked different.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E00590CD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "No clue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "886A2BD14A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "I couldn't see that I looked different from other kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A19E68A1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 17,
+        "endOffset": 38,
+        "text": "a big slap of reality",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C0149C6C8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "I think of it as a big slap of reality for a five year-old, because I went in to school the first day, decked-out in Pocahontas gear.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A9D0624B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I was ready!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D168AEA34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 55,
+        "endOffset": 69,
+        "text": "a turtle shell",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "10952AB040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 11,
+        "endOffset": 259,
+        "text": "I went in with my backpack that looked like a turtle shell because it was bigger than me, and I walked up to a little girl and smiled at her, and she looked up at me like I was a monster, like I was the scariest thing she had ever seen in her life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38CA53B19C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "My first reaction was, \"She is really rude.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69F4757503",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 11,
+        "endOffset": 57,
+        "text": "I am a fun kid, and she's the one missing out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "724C2D332C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "So I'll just go over here and play with blocks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C856CF2826",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Or boys.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDC05C1428",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "(Laughter) (Lizzie laughs) I thought the day would get better, and unfortunately, it didn't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AADD7A0134",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "The day got worse and worse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3217C310A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "A lot of people just wanted to have absolutely nothing to do with me, and I couldn't understand why.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "712CD99342",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4CC76F15ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "What did I do?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "717CFC3822",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "I didn't do anything to them!",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BA1151D250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "In my mind I was still a really cool kid.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9B7988054",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 38,
+        "endOffset": 59,
+        "text": "What's wrong with me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A1665DAA52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I had to go home and ask my parents, \"What's wrong with me?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB81DB944E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "What did I do?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11DD86025B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Why don't they like me?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B681A1E2DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "They sat me down and said, \"Lizzie, the only thing different about you is that you're smaller than the other kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "627E46FD7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "You have this syndrome, but it's not going to define who you are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "014609894B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 12,
+        "endOffset": 75,
+        "text": "Go to school, pick your head up, smile, continue to be yourself",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A8E41495E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "They said, \"Go to school, pick your head up, smile, continue to be yourself, and people will see that you're just like them.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C5358B8EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And so that's what I did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F251111611",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "I want you to think, and ask yourself this in your head, right now: What defines you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "04472F627C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Who are you?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D8CBA82CB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Is it where you come from?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B6347DD1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Is it your background?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE2D05B485",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Is it your friends?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC30CB934E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "What is it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3ED2219B01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "What defines who you are as a person?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85CB1432EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "It's taken me a very long time to figure out what defines me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8CF9A06FFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 45,
+        "endOffset": 61,
+        "text": "outer appearance",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "202DC78F9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "For so long I thought what defined me was my outer appearance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "857704B105",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 18,
+        "endOffset": 74,
+        "text": "little tiny legs, and my little arms, and my little face",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "250547D653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "I thought that my little tiny legs, and my little arms, and my little face were ugly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9070755723",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "I thought I was disgusting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13748335FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 151,
+        "endOffset": 174,
+        "text": "scrub this syndrome off",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C2E07A1029",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "thinking, \"Can I just scrub this syndrome off?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7A68860102",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "I hated when I'd wake up in the morning when I was going to middle school, and would be looking in the mirror getting ready, and thinking, \"Can I just scrub this syndrome off?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73279AD918",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 53,
+        "endOffset": 65,
+        "text": "scrub it off",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "CA1401F088",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "It would make my life so much easier if I could just scrub it off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E399AE5443",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "I could look like other kids; I wouldn't have to buy clothes that had Dora the Explorer on them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69EE2B5EA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "I wouldn't have to buy stuff that was 'Bedazzled', when I was trying to be like the cool kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B1CD0F378",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 8,
+        "endOffset": 57,
+        "text": "wish, and pray, and hope, and do whatever I could",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FA7F954F87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "I would wish, and pray, and hope, and do whatever I could so I would wake up in the morning and be different, and I wouldn't have to deal with these struggles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB8CB2ABDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "It's what I wanted every single day, and every single day I was disappointed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "941726FB5E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 272,
+        "text": "I have an amazing support system around me, who never pity me, who are there to pick me up if I'm sad, who are there to laugh with me during the good times, and they taught me that, even though I have this syndrome, even though things are hard, I can't let that define me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CFCEC59DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "My life was put into my hands, just like your lives are put into yours.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BFF21402C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 31,
+        "endOffset": 70,
+        "text": "just like your lives are put into yours",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EF3E3B5849",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "You are the person in the front seat of your car.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E7F7C9E696",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "You are the person in the front seat of your car.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FD59D295D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You are the one",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D987157AC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "You are the one who decides whether your car goes down a bad path, or a good path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "939E0FA61C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You are the one",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "49FABEB591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "You are the one who decides what defines you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "195EFC7914",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Now let me tell you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "70F90E57D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "Now let me tell you: it could be really hard to figure out what defines you, because there were times when I'd get so annoyed and frustrated, and say: \"I don't care what defines me!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6CED57EE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 102,
+        "endOffset": 123,
+        "text": "world's ugliest woman",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8B637D4D73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "When I was in high school I found a video, unfortunately, that somebody posted of me, labeling me the world's ugliest woman.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66120E6AE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 127,
+        "endOffset": 142,
+        "text": "please - please",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2FA8DD75ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "There were over four million views to this video; eight seconds long, no sound, thousands of comments; people saying, \"Lizzie, please - please - just do the world a favor, put a gun to your head, and kill yourself.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5691C48F2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Think about that, if people told you that, if strangers told you this.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3B08864C61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Think about that, if people told you that, if strangers told you this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE1A3D29C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 2,
+        "endOffset": 19,
+        "text": "cried my eyes out",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "29385365BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "I cried my eyes out of course, and I was ready to fight back and something kind of clicked in my head, and I thought, \"I'm just going to leave it alone.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4666B70E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "I started realizing that my life is in my hands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8F885E589",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "I could either choose to make this really good, or I could choose to make this really bad.",
+        "paragraphlabels": [
+          "PARALLEL"
+        ]
+      },
+      "id": "8ADDD4EE16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "I could either choose to make this really good, or I could choose to make this really bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C615AF994A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "I could be grateful, and open my eyes and realize the things that I do have, and make those the things that define me.",
+        "paragraphlabels": [
+          "PARALLEL"
+        ]
+      },
+      "id": "EBE34802AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "I could be grateful, and open my eyes and realize the things that I do have, and make those the things that define me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D0FD653BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I can't see out of one eye, but I can see out of the other.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3938438156",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I can't see out of one eye, but I can see out of the other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC7FE45EFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I might get sick a lot, but I have really nice hair.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ACFD0E5E9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I might get sick a lot, but I have really nice hair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F306D5C35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "(Laughter) (Audience) You do, you do!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF1F785E31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Thanks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "907F1FF4CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "You guys are like the best little section right here.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "94E8089277",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 22,
+        "endOffset": 41,
+        "text": "best little section",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "297FD24E5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Thanks. You guys are like the best little section right here. (Laughter) (Lizzie laughs) You made me lose my train of thought!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD7A96256F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "(Laughter) Okay... where was I?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "599E1AC83E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Audience: Your hair!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E56880F2C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Hair!",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CCE44F49B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "Hair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5241B59EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Ok, ok, thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33685581EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Thank you, thank you, thank you.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "050AE41BD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 151,
+        "endOffset": 214,
+        "text": "Am I going to let the people who called me a monster define me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9DE87B8A2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Am I going to let the people who said, \"Kill it with fire!\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E5A8CD2292",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "define me?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9AFA0D8E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 101,
+        "endOffset": 235,
+        "text": "Not my outer appearance, not the fact that I'm visually impaired, not the fact that I have this syndrome that nobody knows what it is.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8E8697931F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 30,
+        "endOffset": 46,
+        "text": "work my butt off",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "AAD3D1F12D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 93,
+        "endOffset": 124,
+        "text": "ladder to climb up to my goals.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "47BC0329BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "That's what I did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14584E5A09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "I told myself that I wanted to be a motivational speaker, I wanted to write a book, graduate college, have my own family, and have my own career.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB54C52116",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 19,
+        "endOffset": 47,
+        "text": "I’m standing in front of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8673F456D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "First thing, I accomplished it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E386924F7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I wanted to write a book; in a couple of weeks I will be submitting the manuscript for my third book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C292C78B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "(Applause) I wanted to graduate college, and I just finished college.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A2F0ED547",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "(Cheers and applause) I'm getting a degree in Communication Studies from Texas State University in San Marcos, and I have a minor in English.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC99586653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "I really, really tried to use real-life experience while I was getting my degree, and my professors were not having it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "41E2EF1E58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "I wanted to have, lastly, my own family and my own career.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ACBF5FA5B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 292,
+        "text": "The family part is kind of down the line, and my career part, I feel like I'm really doing well with it, considering the fact that when I decided I wanted to be a motivational speaker, I went home, I sat in front of my laptop, went to Google, and typed in: \"How to be a motivational speaker.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "51CABF6C1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "(Laughter) I'm not even joking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDDAE75A87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "I worked my butt off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E53958C7D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "I used the people who were telling me that I couldn't do this to motivate me.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0A42A601F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "I used their negativity to light my fire to keep going.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C3AD676C1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Use that.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BBD6998A0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Use that.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F9E9694591",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "Use that negativity that you have in your life to make yourself better, because I guarantee you - guarantee you - You will win.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4A2D755187",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Now I want to end, with asking you again.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DEBAC08DFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "I want you to leave here, and ask yourself what defines you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6C8B8F626D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "But remember: Brave starts here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14DAD55A90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66F4A3EC1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44E60DC32C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

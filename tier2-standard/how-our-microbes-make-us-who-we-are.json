@@ -1,0 +1,3041 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8505,
+  "title": "How our microbes make us who we are",
+  "author": "Rob Knight",
+  "url": "https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T10:13:16.797328Z",
+  "updated_at": "2026-05-07T10:13:16.797328Z",
+  "lead_time": 122.583,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "We humans have always been very concerned about the health of our bodies, but we haven't always been that good at figuring out what's important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B41896207",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "Take the ancient Egyptians, for example: very concerned about the body parts they thought they'd need in the afterlife, but they left some parts out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55E6525899",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "This part, for example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1667982793",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 98,
+        "endOffset": 169,
+        "text": "mushed up the brain, drained it out through the nose, and threw it away",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A1F5BA6D9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 171,
+        "endOffset": 241,
+        "text": "which makes sense, really, because what does a brain do for us anyway?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2978276572",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 28,
+        "endOffset": 51,
+        "text": "kind of neglected organ",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DE1116498B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 71,
+        "endOffset": 104,
+        "text": "weighed just as much as the brain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "35BF0A91A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 126,
+        "endOffset": 157,
+        "text": "just as important to who we are",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE7802B516",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "And imagine if, through new scientific advances, we were just beginning to understand its importance to how we think of ourselves.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F8D180C7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Wouldn't you want to know more about it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7C95D09675",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Well, it turns out that we do have something just like that: our gut, or rather, its microbes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EADA727511",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "But it's not just the microbes in our gut that are important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46B76DDAA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Microbes all over our body turn out to be really critical to a whole range of differences that make different people who we are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "64AEAA872F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "So for example, have you ever noticed how some people get bitten by mosquitos way more often than others?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7D832D145B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "It turns out that everyone's anecdotal experience out camping is actually true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9D14348AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 219,
+        "text": "For example, I seldom get bitten by mosquitos, but my partner Amanda attracts them in droves, and the reason why is that we have different microbes on our skin that produce different chemicals that the mosquitos detect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1EECA8B55C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Now, microbes are also really important in the field of medicine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F65948723F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "So, for example, what microbes you have in your gut determine whether particular painkillers are toxic to your liver.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "646FB0B945",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 61,
+        "endOffset": 81,
+        "text": "your heart condition",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BBD66CCA68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "They also determine whether or not other drugs will work for your heart condition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69DD879EF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 8,
+        "endOffset": 26,
+        "text": "you're a fruit fly",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "98B286BA5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "And, if you're a fruit fly, at least, your microbes determine who you want to have sex with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA66F26347",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We haven't demonstrated this in humans yet but maybe it's just a matter of time before we find out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A66E5F453C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "(Laughter) So microbes are performing a huge range of functions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BD1293C16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "They help us digest our food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B949D283B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "They help educate our immune system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7053FA6CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "They help us resist disease, and they may even be affecting our behavior.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "62B505F755",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "They help us resist disease, and they may even be affecting our behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6A2E8277B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "So what",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "72D2F511DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "So what would a map of all these microbial communities look like?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA43C88159",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Well, it wouldn't look exactly like this, but it's a helpful guide for understanding biodiversity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2AD341F45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "Different parts of the world have different landscapes of organisms that are immediately characteristic of one place or another or another.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B45C874DC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 24,
+        "endOffset": 40,
+        "text": "kind of the same",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "08EB622B4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 73,
+        "endOffset": 81,
+        "text": "with you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10DB592243",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "So instead of trying to identify them visually, what we do is we look at their DNA sequences, and in a project called the Human Microbiome Project, NIH funded this $173 million project where hundreds of researchers came together to map out all the A's, T's, G's, and C's, and all of these microbes in the human body.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF0D91ED15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 316,
+        "text": "So when we take them together, they look like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B815D9D41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "isn't it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D55D030189",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "It's a bit more difficult to tell who lives where now, isn't it?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B5CA8A830",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 278,
+        "text": "What my lab does is develop computational techniques that allow us to take all these terabytes of sequence data and turn them into something that's a bit more useful as a map, and so when we do that with the human microbiome data from 250 healthy volunteers, it looks like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27A717C91C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "Each point here represents all the complex microbes in an entire microbial community.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AA1B61D7FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "See, I told you they basically all look the same.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "10BCA30D1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 28,
+        "endOffset": 118,
+        "text": "each point represents one microbial community from one body site of one healthy volunteer.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D3D809F6AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 80,
+        "endOffset": 111,
+        "text": "almost like separate continents",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FB3C851BBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And what it turns out to be is that those, as the different regions of the body, have very different microbes in them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C22BFDE93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "So what we have is we have the oral community up there in green.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A51A9F9A73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "Over on the other side, we have the skin community in blue, the vaginal community in purple, and then right down at the bottom, we have the fecal community in brown.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0E61D0161",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "And we've just over the last few years found out that the microbes in different parts of the body are amazingly different from one another.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F48EFED179",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "So if I look at just one person's microbes in the mouth and in the gut, it turns out that the difference between those two microbial communities is enormous.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B28F760E7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "It's bigger than the difference between the microbes in this reef and the microbes in this prairie.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "97FA6FFE8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So this is incredible when you think about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D98936A175",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 22,
+        "endOffset": 150,
+        "text": "a few feet of difference in the human body makes more of a difference to your microbial ecology than hundreds of miles on Earth.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FFCD725CC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And this is not to say that two people look basically the same in the same body habitat, either.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4721197952",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "So you probably heard that we're pretty much all the same in terms of our human DNA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A05F1F6793",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "You're 99.99 percent identical in terms of your human DNA to the person sitting next to you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6566260A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 23,
+        "endOffset": 40,
+        "text": "your gut microbes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2FC153E4B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 23,
+        "endOffset": 40,
+        "text": "your gut microbes",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "69139F4726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "But that's not true of your gut microbes: you might only share 10 percent similarity with the person sitting next to you in terms of your gut microbes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1DB62CB647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 10,
+        "endOffset": 86,
+        "text": "as different as the bacteria on this prairie and the bacteria in this forest",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "68426065C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "So that's as different as the bacteria on this prairie and the bacteria in this forest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58EC60732E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 95,
+        "endOffset": 205,
+        "text": "everything from digesting food to involvement in different kinds of diseases, metabolizing drugs, and so forth",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3AB81CE30C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 84,
+        "endOffset": 87,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "29A0C6C801",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 206,
+        "text": "So these different microbes have all these different kinds of functions that I told you about, everything from digesting food to involvement in different kinds of diseases, metabolizing drugs, and so forth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE2D60C3AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So how do they do all this stuff?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AD4907A1A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So how do they do all this stuff?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33722DEAB1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Well, in part it's because although there's just three pounds of those microbes in our gut, they really outnumber us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "647037CAA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 4,
+        "endOffset": 37,
+        "text": "So how much do they outnumber us?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D959B177A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And so how much do they outnumber us?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E6CFCCED7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Well, it depends on what you think of as our bodies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9270EAB816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Is it our cells?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C74F00DBBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Is it our cells?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5917FF897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Well, each of us consists of about 10 trillion human cells, but we harbor as many as 100 trillion microbial cells.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4228B8B4CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "So they outnumber us 10 to one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16C9A89740",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "Now, you might think, well, we're human because of our DNA, but it turns out that each of us has about 20,000 human genes, depending on what you count exactly, but as many as two million to 20 million microbial genes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A46DAD0677",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 5,
+        "endOffset": 8,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C9FDD7B7F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "So whichever way we look at it, we're vastly outnumbered by our microbial symbionts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99C6447946",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And it turns out that in addition to traces of our human DNA, we also leave traces of our microbial DNA on everything we touch.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8820430355",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 59,
+        "endOffset": 171,
+        "text": "match the palm of someone's hand up to the computer mouse that they use routinely with up to 95 percent accuracy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1F59AE56F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 42,
+        "endOffset": 45,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8DAF23EF22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "We showed in a study a few years ago that you can actually match the palm of someone's hand up to the computer mouse that they use routinely with up to 95 percent accuracy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27C8FA51F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "So this came out in a scientific journal a few years ago, but more importantly, it was featured on 'CSI: Miami,' so you really know it's true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15121F8607",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 116,
+        "endOffset": 119,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FF2C843302",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 11,
+        "endOffset": 65,
+        "text": "So where do our microbes come from in the first place?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B740FF626",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Well if, as I do, you have dogs or kids",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "35296FFEDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 64,
+        "endOffset": 79,
+        "text": "dark suspicions",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B59C3E4883",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 20,
+        "endOffset": 56,
+        "text": "match you to your computer equipment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "818EACE1DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 213,
+        "text": "But it turns out that in adults, microbial communities are relatively stable, so even if you live together with someone, you'll maintain your separate microbial identity over a period of weeks, months, even years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58C5670408",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "It turns out that our first microbial communities depend a lot on how we're born.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D22A03576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 28,
+        "endOffset": 39,
+        "text": "regular way",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0AE43ECF6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 86,
+        "endOffset": 103,
+        "text": "vaginal community",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "677A7F85CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 193,
+        "endOffset": 197,
+        "text": "skin",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0B66267011",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 335,
+        "endOffset": 354,
+        "text": "protective microbes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BAC1175869",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 108,
+        "endOffset": 154,
+        "text": "more asthma, more allergies, even more obesity",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5554EF0FF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 205,
+        "text": "When my own daughter was born a couple of years ago by emergency C-section, we took matters into our own hands and made sure she was coated with those vaginal microbes that she would have gotten naturally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7BD2952DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 94,
+        "endOffset": 100,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9AA5F85779",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 223,
+        "endOffset": 250,
+        "text": "keeping our fingers crossed",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9F45AE7F27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 263,
+        "text": "With a sample size of just one child, no matter how much we love her, you don't really have enough of a sample size to figure out what happens on average, but at two years old, she hasn't had an ear infection yet, so we're keeping our fingers crossed on that one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "434BAF512B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "And what's more, we're starting to do clinical trials with more children to figure out whether this has a protective effect generally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C7FEE4BE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "So how we're born has a tremendous effect on what microbes we have initially, but where do we go after that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DB51E0ECE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "What I'm showing you again here is this map of the Human Microbiome Project Data, so each point represents a sample from one body site from one of 250 healthy adults.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7C5950A31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And you've seen children develop physically.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "168E4D37C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "You've seen them develop mentally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2AD1E0CC6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 25,
+        "endOffset": 44,
+        "text": "you're going to see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "026EC63577",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Now, for the first time, you're going to see one of my colleague's children develop microbially.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAF6D6144E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "So what we are going to look at is we're going to look at this one baby's stool, the fecal community, which represents the gut, sampled every week for almost two and a half years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "684F9A54C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "And so we're starting on day one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8B3943470",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 88,
+        "endOffset": 99,
+        "text": "you can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2D7908080C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "What's going to happen is that the infant is going to start off as this yellow dot, and you can see that he's starting off basically in the vaginal community, as we would expect from his delivery mode.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "855321D9A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "And what's going to happen over these two and a half years is that he's going to travel all the way down to resemble the adult fecal community from healthy volunteers down at the bottom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "737B3E48D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "So I'm just going to start this going and we'll see how that happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4808A1FF52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 67,
+        "endOffset": 83,
+        "text": "what you can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "94028DF3DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 363,
+        "text": "What you can see, and remember each step in this is just one week, what you can see is that week to week, the change in the microbial community of the feces of this one child, the differences week to week are much greater than the differences between individual healthy adults in the Human Microbiome Project cohort, which are those brown dots down at the bottom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FBAA0D94C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 4,
+        "endOffset": 15,
+        "text": "you can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5CD2C80197",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And you can see he's starting to approach the adult fecal community.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D17486BC04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "This is up to about two years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E277D31D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "But something amazing is about to happen here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13332F6977",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So he's getting antibiotics for an ear infection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A13297047C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "What you can see is this huge change in the community, followed by a relatively rapid recovery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0462838A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 22,
+        "endOffset": 29,
+        "text": "for you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D55E5080BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I'll just rewind that for you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF1AD88F3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 364,
+        "text": "And what we can see is that just over these few weeks, we have a much more radical change, a setback of many months of normal development, followed by a relatively rapid recovery, and by the time he reaches day 838, which is the end of this video, you can see that he has essentially reached the healthy adult stool community, despite that antibiotic intervention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "047B8532D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "So this is really interesting because it raises fundamental questions about what happens when we intervene at different ages in a child's life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CDEF2D0A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 105,
+        "endOffset": 139,
+        "text": "throwing a stone into a stormy sea",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C9E2879E83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 83,
+        "endOffset": 99,
+        "text": "matter, or is it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "543951F787",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 358,
+        "text": "Well, fascinatingly, it turns out that if you give children antibiotics in the first six months of life, they're more likely to become obese later on than if they don't get antibiotics then or only get them later, and so what we do early on may have profound impacts on the gut microbial community and on later health that we're only beginning to understand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82ED056FF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 265,
+        "endOffset": 420,
+        "text": "same horror that we currently reserve for those metal tools that the Egyptians used to use to mush up the brains before they drained them out for embalming",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4E33E2ECAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 256,
+        "text": "So I mentioned that microbes have all these important functions, and they've also now, just over the past few years, been connected to a whole range of different diseases, including inflammatory bowel disease, heart disease, colon cancer, and even obesity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD28EA783F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "Obesity has a really large effect, as it turns out, and today, we can tell whether you're lean or obese with 90 percent accuracy by looking at the microbes in your gut.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB3F36B272",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 384,
+        "text": "Now, although that might sound impressive, in some ways it's a little bit problematic as a medical test, because you can probably tell which of these people is obese without knowing anything about their gut microbes, but it turns out that even if we sequence their complete genomes and had all their human DNA, we could only predict which one was obese with about 60 percent accuracy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D19425DAFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "So that's amazing, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9A81DA0FFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 23,
+        "endOffset": 165,
+        "text": "three pounds of microbes that you carry around with you may be more important for some health conditions than every single gene in your genome",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CF82896394",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And then in mice, we can do a lot more.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF9EDC6C82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "So in mice, microbes have been linked to all kinds of additional conditions, including things like multiple sclerosis, depression, autism, and again, obesity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99BD56E074",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "But how can we tell",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A4C3C7065A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "Well, one thing we can do is we can raise some mice without any microbes of their own in a germ-free bubble.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E714AAA09F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Then we can add in some microbes that we think are important, and see what happens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A8145CCE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 217,
+        "text": "When we take the microbes from an obese mouse and transplant them into a genetically normal mouse that's been raised in a bubble with no microbes of its own, it becomes fatter than if it got them from a regular mouse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4AC43FCC38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Why this happens is absolutely amazing, though.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02157FF4FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2DEE7EA61B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "Sometimes what's going on is that the microbes are helping them digest food more efficiently from the same diet, so they're taking more energy from their food, but other times, the microbes are actually affecting their behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDBA8780FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "What they're doing is they're eating more than the normal mouse, so they only get fat if we let them eat as much as they want.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD516B63C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 30,
+        "endOffset": 36,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5AE2A06DE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So this is really remarkable, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D66F4C053",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "The implication is that microbes can affect mammalian behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE5DCD28A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 3,
+        "endOffset": 25,
+        "text": "you might be wondering",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AC35921F5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 405,
+        "text": "So you might be wondering whether we can also do this sort of thing across species, and it turns out that if you take microbes from an obese person and transplant them into mice you've raised germ-free, those mice will also become fatter than if they received the microbes from a lean person, but we can design a microbial community that we inoculate them with that prevents them from gaining this weight.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFC55A1B90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We can also do this for malnutrition.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CE2807C07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 116,
+        "endOffset": 129,
+        "text": "profound form",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E8F88A7F39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 505,
+        "text": "So in a project funded by the Gates Foundation, what we're looking at is children in Malawi who have kwashiorkor, a profound form of malnutrition, and mice that get the kwashiorkor community transplanted into them lose 30 percent of their body mass in just three weeks, but we can restore their health by using the same peanut butter-based supplement that is used for the children in the clinic, and the mice that receive the community from the healthy identical twins of the kwashiorkor children do fine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D96EF7BCD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 8,
+        "endOffset": 21,
+        "text": "truly amazing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D8F05BC0E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "This is truly amazing because it suggests that we can pilot therapies by trying them out in a whole bunch of different mice with individual people's gut communities and perhaps tailor those therapies all the way down to the individual level.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "632AEA1E36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 38,
+        "endOffset": 46,
+        "text": "everyone",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B9B52F32A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "So I think it's really important that everyone has a chance to participate in this discovery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22BE226138",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "So, a couple of years ago, we started this project called American Gut, which allows you to claim a place for yourself on this microbial map.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6988DE8E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "This is now the largest crowd-funded science project that we know of -- over 8,000 people have signed up at this point.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D38B022FBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "What happens is, they send in their samples, we sequence the DNA of their microbes and then release the results back to them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E340A7888",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "We also release them, de-identified, to scientists, to educators, to interested members of the general public, and so forth, so anyone can have access to the data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5640CD48F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 126,
+        "endOffset": 138,
+        "text": "look at poop",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3AEBCD98BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "On the other hand, when we do tours of our lab at the BioFrontiers Institute, and we explain that we use robots and lasers to look at poop, it turns out that not everyone wants to know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "434BA2CB01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A679818343",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 33,
+        "endOffset": 44,
+        "text": "many of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A3C8EA0B7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 11,
+        "endOffset": 134,
+        "text": "But I'm guessing that many of you do, and so I brought some kits here if you're interested in trying this out for yourself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "36B0D7F967",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So why might we want to do this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "92D8E8870D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 24,
+        "endOffset": 107,
+        "text": "microbes are not just important for finding out where we are in terms of our health",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C9ECAB4B69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "This is one of the newest things we've been able to visualize with colleagues at the University of Minnesota.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "266CBD30E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So here's that map of the human microbiome again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F9CD2D54B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "What we're looking at now -- I'm going to add in the community of some people with C. diff.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "750BD60DA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "So, this is a terrible form of diarrhea where you have to go up to 20 times a day",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "ECF4BE9B0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "So what would happen if we transplanted some of the stool from a healthy donor, that star down at the bottom, into these patients.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A8BF5565B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Would the good microbes do battle with the bad microbes and help to restore their health?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7382A06FD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "So let's watch exactly what happens there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F157CB0F44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "Four of those patients are about to get a transplant from that healthy donor at the bottom, and what you can see is that immediately, you have this radical change in the gut community.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A48009AD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "So one day after you do that transplant, all those symptoms clear up, the diarrhea vanishes, and they're essentially healthy again, coming to resemble the donor's community, and they stay there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71550DAAC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4269798B66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "So we're just at the beginning of this discovery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2E3E2C2EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 60,
+        "endOffset": 73,
+        "text": "microbial GPS",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "447E8966C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 31,
+        "endOffset": 277,
+        "text": "we need to develop a kind of microbial GPS, where we don't just know where we are currently but also where we want to go and what we need to do in order to get there, and we need to be able to make this simple enough that even a child can use it.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "903B0B538F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Laughter) Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA603ED0BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65E511B695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

@@ -1,0 +1,3092 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10128,
+  "title": "The single most important parenting strategy",
+  "author": "Becky Kennedy",
+  "url": "https://www.ted.com/talks/becky_kennedy_the_single_most_important_parenting_strategy",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:13:45.724237Z",
+  "updated_at": "2026-05-07T12:13:45.724237Z",
+  "lead_time": 146.797,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 23,
+        "endOffset": 103,
+        "text": "raise your hand if you have a relationship in your life that's meaningful to you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B87A8E019D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "OK, I assumed, but always good to check our assumptions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D61C3DFF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 96,
+        "endOffset": 186,
+        "text": "please know that everything I'm talking about is applicable to any meaningful relationship",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CC97EB321D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "So with that in mind, let's jump in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7C1138DDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So it's Sunday night, I'm in my kitchen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F399EBD94B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "I just finished cooking dinner for my family, and I am on edge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "076C692BC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "I mean, I'm exhausted, I haven't been sleeping well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63620A17A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I’m anxious about the upcoming workweek, I'm overwhelmed by all the items on my unfinished to-do list",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A74ABFAF6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And then, my son walks into the kitchen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6480FA598A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "He looks at the table and whines, \"Chicken again?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29A4FD0C2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 11,
+        "endOffset": 24,
+        "text": "\"Disgusting.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E917903D8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 11,
+        "endOffset": 25,
+        "text": "And that's it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59C6AFF7A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "I snap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCD1FD3443",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I look at him and I yell, \"What is wrong with you?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BBC4A9574",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Can you be grateful for one thing in your life?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D15B30D584",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And things get worse from there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "18B5819A3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "He screams, \"I hate you.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "115789652D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "He runs out of the room and he slams his bedroom door.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C6CF9E28D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And now, my self-loathing session begins, as I say to myself, \"What is wrong with me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "02A66836EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I've messed up my kid forever.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "540BC85920",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Well, if you're a parent, you've probably felt that pain.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E31A329225",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "For me, it comes with an extra layer of shame.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87E8BF9A5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "I mean, I’m a clinical psychologist and my specialty is helping people become better parents.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABED544956",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90F36F5AF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And yet, this is true as well -- there is no such thing as a perfect parent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C0CF37006",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Mistakes and struggles, they come with the job, but no one tells us what to do next.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7994D03FAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Do we just move on?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "810B2F2B57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Kind of just pretend the whole thing never happened?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1AC2854288",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Or if I say something, what are the words?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D79B241FDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "Well, for years, as a clinical psychologist in private practice, I saw client after client struggle with this question.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4E2D92DFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "And now, as the creator of the parenting content and community platform \"Good Inside,\" I see millions of parents around the globe struggle with this issue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7AEB4EC639",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 12,
+        "endOffset": 19,
+        "text": "rupture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E9C571B3F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "\"Check that off, I crushed it.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA4A0BBB70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "(Laughter) Step two is repair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20A886BBF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "\"I can do this.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07C86D501A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I'm actually right on track.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0FB8A9D2D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So let's get back to my example.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "779F790F44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "I'm in the kitchen, my son is in his room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "460F720525",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Well, what will happen if I don't repair?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5776D235A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "That’s really important to understand and helps us make a decision about what to do next.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C67192D5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Well, here are the facts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6FF68AB30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 101,
+        "endOffset": 110,
+        "text": "scary mom",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE6585A8B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "My son is alone, overwhelmed and in a state of distress, because, let's face it, his mom just became scary mom.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E34C7F6D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And now, he has to figure out a way to get back to feeling safe and secure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBD2BDAFFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "And if I don't go help him do that through making a repair, he has to rely on one of the only coping mechanisms he has at his own disposal ... self-blame.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C149FB20A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Self-blame sounds like this: “Something’s wrong with me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C49D40802",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "I’m unlovable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "356B937076",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 102,
+        "endOffset": 190,
+        "text": "better to be a sinner in a world ruled by God than to live in a world ruled by the devil",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "97317BEC2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I make bad things happen.” Ronald Fairbairn may have said it best when he wrote that, for kids, it is",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E28B9208B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "In other words, it's actually adaptive for a child to internalize badness and fault, because at least then, they can hold onto the idea that their parents and the world around them is safe and good.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD93035E8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 48,
+        "endOffset": 59,
+        "text": "we all know",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "61EB8F71B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "And while self-blame works for us in childhood, we all know it works against us in adulthood. “Something’s wrong with me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C88F74F8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I make bad things happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "859FE583E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "I’m unlovable.” These are the core fears of so many adults.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CCD74566B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "But really, we see here, they are actually the childhood stories we wrote when we were left alone following distressing events that went unrepaired.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69141EB753",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "Plus, adults with self-blame are vulnerable to depression, anxiety, deep feelings of worthlessness -- none of which we want for our kids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6E44932D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And we can do better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7EDCCE0AD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And it doesn't mean we have to be perfect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "80ECAD8096",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "When you repair",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "03F36999CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 15,
+        "endOffset": 76,
+        "text": ", you go further than removing a child's story of self-blame.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "454E661FFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "You get to add in all the elements that were missing in the first place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "865AF8BF0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Safety, connection, coherence, love, goodness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30014ED883",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 38,
+        "endOffset": 97,
+        "text": "I will not let this chapter of your life end in self-blame.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B2CE508C37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 38,
+        "endOffset": 97,
+        "text": "I will not let this chapter of your life end in self-blame.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "54F0806772",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 175,
+        "text": "Yes, this chapter will still contain the event of yelling, but I can ensure this chapter has a different ending, and therefore a different title, and theme and lesson learned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3365397F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We know that memory is original events combined with every other time you've remembered that event.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BE8FD57C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 31,
+        "endOffset": 37,
+        "text": "right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4199E7CA07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "This is why therapy's helpful, right?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23272874F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 62,
+        "endOffset": 99,
+        "text": "safer and more connected relationship",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D8965141F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "When you remember painful experiences from your past within a safer and more connected relationship, the event remains, but your story of the event, it changes, and then you change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB0A8D8BEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "With repair, we effectively change the past.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C030D60471",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So let's write a better story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AEBDA1CEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Let's learn how to repair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5648AB0177",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Step one, repair with yourself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA3F90C6DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "That's right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFF78700E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 8,
+        "endOffset": 11,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0972136292",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "I mean, you can't offer compassion or groundedness or understanding to someone else before you access those qualities within yourself.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5097491D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Self-repair means separating your identity, who you are, from your behavior, what you did.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EFF55D9D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "For me, it means telling myself two things are true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46DD706947",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "I’m not proud of my latest behavior and my latest behavior doesn't define me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "724FD99C19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Even as I struggle on the outside, I remain good inside.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CD5EC5ACB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "I can then start to see that I'm a good parent -- identity -- who was having a hard time -- behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6921571884",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And no, this doesn't let me off the hook.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F90655E4F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "This is precisely what leaves me on the hook for change.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C453FFA194",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 22,
+        "endOffset": 58,
+        "text": "replaced my spiral with groundedness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E2D0AD848E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "Because now that I've replaced my spiral with groundedness, I can actually use my energy toward thinking about what I want to do differently the next time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74AB8F9699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Oh, and I can now use my energy to go repair with my son.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5140D7B0F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 12,
+        "endOffset": 34,
+        "text": "repair with your child",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BDDA6E2758",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Step two -- repair with your child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "823C253961",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "There's no exact formula.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1201F90E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 36,
+        "endOffset": 126,
+        "text": "name what happened, take responsibility, state what you would do differently the next time",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "31FF4696FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "I often think about three elements: name what happened, take responsibility, state what you would do differently the next time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0E072E0B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It could come together like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66A4BA1E29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 5,
+        "text": "\"Hey.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FF77DCFF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "I keep thinking about what happened the other night in the kitchen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF4F94F0FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "I'm sorry I yelled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8472D9D28C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "I'm sure that felt scary.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82B0968DD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And it wasn't your fault.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C6E1BC1A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "I'm working on staying calm, even when I'm frustrated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A67755270",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "A 15-second intervention can have a lifelong impact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A45CF261C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 5,
+        "endOffset": 97,
+        "text": "replaced my child's story of self-blame with a story of self-trust and safety and connection",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D55F6D4720",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "I've replaced my child's story of self-blame with a story of self-trust and safety and connection.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11C3D906CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 8,
+        "endOffset": 30,
+        "text": "what a massive upgrade",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FEB961C4F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "I mean, what a massive upgrade.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "804A8CE3F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 198,
+        "text": "And to give a little more clarity around how to repair, I want to share a few examples of what I call \"not repair,\" which are things that come more naturally to most of us -- definitely me included.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3CD324BABA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 1,
+        "endOffset": 124,
+        "text": "Hey, I'm sorry I yelled at you in the kitchen, but if you wouldn't have complained about dinner, it wouldn't have happened.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "4A4B7B4603",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3ED26D74A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Been there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "21322138E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BD5A32DC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Or \"You know, you really need to be grateful for things in your life, like a home-cooked meal.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E9023B5951",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Then, you won't get yelled at.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "62BCCC9401",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 11,
+        "endOffset": 241,
+        "text": "Not only do these interventions fail at the goal of reconnection, they also insinuate that your child caused your reaction, which simply isn’t true and isn't a model of emotion regulation we want to pass on to the next generation.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "36994BF498",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED052B90DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "What might the impact be?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75570FEAFF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "What might that look like in adulthood?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "398A3FD9E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "My adult child won’t spiral in self-blame when they make a mistake, and won’t take on blame for someone else’s mistake.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "910D16F1B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "My adult child will know how to take responsibility for their behavior, because you've modeled how to take responsibility for yours.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "22B3994948",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Repairing with a child today sets the stage for these critical adult relationship patterns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BA3EEE0AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Plus, it gets better -- now that I've reconnected with my son, I can do something really impactful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C03821D27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "root of the problem",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "67F3D8C003",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "I can teach him a skill he didn't have in the first place, which is how kids actually change their behavior.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A981D3F0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 30,
+        "endOffset": 38,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B66B280F09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "So maybe the next day, I say \"You know, you're not always going to like what I make for dinner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "075BB44689",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 222,
+        "text": "Instead of saying 'that's disgusting,' I wonder if you could say 'not my favorite.' Now I'm teaching him how to regulate his understandable disappointment, and communicate effectively and respectfully with another person.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FA5503CFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "That never would have happened if instead, I had been blaming him for my reaction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31CFA49076",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 26,
+        "endOffset": 60,
+        "text": "you might have a lingering concern",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DDAD9BE7E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "So here's the point where you might have a lingering concern.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C110712442",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 24,
+        "endOffset": 32,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F9F5B9A318",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Maybe you're thinking, \"You know, I have a feeling that my kid's older than your kid.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD0FCA097D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "(Laughter) \"I think it's too late.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ABA558017",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Or \"I have done a lot worse than you did in the kitchen.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD5332E53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "(Laughter) \"Maybe it's too late.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C45D82C0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 67,
+        "endOffset": 88,
+        "text": "please let this be it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D7A14ADCE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "Well, I mean this -- if you have only one takeaway from this talk, please let this be it: It is not too late.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D255B78AD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "It is never too late.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5AAC0A4968",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "How do I know?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "608E34E24B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "How do I know?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9F7D11702",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 6,
+        "endOffset": 13,
+        "text": "imagine",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2971BDC114",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "Well, imagine, right after this, you get a call from one of your parents, and if neither of your parents are alive, imagine finding and opening a letter you hadn't seen till that moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "019FCFD9B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 4,
+        "endOffset": 29,
+        "text": "walk through this with me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4207838ADE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "OK, walk through this with me, here's the call.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F45EA7725",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "\"Hey, I know this sounds out of the blue, but I've been thinking a lot about your childhood.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "822A71BBD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 4,
+        "endOffset": 23,
+        "text": "story of their life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6B00A73E1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "The story of their life is shorter and even more amenable to editing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F75216CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 43,
+        "endOffset": 49,
+        "text": "on you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "97D78A9073",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 97,
+        "endOffset": 110,
+        "text": "on your child",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6B5E023A30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "So if that imagined exercise had an impact on you, imagine the impact an actual repair will have on your child.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "938D88D937",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "See?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D0962E35E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "I told you",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F5E73FBBAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I told you, it's never too late.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4AA0F7183",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C78E3AF7C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "(Cheers and applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FAD530733E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "No one knows what to do next.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4E18EB473F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Well, I'm determined to fill this gap.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "14CB7CC474",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "After all, there's almost nothing within our interpersonal relationships that can have as much impact as repair.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AD56319EC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Whenever a parent asks me, \"What one parenting strategy should I focus on?\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E01C2FE60D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I always say the same thing: \"Get good at repair.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F00A539967",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So what is repair?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "558B6AD3B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Repair is the act of going back to a moment of disconnection.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "70E03B47D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Taking responsibility for your behavior and acknowledging the impact it had on another.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4F3680B079",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "And I want to differentiate a repair from an apology, because when an apology often looks to shut a conversation down -- “Hey, I’m sorry I yelled.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8221125849",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Can we move on now?” -- a good repair opens one up.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "10B74532F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And if you think about what it means to get good at repair, there's so much baked-in realism and hope and possibility.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CE8577B75E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Repair assumes there's been a rupture.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2F48B16FB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "So to repair, you have to mess up or fall short of someone else's expectations.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6FF9F2449A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "Which means the next time I snap at my kid, or my husband, or my work colleague, instead of berating myself, like I did that night in the kitchen, I try to remind myself I'm focusing on getting good at repair.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C31BCCC678",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And I think there were a lot of moments that felt really bad to you.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B017168743",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And you are right to feel that way.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "0F2FAF4141",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Those moments weren't your fault.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5568E7E776",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 201,
+        "text": "They were times when I was struggling, and if I could have gone back, I would have stepped aside, I would have calmed myself down, and then found you to help you with whatever you were struggling with.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "843BAEE676",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "I'm sorry.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B757B6F187",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And if you're ever willing to talk to me about any of those moments, I'll listen.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "11F80B9268",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "I won't listen to have a rebuttal.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C90D5A77DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "I'll listen to understand.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4E780C2E84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "I love you.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "22297F5044",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "I don't know many adults who don't have a fairly visceral reaction to that exercise.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C2565F3193",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "I often hear, “Why am I crying?” Or \"Listen, that wouldn't change everything.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9466F80F48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "But it might change some things.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5ECED13EAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Well, I definitely do not specialize in math, but here's something I know with certainty.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9C0EAB8B74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "If you have a child, that child is younger than you are.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "86A362A951",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "(Laughter) Always true.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F9A53B2655",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

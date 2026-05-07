@@ -1,0 +1,1902 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8390,
+  "title": "My radical plan for small nuclear fission reactors",
+  "author": "Taylor Wilson",
+  "url": "https://www.ted.com/talks/taylor_wilson_my_radical_plan_for_small_nuclear_fission_reactors",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:46:52.045836Z",
+  "updated_at": "2026-05-07T05:46:52.045836Z",
+  "lead_time": 80.77,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Well, I have a big announcement to make today, and I'm really excited about this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB269A30E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And this may be a little bit of a surprise to many of you who know my research and what I've done well.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B2BAE06816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 204,
+        "endOffset": 333,
+        "text": "the really biggest problem we face, what all these other problems come down to, is energy, is electricity, the flow of electrons.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "802EB95C52",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 284,
+        "endOffset": 309,
+        "text": "is energy, is electricity",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A784AFE3C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And I decided that I was going to set out to try to solve this problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31765F0FC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And this probably is not what you're expecting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D7BC708699",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "You're probably expecting me to come up here and talk about fusion, because that's what I've done most of my life.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "06501BE2AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "But this is actually a talk about, okay -- (Laughter) — but this is actually a talk about fission.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5362FFDDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "It's about perfecting something old, and bringing something old into the 21st century.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5C5B8BB77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Let's talk a little bit about how nuclear fission works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61DB178304",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 401,
+        "text": "In a nuclear power plant, you have a big pot of water that's under high pressure, and you have some fuel rods, and these fuel rods are encased in zirconium, and they're little pellets of uranium dioxide fuel, and a fission reaction is controlled and maintained at a proper level, and that reaction heats up water, the water turns to steam, steam turns the turbine, and you produce electricity from it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4F4B94FD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 55,
+        "endOffset": 234,
+        "text": "the steam turbine idea, for 100 years, and nuclear was a really big advancement in a way to heat the water, but you still boil water and that turns to steam and turns the turbine.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "49CEC46F07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And I thought, you know, is this the best way to do it?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "210D71AE94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Is fission kind of played out, or is there something left to innovate here?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "95C6A59FE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And I realized that I had hit upon something that I think has this huge potential to change the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA86F18EEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "And this is what it is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9B2E5328A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This is a small modular reactor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "219E128722",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "So it's not as big as the reactor you see in the diagram here.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3AAFF45A65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "This is between 50 and 100 megawatts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE2B40AC98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "But that's a ton of power.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1582D1F6AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "That's between, say at an average use, that's maybe 25,000 to 100,000 homes could run off that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EAB2B9F9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Now the really interesting thing about these reactors is they're built in a factory.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48144AAD8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "So they're modular reactors that are built essentially on an assembly line, and they're trucked anywhere in the world, you plop them down, and they produce electricity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4517F1558A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "This region right here is the reactor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01D4A28152",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And this is buried below ground, which is really important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B65FBF258",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 170,
+        "text": "For someone who's done a lot of counterterrorism work, I can't extol to you how great having something buried below the ground is for proliferation and security concerns.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A94331EF22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 232,
+        "text": "And inside this reactor is a molten salt, so anybody who's a fan of thorium, they're going to be really excited about this, because these reactors happen to be really good at breeding and burning the thorium fuel cycle, uranium-233.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F494F9AD2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "But I'm not really concerned about the fuel.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AFA63F0816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "You can run these off -- they're really hungry, they really like down-blended weapons pits, so that's highly enriched uranium and weapons-grade plutonium that's been down-blended.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FF442E26C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "It's made into a grade where it's not usable for a nuclear weapon, but they love this stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7311E8EBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And we have a lot of it sitting around, because this is a big problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E22A867A6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0C8DF295BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 97,
+        "endOffset": 183,
+        "text": "and we don't need them anymore, and what are we doing with all the waste, essentially?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A08DCBB26A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "What are we doing with all the pits of those nuclear weapons?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4CB95E350",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 72,
+        "endOffset": 83,
+        "text": "eat them up",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AF45792376",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "Well, we're securing them, and it would be great if we could burn them, eat them up, and this reactor loves this stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D2C14F69F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So it's a molten salt reactor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C024A4C346",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "It has a core, and it has a heat exchanger from the hot salt, the radioactive salt, to a cold salt which isn't radioactive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B73502055",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It's still thermally hot but it's not radioactive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C99ED5F6C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "And then that's a heat exchanger to what makes this design really, really interesting, and that's a heat exchanger to a gas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E09BBB8852",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 302,
+        "text": "So going back to what I was saying before about all power being produced -- well, other than photovoltaic -- being produced by this boiling of steam and turning a turbine, that's actually not that efficient, and in fact, in a nuclear power plant like this, it's only roughly 30 to 35 percent efficient.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9EC6D6DE37",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "That's how much thermal energy the reactor's putting out to how much electricity it's producing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FD2EC92D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And the reason the efficiencies are so low is these reactors operate at pretty low temperature.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7CF3B9E76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 28,
+        "endOffset": 36,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "45340FAF9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And they operate anywhere from, you know, maybe 200 to 300 degrees Celsius.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB3BB861E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "And these reactors run at 600 to 700 degrees Celsius, which means the higher the temperature you go to, thermodynamics tells you that you will have higher efficiencies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "450709D6FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And this reactor doesn't use water.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "253CE8C6EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "It uses gas, so supercritical CO2 or helium, and that goes into a turbine, and this is called the Brayton cycle.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D9B2FEECF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "This is the thermodynamic cycle that produces electricity, and this makes this almost 50 percent efficient, between 45 and 50 percent efficiency.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD2C51DAA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And I'm really excited about this, because it's a very compact core.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A398D49B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 53,
+        "endOffset": 81,
+        "text": "what's also great is you get",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C0CA457A6D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "Molten salt reactors are very compact by nature, but what's also great is you get a lot more electricity out for how much uranium you're fissioning, not to mention the fact that these burn up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE85A94CC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Their burn-up is much higher.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74ACAA04CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "So for a given amount of fuel you put in the reactor, a lot more of it's being used.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EE7D9CA46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "And the problem with a traditional nuclear power plant like this is, you've got these rods that are clad in zirconium, and inside them are uranium dioxide fuel pellets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9ECCF2ABE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Well, uranium dioxide's a ceramic, and ceramic doesn't like releasing what's inside of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54AEFDCAEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "So you have what's called the xenon pit, and so some of these fission products love neutrons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9F824E7FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "They love the neutrons that are going on and helping this reaction take place.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00A0E126D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "And they eat them up, which means that, combined with the fact that the cladding doesn't last very long, you can only run one of these reactors for roughly, say, 18 months without refueling it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "662E59BDD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "So these reactors run for 30 years without refueling, which is, in my opinion, very, very amazing, because it means it's a sealed system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE2E12CFC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 199,
+        "text": "No refueling means you can seal them up and they're not going to be a proliferation risk, and they're not going to have either nuclear material or radiological material proliferated from their cores.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0868395D04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 286,
+        "text": "But let's go back to safety, because everybody after Fukushima had to reassess the safety of nuclear, and one of the things when I set out to design a power reactor was it had to be passively and intrinsically safe, and I'm really excited about this reactor for essentially two reasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D590A6680",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "One, it doesn't operate at high pressure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "417FC497B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 298,
+        "text": "So traditional reactors like a pressurized water reactor or boiling water reactor, they're very, very hot water at very high pressures, and this means, essentially, in the event of an accident, if you had any kind of breach of this stainless steel pressure vessel, the coolant would leave the core.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F9B59F10D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 160,
+        "text": "These reactors operate at essentially atmospheric pressure, so there's no inclination for the fission products to leave the reactor in the event of an accident.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAF561BF94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 156,
+        "endOffset": 179,
+        "text": "you lost off-site power",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E820BAAD81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "Also, they operate at high temperatures, and the fuel is molten, so they can't melt down, but in the event that the reactor ever went out of tolerances, or you lost off-site power in the case of something like Fukushima, there's a dump tank.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A602584A8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "your fuel",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F227C8C47A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 221,
+        "text": "Because your fuel is liquid, and it's combined with your coolant, you could actually just drain the core into what's called a sub-critical setting, basically a tank underneath the reactor that has some neutrons absorbers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B45240DC0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And this is really important, because the reaction stops.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2E81EAD328",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "In this kind of reactor, you can't do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4032A235A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 128,
+        "endOffset": 159,
+        "text": "Fukushima and Three Mile Island",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C1DC65B15C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 487,
+        "text": "The fuel, like I said, is ceramic inside zirconium fuel rods, and in the event of an accident in one of these type of reactors, Fukushima and Three Mile Island -- looking back at Three Mile Island, we didn't really see this for a while — but these zirconium claddings on these fuel rods, what happens is, when they see high pressure water, steam, in an oxidizing environment, they'll actually produce hydrogen, and that hydrogen has this explosive capability to release fission products.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB101A0D93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "So the core of this reactor, since it's not under pressure and it doesn't have this chemical reactivity, means that there's no inclination for the fission products to leave this reactor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54A9C1BE8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 47,
+        "endOffset": 67,
+        "text": "reactor may be toast",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D39EC7CE1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 79,
+        "endOffset": 116,
+        "text": "you know, sorry for the power company",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D3D5275155",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "So even in the event of an accident, yeah, the reactor may be toast, which is, you know, sorry for the power company, but we're not going to contaminate large quantities of land.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24378E8392",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "So I really think that in the, say, 20 years it's going to take us to get fusion and make fusion a reality, this could be the source of energy that provides carbon-free electricity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEADA3866F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Carbon-free electricity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E94E3C60AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "And it's an amazing technology because not only does it combat climate change, but it's an innovation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5A70DB9FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "It's a way to bring power to the developing world, because it's produced in a factory and it's cheap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D80740861B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "You can put them anywhere in the world you want to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC7A7B77FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "And maybe something else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D3A1515F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "As a kid, I was obsessed with space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D62ED7485A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 237,
+        "text": "Well, I was obsessed with nuclear science too, to a point, but before that I was obsessed with space, and I was really excited about, you know, being an astronaut and designing rockets, which was something that was always exciting to me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F98E48957A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "But I think I get to come back to this, because imagine having a compact reactor in a rocket that produces 50 to 100 megawatts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70366B4E5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "That is the rocket designer's dream.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78AFEAAEC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "That's someone who is designing a habitat on another planet's dream.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12704239F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "Not only do you have 50 to 100 megawatts to power whatever you want to provide propulsion to get you there, but you have power once you get there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B24101B99C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "You know, rocket designers who use solar panels or fuel cells, I mean a few watts or kilowatts -- wow, that's a lot of power.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63E902A940",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "I mean, now we're talking about 100 megawatts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C383673E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "That's a ton of power.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D882BA6752",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "That could power a Martian community.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3751CBAEF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "That could power a rocket there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F06EE296F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "And so I hope that maybe I'll have an opportunity to kind of explore my rocketry passion at the same time that I explore my nuclear passion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D1883D675E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "And people say, \"Oh, well, you've launched this thing, and it's radioactive, into space, and what about accidents?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "520DDA90EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But we launch plutonium batteries all the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF35A5DB42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 381,
+        "text": "Everybody was really excited about Curiosity, and that had this big plutonium battery on board that has plutonium-238, which actually has a higher specific activity than the low-enriched uranium fuel of these molten salt reactors, which means that the effects would be negligible, because you launch it cold, and when it gets into space is where you actually activate this reactor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2B4213A60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So I'm really excited.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9764B49F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "I think that I've designed this reactor here that can be an innovative source of energy, provide power for all kinds of neat scientific applications, and I'm really prepared to do this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20BC0819BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 499,
+        "text": "I graduated high school in May, and -- (Laughter) (Applause) — I graduated high school in May, and I decided that I was going to start up a company to commercialize these technologies that I've developed, these revolutionary detectors for scanning cargo containers and these systems to produce medical isotopes, but I want to do this, and I've slowly been building up a team of some of the most incredible people I've ever had the chance to work with, and I'm really prepared to make this a reality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B20CE32BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 4,
+        "endOffset": 20,
+        "text": "I think, I think",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "25538E9745",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 118,
+        "endOffset": 145,
+        "text": "you don't have to refuel it",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D926253140",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "And I'll just say one more maybe philosophical thing to end with, which is weird for a scientist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "474648A40A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 37,
+        "endOffset": 43,
+        "text": "poetic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A478D46149",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 109,
+        "endOffset": 140,
+        "text": "stars are giant fusion reactors",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2E21517A4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 8,
+        "endOffset": 42,
+        "text": "giant nuclear cauldrons in the sky",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F148BD3122",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 167,
+        "endOffset": 173,
+        "text": "poetic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8EBF03D7A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 196,
+        "endOffset": 275,
+        "text": "perfecting nuclear fission and using it as a future source of innovative energy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3DD97548D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So thank you guys.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0D511EA10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "08C6ED9780",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

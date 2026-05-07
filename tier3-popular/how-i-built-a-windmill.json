@@ -1,0 +1,1392 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10195,
+  "title": "How I built a windmill",
+  "author": "William Kamkwamba",
+  "url": "https://www.ted.com/talks/william_kamkwamba_how_i_built_a_windmill",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T09:05:14.957411Z",
+  "updated_at": "2026-05-07T09:05:14.957411Z",
+  "lead_time": 41.961,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Chris Anderson: William, hi.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EFAD485474",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Good to see you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69870AA614",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "William Kamkwamba: Thanks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69695AEFE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 4,
+        "endOffset": 37,
+        "text": "So, we've got a picture, I think?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EC7A5F9616",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Where is this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "63D83D7F6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 4,
+        "endOffset": 20,
+        "text": "This is my home.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BE1144CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "This is where I live.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "548D306166",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 4,
+        "endOffset": 10,
+        "text": "Where?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FBD269E6EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "What country?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4E1012D0BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "WK: In Malawi, Kasungu.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEDF49879E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "In Kasungu.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3A67173B77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "Yeah, Mala.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F59815E72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "CA: OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C483C00847",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Now, you're 19 now?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AD7C622508",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "WK: Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D103CBAE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "I'm 19 years now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CE7340E9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 19,
+        "endOffset": 34,
+        "text": "you had an idea",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A780C86593",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "What was that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1C2FE1AEB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 4,
+        "endOffset": 32,
+        "text": "I wanted to make a windmill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03210E3E36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 4,
+        "endOffset": 15,
+        "text": "A windmill?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55BBB93E0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B6BDAB809",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 4,
+        "endOffset": 45,
+        "text": "What, to power -- for lighting and stuff?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F2B344A58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "526AED8B24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 4,
+        "endOffset": 23,
+        "text": "So what did you do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B596566FFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "How did you realize that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4330069E21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 4,
+        "endOffset": 145,
+        "text": "After I dropped out of school, I went to library, and I read a book that would -- \"Using Energy,\" and I get information about doing the mill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BF81AF851",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And I tried, and I made it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3237ACC6A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E88952444",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "So you copied -- you exactly copied the design in the book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "07CE80CE31",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "WK: Ah, no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1C681B7A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I just -- CA: What happened?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB9E7EE0C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 4,
+        "endOffset": 128,
+        "text": "In fact, a design of the windmill that was in the book, it has got four -- ah -- three blades, and mine has got four blades.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B269926C23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 4,
+        "endOffset": 39,
+        "text": "The book had three, yours had four.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "637820B066",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F01E0E4D38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 4,
+        "endOffset": 32,
+        "text": "And you made it out of what?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "698D02C167",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 4,
+        "endOffset": 62,
+        "text": "I made four blades, just because I want to increase power.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5DD9CAEEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 4,
+        "endOffset": 7,
+        "text": "OK.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F33571B12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDDB27179E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 4,
+        "endOffset": 56,
+        "text": "You tested three, and found that four worked better?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E83D32572B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4D121F9311",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "I test.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC4AB90279",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 4,
+        "endOffset": 46,
+        "text": "And what did you make the windmill out of?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E706AD611A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "What materials did you use?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F675E22073",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 4,
+        "endOffset": 111,
+        "text": "I use a bicycle frame, and a pulley, and plastic pipe, what then pulls -- CA: Do we have a picture of that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85A68EA0C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Can we have the next slide?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F1208A306",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFFD9ACB64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "The windmill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E734981EBB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 31,
+        "endOffset": 49,
+        "text": "what -- it worked?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B4F6EB8828",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 4,
+        "endOffset": 50,
+        "text": "When the wind blows, it rotates and generates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C294D18A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 4,
+        "endOffset": 25,
+        "text": "How much electricity?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B1BEB109D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 4,
+        "endOffset": 13,
+        "text": "12 watts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "217404BE93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 4,
+        "endOffset": 43,
+        "text": "And so, that lit a light for the house?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0B012BFBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "How many lights?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E05B259C24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 4,
+        "endOffset": 30,
+        "text": "Four bulbs and two radios.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D63E6BD88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 4,
+        "endOffset": 8,
+        "text": "Wow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8646AA68A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3ABECF7C19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B720C1903",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 4,
+        "endOffset": 42,
+        "text": "This is my parents, holding the radio.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E43CD137AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 7,
+        "endOffset": 67,
+        "text": "what did they make of -- that you were 14, 15 at the time --",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "72671CF132",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "They were impressed?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E37EADF04C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0FD358CCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 11,
+        "endOffset": 61,
+        "text": "what's your -- what are you going to do with this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "746884BCD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 14,
+        "endOffset": 72,
+        "text": "What do you -- I mean -- do you want to build another one?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "899BD417F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 4,
+        "endOffset": 80,
+        "text": "Yeah, I want to build another one -- to pump water and irrigation for crops.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5AFEF2CFC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 4,
+        "endOffset": 40,
+        "text": "So this one would have to be bigger?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B9ED45E9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22B7CD4CA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 4,
+        "endOffset": 12,
+        "text": "How big?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2E4A394DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 4,
+        "endOffset": 51,
+        "text": "I think it will produce more than 20 the watts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C8B327FBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 4,
+        "endOffset": 60,
+        "text": "So that would produce irrigation for the entire village?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32D829472E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8B2DDF1CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 4,
+        "endOffset": 8,
+        "text": "Wow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32C41EC331",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "And so you're talking to people here at TED to get people who might be able to help in some way to realize this dream?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "99F7915034",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 10,
+        "endOffset": 29,
+        "text": "if they can help me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "945A72F44B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 49,
+        "endOffset": 127,
+        "text": "you're 19 now, do you picture continuing with this dream of working in energy?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "03CD2E9B61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 4,
+        "endOffset": 9,
+        "text": "Yeah.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "026AADBA6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I'm still thinking to work on energy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52F47CB4AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "CA: Wow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88CE3A9E2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "William, it's a real honor to have you at the TED conference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEDD89B14E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Thank you so much for coming.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71AA200BF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "WK: Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB05E88FC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE3BF79FC6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

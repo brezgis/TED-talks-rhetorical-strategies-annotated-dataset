@@ -1,0 +1,1919 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10138,
+  "title": "The radical promise of the multi-touch interface",
+  "author": "Jeff Han",
+  "url": "https://www.ted.com/talks/jeff_han_the_radical_promise_of_the_multi_touch_interface",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:14:05.992525Z",
+  "updated_at": "2026-05-07T05:14:05.992525Z",
+  "lead_time": 70.262,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I'm really excited to be here today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F3AB02B50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 272,
+        "text": "I'll show you some stuff that's just ready to come out of the lab, literally, and I'm really glad that you guys are going to be among the first to see it in person, because I really think this is going to really change the way we interact with machines from this point on.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C52E0F5DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Now, this is a rear-projected drafting table.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59954F663A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "It's about 36 inches wide and it's equipped with a multi-touch sensor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4041DAEF4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "Normal touch sensors that you see, like on a kiosk or interactive whiteboards, can only register one point of contact at a time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B5C1F3621",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "This thing allows you to have multiple points at the same time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BFE3B8D64",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "They can use both my hands; I can use chording actions; I can just go right up and use all 10 fingers if I wanted to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F1D55763D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "You know, like that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27104321A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Now, multi-touch sensing isn't completely new.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "16EAEACD0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "People like Bill Buxton have been playing around with it in the '80s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D32B63B461",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "However, the approach I built here is actually high-resolution, low-cost, and probably most importantly, very scalable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EAF89EB0A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "So, the technology, you know, isn't the most exciting thing here right now, other than probably its newfound accessibility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23CADD34A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "What's really interesting here is what you can do with it and the kind of interfaces you can build on top of it.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C29EC65D1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "So let's see.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0239B7E67C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "So, for instance, we have a lava lamp application here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "992DB3E748",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Now, you can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3EB480946F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Now, you can see, I can use both of my hands to kind of squeeze and put the blobs together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0EB34C999A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "I can inject heat into the system here, or I can pull it apart with two of my fingers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6EB0E8A82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's completely intuitive; there's no instruction manual.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F5950B234",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "The interface just kind of disappears.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "628C8067BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "This started out as a screensaver app that one of the Ph.D. students in our lab, Ilya Rosenberg, made.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99AAA1EC1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "But I think its true identity comes out here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B477D646D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "Now what's great about a multi-touch sensor is that, you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CC4C681BF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "Now what's great about a multi-touch sensor is that, you know, I could be doing this with as many fingers here, but of course multi-touch also inherently means multi-user.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E7B6B41E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "Chris could be interacting with another part of Lava, while I play around with it here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9A7808B87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "You can imagine a new kind of sculpting tool, where I'm kind of warming something up, making it malleable, and then letting it cool down and solidifying in a certain state.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1E312FFB55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Google should have something like this in their lobby.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B79EDB6B92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "(Laughter) I'll show you a little more of a concrete example here, as this thing loads.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AF52DB442",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "This is a photographer's light-box application.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1837F095BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "Again, I can use both of my hands to interact and move photos around.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFE52EA9B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "But what's even cooler is that if I have two fingers, I can actually grab a photo and then stretch it out like that really easily.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98428CA9AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "I can pan, zoom and rotate it effortlessly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5ECB2100E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "I can do that grossly with both of my hands, or I can do it just with two fingers on each of my hands together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D99789AAB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "If I grab the canvas, I can do the same thing -- stretch it out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B758D08A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "I can do it simultaneously, holding this down, and gripping on another one, stretching this out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C54EAFEDE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Again, the interface just disappears here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C03F99CE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "There's no manual.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "20198124B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "This is exactly what you expect, especially if you haven't interacted with a computer before.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "707050F170",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "Now, when you have initiatives like the $100 laptop, I kind of cringe at the idea of introducing a whole new generation to computing with this standard mouse-and-windows-pointer interface.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "51BDFAAC49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "This is something that I think is really the way we should be interacting with machines from now on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CA7132FA2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "(Applause) Now, of course, I can bring up a keyboard.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6D5A39326",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "(Laughter) And I can bring that around, put that up there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39B956032B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Obviously, this is a standard keyboard, but of course I can rescale it to make it work well for my hands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D5FBEDD7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "That's really important, because there's no reason in this day and age that we should be conforming to a physical device.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8077609498",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "That leads to bad things, like RSI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B51B33E86C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "We have so much technology nowadays that these interfaces should start conforming to us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AE4B972E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "There's so little applied now to actually improving the way we interact with interfaces from this point on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "327DC961EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "This keyboard is probably actually the really wrong direction to go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "774358F7C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You can imagine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B441DEC3D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 71,
+        "endOffset": 211,
+        "text": "a keyboard that kind of automatically drifts as your hand moves away, and really intelligently anticipates which key you're trying to stroke",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E9B7C6B5D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 13,
+        "endOffset": 30,
+        "text": "isn't this great?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6A17EFC3B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "(Laughter) Audience: Where's your lab?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E58AAB4C11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "Jeff Han: I'm a research scientist at NYU in New York.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59758F2503",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Here's an example of another kind of app.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A21688B81F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I can make these little fuzz balls.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "986C082527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It'll remember the strokes I'm making.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FBCFCA275",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Of course I can do it with all my hands.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3749530A1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's pressure-sensitive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A527619209",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "What's neat about that is, I showed that two-finger gesture that zooms in really quickly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5820F9E3B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "Because you don't have to switch to a hand tool or the magnifying glass tool, you can just continuously make things in real multiple scales, all at the same time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D9087EC69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "I can create big things out here, but I can go back and really quickly go back to where I started, and make even smaller things here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B77463FB33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "This is going to be really important as we start getting to things like data visualization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00CCCDA61F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 134,
+        "endOffset": 182,
+        "text": "We have all this great data, but for some reason",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A7EEE5768A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 184,
+        "endOffset": 208,
+        "text": "it's just sitting there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D14394FFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "We're not accessing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B7CBFAD59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 276,
+        "endOffset": 287,
+        "text": "big picture",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "608A6220C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 293,
+        "text": "Let me show you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "24771A96DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Let me show you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "53C3511543",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "This is called WorldWind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BDFC005C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's done by NASA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C8C3F533A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 15,
+        "endOffset": 27,
+        "text": "Google Earth",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "305B8B77FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "We've all seen Google Earth; this is an open-source version of that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9163CBC985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "There are plug-ins to be able to load in different data sets that NASA's collected over the years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "177C5FD729",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "As you can see, I can use the same two-fingered gestures to go down and go in really seamlessly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9DCDB1CB19",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "There's no interface, again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD92B73A3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "It really allows anybody to kind of go in -- and it just does what you'd expect, you know?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDF4931274",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Again, there's just no interface here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32C9C9A98A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "The interface just disappears.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D98EF7CA6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I can switch to different data views.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "724CBDC12B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "That's what's neat about this app here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01A41914FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "NASA's really cool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "833B082F75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 49,
+        "endOffset": 56,
+        "text": "you can",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36939ACB29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "These hyper-spectral images are false-colored so you can -- it's really good for determining vegetative use.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "227B3BE8F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Well, let's go back to this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D47DE1AB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "The great thing about mapping applications -- it's not really 2D, it's 3D.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C96E0C5FA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "so you can -- so you can be able to",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3DF896D90F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 41,
+        "endOffset": 44,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E72C580EC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 209,
+        "text": "So, again, with a multi-point interface, you can do a gesture like this -- so you can be able to tilt around like that -- (Surprised laughter) It's not just simply relegated to a kind of 2D panning and motion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D61AE8EB18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "This gesture is just putting two fingers down -- it's defining an axis of tilt -- and I can tilt up and down that way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0D360DC126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "We just came up with that on the spot, it's probably not the right thing to do, but there's such interesting things you can do with this interface.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D283A4805F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It's just so much fun playing around with it, too.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "672FE751F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 48,
+        "endOffset": 51,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4BD53BF702",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "(Laughter) And so the last thing I want to show you is -- I'm sure we can all think of a lot of entertainment apps that you can do with this thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F026D284AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "I'm more interested in the creative applications we can do with this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EF98888AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Now, here's a simple application here -- I can draw out a curve.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8E1EED428",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And when I close it, it becomes a character.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4397880C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "But the neat thing about it is I can add control points.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BD4AAFB96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And then what I can do is manipulate them with both of my fingers at the same time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AB54F06E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 4,
+        "endOffset": 14,
+        "text": "you notice",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75B9AC1CF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "And you notice what it does.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C924617E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 15,
+        "endOffset": 33,
+        "text": "puppeteering thing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F4F073C897",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "It's kind of a puppeteering thing, where I can use as many fingers as I have to draw and make -- Now, there's a lot of actual math going on under here for this to control this mesh and do the right thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1C37D83E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "This technique of being able to manipulate a mesh here, with multiple control points, is actually state of the art.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "038C44B934",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It was released at SIGGRAPH last year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BEDA30363",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 119,
+        "endOffset": 135,
+        "text": "intuitive things",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A1A8680904",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 143,
+        "endOffset": 166,
+        "text": "exactly what you expect",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8F3997605B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "So, multi-touch interaction research is a very active field right now in HCI.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "376443EB49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "I'm not the only one doing it, a lot of other people are getting into it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "31C7784B46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 93,
+        "endOffset": 120,
+        "text": "interacting with all of you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A3DD3A4179",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 148,
+        "endOffset": 197,
+        "text": "seeing how it can apply to your respective fields",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3547093734",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE8F01BB7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C10332A618",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

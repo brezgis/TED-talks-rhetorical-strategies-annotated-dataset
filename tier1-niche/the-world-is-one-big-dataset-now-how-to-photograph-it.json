@@ -1,0 +1,1579 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7700,
+  "title": "The world is one big dataset. Now, how to photograph it ...",
+  "author": "Dan Berkenstock",
+  "url": "https://www.ted.com/talks/dan_berkenstock_the_world_is_one_big_dataset_now_how_to_photograph_it",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T05:24:33.001267Z",
+  "updated_at": "2026-05-07T05:24:33.001267Z",
+  "lead_time": 61.989,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Five years ago, I was a Ph.D. student living two lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90D5EBC418",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "two lives",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1B4DD5AF3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "In one, I used NASA supercomputers to design next-generation spacecraft, and in the other I was a data scientist looking for potential smugglers of sensitive nuclear technologies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5211FDC00A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "As a data scientist, I did a lot of analyses, mostly of facilities, industrial facilities around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15D56AC6CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 38,
+        "endOffset": 44,
+        "text": "canvas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A7E69B8C35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And I was always looking for a better canvas to tie these all together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "05521D56DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "And one day, I was thinking about how all data has a location, and I realized that the answer had been staring me in the face.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3B0533F10",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "Although I was a satellite engineer, I hadn't thought about using satellite imagery in my work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5DB8AC8EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 5,
+        "endOffset": 20,
+        "text": "like most of us",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "14636E13CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Now, like most of us, I'd been online, I'd see my house, so I thought, I'll hop in there and I'll start looking up some of these facilities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A635684DBE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And what I found really surprised me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E64FAF236",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "The pictures that I was finding were years out of date, and because of that, it had relatively little relevance to the work that I was doing today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66BA9F0A1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "But I was intrigued.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CED447261",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "I mean, satellite imagery is pretty amazing stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "736B721140",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "There are millions and millions of sensors surrounding us today, but there's still so much we don't know on a daily basis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DE5212D74",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "How much oil is stored in all of China?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "27DCC518B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "How much corn is being produced?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9108A99B9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "How many ships are in all of our world's ports?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "32F86A9218",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 60,
+        "endOffset": 67,
+        "text": "imagery",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FCD6858126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Now, in theory, all of these questions could be answered by imagery, but not if it's old.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB2545DA1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 39,
+        "endOffset": 47,
+        "text": "how come",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DE565DF7FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "And if this data was so valuable, then how come I couldn't get my hands on more recent pictures?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19EBAAF4E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "So the story begins over 50 years ago with the launch of the first generation of U.S. government photo reconnaissance satellites.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B874F7A493",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 199,
+        "endOffset": 208,
+        "text": "you and I",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "12FECAD677",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 236,
+        "text": "And today, there's a handful of the great, great grandchildren of these early Cold War machines which are now operated by private companies and from which the vast majority of satellite imagery that you and I see on a daily basis comes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E243BF126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 299,
+        "text": "During this period, launching things into space, just the rocket to get the satellite up there, has cost hundreds of millions of dollars each, and that's created tremendous pressure to launch things infrequently and to make sure that when you do, you cram as much functionality in there as possible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A375C6ECD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 37,
+        "endOffset": 65,
+        "text": "bigger and bigger and bigger",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1E9DCDCE79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "All of this has only made satellites bigger and bigger and bigger and more expensive, now nearly a billion, with a b, dollars per copy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65C4007A4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Because they are so expensive, there aren't very many of them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DB7463999",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Because there aren't very many of them, the pictures that we see on a daily basis tend to be old.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "175E1D52E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 266,
+        "text": "I think a lot of people actually understand this anecdotally, but in order to visualize just how sparsely our planet is collected, some friends and I put together a dataset of the 30 million pictures that have been gathered by these satellites between 2000 and 2010.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74364B0C50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "As you can see in blue, huge areas of our world are barely seen, less than once a year, and even the areas that are seen most frequently, those in red, are seen at best once a quarter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A85014C37F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 55,
+        "endOffset": 64,
+        "text": "cried out",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A9B2E9D6D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Now as aerospace engineering grad students, this chart cried out to us as a challenge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22EFF16A81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Why",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "577C9E0A15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Why do these things have to be so expensive?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4825F74F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Does",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C3EB60A018",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Does a single satellite really have to cost the equivalent of three 747 jumbo jets?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96EE8A0B6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "Wasn't there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EDBD725F20",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Wasn't there a way to build a smaller, simpler, new satellite design that could enable more timely imaging?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32C614D0F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 15,
+        "endOffset": 28,
+        "text": "it does sound",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D466A7195D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "I realize that it does sound a little bit crazy that we were going to go out and just begin designing satellites, but fortunately we had help.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "450F0D6D7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "In the late 1990s, a couple of professors proposed a concept for radically reducing the price of putting things in space.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B8804F93D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "This was hitchhiking small satellites alongside much larger satellites.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "131C8B69C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "This dropped the cost of putting objects up there by over a factor of 100",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9D4F4F6995",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 104,
+        "endOffset": 184,
+        "text": "to experiment, to take a little bit of risk, and to realize a lot of innovation.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1A3A2431E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "And a new generation of engineers and scientists, mostly out of universities, began launching these very small, breadbox-sized satellites called CubeSats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "780DE110A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And these were built with electronics obtained from RadioShack instead of Lockheed Martin.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "01C5F1B53B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Now it was using the lessons learned from these early missions that my friends and I began a series of sketches of our own satellite design.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "563DD85093",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 442,
+        "text": "And I can't remember a specific day where we made a conscious decision that we were actually going to go out and build these things, but once we got that idea in our minds of the world as a dataset, of being able to capture millions of data points on a daily basis describing the global economy, of being able to unearth billions of connections between them that had never before been found, it just seemed boring to go work on anything else.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57D208A972",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "And so we moved into a cramped, windowless office in Palo Alto, and began working to take our design from the drawing board into the lab.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F6E3EA53A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "The first major question we had to tackle was just how big to build this thing.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "20C22B7000",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "In space, size drives cost",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DAC2D57154",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 69,
+        "endOffset": 94,
+        "text": "breadbox-sized satellites",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A56E01AC12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 260,
+        "endOffset": 283,
+        "text": "laws of physics dictate",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B37402F28E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 293,
+        "endOffset": 338,
+        "text": "best picture you can take through a telescope",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D8A936EBAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And we found that the best picture we would have been able to get looked something like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7055107EA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 65,
+        "endOffset": 131,
+        "text": "too blurry to see the things that make satellite imagery valuable.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C301554EF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 466,
+        "text": "So about three or four weeks later, we met a group of engineers randomly who had worked on the first private imaging satellite ever developed, and they told us that back in the 1970s, the U.S. government had found a powerful optimal tradeoff -- that in taking pictures at right about one meter resolution, being able to see objects one meter in size, they had not just get very high-quality images, but get a lot of them at an affordable price.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5CA2EF3FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 82,
+        "endOffset": 104,
+        "text": "minimum viable product",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "011FBF413B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 127,
+        "endOffset": 156,
+        "text": "drivers of our global economy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5A5A0C5BF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 303,
+        "endOffset": 356,
+        "text": "conveniently still not being able to see individuals.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9069F2DA54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We had found our compromise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4B49B55C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 58,
+        "endOffset": 66,
+        "text": "breadbox",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D764258053",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 84,
+        "endOffset": 95,
+        "text": "mini-fridge",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C5FB579D54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "We would have to build something larger than the original breadbox, now more like a mini-fridge, but we still wouldn’t have to build a pickup truck.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C30D3E6B02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "So now we had our constraint.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DE205EDCA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "The laws of physics dictated the absolute minimum-sized telescope that we could build.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82767C9AB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 100,
+        "endOffset": 116,
+        "text": "flying telescope",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C330DAFAF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 173,
+        "endOffset": 183,
+        "text": "phone book",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DD88082BC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 231,
+        "text": "What came next was making the rest of the satellite as small and as simple as possible, basically a flying telescope with four walls and a set of electronics smaller than a phone book that used less power than a 100 watt lightbulb.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5C7B00A5AA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "The big challenge became actually taking the pictures through that telescope.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9EAC77ACB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 140,
+        "endOffset": 157,
+        "text": "row by row by row",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A3FA220960",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 186,
+        "text": "Traditional imaging satellites use a line scanner, similar to a Xerox machine, and as they traverse the Earth, they take pictures, scanning row by row by row to build the complete image.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AE9D826BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Now people use these because they get a lot of light, which means less of the noise you see in a low-cost cell phone image.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD8C004272",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "The problem with them is they require very sophisticated pointing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5DA693906A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "You have to stay focused on a 50-centimeter target from over 600 miles away while moving at more than seven kilometers a second, which requires an awesome degree of complexity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60D93EE842",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "So instead, we turned to a new generation of video sensors, originally created for use in night vision goggles.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "603C8A5D8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 315,
+        "text": "Instead of taking a single, high quality image, we could take a videostream of individually noisier frames, but then we could recombine all of those frames together into very high-quality images using sophisticated pixel processing techniques here on the ground, at a cost of one one hundredth a traditional system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91979EF49F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "And we applied this technique to many of the other systems on the satellite as well, and day by day, our design evolved from CAD to prototypes to production units.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF625F6F40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "A few short weeks ago, we packed up SkySat 1, put our signatures on it, and waved goodbye for the last time on Earth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A704EEE685",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Today, it's sitting in its final launch configuration ready to blast off in a few short weeks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1920D8E149",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "And soon, we'll turn our attention to launching a constellation of 24 or more of these satellites and beginning to build the scalable analytics that will allow us to unearth the insights in the petabytes of data we will collect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A91B55B472",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "So why do all of this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A16CD14DF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Why build these satellites?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5A67EFA2A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 152,
+        "endOffset": 179,
+        "text": "an idea whose time has come",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3CAFB36691",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 180,
+        "text": "Well, it turns out imaging satellites have a unique ability to provide global transparency, and providing that transparency on a timely basis is simply an idea whose time has come.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "675D5845C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 32,
+        "endOffset": 46,
+        "text": "a new frontier",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7556FECD80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "We see ourselves as pioneers of a new frontier, and beyond economic data, unlocking the human story, moment by moment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D58F5CB4EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "For a data scientist that just happened to go to space camp as a kid, it just doesn't get much better than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDB6C390F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67F95DBDFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A880454C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

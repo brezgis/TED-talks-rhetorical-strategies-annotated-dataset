@@ -1,0 +1,559 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9875,
+  "title": "Could fish social networks help us save coral reefs?",
+  "author": "Mike Gil",
+  "url": "https://www.ted.com/talks/mike_gil_could_fish_social_networks_help_us_save_coral_reefs",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T09:31:33.282031Z",
+  "updated_at": "2026-05-07T09:31:33.282031Z",
+  "lead_time": 22.964,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Who here is fascinated by life under the sea?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D2DEC564D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Fantastic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5E88210C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now, what did we just do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3CCD934B79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Let's dissect this for a second.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB0C65C363",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "The simple action of an individual raising a hand led many others to do the same.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "691ED08B8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Now, it's true that when individuals in a social network have common priorities, it's often beneficial to copy one another.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B68AF0044D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Think back to grade school and dressing like the cool kids made you \"cool.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "683E8991D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "But copying behavior is also common in wild animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3374A187F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "For example, some birds copy the alarm calls of other birds to spread information about approaching predators.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7B9D1B070B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "But could copying behavior in wild animals affect entire ecosystems that we humans depend on?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2EE091B25D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "I was led to this question while studying coral reefs, which support millions of people through fisheries and tourism here in Africa and around the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E02652C37E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "But coral reefs depend on fish that perform a critical job by eating algae.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B8DC36863",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "Because if left unchecked, these algae can kill coral and take over entire coral reefs, a costly change that is difficult or impossible to reverse.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32B0E26141",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 241,
+        "text": "So to understand how fish may prevent this, I spy on them while they're eating algae, which can be difficult for them to do in open parts of the reef exposed to predators, some of which, on rare occasion, appear to realize I'm watching them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D66601561",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 11,
+        "endOffset": 71,
+        "text": "So clearly, clearly, for reef fish, dining out can be scary.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5CFFEC4677",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "But I wanted to understand how these fish do their job in risky situations.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C29A41365",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 171,
+        "text": "So my colleagues and I put massive video camera stands in a coral reef to remotely monitor entire feeding grounds that produce a lot of algae but are exposed to predators.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6D5D219B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "And this perspective from above shows us the feeding behavior and precise movements of many different fish, shown here with colored dots.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3ED7095E0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "And by analyzing thousands of fish movements to and from feeding grounds, we discovered a pattern.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3695C71B2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 202,
+        "text": "These fish, despite being from different species and not swimming in schools, were copying one another, such that one fish entering these dangerous feeding grounds could lead many others to do the same.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "845AFAAEAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "And fish stayed for longer and ate more algae when they were surrounded by more feeding fish.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7D159F1E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "Now, this could be happening because even simple movements by individual fish can inadvertently communicate vital information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C9B307BC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "For example, if even one fish sees a predator and flees, this can alert many others to danger.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "893A904DF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "And a fish safely entering feeding grounds can show others that the coast is clear.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8F07D8E31E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "So it turns out that even when these fish are different species, they are connected within social networks which can provide information on when it's safe to eat.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6999D228A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 255,
+        "text": "And our analyses indicate that fish simply copying other fish in their social network could account for over 60 percent of the algae eaten by the fish community, and thus could be critical to the flow of energy and resources through coral reef ecosystems.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BBA4F98488",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 250,
+        "text": "But these findings also suggest that overfishing, a common problem in coral reefs, not only removes fish, but it could break up the social network of remaining fish, which may hide more and eat less algae because they're missing critical information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77340438CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And this would make coral reefs more vulnerable than we currently predict.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B7E2C3C9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "So remarkably, fish social networks allow the actions of one to spread to many and could affect entire coral reefs, which feed millions of us and support the global economy for all of us.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B06BED41A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 291,
+        "text": "Now, our discovery points us towards better ways to sustainably manage coral reefs, but it also shows us, we humans are not just affected by the actions of other humans, but we could be affected by the actions of individual fish on a distant coral reef through their simple copying behavior.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B084C5D73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DF3EF4993",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A04D2D5BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

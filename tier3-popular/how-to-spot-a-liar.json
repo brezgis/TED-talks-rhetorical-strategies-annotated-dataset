@@ -1,0 +1,5064 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10374,
+  "title": "How to spot a liar",
+  "author": "Pamela Meyer",
+  "url": "https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:23:58.461684Z",
+  "updated_at": "2026-05-07T12:23:58.461684Z",
+  "lead_time": 214.285,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 40,
+        "endOffset": 52,
+        "text": "in this room",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "199BFB33D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 105,
+        "endOffset": 118,
+        "text": "to your right",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EBA92912A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "Okay, now I don't want to alarm anybody in this room, but it's just come to my attention that the person to your right is a liar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F4A0610004",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "(Laughter) Also, the person to your left is a liar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02489F9BAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 24,
+        "endOffset": 42,
+        "text": "in your very seats",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "631AE95568",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Also the person sitting in your very seats is a liar.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42B900203F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "We're all liars.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "10617576E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 253,
+        "text": "What I'm going to do today is I'm going to show you what the research says about why we're all liars, how you can become a liespotter and why you might want to go the extra mile and go from liespotting to truth seeking, and ultimately to trust building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86C6E2A83A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 112,
+        "endOffset": 130,
+        "text": "no, no, no, no, no",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "83304C45B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "Now, speaking of trust, ever since I wrote this book, \"Liespotting,\" no one wants to meet me in person anymore, no, no, no, no, no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9BAC8EE79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "They say, \"It's okay, we'll email you.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "03628D4777",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "(Laughter) I can't even get a coffee date at Starbucks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2496838722",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "My husband's like, \"Honey, deception?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F1E4D96FF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Maybe you could have focused on cooking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FFDF58D0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "How about French cooking?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73B5371E71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 78,
+        "endOffset": 85,
+        "text": "for you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3EDFDA0924",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "So before I get started, what I'm going to do is I'm going to clarify my goal for you, which is not to teach a game of Gotcha.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EC722F01B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Liespotters aren't those nitpicky kids, those kids in the back of the room that are shouting, \"Gotcha!\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ED981C6ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "Gotcha!",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "572FC4AB3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Your eyebrow twitched.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75A1284FB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "You flared your nostril",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B7357EE2E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 34,
+        "endOffset": 53,
+        "text": "I know you're lying",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1E46118783",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "No, liespotters are armed with scientific knowledge of how to spot deception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD1FB55134",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 78,
+        "endOffset": 172,
+        "text": "they have difficult conversations with difficult people, sometimes during very difficult times",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FD6542BD6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And they start up that path by accepting a core proposition, and that proposition is the following: Lying is a cooperative act.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB8FE2CAC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Think about it, a lie has no power whatsoever by its mere utterance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3ECE4D6F87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Its power emerges when someone else agrees to believe the lie.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4233602DD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 44,
+        "endOffset": 48,
+        "text": "look",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "709CE462BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "So I know it may sound like tough love, but look, if at some point you got lied to, it's because you agreed to get lied to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B902FC88BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 30,
+        "endOffset": 55,
+        "text": "Lying's a cooperative act",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "721B044BD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Now not all lies are harmful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12802DD580",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Sometimes we're willing participants in deception for the sake of social dignity, maybe to keep a secret that should be kept secret, secret.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BACA0D30B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We say, \"Nice song.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "949E83C63F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "\"Honey, you don't look fat in that, no.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7387630ADF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "Or we say, favorite of the digiratti, \"You know, I just fished that email out of my Spam folder.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C946E3510",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "So sorry.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A5BB7C695",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "But there are times when we are unwilling participants in deception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5755F7494",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And that can have dramatic costs for us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ACF53CF97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 14,
+        "endOffset": 33,
+        "text": "997 billion dollars",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B7A1311FAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Last year saw 997 billion dollars in corporate fraud alone in the United States.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "838E020FF6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 7,
+        "endOffset": 42,
+        "text": "an eyelash under a trillion dollars",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D8E563B6A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "That's an eyelash under a trillion dollars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F730E8E526",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "That's seven percent of revenues.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "71ECEB9FEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Deception can cost billions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "929194EED8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 6,
+        "endOffset": 40,
+        "text": "Enron, Madoff, the mortgage crisis",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "551B13919D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Think Enron, Madoff, the mortgage crisis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33BAD1D752",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 226,
+        "text": "they can betray our country, they can compromise our security, they can undermine democracy, they can cause the deaths of those that defend us",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D90BF9C0A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 226,
+        "text": "Or in the case of double agents and traitors, like Robert Hanssen or Aldrich Ames, lies can betray our country, they can compromise our security, they can undermine democracy, they can cause the deaths of those that defend us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1122EB46FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Deception is actually serious business.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "971A32F614",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 162,
+        "text": "This con man, Henry Oberlander, he was such an effective con man, British authorities say he could have undermined the entire banking system of the Western world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B3CB9C628",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 4,
+        "endOffset": 37,
+        "text": "you can't find this guy on Google",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D730488A02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 39,
+        "endOffset": 66,
+        "text": "you can't find him anywhere",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C17E10AA40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And you can't find this guy on Google; you can't find him anywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B228861C3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "He was interviewed once, and he said the following.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81750CDA7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "He said, \"Look, I've got one rule.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "68A4B17EB8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And this was Henry's rule, he said, \"Look, everyone is willing to give you something.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "956B828AD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "They're ready to give you something for whatever it is they're hungry for.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FED0C22D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 11,
+        "endOffset": 25,
+        "text": "the crux of it",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "102AEA4EA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "If you don't want to be deceived",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3D0EEEB600",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 34,
+        "endOffset": 86,
+        "text": "you have to know, what is it that you're hungry for?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "49E3305BFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And we all kind of hate to admit it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "803FE264A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 16,
+        "endOffset": 85,
+        "text": "better husbands, better wives, smarter, more powerful, taller, richer",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "877E4353B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 23,
+        "endOffset": 38,
+        "text": "bridge that gap",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2B97005EA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 43,
+        "endOffset": 79,
+        "text": "connect our wishes and our fantasies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "22D357648E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And boy are we willing to fill in those gaps in our lives with lies.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F3FC857C9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 34,
+        "endOffset": 52,
+        "text": "you may be lied to",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FD66EBC9C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Now granted, many of those are white lies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "645C648A21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "But in another study, it showed that strangers lied three times within the first 10 minutes of meeting each other.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7CDFAFAB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0127B48931",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "We can't believe how prevalent lying is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43A9F597C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "We're essentially against lying.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55D3E4882F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 4,
+        "endOffset": 28,
+        "text": "if you look more closely",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F33FB6EFA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "We lie more to strangers than we lie to coworkers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5B5739378B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Extroverts lie more than introverts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1226287A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 8,
+        "endOffset": 24,
+        "text": "eight times more",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BD1D28B9E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Men lie eight times more about themselves than they do other people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AAA990D693",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Women lie more to protect other people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD418CD0BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "If you're an average married couple",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "806E889323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "If you're an average married couple, you're going to lie to your spouse in one out of every 10 interactions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86AFAAFFAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 5,
+        "endOffset": 18,
+        "text": "you may think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "06FF69E411",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Now, you may think that's bad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1714F630A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "If you're unmarried, that number drops to three.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD0F7BBC54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Lying's complex.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A6D142628F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 5,
+        "endOffset": 26,
+        "text": "woven into the fabric",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "890EF93C50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "It's woven into the fabric of our daily and our business lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A96339B9B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "We're deeply ambivalent about the truth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B65655EC1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "We parse it out on an as-needed basis, sometimes for very good reasons, other times just because we don't understand the gaps in our lives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02D0BCDDAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "That's truth number two about lying.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FBCD23ABB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 129,
+        "text": "We're against lying, but we're covertly for it in ways that our society has sanctioned for centuries and centuries and centuries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CF1609ABCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 5,
+        "endOffset": 24,
+        "text": "as old as breathing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "41FD357FEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's as old as breathing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "304E5AF2C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's part of our culture, it's part of our history.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C18A56489B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Think Dante, Shakespeare, the Bible, News of the World.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBF5C3381D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "(Laughter) Lying has evolutionary value to us as a species.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0B2C8D129C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 121,
+        "endOffset": 130,
+        "text": "deceptive",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "34DC1F9D55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "Researchers have long known that the more intelligent the species, the larger the neocortex, the more likely it is to be deceptive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB29DF2C79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Now you might remember Koko.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7533B4C5F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Does anybody remember Koko the gorilla who was taught sign language?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0CE3BDBDAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Does anybody remember Koko the gorilla who was taught sign language?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F83C01B02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Koko was taught to communicate via sign language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC529443CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Here's Koko with her kitten.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0D429D724",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 9,
+        "endOffset": 39,
+        "text": "cute little, fluffy pet kitten",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3A243F320F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "It's her cute little, fluffy pet kitten.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B495CF95FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Koko once blamed her pet kitten for ripping a sink out of the wall.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EE416C2327",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "(Laughter) We're hardwired to become leaders of the pack.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30A57D9576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 12,
+        "endOffset": 32,
+        "text": "really, really early",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "212E3CBB53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "It's starts really, really early.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4258EF0259",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "How early?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD025B52B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Well babies will fake a cry, pause, wait to see who's coming and then go right back to crying.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4509B666D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "One-year-olds learn concealment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BCF5AFE962",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "(Laughter) Two-year-olds bluff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC1BED51EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Five-year-olds lie outright.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6645BFDBD3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "They manipulate via flattery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7BD80F1211",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 16,
+        "endOffset": 39,
+        "text": "masters of the cover-up",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "549DB855D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 12,
+        "endOffset": 15,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "31D3EDC8DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 208,
+        "endOffset": 226,
+        "text": "deception epidemic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "361B8B804F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "It's been very confusing for a long time now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0810553A7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "What do you do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C780E72808",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 66,
+        "endOffset": 72,
+        "text": "morass",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FCF263E5F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Trained liespotters get to the truth 90 percent of the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BFA928567C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "The rest of us, we're only 54 percent accurate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3ADCA160EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "Why is it so easy to learn?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A4B9200F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "There are good liars and bad liars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48BDE445F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "There are no real original liars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2EFC895982",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "We all make the same mistakes.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "323C2ECFAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "We all use the same techniques.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D0E8A70B3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So what I'm going to do is I'm going to show you two patterns of deception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "26D73B422E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 9,
+        "endOffset": 11,
+        "text": "we",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3DA6A9DA3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 21,
+        "endOffset": 34,
+        "text": "dead giveaway",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8BBFB8B385",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "qualifying language, as it’s called, qualifying language",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3C103DFE44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Now if he had repeated the question",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ED741C1FA3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 53,
+        "endOffset": 86,
+        "text": "or if he had peppered his account",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "05630D7028",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 120,
+        "endOffset": 163,
+        "text": "and we're all really glad he didn't do that",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5FB93035C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Freud had it right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B4F5ECDE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Freud said, look, there's much more to it than speech: \"No mortal can keep a secret.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CC5AC7DE9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 27,
+        "endOffset": 55,
+        "text": "chatters with his fingertips",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D750993B02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 40,
+        "endOffset": 47,
+        "text": "you are",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C0B3A8AFF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "chatters with his fingertips",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B31AB09ACD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "I'm going to show you Dominique Strauss-Kahn with Obama who's chattering with his fingertips.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEEB979223",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "(Laughter) Now this brings us to our next pattern, which is body language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4124DB1F4D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "With body language, here's what you've got to do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D02BD6AEAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 26,
+        "endOffset": 61,
+        "text": "throw your assumptions out the door",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "9A644FA086",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 16,
+        "endOffset": 50,
+        "text": "temper your knowledge a little bit",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0A5020474E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Because we think liars fidget all the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B140EFE732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Well guess what, they're known to freeze their upper bodies when they're lying.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB808BE7C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "We think liars won't look you in the eyes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE1061B071",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 22,
+        "endOffset": 60,
+        "text": "look you in the eyes a little too much",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FE22F37AE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 27,
+        "endOffset": 30,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C1EBB777E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We think warmth and smiles convey honesty, sincerity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E9A3068B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But a trained liespotter can spot a fake smile a mile away.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C68C5CFF8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Can you all spot the fake smile here?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "354A1CA652",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "You can consciously contract the muscles in your cheeks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EE05C8B8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 34,
+        "endOffset": 61,
+        "text": "the crow's feet of the eyes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "513216AA7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "They cannot be consciously contracted, especially if you overdid the Botox.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0BDCDD038",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Don't overdo the Botox; nobody will think you're honest.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CD2E67AA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Now we're going to look at the hot spots.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F88BABFDF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Can you tell what's happening in a conversation?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DB1C25EA62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Can you start to find the hot spots to see the discrepancies between someone's words and someone's actions?",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "19BAD596EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 46,
+        "endOffset": 49,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4C97E208AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "Now, I know it seems really obvious, but when you're having a conversation with someone you suspect of deception, attitude is by far the most overlooked but telling of indicators.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4EAE811D83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "An honest person is going to be cooperative.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FE7DB70F88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "They're going to show they're on your side.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B27C54DE1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 33,
+        "endOffset": 37,
+        "text": "your",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8DD787FE5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "They're going to be enthusiastic.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FB815B7E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 51,
+        "endOffset": 54,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9226F6150F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "They're going to be willing and helpful to getting you to the truth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2CFFF9973",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "They're going to be willing to brainstorm, name suspects, provide details.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D4EEDC3452",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "They're going to say, \"Hey, maybe it was those guys in payroll that forged those checks.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C35D9BF888",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 69,
+        "endOffset": 204,
+        "text": "throughout the entire course of the interview, not just in flashes; they'll be infuriated throughout the entire course of the interview",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EA1ADE3398",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 205,
+        "text": "They're going to be infuriated if they sense they're wrongly accused throughout the entire course of the interview, not just in flashes; they'll be infuriated throughout the entire course of the interview.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D2ADFF706",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 173,
+        "text": "And if you ask someone honest what should happen to whomever did forge those checks, an honest person is much more likely to recommend strict rather than lenient punishment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C04E09DE4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "Now let's say you're having that exact same conversation with someone deceptive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "15CAE2A73A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "That person may be withdrawn, look down, lower their voice, pause, be kind of herky-jerky.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B70FE3CABF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "Ask a deceptive person to tell their story, they're going to pepper it with way too much detail in all kinds of irrelevant places.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2AC9B0D06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And then they're going to tell their story in strict chronological order.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E463781B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 275,
+        "text": "And what a trained interrogator does is they come in and in very subtle ways over the course of several hours, they will ask that person to tell that story backwards, and then they'll watch them squirm, and track which questions produce the highest volume of deceptive tells.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3782A876F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 3,
+        "text": "Why",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AFE67B60B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Why do they do that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "523D3D77BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Well, we all do the same thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAAE1F9A06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "We rehearse our words, but we rarely rehearse our gestures.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F5FDC2039",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "We say \"yes,\" we shake our heads \"no.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40583838E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "We tell very convincing stories, we slightly shrug our shoulders.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6B6002A80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 34,
+        "endOffset": 54,
+        "text": "smile at the delight",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EC24CC6B07",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "We commit terrible crimes, and we smile at the delight in getting away with it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E52CC34323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 42,
+        "endOffset": 56,
+        "text": "duping delight",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "806821B70B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Now, that smile is known in the trade as \"duping delight.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1684AD0DC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 90,
+        "endOffset": 125,
+        "text": "for those of you who don't know him",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "65EE8DE84A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 227,
+        "text": "And we're going to see that in several videos moving forward, but we're going to start -- for those of you who don't know him, this is presidential candidate John Edwards who shocked America by fathering a child out of wedlock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3548FE904E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "We're going to see him talk about getting a paternity test.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "878E7CF9AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 8,
+        "endOffset": 27,
+        "text": "if you can spot him",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "99F2808EE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "See now if you can spot him saying, \"yes\" while shaking his head \"no,\" slightly shrugging his shoulders.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C570431FD2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "(Video) John Edwards: I'd be happy to participate in one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FFDA8F9135",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "I know that it's not possible that this child could be mine, because of the timing of events.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC79A015B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So I know it's not possible.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D90EDDB9AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "So I know it's not possible.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D73E66F15B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Happy to take a paternity test, and would love to see it happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27D08E8FD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Interviewer: Are you going to do that soon?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C02165138",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Is there somebody -- JE: Well, I'm only one side.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1482772C03",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I'm only one side.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3D41A8A7EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "But I'm happy to participate in one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4869691374",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "But I'm happy to participate in one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D591D5096B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "PM: Okay, those head shakes are much easier to spot once you know to look for them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A86135D8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "There are going to be times when someone makes one expression while masking another that just kind of leaks through in a flash.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5F655BCE8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 23,
+        "endOffset": 35,
+        "text": "leak sadness",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AB9CED2AFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Your new joint venture partner",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "35CF2B07D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 92,
+        "endOffset": 107,
+        "text": "I can teach you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "317CAE006F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Now with anger, you've got two people on an even playing field.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DB7F061DCD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "It's still somewhat of a healthy relationship.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2AE2EDC6C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "But when anger turns to contempt, you've been dismissed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "381C3AEB70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "It's associated with moral superiority.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89BE7118D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "And for that reason, it's very, very hard to recover from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E72EF2FFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "Here's what it looks like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "650586753A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "It's marked by one lip corner pulled up and in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F4E406B32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "It's the only asymmetrical expression.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54EDACEE7B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "look the other way, go the other direction, reconsider the deal, say, \"No thank you.\"",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F1CA93836A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I'm not coming up for just one more nightcap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54EB42E21C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A3EA2A197C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "Science has surfaced many, many more indicators.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5ECB772E2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 46,
+        "endOffset": 71,
+        "text": "what the truth looks like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EA936A2497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And as I promised, we're now going to look at what the truth looks like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B292108A1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 4,
+        "endOffset": 25,
+        "text": "I'm going to show you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "69393AA770",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "But I'm going to show you two videos, two mothers -- one is lying, one is telling the truth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9D4F6E2C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And these were surfaced by researcher David Matsumoto in California.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "515DEBFB6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 44,
+        "endOffset": 69,
+        "text": "what the truth looks like",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5548300D3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "And I think they're an excellent example of what the truth looks like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F6AF9EB5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "This mother, Diane Downs, shot her kids at close range, drove them to the hospital while they bled all over the car, claimed a scraggy-haired stranger did it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C883234FAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 4,
+        "endOffset": 14,
+        "text": "you'll see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B18FB19187",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "And you'll see when you see the video, she can't even pretend to be an agonizing mother.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "866A51651C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "What you want to look for here is an incredible discrepancy between horrific events that she describes and her very, very cool demeanor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D55853E29B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 25,
+        "endOffset": 35,
+        "text": "you'll see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BD282697D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And if you look closely, you'll see duping delight throughout this video.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3955A92B35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "218",
+        "end": "218",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "(Video) Diane Downs: At night when I close my eyes, I can see Christie reaching her hand out to me while I'm driving, and the blood just kept coming out of her mouth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "369009C5C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "219",
+        "end": "219",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And that -- maybe it'll fade too with time -- but I don't think so.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EB3857234D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "220",
+        "end": "220",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "That bothers me the most.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "292E41C53E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "221",
+        "end": "221",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "PM: Now I'm going to show you a video of an actual grieving mother, Erin Runnion, confronting her daughter's murderer and torturer in court.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B256FA41A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "222",
+        "end": "222",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Here you're going to see no false emotion, just the authentic expression of a mother's agony.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF1C039D3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "223",
+        "end": "223",
+        "startOffset": 0,
+        "endOffset": 182,
+        "text": "(Video) Erin Runnion: I wrote this statement on the third anniversary of the night you took my baby, and you hurt her, and you crushed her, you terrified her until her heart stopped.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CD34139E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "224",
+        "end": "224",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And she fought, and I know she fought you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2891C9A932",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 40,
+        "endOffset": 58,
+        "text": "amazing brown eyes",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4BF15AE8D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "225",
+        "end": "225",
+        "startOffset": 25,
+        "endOffset": 28,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "36FF688130",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "226",
+        "end": "226",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And I don't understand it, and I never will.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CBC94F7853",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "227",
+        "end": "227",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "PM: Okay, there's no doubting the veracity of those emotions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B642AD078",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "228",
+        "end": "228",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Now the technology around what the truth looks like is progressing on, the science of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7A76A9994C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "229",
+        "end": "229",
+        "startOffset": 105,
+        "endOffset": 123,
+        "text": "decode the signals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "30801FCCEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "230",
+        "end": "230",
+        "startOffset": 64,
+        "endOffset": 83,
+        "text": "panaceas for deceit",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8DD6B302ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "231",
+        "end": "231",
+        "startOffset": 4,
+        "endOffset": 7,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "34056F7A7C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "231",
+        "end": "231",
+        "startOffset": 4,
+        "endOffset": 7,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2B357FD259",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "232",
+        "end": "232",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Liespotters rely on human tools.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6BFD678C97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "233",
+        "end": "233",
+        "startOffset": 34,
+        "endOffset": 70,
+        "text": "Character's who you are in the dark.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CE55E83421",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "234",
+        "end": "234",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And what's kind of interesting is that today, we have so little darkness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8D399094D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "235",
+        "end": "235",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Our world is lit up 24 hours a day.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0B212566C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "236",
+        "end": "236",
+        "startOffset": 48,
+        "endOffset": 69,
+        "text": "broadcasting the buzz",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "552816AFF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "237",
+        "end": "237",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It's a much more noisy world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A841B3A4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "238",
+        "end": "238",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "So one challenge we have is to remember, oversharing, that's not honesty.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "008633F137",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "239",
+        "end": "239",
+        "startOffset": 119,
+        "endOffset": 182,
+        "text": "that's still what matters, that's always what's going to matter",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3A8B014631",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "239",
+        "end": "239",
+        "startOffset": 65,
+        "endOffset": 92,
+        "text": "subtleties of human decency",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EDD25050D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "240",
+        "end": "240",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "So in this much noisier world, it might make sense for us to be just a little bit more explicit about our moral code.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2573EE4BE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "241",
+        "end": "241",
+        "startOffset": 63,
+        "endOffset": 88,
+        "text": "art of looking, listening",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5FBCFEFA44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "241",
+        "end": "241",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "When you combine",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3859A05184",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "242",
+        "end": "242",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "you start",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5C04B65238",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "242",
+        "end": "242",
+        "startOffset": 32,
+        "endOffset": 63,
+        "text": "just a little bit more explicit",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DE0293FB99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "242",
+        "end": "242",
+        "startOffset": 73,
+        "endOffset": 83,
+        "text": "you signal",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3054E4AE3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "243",
+        "end": "243",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "My world is going to be one where truth is strengthened and falsehood is recognized and marginalized.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6CBC341B9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "244",
+        "end": "244",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And when you do that, the ground around you starts to shift just a little bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "12D470EC22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "245",
+        "end": "245",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And that's the truth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1139D378D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "246",
+        "end": "246",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69800A026C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "247",
+        "end": "247",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DF1D0A58C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We're going to start with speech.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BCE81CFDEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "(Video) Bill Clinton: I want you to listen to me.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5D4E59B363",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I'm going to say this again.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "41C6D3925B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "I did not have sexual relations with that woman, Miss Lewinsky.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "0BB3E8244E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "I never told anybody to lie, not a single time, never.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "46BEBB7CC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And these allegations are false.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "34C3BCEB02",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And I need to go back to work for the American people.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "03F6564044",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "126EA189B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "(Applause) Pamela Meyer: Okay, what were the telltale signs?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CFEA6B4777",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Well first we heard what's known as a non-contracted denial.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F93D1274EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "Studies show that people who are overdetermined in their denial will resort to formal rather than informal language.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3FD270C49B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "We also heard distancing language: \"that woman.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "938A480C69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "We know that liars will unconsciously distance themselves from their subject, using language as their tool.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5A67E3ED7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Now if Bill Clinton had said, \"Well, to tell you the truth ...\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F3B23E6E5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "or Richard Nixon's favorite, \"In all candor ...\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C32932AC69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "We know, for example, we know liars will shift their blink rate, point their feet towards an exit.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F88C979399",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "They will take barrier objects and put them between themselves and the person that is interviewing them.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "02775F2C15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "They'll alter their vocal tone, often making their vocal tone much lower.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "814D053942",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Now here's the deal.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FB3AA53F9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "These behaviors are just behaviors.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1F0D10E05C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "They're not proof of deception.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "27F7248F2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "They're red flags.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "10AD1B9F51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "We're human beings.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "91ED9C5AE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "We make deceptive flailing gestures all over the place all day long.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BD9EC7C0AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "They don't mean anything in and of themselves.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "858BCEE2D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "But when you see clusters of them, that's your signal.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8E945C4B77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 213,
+        "text": "Look, listen, probe, ask some hard questions, get out of that very comfortable mode of knowing, walk into curiosity mode, ask more questions, have a little dignity, treat the person you're talking to with rapport.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E186AEBCC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "Don't try to be like those folks on \"Law &amp; Order\" and those other TV shows that pummel their subjects into submission.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8FD4A73C61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Don't be too aggressive, it doesn't work.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "522B3F1F6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Now, we've talked a little bit about how to talk to someone who's lying and how to spot a lie.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C077D249C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

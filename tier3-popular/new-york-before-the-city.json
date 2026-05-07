@@ -1,0 +1,3483 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10346,
+  "title": "New York -- before the City",
+  "author": "Eric Sanderson",
+  "url": "https://www.ted.com/talks/eric_sanderson_new_york_before_the_city",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:17:33.761807Z",
+  "updated_at": "2026-05-07T12:17:33.761807Z",
+  "lead_time": 146.917,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "The substance of things unseen.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DAC2A3A287",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Cities, past and future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE9CB96FC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 60,
+        "endOffset": 95,
+        "text": "looking glass that is New York City",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9053352B1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 107,
+        "endOffset": 126,
+        "text": "see our true selves",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "451295AD27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Or, in the words of F.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBF22F3E8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 186,
+        "endOffset": 221,
+        "text": "fresh green breast of the new world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8824D3FBDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "My colleagues and I have been working for 10 years to rediscover this lost world in a project we call The Mannahatta Project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4ED3084F8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "We're trying to discover what Henry Hudson would have seen on the afternoon of September 12th, 1609, when he sailed into New York harbor.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EECD586DDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 35,
+        "endOffset": 87,
+        "text": "in three acts, and if I have time still, an epilogue",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "0801B2FFBD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "So, Act I: A Map Found.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA3A293469",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So, I didn't grow up in New York.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB05FBB06C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "I grew up out west in the Sierra Nevada Mountains, like you see here, in the Red Rock Canyon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58DEFE6F17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "And from these early experiences as a child I learned to love landscapes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B23B8CF4D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And so when it became time for me to do my graduate studies, I studied this emerging field of landscape ecology.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5333E486E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "Landscape ecology concerns itself with how the stream and the meadow and the forest and the cliffs make habitats for plants and animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FC2B146D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "This experience and this training lead me to get a wonderful job with the Wildlife Conservation Society, which works to save wildlife and wild places all over the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C360A01DBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 65,
+        "endOffset": 118,
+        "text": "jaguars and bears and elephants and tigers and rhinos",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7AFAAB56E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "And over the last decade, I traveled to over 40 countries to see jaguars and bears and elephants and tigers and rhinos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4F65E77A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 23,
+        "endOffset": 59,
+        "text": "return from my trips I'd return back",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2DEC0100E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "But every time I would return from my trips I'd return back to New York City.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C5BE340E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 19,
+        "endOffset": 66,
+        "text": "I would go up, just like all the other tourists",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C4B23B9EBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 171,
+        "endOffset": 252,
+        "text": "I'd wonder, \"How does this landscape work to make habitat for plants and animals?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CE5E23C990",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 252,
+        "text": "And on my weekends I would go up, just like all the other tourists, to the top of the Empire State Building, and I'd look down on this landscape, on these ecosystems, and I'd wonder, \"How does this landscape work to make habitat for plants and animals?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F129590114",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "How does it work to make habitat for animals like me?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7CC7880473",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 43,
+        "endOffset": 69,
+        "text": "amazing ladies on the wall",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A0DEB71C44",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 75,
+        "endOffset": 103,
+        "text": "wonder why nobody is looking",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5BA95FB975",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "I'd go to Times Square and I'd look at the amazing ladies on the wall, and wonder why nobody is looking at the historical figures just behind them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42530B1367",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 35,
+        "endOffset": 138,
+        "text": "rolling topography of Central Park come up against the abrupt and sheer topography of midtown Manhattan",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ED9231C985",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "I'd go to Central Park and see the rolling topography of Central Park come up against the abrupt and sheer topography of midtown Manhattan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C886BA55F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "I started reading about the history and the geography in New York City.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8BBE31BAB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "I read that New York City was the first mega-city, a city of 10 million people or more, in 1950.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A2D41F4AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "I started seeing paintings like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B002CC8103",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "For those of you who are from New York",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F3DE6CDBA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "For those of you who are from New York, this is 125th street under the West Side Highway.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A8F441006",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74EBDAAF88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It was once a beach.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBAB700F87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "And this painting has John James Audubon, the painter, sitting on the rock.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "38DAC8F27C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 27,
+        "endOffset": 63,
+        "text": "wooded heights of Washington Heights",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "24BEA178B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "And it's looking up on the wooded heights of Washington Heights to Jeffrey's Hook, where the George Washington Bridge goes across today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3936839F87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Or this painting, from the 1740s, from Greenwich Village.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74E94CC018",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Those are two students at King's College -- later Columbia University -- sitting on a hill, overlooking a valley.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "440BF2039B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "And so I'd go down to Greenwich Village and I'd look for this hill, and I couldn't find it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2242807C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And I couldn't find that palm tree.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C1AB6C1D78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "What's that palm tree doing there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C1771E363B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93E6969EED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And it's this map you see here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F81A2B0812",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "It's held in a geographic information system which allows me to zoom in.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A32CD89CFE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "This map isn't from Hudson's time, but from the American Revolution, 170 years later, made by British military cartographers during the occupation of New York City.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F74B2EB84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "And it's a remarkable map.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "076982EE9F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "It's in the National Archives here in Kew.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85C5472153",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "And it's 10 feet long and three and a half feet wide.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3639D00CA7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "And if I zoom in to lower Manhattan you can see the extent of New York City as it was, right at the end of the American Revolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19D2F11433",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Here's Bowling Green.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "666F08F497",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And here's Broadway.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B91E75295",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And this is City Hall Park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C9E057BB3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "So the city basically extended to City Hall Park.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94BB0BB176",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 50,
+        "endOffset": 58,
+        "text": "vanished",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F316353754",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 77,
+        "endOffset": 88,
+        "text": "disappeared",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "21B45E1B97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And just beyond it you can see features that have vanished, things that have disappeared.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AD513F50F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 166,
+        "text": "This is the Collect Pond, which was the fresh water source for New York City for its first 200 years, and for the Native Americans for thousands of years before that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63F11695F7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "You can see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "243F75C504",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "You can see the Lispenard Meadows draining down through here, through what is TriBeCa now, and the beaches that come up from the Battery, all the way to 42nd St.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95706C5F36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "This map was made for military reasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABC17F7EEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "They're mapping the roads, the buildings, these fortifications that they built.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "89781C73AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "But they're also mapping things of ecological interest, also military interest: the hills, the marshes, the streams.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7C0F1BCAE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "This is Richmond Hill, and Minetta Water, which used to run its way through Greenwich Village.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BAA09CF4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Or the swamp at Gramercy Park, right here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ED93A2DD5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Or Murray Hill.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "11E4A07886",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And this is the Murrays' house on Murray Hill, 200 years ago.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0862EDD491",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "Here is Times Square, the two streams that came together to make a wetland in Times Square, as it was at the end of the American Revolution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27E14494BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So I saw this remarkable map in a book.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D27DA031AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 26,
+        "endOffset": 34,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "582ED168D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 36,
+        "endOffset": 46,
+        "text": "if I could",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C1B2DBC4F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 320,
+        "text": "And I thought to myself, \"You know, if I could georeference this map, if I could place this map in the grid of the city today, I could find these lost features of the city, in the block-by-block geography that people know, the geography of where people go to work, and where they go to live, and where they like to eat.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59A3A09679",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 200,
+        "text": "So, after some work we were able to georeference it, which allows us to put the modern streets on the city, and the buildings, and the open spaces, so that we can zoom in to where the Collect Pond is.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E0C551F60",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "We can digitize the Collect Pond and the streams, and see where they actually are in the geography of the city today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0BAA67CB3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So this is fun for finding where things are relative to the old topography.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "896F27780F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "But I had another idea about this map.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C560A6E2A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "if we take away the streets, and if we take away the buildings, and if we take away the open spaces",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9ECE3293E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "If we pull off the 18th century features we could drive it back in time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8555C2EC54",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 30,
+        "endOffset": 53,
+        "text": "ecological fundamentals",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8B5C70D5BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 55,
+        "endOffset": 137,
+        "text": "to the hills, to the streams, to the basic hydrology and shoreline, to the beaches",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EF5FF35064",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 6,
+        "endOffset": 85,
+        "text": "if we added maps like the geology, the bedrock geology, and the surface geology",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "53639A594E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 112,
+        "endOffset": 161,
+        "text": "if we make the soil map, with the 17 soil classes",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "76000797DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "We can calculate the aspect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E4DF2021B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "We can calculate the winter wind exposure -- so, which way the winter winds blow across the landscape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD1E82E734",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 4,
+        "endOffset": 15,
+        "text": "white areas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "28324BE073",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "We compiled all the information about where the Native Americans were, the Lenape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D180196B98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And we built a probability map of where they might have been.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C980C821F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "So, the red areas on this map indicate the places that are best for human sustainability on Manhattan, places that are close to water, places that are near the harbor to fish, places protected from the winter winds.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D605E1D28F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "We know that there was a Lenape settlement down here by the Collect Pond.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "283DAA76C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 126,
+        "endOffset": 139,
+        "text": "Three Sisters",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6FD4DC4D36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "So, we built a model that explains where those fields might have been.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4336B5A0E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And the old fields, the successional fields that go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C1B6A38CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And we might think of these as abandoned.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3664F58E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 14,
+        "endOffset": 71,
+        "text": "they're grassland habitats for grassland birds and plants",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ABA4049BD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And they have become successional shrub lands, and these then mix in to a map of all the ecological communities.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B46C3FB899",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And it turns out that Manhattan had 55 different ecosystem types.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77512DA2F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 101,
+        "text": "You can think of these as neighborhoods, as distinctive as TriBeCa and the Upper East Side and Inwood",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "887D31741A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "You can think of these as neighborhoods",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "09DE5BF0BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "And 55 is a lot.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D72600932",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 72,
+        "endOffset": 123,
+        "text": "than Yosemite does, than Yellowstone, than Amboseli",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "D03A3E8EE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 14,
+        "endOffset": 101,
+        "text": "an extraordinary landscape that was capable of supporting an extraordinary biodiversity",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0B3582A1E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So, Act II: A Home Reconstructed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04B989B828",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 308,
+        "text": "So, we studied the fish and the frogs and the birds and the bees, the 85 different kinds of fish that were on Manhattan, the Heath hens, the species that aren't there anymore, the beavers on all the streams, the black bears, and the Native Americans, to study how they used and thought about their landscape.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4377202A2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "We wanted to try and map these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "726CE61C69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And to do that what we did was we mapped their habitat needs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0B149DE5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Where do they get their food?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FE1FC546F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Where do they get their water?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "14E455B3E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Where do they get their shelter?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "81587DB2E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Where do they get their reproductive resources?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "23000495D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 17,
+        "endOffset": 53,
+        "text": "the intersection of these is habitat",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "96C0CBFA48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 75,
+        "endOffset": 114,
+        "text": "the intersection of these is their home",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DA71C5EBDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 66,
+        "endOffset": 96,
+        "text": "maybe you have on your shelves",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BD0DFE7DE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 215,
+        "text": "So, we would read in field guides, the standard field guides that maybe you have on your shelves, you know, what beavers need is, \"A slowly meandering stream with aspen trees and alders and willows, near the water.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEF8B84EB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "That's the best thing for a beaver.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6722383CB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So we just started making a list.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E2CDBB917",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Here is the beaver.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAD4B3464B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And here is the stream, and the aspen and the alder and the willow.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "23B71D1B16",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "As if these were the maps that we would need to predict where you would find the beaver.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "56DEE31A2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 56,
+        "endOffset": 87,
+        "text": "where you would find the beaver",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D5DDED043F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Or the bog turtle, needing wet meadows and insects and sunny places.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1FE284EB8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "Or the bobcat, needing rabbits and beavers and den sites.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66B8EB90CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "And rapidly we started to realize that beavers can be something that a bobcat needs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27DAE66B0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But a beaver also needs things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "855700D0B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "And that having it on either side means that we can link it together, that we can create the network of the habitat relationships for these species.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83512E6BD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "Moreover, we realized that you can start out as being a beaver specialist, but you can look up what an aspen needs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F199D4DB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "An aspen needs fire and dry soils.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A859A8E137",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And you can look at what a wet meadow needs.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AD1BA53128",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And it need beavers to create the wetlands, and maybe some other things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "98BAC607B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "But you can also talk about sunny places.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC290361CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "So, what does a sunny place need?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "999DD834B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Not habitat per se.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D3D622D5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "But what are the conditions that make it possible?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EB8DB8BB95",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "Or fire.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B8E4DCFA0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Or dry soils.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7B04BD192C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And that you can put these on a grid that's 1,000 columns long across the top and 1,000 rows down the other way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "77D929DD80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And then we can visualize this data like a network, like a social network.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B815120711",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 213,
+        "text": "And this is the network of all the habitat relationships of all the plants and animals on Manhattan, and everything they needed, going back to the geology, going back to time and space at the very core of the web.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "11F6D6CB78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "We call this the Muir Web.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C71F3296B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "And if you zoom in on it it looks like this.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2E33D12AC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Each point is a different species or a different stream or a different soil type.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35D64F0D0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 10,
+        "endOffset": 27,
+        "text": "little gray lines",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1B80E1680A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 36,
+        "endOffset": 74,
+        "text": "connections that connect them together",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ECF94F967D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 13,
+        "endOffset": 24,
+        "text": "connections",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "533FF6C9F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 8,
+        "endOffset": 17,
+        "text": "structure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2F257B0962",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 172,
+        "endOffset": 187,
+        "text": "invisible cords",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F179732ECE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 147,
+        "endOffset": 157,
+        "text": "bound fast",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DE11620AD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We call these Muir Webs after",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FE364AF01A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "So then we took the Muir webs and we took them back to the maps.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5EB04277F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "So if we wanted to go between 85th and 86th, and Lex and Third, maybe there was a stream in that block.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D6B659280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 31,
+        "endOffset": 36,
+        "text": "trees",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "86E652E968",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 73,
+        "endOffset": 80,
+        "text": "flowers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "59B0AED425",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 89,
+        "endOffset": 96,
+        "text": "lichens",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "AA49FC92F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 105,
+        "endOffset": 111,
+        "text": "mosses",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "83B7450B2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 117,
+        "endOffset": 128,
+        "text": "butterflies",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6946A1CD5F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 134,
+        "endOffset": 152,
+        "text": "fish in the stream",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F1B82DA1F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 158,
+        "endOffset": 176,
+        "text": "birds in the trees",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "877315DA0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Maybe a timber rattlesnake lived there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3074D80B9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And perhaps a black bear walked by.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "192B0547BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "And maybe Native Americans were there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2FCA00078E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And then we took this data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BC6D4CBFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "You can see this for yourself",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "508D338295",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "You can zoom",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84349AC74C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "And we used it to try and reveal a landscape here in Act III.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE694A5D80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "We used the tools they use in Hollywood to make these fantastic landscapes that we all see in the movies.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87B82B5245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "So these images are the work of my friend and colleague, Mark Boyer, who is here in the audience today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56B4F0CBBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "And I'd just like, if you would give him a hand, to call out for his fine work.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E0F90C41D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 116,
+        "endOffset": 165,
+        "text": "perhaps looking on either side of a looking glass",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "13E338A08E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 53,
+        "endOffset": 74,
+        "text": "I hope you appreciate",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8C62BFF1F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "The place that you see here on the left side was interconnected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8600D9FB67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It was based on this diversity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "286C267323",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "It had this resilience that is what we need in our modern world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EAF07CB9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "But I wouldn't have you think that I don't like the place on the right, which I quite do.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "03EF2E87CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 27,
+        "endOffset": 136,
+        "text": "and its kind of diversity, and its resilience, and its dependence on density and how we're connected together",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E7C098EABF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 55,
+        "endOffset": 112,
+        "text": "much as Lewis Carroll did in \"Through the Looking Glass.\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3494796653",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 70,
+        "endOffset": 162,
+        "text": "that they really are the same place, that there is no way that cities can escape from nature",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "EE1F4E9966",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And I think this is what we're learning about building cities in the future.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D8C9A5790",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So if you'll allow me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FD5C1F5D87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "This is the particular additional habitat requirement of humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "712EC415AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 124,
+        "endOffset": 189,
+        "text": "through technology, through art, through science, so much so that",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A94D81617F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "So, how can we envision the city of the future?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "FFC7ACC6EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 51,
+        "endOffset": 171,
+        "text": "imagine it without all the cars, and bicycles instead and large forests, and streams instead of sewers and storm drains?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "24C33BE115",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 11,
+        "endOffset": 138,
+        "text": "imagined the Upper East Side with green roofs, and streams winding through the city, and windmills supplying the power we need?",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "92B5D79D79",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 230,
+        "endOffset": 303,
+        "text": "covered by farmland, covered by wetlands, covered by the marshes we need.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "2CC6C43B09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 74,
+        "endOffset": 110,
+        "text": "diversity and abundance and dynamism",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9DE7C95636",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 150,
+        "endOffset": 245,
+        "text": "sustainability of the past, of the ecology, the original ecology, of nature with all its parts.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CCDE95BC2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Thank you very much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC0145FF70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67EBA1832F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And we tried to use it to visualize Third Avenue.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3B56B28562",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "So we would take the landscape and we would build up the topography.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E98C7782CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "We'd lay on top of that the soils and the waters, and illuminate the landscape.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "BB54D756AC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "We would lay on top of that the map of the ecological communities.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5066725215",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And feed into that the map of the species.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F39A8D6A70",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 132,
+        "text": "So that we would actually take a photograph, flying above Times Square, looking toward the Hudson River, waiting for Hudson to come.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FF68764A67",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Using this technology, we can make these fantastic georeferenced views.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AB385A3D7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "We can basically take a picture out of any window on Manhattan and see what that landscape looked like 400 years ago.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F3EADE988A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "This is the view from the East River, looking up Murray Hill at where the United Nations is today.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "68151916E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "This is the view looking down the Hudson River, with Manhattan on the left, and New Jersey out on the right, looking out toward the Atlantic Ocean.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DCCD2336FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "This is the view over Times Square, with the beaver pond there, looking out toward the east.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "119ABFAF1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So we can see the Collect Pond, and Lispenard Marshes back behind.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EE33164713",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "We can see the fields that the Native Americans made.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AD0741C197",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "And we can see this in the geography of the city today.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "532C3E137A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 192,
+        "text": "So when you're watching \"Law and Order,\" and the lawyers walk up the steps they could have walked back down those steps of the New York Court House, right into the Collect Pond, 400 years ago.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AD3822C8CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

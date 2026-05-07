@@ -1,0 +1,4112 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10102,
+  "title": "Mosquitos, malaria and education",
+  "author": "Bill Gates",
+  "url": "https://www.ted.com/talks/bill_gates_mosquitos_malaria_and_education",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:20:05.056911Z",
+  "updated_at": "2026-05-07T12:20:05.056911Z",
+  "lead_time": 183.268,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "I wrote a letter last week talking about the work of the foundation, sharing some of the problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "823DAA6C1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "And Warren Buffet had recommended I do that -- being honest about what was going well, what wasn’t, and making it kind of an annual thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB970864F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "A goal I had there was to draw more people in to work on those problems, because I think there are some very important problems that don't get worked on naturally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5E6B21A06",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "That is,",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "61BFBE5AAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 9,
+        "endOffset": 123,
+        "text": "the market does not drive the scientists, the communicators, the thinkers, the governments to do the right things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DD8E389DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "And only by paying attention to these things and having brilliant people who care and draw other people in can we make as much progress as we need to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E64F13D85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "So this morning I'm going to share two of these problems and talk about where they stand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "332665C6D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "But before I dive into those I want to admit that I am an optimist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF93877A78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "Any tough problem, I think it can be solved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8734DAAD11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And part of the reason I feel that way is looking at the past.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "385EC5A3A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Over the past century, average lifespan has more than doubled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E05335013",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Another statistic, perhaps my favorite, is to look at childhood deaths.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81677F7627",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "As recently as 1960, 110 million children were born, and 20 million of those died before the age of five.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F19AB5D3BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Five years ago, 135 million children were born -- so, more -- and less than 10 million of them died before the age of five.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A542C6B9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "So that's a factor of two reduction of the childhood death rate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D620E1AEE1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "It's a phenomenal thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DEC1C68CAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Each one of those lives matters a lot.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "008A87EECA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "And the key reason we were able to it was not only rising incomes but also a few key breakthroughs: vaccines that were used more widely.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B6CACA32AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "For example, measles was four million of the deaths back as recently as 1990 and now is under 400,000.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E6C0310234",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So we really can make changes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8F8DFD5BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "The next breakthrough is to cut that 10 million in half again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "22EC2BC618",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And I think that's doable in well under 20 years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5D70679430",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5B6415C158",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "Well there's only a few diseases that account for the vast majority of those deaths: diarrhea, pneumonia and malaria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65A70FBED5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "So that brings us to the first problem that I'll raise this morning, which is how do we stop a deadly disease that's spread by mosquitos?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "77432A1D0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Well, what's the history of this disease?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A89D7AC5D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "It's been a severe disease for thousands of years.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D16B78920D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "In fact, if we look at the genetic code, it's the only disease we can see that people who lived in Africa actually evolved several things to avoid malarial deaths.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9E4C516DDE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Deaths actually peaked at a bit over five million in the 1930s.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B9B727EEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "So it was absolutely gigantic.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "F7C57F7A9C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And the disease was all over the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0711B22E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "A terrible disease.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CDF651CC53",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It was in the United States.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7F305F56E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "It was in Europe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B0AC54CE58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "People didn't know what caused it until the early 1900s, when a British military man figured out that it was mosquitos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5FB88A69C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "So it was everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D9910EB9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And two tools helped bring the death rate down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "88726C9486",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "One was killing the mosquitos with DDT.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7372C817DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The other was treating the patients with quinine, or quinine derivatives.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E648A3816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "And so that's why the death rate did come down.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "756878AD24",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 5,
+        "endOffset": 15,
+        "text": "ironically",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "EB11C1F174",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "Now, ironically, what happened was it was eliminated from all the temperate zones, which is where the rich countries are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45F98444BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "So we can see: 1900, it's everywhere. 1945, it's still most places. 1970, the U.S. and most of Europe have gotten rid of it. 1990, you've gotten most of the northern areas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3693CB3BFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And more recently you can see it's just around the equator.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFED8EDA08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 25,
+        "endOffset": 32,
+        "text": "paradox",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "81349D15B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "And so this leads to the paradox that because the disease is only in the poorer countries, it doesn't get much investment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3B544B4841",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "For example, there's more money put into baldness drugs than are put into malaria.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FAF7956A3B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Now, baldness, it's a terrible thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "55778763C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 11,
+        "endOffset": 38,
+        "text": "And rich men are afflicted.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DDB82D5B51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And so that's why that priority has been set.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BF9B475EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 65,
+        "endOffset": 94,
+        "text": "greatly understate its impact",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1E3C43837D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "But, malaria -- even the million deaths a year caused by malaria greatly understate its impact.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B33EC4A01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Over 200 million people at any one time are suffering from it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E5594971A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 79,
+        "endOffset": 96,
+        "text": "holds things back",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A19A4EF740",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "It means that you can't get the economies in these areas going because it just holds things back so much.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1D8766947",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Now, malaria is of course transmitted by mosquitos.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9FDE8E772B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 21,
+        "endOffset": 54,
+        "text": "just so you could experience this",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7B9D793632",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "I brought some here, just so you could experience this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "19CF611367",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "We'll let those roam around the auditorium a little bit.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E88D5C4C4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 11,
+        "endOffset": 73,
+        "text": "There's no reason only poor people should have the experience.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1ADB5723A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 22,
+        "endOffset": 55,
+        "text": "Those mosquitos are not infected.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A4207FD51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So we've come up with a few new things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E98555BBD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "We've got bed nets.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D780001149",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And bed nets are a great tool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49A3F2504F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "What it means is the mother and child stay under the bed net at night, so the mosquitos that bite late at night can't get at them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3475C799F8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "And when you use indoor spraying with DDT and those nets you can cut deaths by over 50 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B743B4C971",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And that's happened now in a number of countries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7930F6CB30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "It's great to see.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5406B5C3C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 34,
+        "endOffset": 90,
+        "text": "malaria -- the parasite evolves and the mosquito evolves",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9B729016F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "So every tool that we've ever had in the past has eventually become ineffective.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F919AF365",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "And so you end up with two choices.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78167335B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 65,
+        "endOffset": 85,
+        "text": "you do it vigorously",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "98AC91086C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 87,
+        "endOffset": 107,
+        "text": "you can actually get",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C6A4FF0732",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And that's where we saw the malaria map shrinking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F212EACCB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 191,
+        "text": "Or, if you go in kind of half-heartedly, for a period of time you'll reduce the disease burden, but eventually those tools will become ineffective, and the death rate will soar back up again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "913B4B2F93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "And the world has gone through this where it paid attention and then didn't pay attention.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4CEB9B64B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "Now we're on the upswing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5328DAA784",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Bed net funding is up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6279924545",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "There's new drug discovery going on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE619A2B61",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "Our foundation has backed a vaccine that's going into phase three trial that starts in a couple months.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2242387E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 21,
+        "endOffset": 49,
+        "text": "over two thirds of the lives",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E7B5069464",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And that should save over two thirds of the lives if it's effective.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "512ED1445E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "So we're going to have these new tools.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E0142A020",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "But that alone doesn't give us the road map.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75A526587A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 8,
+        "endOffset": 20,
+        "text": "the road map",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BCB555B073",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 26,
+        "endOffset": 108,
+        "text": "to keep the funding high, to keep the visibility high, to tell the success stories",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "77715C3527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "It involves social scientists, so we know how to get not just 70 percent of the people to use the bed nets, but 90 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FDB6B46CB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "We need mathematicians to come in and simulate this, to do Monte Carlo things to understand how these tools combine and work together.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD09230786",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Of course we need drug companies to give us their expertise.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E4D1550D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "We need rich-world governments to be very generous in providing aid for these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91C41618FA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And so as these elements come together, I'm quite optimistic that we will be able to eradicate malaria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D2BEC3337",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "Now let me turn to a second question, a fairly different question, but I'd say equally important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "112D22DE41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 13,
+        "endOffset": 45,
+        "text": "How do you make a teacher great?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C250B3E40F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "It seems like the kind of question that people would spend a lot of time on, and we'd understand very well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B830B76D76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And the answer is, really, that we don't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1698EC72E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Let's start with why this is important.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE8FE7A65B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 6,
+        "endOffset": 30,
+        "text": "all of us here, I'll bet",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D5665A3C6B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "We all had a wonderful education.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D05BBC549",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 7,
+        "endOffset": 79,
+        "text": "part of the reason we're here today, part of the reason we're successful",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "19EE6737E8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "I can say that, even though I'm a college drop-out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6DEC6AD6B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "I had great teachers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD9807CC50",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "In fact, in the United States, the teaching system has worked fairly well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5612DB5AF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "There are fairly effective teachers in a narrow set of places.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21FEA9C7BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "So the top 20 percent of students have gotten a good education.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B49146189B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 58,
+        "endOffset": 110,
+        "text": "if you measure them against the other top 20 percent",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "66C1B6A948",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And those top 20 percent have been the best in the world",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F87EC5A22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "And they've gone on to create the revolutions in software and biotechnology and keep the U.S. at the forefront.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D2517784EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 165,
+        "text": "Now, the strength for those top 20 percent is starting to fade on a relative basis, but even more concerning is the education that the balance of people are getting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "493675B97B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Not only has that been weak. it's getting weaker.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9E01ECD7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 4,
+        "endOffset": 30,
+        "text": "if you look at the economy",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3760197FBC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And we have to change this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "488BDBD80D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And we have to change it so that people have equal opportunity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA310E5348",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "We have to change it so that people have equal opportunity.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3E1321CEDD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "We have to change it so that the country is strong and stays at the forefront of things that are driven by advanced education, like science and mathematics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32CC299595",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "When I first learned the statistics, I was pretty stunned at how bad things are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DF2873E1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Over 30 percent of kids never finish high school.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1E4C0807F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "And that had been covered up for a long time because they always took the dropout rate as the number who started in senior year and compared it to the number who finished senior year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C694DBA6C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "Because they weren't tracking where the kids were before that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B994E53E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "But most of the dropouts had taken place before that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9BFEE74B3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "They had to raise the stated dropout rate as soon as that tracking was done to over 30 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "422BDA6FB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "For minority kids, it's over 50 percent.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B149C1C41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 140,
+        "text": "And even if you graduate from high school, if you're low-income, you have less than a 25 percent chance of ever completing a college degree.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "83AEB18249",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "If you're low-income in the United States, you have a higher chance of going to jail than you do of getting a four-year degree.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C4FC43CA18",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "And that doesn't seem entirely fair.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25863FBB8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "So, how do you make education better?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "75DD6C4701",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Now, our foundation, for the last nine years, has invested in this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6AF5663226",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "There's many people working on it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6B9593C56F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "We've worked on small schools, we've funded scholarships, we've done things in libraries.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B681C41187",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "A lot of these things had a good effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A496183A4F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 82,
+        "endOffset": 100,
+        "text": "the very key thing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A3DE484C22",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "And we hooked up with some people studying how much variation is there between teachers, between, say, the top quartile -- the very best -- and the bottom quartile.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D94B53D846",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "How much variation is there within a school or between schools?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "32F458E4DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "And the answer is that these variations are absolutely unbelievable.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "DEB42BEC1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "A top quartile teacher will increase the performance of their class -- based on test scores -- by over 10 percent in a single year.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A736E64B6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "What does that mean?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DFAD0EC842",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "That means that if the entire U.S., for two years, had top quartile teachers, the entire difference between us and Asia would go away.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA0A8C22A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Within four years we would be blowing everyone in the world away.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "106F3D6A4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "So, it's simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B1856254E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "All you need are those top quartile teachers.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4FEE556A68",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "And so you'd say, \"Wow, we should reward those people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "105C3DC64B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "We should retain those people.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6DBE464A7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "We should find out what they're doing and transfer that skill to other people.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "463174996A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "But I can tell you that absolutely is not happening today.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEF1D6ED8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "What are the characteristics of this top quartile?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "EDD9CC3F83",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "What do they look like?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6045F6AB3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You might think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CF5004E7B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "You might think these must be very senior teachers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "143485C25D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "And the answer is no.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6D3690F6D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Once somebody has taught for three years their teaching quality does not change thereafter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B8CDCFEFDB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 17,
+        "endOffset": 33,
+        "text": "very, very small",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "66DCBD677B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "The variation is very, very small.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0762A7C81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "You might think",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A8175E2C34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "You might think these are people with master's degrees.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B584E1D76",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "They've gone back and they've gotten their Master's of Education.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0902A276C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "This chart takes four different factors and says how much do they explain teaching quality.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00F27A0764",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "That bottom thing, which says there's no effect at all, is a master's degree.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3F24C93F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Now, the way the pay system works is there's two things that are rewarded.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "017A193932",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "One is seniority.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0533D30CFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Because your pay goes up and you vest into your pension.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A69E858625",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The second is giving extra money to people who get their master's degree.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E7CAD0687",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "But it in no way is associated with being a better teacher.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "506F7B6BFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "Teach for America: slight effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E5BB24E9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "For math teachers majoring in math there's a measurable effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C60DF982A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 21,
+        "endOffset": 47,
+        "text": "it's your past performance",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7D53731C8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "But, overwhelmingly, it's your past performance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4AF15DECC9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "There are some people who are very good at this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DF011436A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "And we've done almost nothing to study what that is and to draw it in and to replicate it, to raise the average capability -- or to encourage the people with it to stay in the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "445B9D9498",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "You might say, \"Do the good teachers stay and the bad teacher's leave?\"",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E888A5CFAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The answer is, on average, the slightly better teachers leave the system.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75FF25DE8A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And it's a system with very high turnover.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D28EB1D3C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Now, there are a few places -- very few -- where great teachers are being made.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C382236C3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "A good example of one is a set of charter schools called KIPP.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7ADA1071C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "KIPP means Knowledge Is Power.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6612CC85DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "It's an unbelievable thing.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E46854A550",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "They have 66 schools -- mostly middle schools, some high schools -- and what goes on is great teaching.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C10FB3DE1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "They take the poorest kids, and over 96 percent of their high school graduates go to four-year colleges.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0849FC521D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And the whole spirit and attitude in those schools is very different than in the normal public schools.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49BB78C308",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "They're team teaching.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D113E2974",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "They're constantly improving their teachers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E74566871",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 64,
+        "endOffset": 104,
+        "text": "Hey, you caused this amount of increase.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "AEE9253488",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "They're taking data, the test scores, and saying to a teacher, \"Hey, you caused this amount of increase.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EEA57BA5FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "They're deeply engaged in making teaching better.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "015319D2C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "When you actually go and sit in one of these classrooms",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B2F184E473",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "When you actually go and sit in one of these classrooms, at first it's very bizarre.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C9ED3BEF33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I sat down and I thought, \"What is going on?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F73FC0B4AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "The teacher was running around, and the energy level was high.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DF9063A7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "I thought, \"I'm in the sports rally or something.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81CFAF157A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "What's going on?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E92E7B1EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "And the teacher was constantly scanning to see which kids weren't paying attention, which kids were bored, and calling kids rapidly, putting things up on the board.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CFAA318E27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 9,
+        "endOffset": 33,
+        "text": "very dynamic environment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3FF0426AEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 0,
+        "endOffset": 309,
+        "text": "It was a very dynamic environment, because particularly in those middle school years -- fifth through eighth grade -- keeping people engaged and setting the tone that everybody in the classroom needs to pay attention, nobody gets to make fun of it or have the position of the kid who doesn't want to be there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81A8C50478",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Everybody needs to be involved.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D416F5E261",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And so KIPP is doing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD7F403C5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "How does that compare to a normal school?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "335B88A8D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "How does that compare to a normal school?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46CEE8924A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Well, in a normal school, teachers aren't told how good they are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A09D245213",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "The data isn't gathered.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0748F03CA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "In the teacher's contract, it will limit the number of times the principal can come into the classroom -- sometimes to once per year.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "931556DBD5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "And they need advanced notice to do that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AD7FDE57FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 119,
+        "endOffset": 283,
+        "text": "\"Hey, you can only come down here once a year, but you need to let us know, because we might actually fool you, and try and do a good job in that one brief moment.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "16340B627E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 3,
+        "endOffset": 28,
+        "text": "imagine running a factory",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAFF7C8751",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "182",
+        "end": "182",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Even a teacher who wants to improve doesn't have the tools to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE0A566200",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "183",
+        "end": "183",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "They don't have the test scores, and there's a whole thing of trying to block the data.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "768B17C25F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "184",
+        "end": "184",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "For example, New York passed a law that said that the teacher improvement data could not be made available and used in the tenure decision for the teachers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9905E542AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "185",
+        "end": "185",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And so that's sort of working in the opposite direction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2E0A4F12F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "186",
+        "end": "186",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "But I'm optimistic about this, I think there are some clear things we can do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CC4317B0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "187",
+        "end": "187",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "First of all, there's a lot more testing going on, and that's given us the picture of where we are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "84454E0312",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "188",
+        "end": "188",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "And that allows us to understand who's doing it well, and call them out, and find out what those techniques are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06196CEF46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "189",
+        "end": "189",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Of course, digital video is cheap now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3383E0532",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "190",
+        "end": "190",
+        "startOffset": 0,
+        "endOffset": 141,
+        "text": "Putting a few cameras in the classroom and saying that things are being recorded on an ongoing basis is very practical in all public schools.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "321A2004BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "191",
+        "end": "191",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "Here's a little clip of something I thought I did well. Here's a little clip of something I think I did poorly.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C6948118C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "192",
+        "end": "192",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Here's a little clip of something I think I did poorly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99DD3CB2A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 9,
+        "text": "Advise me",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "40ED2E4BA8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "193",
+        "end": "193",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Advise me -- when this kid acted up, how should I have dealt with that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "088884F604",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "194",
+        "end": "194",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "And they could all sit and work together on those problems.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27411843C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "210",
+        "end": "210",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And the skill sets required to tackle these things are very broad.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8654E6D1FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 0,
+        "endOffset": 8,
+        "text": "You know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2E1AC7C6F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "211",
+        "end": "211",
+        "startOffset": 10,
+        "endOffset": 54,
+        "text": "the system doesn't naturally make it happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C85A1026FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "212",
+        "end": "212",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Governments don't naturally pick these things in the right way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F7201FCD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "213",
+        "end": "213",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "The private sector doesn't naturally put its resources into these things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "21E0EC40BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 39,
+        "endOffset": 47,
+        "text": "like you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "8FCA4C2D34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 104,
+        "endOffset": 110,
+        "text": "you're",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "ED5119A026",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "214",
+        "end": "214",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "So it's going to take brilliant people to study these things, get other people involved -- and you're helping to come up with solutions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E5DF77D66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "215",
+        "end": "215",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And with that, I think there's some great things that will come out of it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "445898531D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "216",
+        "end": "216",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BC2EAE27D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "217",
+        "end": "217",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E39EC0CFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "195",
+        "end": "195",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "You can take the very best teachers and kind of annotate it, have it so everyone sees who is the very best at teaching this stuff.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "582DC5E3A0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "196",
+        "end": "196",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "You can take those great courses and make them available so that a kid could go out and watch the physics course, learn from that.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DB381FF0DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "197",
+        "end": "197",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "If you have a kid who's behind, you would know you could assign them that video to watch and review the concept.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "68753A2CED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "198",
+        "end": "198",
+        "startOffset": 0,
+        "endOffset": 218,
+        "text": "And in fact, these free courses could not only be available just on the Internet, but you could make it so that DVDs were always available, and so anybody who has access to a DVD player can have the very best teachers.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "37437E2A1F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "199",
+        "end": "199",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And so by thinking of this as a personnel system, we can do it much better.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "F8AE764565",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "200",
+        "end": "200",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "Now there's a book actually, about KIPP -- the place that this is going on -- that Jay Matthews, a news reporter, wrote -- called, \"Work Hard, Be Nice.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3A3D93A71D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "201",
+        "end": "201",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And I thought it was so fantastic.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3E02E98640",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "202",
+        "end": "202",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "It gave you a sense of what a good teacher does.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3A88538FC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "203",
+        "end": "203",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I'm going to send everyone here a free copy of this book.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "001B2A92ED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "204",
+        "end": "204",
+        "startOffset": 0,
+        "endOffset": 190,
+        "text": "(Applause) Now, we put a lot of money into education, and I really think that education is the most important thing to get right for the country to have as strong a future as it should have.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DD780909E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "205",
+        "end": "205",
+        "startOffset": 0,
+        "endOffset": 222,
+        "text": "In fact we have in the stimulus bill -- it's interesting -- the House version actually had money in it for these data systems, and it was taken out in the Senate because there are people who are threatened by these things.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C1ABC0A481",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "206",
+        "end": "206",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "But I -- I'm optimistic.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FBA213E827",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "207",
+        "end": "207",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "I think people are beginning to recognize how important this is, and it really can make a difference for millions of lives, if we get it right.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "701D74A26C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "208",
+        "end": "208",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "I only had time to frame those two problems.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9D6D517796",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "209",
+        "end": "209",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "There's a lot more problems like that -- AIDS, pneumonia -- I can just see you're getting excited, just at the very name of these things.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2ECB08509B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

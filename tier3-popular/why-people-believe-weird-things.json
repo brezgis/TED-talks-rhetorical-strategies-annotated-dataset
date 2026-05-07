@@ -1,0 +1,3245 @@
+{
+  "project_id": 22,
+  "project_label": "gemma",
+  "task_id": 10004,
+  "title": "Why people believe weird things",
+  "author": "Michael Shermer",
+  "url": "https://www.ted.com/talks/michael_shermer_why_people_believe_weird_things",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:27:25.723282Z",
+  "updated_at": "2026-05-07T12:27:25.723282Z",
+  "lead_time": 165.928,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "I'm Michael Shermer, director of the Skeptics Society, publisher of \"Skeptic\" magazine.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CFAEB4364",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 176,
+        "endOffset": 190,
+        "text": "voodoo science",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9741EA281E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 162,
+        "endOffset": 174,
+        "text": "junk science",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CF035C2017",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 264,
+        "text": "We investigate claims of the paranormal, pseudo-science, fringe groups and cults, and claims of all kinds between, science and pseudo-science and non-science and junk science, voodoo science, pathological science, bad science, non-science, and plain old non-sense.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A0BEDAA30",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 4,
+        "endOffset": 39,
+        "text": "unless you've been on Mars recently",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "07B09EEC85",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "And unless you've been on Mars recently, you know there's a lot of that out there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6F6A7BF96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "Some people call us debunkers, which is kind of a negative term.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FB28AB4BB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "But let's face it, there's a lot of bunk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "04C45872B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 16,
+        "endOffset": 28,
+        "text": "bunko squads",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84D21C6BB0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 97,
+        "endOffset": 122,
+        "text": "Ralph Naders of bad ideas",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "32719004F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 135,
+        "endOffset": 178,
+        "text": "trying to replace bad ideas with good ideas",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "440B0C2D97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "We are like the bunko squads of the police departments out there -- well, we're sort of like the Ralph Naders of bad ideas, (Laughter) trying to replace bad ideas with good ideas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3E4F0D6579",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "I'll show you an example of a bad idea.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "32EB62B744",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "I brought this with me, this was given to us by NBC Dateline to test.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D0E897A0CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's produced by the Quadro Corporation of West Virginia.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "94AD8753AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "It's called the Quadro 2000 Dowser Rod.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F14FBBB743",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B5B428698D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "It's a piece of plastic with a Radio Shack antenna attached to it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "00DD02B6F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 119,
+        "text": "You could dowse for all sorts of things, but this particular one was built to dowse for marijuana in students' lockers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC666CAF2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67797B02D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "So the way it works is you go down the hallway, and you see if it tilts toward a particular locker, and then you open the locker.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB8BB04E49",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "So it looks something like this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61EE62479D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "I'll show you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D0DF7B56D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 11,
+        "endOffset": 53,
+        "text": "Well, it has kind of a right-leaning bias.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCFA6A7D14",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "Well, this is science, so we'll do a controlled experiment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3A8598C6F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "It'll go this way for sure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E19EC82C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 11,
+        "endOffset": 63,
+        "text": "Sir, do you want to empty your pockets, please, sir?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6332503706",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 11,
+        "endOffset": 84,
+        "text": "So the question was, can it actually find marijuana in students' lockers?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "54302A12C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 19,
+        "endOffset": 51,
+        "text": "if you open enough of them, yes.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "506036F8A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 22,
+        "endOffset": 93,
+        "text": "But in science, we have to keep track of the misses, not just the hits.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D7E082597",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "And that's probably the key lesson to my short talk here: This is how psychics work, astrologers, tarot card readers and so on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DCD7E5FB46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "People remember the hits and forget the misses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65FD1AC7E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "In science, we keep the whole database, and look to see if the number of hits somehow stands out from the total number you'd expect by chance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8232B99C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "In this case, we tested it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6C366AA213",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "We had two opaque boxes: one with government-approved THC marijuana, and one with nothing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5397CFFD1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 109,
+        "text": "And it got it 50 percent of the time -- (Laughter) which is exactly what you'd expect with a coin-flip model.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "386DD71D34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "So that's just a fun little example here of the sorts of things we do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7893E5054B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Skeptic is the quarterly publication.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "63567BC4DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Each one has a particular theme.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6695353245",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "This one is on the future of intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5455F5946",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Are people getting smarter or dumber?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "70276680C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 120,
+        "text": "I have an opinion of this myself because of the business I'm in, but in fact, people, it turns out, are getting smarter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C59C46226",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Three IQ points per 10 years, going up.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F6E8A4A1C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Sort of an interesting thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B3D80BCD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 14,
+        "endOffset": 73,
+        "text": "don't think of skepticism as a thing, or science as a thing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4FCEBA1B32",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Are science and religion compatible?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E2F44B3402",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "It's like, are science and plumbing compatible?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2C51AA06E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "They're just two different things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BBC94FC179",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Science is not a thing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F7385AEC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "It's a verb.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CE78ED314E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "It's a way of thinking about things.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DAD03CB8FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "It's a way of looking for natural explanations for all phenomena.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D8C54E99B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 8,
+        "endOffset": 26,
+        "text": "what's more likely",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F52BAF1F6C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 143,
+        "endOffset": 233,
+        "text": "to leave a crop circle in Farmer Bob's field in Puckerbrush, Kansas to promote skeptic.com",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "891A8C48AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 248,
+        "text": "I mean, what's more likely: that extraterrestrial intelligences or multi-dimensional beings travel across vast distances of interstellar space to leave a crop circle in Farmer Bob's field in Puckerbrush, Kansas to promote skeptic.com, our web page?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6A961747F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "Or is it more likely",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1513F6048B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Or is it more likely that a reader of \"Skeptic\" did this with Photoshop?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3239362CEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 46,
+        "endOffset": 81,
+        "text": "What's the more likely explanation?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "12F9D056BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "And in all cases we have to ask -- (Laughter) What's the more likely explanation?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27A86357B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 27,
+        "endOffset": 44,
+        "text": "out of this world",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C6F956F778",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Before we say something is out of this world, we should first make sure that it's not in this world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D8613A9EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "What's more likely",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "309726237A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "What's more likely: that Arnold had extraterrestrial help in his run for the governorship, or that the \"World Weekly News\" makes stuff up?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "30C732588E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "(Laughter) The same theme is expressed nicely here in this Sidney Harris cartoon.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EF50E928D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "For those of you in the back, it says here: \"Then a miracle occurs.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC2992327D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 8,
+        "endOffset": 36,
+        "text": "you need to be more explicit",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "78DADC63D3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 54,
+        "text": "I think you need to be more explicit here in step two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "85465AC586",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "This single slide completely dismantles the intelligent design arguments.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E6337AE190",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "There's nothing more to it than that.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "948316E594",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "(Applause) You can say a miracle occurs, it's just that it doesn't explain anything or offer anything.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F6C65FD35",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "There's nothing to test.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC6F4078BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "It's the end of the conversation for intelligent design creationists.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E8B32E994",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 55,
+        "endOffset": 79,
+        "text": "linguistic place fillers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6841906E13",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 185,
+        "text": "And it's true, scientists sometimes throw terms out as linguistic place fillers -- dark energy or dark matter, something like that -- until we figure out what it is, we'll call it this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8662CC900A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "It's the beginning of the causal chain for science.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F05AB5E059",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "And this is what he ended up concluding that he saw.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4F5971BD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 66,
+        "endOffset": 94,
+        "text": "you can't have a good theory",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "17D90597C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "It wasn't solved until 1655.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29F2343F47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "This is Christiaan Huygens's book that catalogs all the mistakes people made trying to figure out what was going on with Saturn.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E78DFF231C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 39,
+        "endOffset": 164,
+        "text": "He had a good theory of planetary rings and how the solar system operated, and he had better telescopic, more fine-grain data",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "96239FFA73",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And we see the angles of the rings at different angles, there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA9D6F4711",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And that, in fact, turns out to be true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B13FF7AA09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "The problem with having a theory is that it may be loaded with cognitive biases.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "921B2492BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "So one of the problems of explaining why people believe weird things is that we have things, on a simple level, and then I'll go to more serious ones.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5189DE42CD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 6,
+        "endOffset": 37,
+        "text": "we have a tendency to see faces",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "947E7361D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "This is the face on Mars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E954131FE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 151,
+        "text": "In 1976, where there was a whole movement to get NASA to photograph that area because people thought this was monumental architecture made by Martians.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C8FD311C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Here's the close-up of it from 2001.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A01D2B63EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "If you squint, you can still see the face.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C116524EED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 27,
+        "endOffset": 78,
+        "text": "you're turning that from fine-grain to coarse-grain",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE922E87D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And if I didn't tell you what to look for, you'd still see the face",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BBA1C11061",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 77,
+        "endOffset": 119,
+        "text": "we're programmed by evolution to see faces",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2301B10A0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Faces are important for us socially.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "188BD97B1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And of course, happy faces, faces of all kinds are easy to see.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "35E400823D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "You see the happy face on Mars, there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "DDCB9DBF9D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 11,
+        "endOffset": 73,
+        "text": "If astronomers were frogs, perhaps they'd see Kermit the Frog.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C3898ABF69",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Do you see him there?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "841D5F2D01",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Little froggy legs.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8C096A245F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Or if geologists were elephants?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5FA294EF1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "Religious iconography.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "01EE529E71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "(Laughter) Discovered by a Tennessee baker in 1996.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65D250B0FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "He charged five bucks a head to come see the nun bun till he got a cease-and-desist from Mother Teresa's lawyer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BAF25C0FD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Here's Our Lady of Guadalupe and Our Lady of Watsonville, just down the street, or is it up the street from here?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5632317BE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Tree bark is particularly good because it's nice and grainy, branchy, black-and-white splotchy",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C3005D8D09",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 53,
+        "endOffset": 94,
+        "text": "grainy, branchy, black-and-white splotchy",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "83999F9BF9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 95,
+        "endOffset": 169,
+        "text": "and you can get the pattern-seeking -- humans are pattern-seeking animals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4CFA28BB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Here's the Virgin Mary on the side of a glass window in Sao Paulo.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "81C89F0184",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 156,
+        "text": "Here's when the Virgin Mary made her appearance on a cheese sandwich -- which I got to actually hold in a Las Vegas casino -- of course, this being America.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5BEEA1F225",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 11,
+        "endOffset": 68,
+        "text": "This casino paid $28,500 on eBay for the cheese sandwich.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D89CD8854F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 11,
+        "endOffset": 44,
+        "text": "But who does it really look like?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D08354A8C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "The Virgin Mary?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A58D7F8F3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 11,
+        "endOffset": 61,
+        "text": "It has that sort of puckered lips, 1940s-era look.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "70C0DD8383",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Virgin Mary in Clearwater, Florida.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1A88949BC2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I actually went to see this one.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99803993B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "There was a lot of people there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AA01E2E176",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "The faithful come in their wheelchairs and crutches, and so on.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1F3ECEA92F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "We went down and investigated.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7087FB1F86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "Just to give you a size, that's Dawkins, me and The Amazing Randi, next to this two, two and a half story-sized image.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "686E9CED34",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "All these candles, thousands of candles people had lit in tribute to this.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6B1712275D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "So we walked around the backside, to see what was going on.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7FECB63C84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "It turns out wherever there's a sprinkler head and a palm tree, you get the effect.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "182593EE71",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Here's the Virgin Mary on the backside, which they started to wipe off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8E7761D1CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "I guess you can only have one miracle per building.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "BE0A3C3165",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 57,
+        "endOffset": 73,
+        "text": "miracle of Marge",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3A1B5945E7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 11,
+        "endOffset": 74,
+        "text": "So is it really a miracle of Mary, or is it a miracle of Marge?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2B8F70B4D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 11,
+        "endOffset": 96,
+        "text": "And now I'm going to finish up with another example of this, with auditory illusions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD7F824408",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "There's this film, \"White Noise,\" with Michael Keaton, about the dead talking back to us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "959CD45D75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "By the way, the whole business of talking to the dead is not that big a deal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5BF394F81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Anybody can do it, turns out.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB076542AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "It's getting the dead to talk back that's the really hard part.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D50B2AD3C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 11,
+        "endOffset": 87,
+        "text": "In this case, supposedly, these messages are hidden in electronic phenomena.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F321C19961",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "There's a ReverseSpeech.com web page where I downloaded this stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "214D05FD3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "This is the most famous one of all of these.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B12D15647",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "Here's the forward version of the very famous song.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "44EFB0E2A9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 20,
+        "endOffset": 78,
+        "text": "If there's a bustle in your hedgerow don't be alarmed now.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A909AF0B4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "It's just a spring clean for the May Queen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E5F42BBA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 61,
+        "endOffset": 109,
+        "text": "There's still time to change the road you're on.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4AC2BD7EDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Yes, there are two paths you can go by, but in the long run,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3727D90662",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 13,
+        "endOffset": 54,
+        "text": "Couldn't you just listen to that all day?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6694AAADDA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 37,
+        "endOffset": 105,
+        "text": "see if you can hear the hidden messages that are supposedly in there",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D93781C5BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "(Music with unintelligible lyrics) (Lyrics) Satan!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E825A318A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 33,
+        "endOffset": 50,
+        "text": "What did you get?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C03B47218F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "Audience: Satan!",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0F9965D7D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "Satan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C6CDE83C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 4,
+        "endOffset": 27,
+        "text": "at least we got \"Satan\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "B8F2926F21",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "Now, I'll prime the auditory part of your brain to tell you what you're supposed to hear, and then hear it again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E7E7A57A91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 55,
+        "endOffset": 102,
+        "text": "You can't miss it when I tell you what's there.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E1DB37A7BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 11,
+        "endOffset": 68,
+        "text": "I'm going to just end with a positive, nice little story.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "78E832DE72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "The Skeptics is a nonprofit educational organization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4F0D91FFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "We're always looking for little good things that people do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4192D28EF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And in England, there's a pop singer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F945C2CCA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "One of the top popular singers in England today, Katie Melua.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E36E9A1A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And she wrote a beautiful song.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8236129100",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It was in the top five in 2005, called, \"Nine Million Bicycles in Beijing.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F84FA1EF97",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 39,
+        "endOffset": 60,
+        "text": "Norah Jones of the UK",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "417233F0CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 20,
+        "endOffset": 93,
+        "text": "We are 13.7 billion light years from the edge of the observable universe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7AC342F845",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "That's a good estimate with well-defined error bars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "58D922BB3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 51,
+        "endOffset": 77,
+        "text": "I will always be with you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "29C99EB2C4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 11,
+        "endOffset": 28,
+        "text": "How cool is that?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49663FFB33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C1B9B24E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "For intelligent design creationists, it's the end of the chain.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EB046B71A2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "So again, we can ask this: what's more likely?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "23C660F527",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Are UFOs alien spaceships, or perceptual cognitive mistakes, or even fakes?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EF6CF4F4B9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "This is a UFO shot from my house in Altadena, California, looking down over Pasadena.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D0E2443B15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And if it looks a lot like a Buick hubcap, it's because it is.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3647DBEC91",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "You don't even need Photoshop or high-tech equipment, you don't need computers.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AAABC2A2BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "This was shot with a throwaway Kodak Instamatic camera.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "183191924D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "You just have somebody off on the side with a hubcap ready to go.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "21F468248E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "Camera's ready -- that's it.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1A85CA6F3A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 194,
+        "text": "(Laughter) So, although it's possible that most of these things are fake or illusions or so on, and that some of them are real, it's more likely that all of them are fake, like the crop circles.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3251E35F36",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "On a more serious note, in all of science we're looking for a balance between data and theory.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DE300B8C5A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "In the case of Galileo, he had two problems when he turned his telescope to Saturn.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "290307F661",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "First of all, there was no theory of planetary rings.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AFB5ADA924",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "Second of all, his data was grainy and fuzzy, and he couldn't quite make out what he was looking at.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C07962F1B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "So he wrote that he had seen -- \"I have observed that the furthest planet has three bodies.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "321CC2E080",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "And she has this one passage here.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "EF5EE37726",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 150,
+        "text": "(Music) (Lyrics) We are 12 billion light-years from the edge That's a guess, No one can ever say it's true, But I know that I will always be with you.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "1014346513",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Michael Shermer: Well, that's nice.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "02B6FD93C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "At least she got it close.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "95B76F00D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "In America it'd be, \"We're 6,000 light years from the edge.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "04300FE299",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 187,
+        "text": "(Laughter) But my friend, Simon Singh, the particle physicist now turned science educator, who wrote the book \"The Big Bang,\" and so on, uses every chance he gets to promote good science.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "56CC037AF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "And so he wrote an op-ed piece in \"The Guardian\" about Katie's song, in which he said, well, we know exactly how far from the edge.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "982F06D029",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "You know, it's 13.7 billion light years, and it's not a guess.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A85D4F5B4A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "We know within precise error bars how close it is.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "E30AF17E3E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "So we can say, although not absolutely true, it's pretty close to being true.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B3C57617AE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And, to his credit, Katie called him up after this op-ed piece came out, and said, \"I'm so embarrassed.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "43F9D76D8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I was in the astronomy club.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9E3BE42DB6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "I should've known better.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2FA7C27295",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And she re-cut the song.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9F0B6BC493",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "So I will end with the new version.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2E4E0A24B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

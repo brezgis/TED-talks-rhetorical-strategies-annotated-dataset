@@ -1,0 +1,1817 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 9497,
+  "title": "3 ways to fix a broken news industry",
+  "author": "Lara Setrakian",
+  "url": "https://www.ted.com/talks/lara_setrakian_3_ways_to_fix_a_broken_news_industry",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T06:10:08.579519Z",
+  "updated_at": "2026-05-07T06:10:08.579519Z",
+  "lead_time": 65.347,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Five years ago, I had my dream job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8729664587",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "I was a foreign correspondent in the Middle East reporting for ABC News.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3086DECB0A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 16,
+        "endOffset": 33,
+        "text": "crack in the wall",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FC840E3336",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "But there was a crack in the wall, a problem with our industry, that I felt we needed to fix.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "45E7758489",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "You see",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "046D906B45",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "You see, I got to the Middle East right around the end of 2007, which was just around the midpoint of the Iraq War.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "796A3CFD8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "But by the time I got there, it was already nearly impossible to find stories about Iraq on air.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7083382E80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 21,
+        "endOffset": 54,
+        "text": "across the board, across networks",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E016AC8CC5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "Coverage had dropped across the board, across networks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7C5E267C2B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 80,
+        "text": "And of the stories that did make it, more than 80 percent of them were about us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C652D5A8B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "We were missing the stories about Iraq, the people who live there, and what was happening to them under the weight of the war.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93E44A94A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Afghanistan had already fallen off the agenda.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFB64D3738",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "There were less than one percent of all news stories in 2008 that went to the war in Afghanistan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7F9482BFD9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 259,
+        "text": "It was the longest war in US history, but information was so scarce that schoolteachers we spoke to told us they had trouble explaining to their students what we were doing there, when those students had parents who were fighting and sometimes dying overseas.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C87E3377F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "We had drawn a blank, and it wasn't just Iraq and Afghanistan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27FAF105B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 125,
+        "endOffset": 145,
+        "text": "species-level issues",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E810E7C18F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 189,
+        "endOffset": 196,
+        "text": "sink us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "41AE1E4505",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 197,
+        "text": "From conflict zones to climate change to all sorts of issues around crises in public health, we were missing what I call the species-level issues, because as a species, they could actually sink us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1981F95E29",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "And by failing to understand the complex issues of our time, we were facing certain practical implications.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2653BACFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "How were we going to solve",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7B9B07D2B4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 216,
+        "text": "How were we going to solve problems that we didn't fundamentally understand, that we couldn't track in real time, and where the people working on the issues were invisible to us and sometimes invisible to each other?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A17DE07804",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "When you look back",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F916EC99F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 53,
+        "endOffset": 70,
+        "text": "missing the story",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7F8B65997D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 314,
+        "text": "When you look back on Iraq, those years when we were missing the story, were the years when the society was falling apart, when we were setting the conditions for what would become the rise of ISIS, the ISIS takeover of Mosul and terrorist violence that would spread beyond Iraq's borders to the rest of the world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2BD86600FC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 164,
+        "text": "Just around that time where I was making that observation, I looked across the border of Iraq and noticed there was another story we were missing: the war in Syria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FCA80BEC93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 11,
+        "text": "If you were",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "61AA99E212",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "If you were a Middle-East specialist, you knew that Syria was that important from the start.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "042085DA77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "But it ended up being, really, one of the forgotten stories of the Arab Spring.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "670D593626",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "I saw the implications up front.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBFF89C8E9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Syria is intimately tied to regional security, to global stability.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D7452F3CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "I felt like we couldn't let that become another one of the stories we left behind.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7C61F0CC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "So I left my big TV job to start a website, called \"Syria Deeply.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3440EBB8D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 221,
+        "text": "It was designed to be a news and information source that made it easier to understand a complex issue, and for the past four years, it's been a resource for policymakers and professionals working on the conflict in Syria.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "115ADD5B88",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "We built a business model based on consistent, high-quality information, and convening the top minds on the issue.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C5054B4676",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "And we found it was a model that scaled.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "360244E752",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "We got passionate requests to do other things \"Deeply.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0E1C8D422E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 44,
+        "text": "So we started to work our way down the list.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A9950976D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "I'm just one of many entrepreneurs, and we are just one of many start-ups trying to fix what's wrong with news.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "66FD431CC1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "All of us in the trenches know that something is wrong with the news industry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "835552CF65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 12,
+        "text": "It's broken.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD2CA7F9C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Trust in the media has hit an all-time low.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8A8DA08643",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "And the statistic you're seeing up there is from September -- it's arguably gotten worse.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C81382FB2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "But we can fix this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "46D1AA59CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "We can fix the news.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9237DF9A8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I know that that's true.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BE5687B806",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "You can call me an idealist; I call myself an industrious optimist.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "C8C02B273F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And I know there are a lot of us out there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E0FDE58993",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "We have ideas for how to make things better, and I want to share three of them that we've picked up in our own work.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8565E6F2FB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "Idea number one: we need news that's built on deep-domain knowledge.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC97B3B016",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 10,
+        "endOffset": 25,
+        "text": "waves and waves",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "749B80995B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "Given the waves and waves of layoffs at newsrooms across the country, we've lost the art of specialization.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B7A285CA04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 21,
+        "endOffset": 37,
+        "text": "endangered thing",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "84170B1F0D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "When it comes to foreign news, the way we can fix that is by working with more local journalists, treating them like our partners and collaborators, not just fixers who fetch us phone numbers and sound bites.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "082D6C2A96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "Our local reporters in Syria and across Africa and across Asia bring us stories that we certainly would not have found on our own.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E3A0A3A2DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "Like this one from the suburbs of Damascus, about a wheelchair race that gave hope to those wounded in the war.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C4C8FA165E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "Or this one from Sierra Leone, about a local chief who curbed the spread of Ebola by self-organizing a quarantine in his district.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40EFA5382D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "Or this one from the border of Pakistan, about Afghan refugees being forced to return home before they are ready, under the threat of police intimidation.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "057EFF9E6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "Our local journalists are our mentors.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B39DF61901",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 106,
+        "text": "They teach us something new every day, and they bring us stories that are important for all of us to know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C62D2AB74A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 17,
+        "endOffset": 104,
+        "text": "we need a kind of Hippocratic oath for the news industry, a pledge to first do no harm.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5DAA349096",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "(Applause) Journalists need to be tough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0395387C3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 33,
+        "endOffset": 68,
+        "text": "but we also need to be responsible.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FAE3A2A546",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 38,
+        "endOffset": 115,
+        "text": "and we need to recognize when what we're doing could potentially harm society",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "DF2DD1FB7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 117,
+        "endOffset": 171,
+        "text": "where we lose track of journalism as a public service.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "AE45D41AEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "I watched us cover the Ebola crisis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70A12C2D8F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "We launched Ebola Deeply.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "65B9C9449E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 16,
+        "text": "We did our best.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B52830DD0C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 20,
+        "endOffset": 137,
+        "text": "a public that was flooded with hysterical and sensational coverage, sometimes inaccurate, sometimes completely wrong.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "720078EC93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 84,
+        "endOffset": 103,
+        "text": "sparking more panic",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B2CC2BAAF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 228,
+        "text": "Public health experts tell me that that actually cost us in human lives, because by sparking more panic and by sometimes getting the facts wrong, we made it harder for people to resolve what was actually happening on the ground.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CC9006CDEA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "All that noise made it harder to make the right decisions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "262897889D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 33,
+        "endOffset": 136,
+        "text": "but it requires us recognizing how we got it wrong last time, and deciding not to go that way next time",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "403AD27141",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "It's a choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4E58194D96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 11,
+        "endOffset": 32,
+        "text": "resist the temptation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "62480B8D86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "We have to resist the temptation to use fear for ratings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0EEE5C385",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "And that decision has to be made in the individual newsroom and with the individual news executive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4DBCC1C310",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "steep cliff",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "3125A2F2B7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 188,
+        "text": "Because the next deadly virus that comes around could be much worse and the consequences much higher, if we do what we did last time; if our reporting isn't responsible and it isn't right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CCA42D8876",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "The third idea?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F86ABB2295",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "We need to embrace complexity if we want to make sense of a complex world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "560C3B42BD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "Embrace complexity --",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "09ECA0438A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "Embrace complexity -- (Applause) not treat the world simplistically, because simple isn't accurate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD7AB48391",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "We live in a complex world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "539ABB1608",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "News is adult education.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0E62DF5CEC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 35,
+        "endOffset": 45,
+        "text": "elbow deep",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "93D8F10841",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "It's our job as journalists to get elbow deep in complexity and to find new ways to make it easier for everyone else to understand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "86CC9EBEAD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 95,
+        "endOffset": 106,
+        "text": "steep cliff",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FAE464F6C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "If we don't do that, if we pretend there are just simple answers, we're leading everyone off a steep cliff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "692B2FF996",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Understanding complexity is the only way to know the real threats that are around the corner.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "565519CA8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 63,
+        "endOffset": 66,
+        "text": "you",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "77EC471595",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 169,
+        "text": "It's our responsibility to translate those threats and to help you understand what's real, so you can be prepared and know what it takes to be ready for what comes next.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3AC6A951B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "I am an industrious optimist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1D412434DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I do believe we can fix what's broken.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "703F93814F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "We all want to.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "06EA912D1E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 44,
+        "endOffset": 54,
+        "text": "great work",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5FCF7027B6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "There are great journalists out there doing great work -- we just need new formats.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6ABDADEE46",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 29,
+        "endOffset": 48,
+        "text": "time of reawakening",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EC67C8FE5D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 50,
+        "endOffset": 61,
+        "text": "reimagining",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "119A04E809",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "I honestly believe this is a time of reawakening, reimagining what we can do.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "96BEFD4315",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "I believe we can fix what's broken.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1F981756A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "I know we can fix the news.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3BEC9DE8BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 6,
+        "text": "I know",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C34A3B9F2C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 30,
+        "endOffset": 45,
+        "text": "I truly believe",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4122B045AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "I know it's worth trying, and I truly believe that in the end, we're going to get this right.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B2AC672470",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "753082FC4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D3D54D5DC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

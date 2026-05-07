@@ -1,0 +1,933 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7174,
+  "title": "What you should know about opioids and painkillers",
+  "author": "Jen Gunter",
+  "url": "https://www.ted.com/talks/jen_gunter_what_you_should_know_about_opioids_and_painkillers",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:57:28.067231Z",
+  "updated_at": "2026-05-07T03:57:28.067231Z",
+  "lead_time": 32.866,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Opioids are one of the most commonly prescribed painkillers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40D7BC29E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "From broken ribs to back pain to treating pain after surgery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA5C56F00A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "But there's a lot of misconceptions around them, so it's important to take the time to understand them better. [Body Stuff with Dr.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C22B2772E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 12,
+        "endOffset": 100,
+        "text": "The first misconception is that opioids are the best, strongest form of pain medication.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7E4220C632",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "But in almost every well-designed study comparing opioids to anti-inflammatory drugs such as ibuprofen, the anti-inflammatories come out on top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "29CCC81BFB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "From a safety or effectiveness perspective, or both.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E34E8F3B1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "Let's talk about the effectiveness first.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "890F3DCAB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "How do opioids work?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "221D13C895",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "To understand that, we have to first know a little bit about how pain works.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59840986D9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "Pain is our body's way of telling us that something's wrong.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FFA3C791BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "You stubbed your toe, you burned your hand.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93FB1C7BD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "Pain gives us the message that it's time for us to rest, recover and treat the damage.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7DB87DD52A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 147,
+        "text": "In the body, pain is created by multiple chemical signals and receptors, and different medications can target different parts of that pain pathway.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B39196D39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "Medications like acetaminophen, such as Tylenol, or nonsteroidal anti-inflammatory drugs, also known as NSAIDs, like ibuprofen, aspirin and naproxen, all treat pain in different ways from opioids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A5AF999A8E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Opioids work by binding to and activating the opioid receptors located throughout the body, blocking pain signals.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "355567D250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 55,
+        "endOffset": 89,
+        "text": "a hormone associated with pleasure",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BE74D84B47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "This activation also triggers the release of dopamine, a hormone associated with pleasure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93D952FBFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "So in addition to pain relief, some people can feel relaxed or even euphoric.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "33E646D75E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "In higher doses, opioids can affect cognition and even breathing.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F43CC9BF82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "But here's a really important point that people often don't know.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "888CA8C367",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "But here's a really important point that people often don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AEFD86C2A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "Opioid receptors can adapt, often in a short amount of time, to expect opioids.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F27A68919",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "And when a patient doesn’t take them, they experience symptoms of withdrawal.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8269192B8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "And withdrawal is very uncomfortable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2536B8524",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "People can mistake that discomfort for thinking the opioids were actually working.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EDEAF844CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "And what people don't know is this can happen after just a few doses.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "82722B65F4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "When you're a patient needing relief from pain, it can be confusing to know the difference.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2F5FBECFFC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "When you're a patient needing relief from pain, it can be confusing to know the difference.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5BC836EA5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "All you want is to feel normal again.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "074FFAB3EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "In this way, opioids, if not used very carefully and intentionally, can create physical dependence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AB42F0CEB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 14,
+        "endOffset": 39,
+        "text": "paradoxically worsen pain",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "1462337F65",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "They can also paradoxically worsen pain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA6FA4B03D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "And there's a risk of developing addiction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5EDCD0A964",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "There's nuance here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "711151A63B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "People who have become physically dependent often don't even know they are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2B012BE7EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 43,
+        "endOffset": 58,
+        "text": "offering relief",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "BAFF893B25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 130,
+        "text": "They just know that the opioids seem to be offering relief without realizing that they could actually be contributing to the pain.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "28961BE143",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "I want to be clear here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "75087C6F98",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Opioids can be effective, appropriate therapy, but they should be prescribed with great care.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CEF6801FE3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "This is the doctor's responsibility.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "290E9D01E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 19,
+        "endOffset": 52,
+        "text": "so you can be an educated patient",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A09164CE48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "Here's some advice so you can be an educated patient.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A17ACFA06E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "If you or a loved one experience acute pain",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "CBEA6031E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "If you or a loved one experience acute pain, ask to explore alternatives to opioids like Tylenol, NSAIDs, muscle relaxants and physical therapy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B55DD13EC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 49,
+        "endOffset": 93,
+        "text": "If you or a loved one are prescribed opioids",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9B7C1E7B92",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 184,
+        "text": "If your doctor doesn’t bring those up first, and if you or a loved one are prescribed opioids, make sure your doctor has a plan to taper you off, accounting for the risk of dependence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9347A001A7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And finally, ask for naloxone.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F1344C1F59",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "This is a drug that can reverse opioid overdose.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F193D8C576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "It can be easy to forget if you’ve taken a dose, and you never know who in your household could take your medication.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2671B5C4BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 13,
+        "endOffset": 34,
+        "text": "literally save a life",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "9A44C40C55",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Naloxone can literally save a life.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E4B94AAACC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Remember, when it comes to pain, opioids are not always the most effective way to safely offer relief.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DC9FA3B5EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 35,
+        "endOffset": 74,
+        "text": "should always be prescribed with a plan",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CDE36EB390",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "And when they are prescribed, they should always be prescribed with a plan.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC2941F814",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

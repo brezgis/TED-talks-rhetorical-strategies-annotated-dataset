@@ -1,0 +1,2174 @@
+{
+  "project_id": 21,
+  "project_label": "gemma",
+  "task_id": 8887,
+  "title": "How we're using DNA tech to help farmers fight crop diseases",
+  "author": "Laura Boykin",
+  "url": "https://www.ted.com/talks/laura_boykin_how_we_re_using_dna_tech_to_help_farmers_fight_crop_diseases",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T12:23:39.767656Z",
+  "updated_at": "2026-05-07T12:23:39.767656Z",
+  "lead_time": 104.277,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "I get out of bed for two reasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9D8EFEB896",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "One, small-scale family farmers need more food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1AE7291FEE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "It's crazy that in 2019 farmers that feed us are hungry.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "6C275DB655",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "And two, science needs to be more diverse and inclusive.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2A2506659E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 157,
+        "text": "If we're going to solve the toughest challenges on the planet, like food insecurity for the millions living in extreme poverty, it's going to take all of us.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "84EB429480",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "I want to use the latest technology with the most diverse and inclusive teams on the planet to help farmers have more food.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E92D75E049",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I'm a computational biologist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2F6C140700",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "I know -- what is that and how is it going to help end hunger?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "C8F41C61EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Basically, I like computers and biology and somehow, putting that together is a job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6E83BA6D1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F70669E338",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "The truth is, I played basketball in college.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "918AF30AEF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "And part of my financial aid package was I needed a work-study job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "702A1502F2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "So one random day, I wandered to the nearest building to my dorm room.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1C41B2DE7D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And it just so happens it was the biology building.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A879161645",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "I went inside and looked at the job board.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CCB5848FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "Yes, this is pre-the-internet.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "097D56A7BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "And I saw a three-by-five card advertising a job to work in the herbarium.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C3B6E992BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 122,
+        "text": "I quickly took down the number, because it said \"flexible hours,\" and I needed that to work around my basketball schedule.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E78482536B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I ran to the library to figure out what an herbarium was.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "17E0FD37DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Laughter)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3F462A3A6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I was lucky to land the job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E20F97D816",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 31,
+        "endOffset": 60,
+        "text": "gluing dead plants onto paper",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "CCD7595951",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "So my first scientific job was ",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "72C2027A93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 61,
+        "endOffset": 78,
+        "text": "for hours on end.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9705655499",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 11,
+        "endOffset": 29,
+        "text": "It's so glamorous.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "214EE3950D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "This is how I became a computational biologist.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "227CC4FA9A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "During that time, genomics and computing were coming of age.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6EA54A30BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "And I went on to do my masters combining biology and computers.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5EB8D7801",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "During that time, I worked at Los Alamos National Lab in the theoretical biology and biophysics group.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25CF70BAA1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 70,
+        "endOffset": 87,
+        "text": "my mind was blown",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D1AC972280",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "And it was there I had my first encounter with the supercomputer,",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C9FEB1C56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 53,
+        "endOffset": 91,
+        "text": "thousands of connected PCs on steroids",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1989E9F118",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "With the power of supercomputing, which is basically ",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8EA866280F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 93,
+        "endOffset": 163,
+        "text": "we were able to uncover the complexities of influenza and hepatitis C.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8636FAF09D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "And it was during this time that I saw the power of using computers and biology combined, for humanity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "309038AC12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "And I wanted this to be my career path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BA5E498126",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 67,
+        "endOffset": 86,
+        "text": "very high-tech labs",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5E873FB969",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 102,
+        "endOffset": 128,
+        "text": "really expensive equipment",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "12006AA259",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "So many ask me how and why do I work for farmers in Africa.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "71E00592FD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "Well, because of my computing skills, in 2013, a team of East African scientists asked me to join the team in the plight to save cassava.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3EC8FBDB7F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Cassava is a plant whose leaves and roots feed 800 million people globally.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FFE3EDDDAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "And 500 million in East Africa.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "226EE2ED62",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 10,
+        "endOffset": 81,
+        "text": "nearly a billion people relying on this plant for their daily calories.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "78E16D902B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "If a small-scale family farmer has enough cassava, she can feed her family and she can sell it at the market for important things like school fees, medical expenses and savings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC46832506",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "But cassava is under attack in Africa.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "543775E6BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "Whiteflies and viruses are devastating cassava.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0CB3B26351",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 15,
+        "endOffset": 27,
+        "text": "tiny insects",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "10F2C575D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 55,
+        "endOffset": 70,
+        "text": "over 600 plants",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E8ED1EB51E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "They are bad news.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "D7E60F3E6A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 168,
+        "text": "There are many species; they become pesticide resistant; and they transmit hundreds of plant viruses that cause cassava brown streak disease and cassava mosaic disease.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E90E990FC7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "This completely kills the plant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "532F618FF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "And if there's no cassava, there's no food or income for millions of people.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DD9D58C88A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "It took me one trip to Tanzania to realize that these women need some help.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D619944CCC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 6,
+        "endOffset": 49,
+        "text": "amazing, strong, small-scale family farmers",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2108F05702",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "These amazing, strong, small-scale family farmers, the majority women, are doing it rough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3AD39497CE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "They don't have enough food to feed their families, and it's a real crisis.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "70BB21A385",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "What happens is they go out and plant fields of cassava when the rains come.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2C6809C4DC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "Nine months later, there's nothing, because of these pests and pathogens.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E8236426D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 25,
+        "endOffset": 64,
+        "text": "how in the world can farmers be hungry?",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "719AE9FD57",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 131,
+        "text": "So I decided to spend some time on the ground with the farmers and the scientists to see if I had any skills that could be helpful.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BF50C370E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "The situation on the ground is shocking.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBE0950882",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 4,
+        "endOffset": 136,
+        "text": "whiteflies have destroyed the leaves that are eaten for protein, and the viruses have destroyed the roots that are eaten for starch.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4032BC6F4E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 144,
+        "text": "An entire growing season will pass, and the farmer will lose an entire year of income and food, and the family will suffer a long hunger season.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "178FC737A6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "This is completely preventable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F333F5294A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "If the farmer knew what variety of cassava to plant in her field, that was resistant to those viruses and pathogens, they would have more food.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "762FF4FABC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "We have all the technology we need, but the knowledge and the resources are not equally distributed around the globe.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AC37802CA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 203,
+        "text": "So what I mean specifically is, the older genomic technologies that have been required to uncover the complexities in these pests and pathogens -- these technologies were not made for sub-Saharan Africa.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "99E260F5EC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "They cost upwards of a million dollars; they require constant power and specialized human capacity.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA751CB562",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 22,
+        "endOffset": 48,
+        "text": "Pay up, because we did it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "937A5E60C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 115,
+        "text": "We took the entire high-tech molecular lab to the farmers of Tanzania, Kenya and Uganda, and we called it Tree Lab.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43B79571D7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "So what did we do?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B0B571261A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Well, first of all, we gave ourselves a team name -- it's called the Cassava Virus Action Project.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F47CDFF0E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "We made a website, we gathered support from the genomics and computing communities, and away we went to the farmers.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "985585B0BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "Everything that we need for our Tree Lab is being carried by the team here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DFB0744861",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "All of the molecular and computational requirements needed to diagnose sick plants is there.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F2FCB8944F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And it's actually all on this stage here as well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "999284BE40",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "We figured if we could get the data closer to the problem, and closer to the farmer, the quicker we could tell her what was wrong with her plant.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7BAAE5F8C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 62,
+        "text": "And not only tell her what was wrong -- give her the solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B453321AD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "And the solution is, burn the field and plant varieties that are resistant to the pests and pathogens she has in her field.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2DF0C3C8C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "So the first thing that we did was we had to do a DNA extraction.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4C24961CF2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And we used this machine here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "87EFF09F25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 38,
+        "endOffset": 69,
+        "text": "\"Pretty Damn Quick Extraction.\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "199DE72B81",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 11,
+        "endOffset": 18,
+        "text": "I know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F5AB234FE6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "My friend Joe is really cool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8C8B7C169",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "One of the biggest challenges in doing a DNA extraction is it usually requires very expensive equipment, and takes hours.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8949F4F5D5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "But with this machine, we've been able to do it in 20 minutes, at a fraction of the cost.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6722462494",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And this runs off of a motorcycle battery.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D6D690DE63",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 0,
+        "endOffset": 232,
+        "text": "From there, we take the DNA extraction and prepare it into a library, getting it ready to load on to this portable, handheld genomic sequencer, which is here, and then we plug this into a mini supercomputer, which is called a MinIT.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "39ED8E331A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "And both of these things are plugged into a portable battery pack.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3FCC1E664B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "So we were able to eliminate the requirements of main power and internet, which are two very limiting factors on a small-scale family farm.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B62C9CBD0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "Analyzing the data quickly can also be a problem.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "528AF656E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "But this is where me being a computational biologist came in handy.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90CC0BC4B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "All that gluing of dead plants, and all that measuring, and all that computing",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "60C8AC0278",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 79,
+        "endOffset": 132,
+        "text": "finally came in handy in a real-world, real-time way.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E1D1F8BB86",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "I was able to make customized databases and we were able to give the farmers results in three hours versus six months.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "52B6EC36CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "689B8C4E84",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So how do we know that we're having impact?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3E7F1A827D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Nine moths after our Tree Lab, Asha went from having zero tons per hectare to 40 tons per hectare.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A524232BA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 118,
+        "text": "She had enough to feed her family and she was selling it at the market, and she's now building a house for her family.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F7E51D14A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 14,
+        "text": "Yeah, so cool.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E2E27C48A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 11,
+        "endOffset": 39,
+        "text": "So how do we scale Tree Lab?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2CCADA86F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "The thing is, farmers are scaled already in Africa.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E5DBA365D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 149,
+        "text": "These women work in farmer groups, so helping Asha actually helped 3,000 people in her village, because she shared the results and also the solution.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0399C87F48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "I remember every single farmer I've ever met.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "550D9FA33A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Their pain and their joy is engraved in my memories.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "996935331E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Our science is for them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "385E9B782E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 66,
+        "text": "Tree Lab is our best attempt to help them become more food secure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C0D691CFAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 143,
+        "text": "I never dreamt that the best science I would ever do in my life would be on that blanket in East Africa, with the highest-tech genomic gadgets.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E8918835B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "But our team did dream that we could give farmers answers in three hours versus six months, and then we did it.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C1A98DA9EE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Because that's the power of diversity and inclusion in science.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CD94936AF0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AE9487A18C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "(Applause) (Cheers)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EBFD8CC963",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 161,
+        "text": "These machines are few and far between on the continent, which is leaving many scientists battling on the front lines no choice but to send the samples overseas.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "B8E56EF144",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 154,
+        "text": "And when you send the samples overseas, samples degrade, it costs a lot of money, and trying to get the data back over weak internet is nearly impossible.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "949BF68CC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "So sometimes it can take six months to get the results back to the farmer.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6563D596CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 27,
+        "text": "And by then, it's too late.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CEA0C723DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "The crop is already gone, which results in further poverty and more hunger.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "99E32F6C99",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "We knew we could fix this.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "2F718F63A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "In 2017, we had heard of this handheld, portable DNA sequencer called an Oxford Nanopore MinION.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "C11AC9C16A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "This was being used in West Africa to fight Ebola.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FB9811B12C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "So we thought: Why can't we use this in East Africa to help farmers?",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "03F53E6141",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "So, what we did was we set out to do that.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "8A38F8749D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 95,
+        "text": "At the time, the technology was very new, and many doubted we could replicate this on the farm.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "025B29D945",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 148,
+        "text": "When we set out to do this, one of our \"collaborators\" in the UK told us that we would never get that to work in East Africa, let alone on the farm.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4AAAA54FA4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "So we accepted the challenge.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "4D9F63E854",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "This person even went so far as to bet us two of the best bottles of champagne that we would never get that to work.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "55F50B2CD8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "Two words: pay up.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CB317A363E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

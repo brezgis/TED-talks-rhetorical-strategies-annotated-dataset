@@ -1,0 +1,3585 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7431,
+  "title": "The surprisingly simple reason teams fail",
+  "author": "Tessa West",
+  "url": "https://www.ted.com/talks/tessa_west_the_surprisingly_simple_reason_teams_fail",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T02:19:23.267782Z",
+  "updated_at": "2026-05-07T02:19:23.267782Z",
+  "lead_time": 133.562,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "What happened on September 23, 1999?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9A67B645C3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 85,
+        "endOffset": 104,
+        "text": "failed considerably",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "E9E6A621B5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "This is the day that the Mars Climate Orbiter went on a mission to Mars and actually failed considerably.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "42E67B56F5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "This was this device that NASA sent over to Mars.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95F992BB42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 176,
+        "text": "It was designed to measure the weather on Mars, and also to serve as this communication device for the Mars Polar Lander, which was supposed to arrive a couple of months later.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0207FB4C3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "It just completely failed.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E9868A96A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 23,
+        "endOffset": 50,
+        "text": "burst into a million pieces",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "697BCDAB2F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 89,
+        "endOffset": 124,
+        "text": "befuddled, upset, pretty pissed off",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "5DB236E4A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 125,
+        "text": "It hit the atmosphere, burst into a million pieces, leaving the folks who worked at NASA befuddled, upset, pretty pissed off.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A8C97E2680",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "These are not them.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0D81FFCC8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "You have to use your imagination a little bit in this talk.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "0084A0C4B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "Now these things happen.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F0F5137A89",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 29,
+        "endOffset": 44,
+        "text": "tricky business",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7E09D01F58",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 156,
+        "endOffset": 192,
+        "text": "failing and having a bad day at work",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "BBFD8B6C0F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "Sending things into space is tricky business, and quite frankly, as a psychologist, who am I to judge a bunch of very smart engineers who work for NASA for failing and having a bad day at work?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8157E84577",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 312,
+        "text": "But what makes this story extra special and super fascinating from my perspective is that the entire failure comes down to one thing: failed communication between these team members, and more specifically, the people working on this project were not talking to each other about the right stuff at the right time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "27524460C6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It really is that simple.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B576A3C4CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "So I'm going to break this down for you.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B33887E555",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 61,
+        "text": "So it all started when they had to calculate the flight path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3027BD7B8C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "So any time you send something into space, you have to tell it where to go.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5FAEA92ED1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 13,
+        "endOffset": 24,
+        "text": "you have to",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F8BBEE4232",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "And to do so you have to calculate the flight path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F9A982F41A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 172,
+        "text": "Now the folks working at NASA for the Jet Propulsion Laboratory, they calculated the flight path using the metric system, and so they had the newton as their unit of force.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9AD5B1D89E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "Those working at Lockheed Martin, they were using the pound as their unit of force.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79CA7AD9E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "When you're using these two different systems, the whole thing was off by a factor of about 4.4.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D842593A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 44,
+        "endOffset": 104,
+        "text": "Hey guys, you're using the newton as a unit of force, right?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "7C85A1B273",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "Now at no point did the folks at NASA say, \"Hey guys, you're using the newton as a unit of force, right?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E4F541469",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "\"No, guys.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9E1566F919",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "\"We were using the pound.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BDB683DD77",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "That conversation never actually happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7D979F70B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "And so we have our first big communication mishap.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D96A47B1B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "Two sets of teams failed to communicate about basic information that seemed pretty obvious to everybody.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B3E4985190",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 41,
+        "endOffset": 121,
+        "text": "imagine instead of sending something into space, these folks were making a cake.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "02A1838672",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 121,
+        "text": "And just to put things into perspective, imagine instead of sending something into space, these folks were making a cake.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD5F1EEEFD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 208,
+        "text": "And if I thought I was using a pound of butter and you thought we were using a kilogram of butter -- that's about 2.2 pounds of butter -- your cake would end up tasting pretty gross, like this one looks here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6A53E2503D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "Now before we get too judgey about this -- it sounds pretty silly -- we do this all the time.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D10D1300A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "We walk into meetings.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "CB26266ED9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 123,
+        "endOffset": 148,
+        "text": "everyone, let's level set",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "96063E2D7E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 300,
+        "text": "You know, if we get lucky, there's that annoying, overly conscientious person who says things like, before we get started, everyone, let's level set and talk about, you know, whether there's ink in the printer at the newspaper we work or whatever obvious thing they want to get on the same page with.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "73EADD8768",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 85,
+        "endOffset": 162,
+        "text": "we want the meeting to end soon, and we want to get on to the important stuff",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "13950C5A9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "And we usually roll our eyes at this person and we tell them to stop talking because we want the meeting to end soon, and we want to get on to the important stuff.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43911AEED4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 24,
+        "endOffset": 105,
+        "text": "\"We've done this a million times, do we really need to cover that kind of thing?\"",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "2F5E5E77B8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And we say things like, \"We've done this a million times, do we really need to cover that kind of thing?\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FD9A58875C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 73,
+        "endOffset": 95,
+        "text": "probe does not explode",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "EADCEF7C82",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 124,
+        "text": "And the answer is yes, we should have that 22nd conversation so that our probe does not explode when it hits the atmosphere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "054F96CEDC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "But we often do not do this.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1637C0D1A5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Now the good news is this is NASA.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5CE98E12D1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "There is no single point of failure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ABB40174D6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "And so just because you miscalculate your flight path doesn't mean the whole mission is going to actually end in just a complete failure.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1CEFD513DA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And so people started noticing things were wrong.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9235D1B7E5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "And the good news is you can actually recalculate a flight path.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D93BCBC87D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 96,
+        "text": "So people started bringing this up in various meetings, and they even had a conference about it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24FDA89445",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But then there was a big mistake that happened.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "14EE8D80AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "Communication mishap number two.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "485B5688C2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 62,
+        "endOffset": 137,
+        "text": "a very dumb reason that I'm pretty sure everyone in this room can recognize",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "A777469013",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 138,
+        "text": "The people holding that critical information were ignored for a very dumb reason that I'm pretty sure everyone in this room can recognize.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3C7018FC42",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "They did not fill out the right form.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "24F5AB72A1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 27,
+        "endOffset": 136,
+        "text": "you send an important message over Slack and everybody was on email, or over email and everybody was on Slack",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A25F3B90D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 177,
+        "text": "Now all of us know that if you send an important message over Slack and everybody was on email, or over email and everybody was on Slack, we just miss that critical information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "95D7F19AB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "But we don't think that a failure to fill out the right form is going to be the difference between our mission to Mars failing and succeeding.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "6F97058ABE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We think that critical information will eventually make its way to the important people at the top.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF2963187D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But often this is not the case.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "078331F8C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 68,
+        "endOffset": 81,
+        "text": "Achilles heel",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B722297D6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 133,
+        "text": "We get very married to our processes, and these can actually be our Achilles heel in really important group decision-making contexts.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BC153970D0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 23,
+        "text": "Things didn't end here.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F8EBC19859",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 88,
+        "text": "There were actually some last-ditch efforts to save this mission that didn't go so well.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "49E87C0F12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Someone got on the phone with another person.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "974E7B9237",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 87,
+        "text": "They sounded urgent about fixing it, but that person didn't actually recognize urgency.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9C2B4ABF0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 117,
+        "text": "I think the quote was something around like, \"They didn't sound anxious enough\", and so they weren't taken seriously.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2227CB392C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "So this miscommunication also worked around nonverbal behaviors, tone of voice and so on and so forth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93569A6FD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "So there's lots of ways in which this mission went awry.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FEBAD5F373",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "But I've been studying miscommunication for over 20 years now, and I have to say that what actually happened at NASA is much more the norm than the exception.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BB729235EB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "That even when people are making really critical decisions, they often fall flat on their faces, and often for these very simple reasons.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0C1A8CE7BE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "And this is the case even when we give people every piece of information they need to make the right choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B606A67A1A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 77,
+        "text": "So now I want to talk about a very classic experiment done in social science.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D21EC2905",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 16,
+        "endOffset": 58,
+        "text": "you're sitting in a room with these people",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "13F330C9C1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 63,
+        "endOffset": 81,
+        "text": "your job is simple",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "38215926CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "It's to hire the best job candidate among a list of four.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B4E6C6364A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "And we give you all the information you need.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "02B0AE255E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Everyone is handed a piece of paper with a bunch of information about all of those job candidates.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DF2249C0DD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 19,
+        "endOffset": 46,
+        "text": "Applicant A is disorganized",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "6DBE8E709D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 50,
+        "endOffset": 90,
+        "text": "Applicant B has strong leadership skills",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "D34A7D969D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 94,
+        "endOffset": 137,
+        "text": "Applicant C has won many cake baking awards",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "2EFE2C74DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "A lot of this information is what we're going to call overlapping information or shared information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DBB2A4CDBA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Everybody has it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57BD6FD078",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 0,
+        "endOffset": 21,
+        "text": "But here's the trick.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2D884D482F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "One special member of this team has what's called unique information, special information about applicant C that only they have.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D0B8CCDCF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "And here's how this task goes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0DBB94DE3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 111,
+        "text": "If this person does not share that unique information, applicant C will come across as the worst job candidate.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A0A10CD670",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "If they do share this unique information, applicant C is going to come across as the best applicant.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FA4A0B4E7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 21,
+        "endOffset": 263,
+        "text": "the only thing that needs to happen for this team to make the right choice is that this special person shares the information about applicant C, the team hears it, incorporates into their decision making, and they indeed pick the right person",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F2B72E4B1C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 102,
+        "text": "Now much like the real world, people don't know exactly which pieces of information everyone else has.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A232236928",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 51,
+        "text": "They just know some is overlapping and some is not.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D86AD8878E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "This is called the hidden profile task.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "61375B5B48",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 13,
+        "endOffset": 27,
+        "text": "tried and true",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0FCF2FCBE5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 196,
+        "text": "It is a very tried and true task, and researchers from the University of Southern California did a huge analysis over 40 years of this and found that most of the time, teams make the wrong choice.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5845760E4C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "By and large, small teams, big teams, you know, huge teams, tiny teams, teams online, teams in person, teams in which the person who is holding that unique information is an expert.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1FCEE0574F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 38,
+        "endOffset": 46,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "00888D1D17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 15,
+        "text": "Doesn't matter.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1359DE7F96",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 0,
+        "endOffset": 105,
+        "text": "And I have actually found in my own research of about 370 teams, 20 percent unanimously pick applicant C.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C6C161BF90",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "So the question is, what's going on here?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "856E07CE15",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 112,
+        "text": "Well the obvious explanation, and one that we often see is that teams focus on that shared information the most.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8927917617",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 13,
+        "endOffset": 25,
+        "text": "throw around",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "008FC15B9E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 55,
+        "text": "They kind of throw around the stuff that they all know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8AE9238A08",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 97,
+        "text": "They focus very little on that critical information about applicant C that only one person knows.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "92F621A178",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 86,
+        "text": "And so what we learned is these critical pieces of information are incredibly fragile.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AF38E9E8FE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 8,
+        "endOffset": 80,
+        "text": "like little pieces of information in the wind that can kind of blow away",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "A015507E25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 155,
+        "text": "They're like little pieces of information in the wind that can kind of blow away. And because of this, we lose this information, but we can't actually tell that our interactions with one another aren't going as well as we think they are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "43B276A360",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "87",
+        "end": "87",
+        "startOffset": 0,
+        "endOffset": 507,
+        "text": "And critically, because in these interactions everyone is motivated to make the right decision, no one person is trying to bulldoze or push their person through, these team interactions actually feel good, and so we can be communicating terribly and not know it, because the red flags that we usually look for, those interruptions and so on and so forth, simply aren't there, making this type of poor communication just really clever and underneath the surface of what's going on in these team interactions.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C2FAB305A8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "88",
+        "end": "88",
+        "startOffset": 0,
+        "endOffset": 193,
+        "text": "Now in this study, people are all speaking the same language, quite literally, but also social scientists are very good about holding things constant that could potentially explain this effect.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "57297577C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 23,
+        "endOffset": 31,
+        "text": "you know",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "F6D6F60240",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "89",
+        "end": "89",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "Use of jargon, use of, you know, different types of cultural languages and so on and so forth.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "74D636A88B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "90",
+        "end": "90",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "But in the real world, that is not how we talk.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8FCB1453E4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "91",
+        "end": "91",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "We show up to these interactions using all kinds of different languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0AE09E6F4B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "92",
+        "end": "92",
+        "startOffset": 0,
+        "endOffset": 32,
+        "text": "And I don't mean that literally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A1A0A5DD5B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "93",
+        "end": "93",
+        "startOffset": 7,
+        "endOffset": 108,
+        "text": "the local languages that we often develop in our communities, in our friend groups, in our workplaces",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5581F89C93",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "94",
+        "end": "94",
+        "startOffset": 20,
+        "endOffset": 36,
+        "text": "turns of phrases",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "C8286E9E78",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "95",
+        "end": "95",
+        "startOffset": 0,
+        "endOffset": 48,
+        "text": "And we often call these things hidden languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "FC5367D036",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "96",
+        "end": "96",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "And they are everywhere.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "690D3E4533",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "97",
+        "end": "97",
+        "startOffset": 0,
+        "endOffset": 47,
+        "text": "You probably have already used 50 of them today",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3F21C927C5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "98",
+        "end": "98",
+        "startOffset": 52,
+        "endOffset": 82,
+        "text": "random letters strung together",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "5F6513CD1D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "99",
+        "end": "99",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "And these are great.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E85BF6366F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "100",
+        "end": "100",
+        "startOffset": 48,
+        "endOffset": 111,
+        "text": "they build a sense of community, they build a sense of identity",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "40A9FCEAAC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "101",
+        "end": "101",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "But if you don't know them",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "74B02C9CF5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "102",
+        "end": "102",
+        "startOffset": 0,
+        "endOffset": 40,
+        "text": "Things like, \"Let's get this done ASAP.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "67A8FFA650",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "103",
+        "end": "103",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "\"I hold a BA, MBA and I'm the CEO.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91081C4E80",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "104",
+        "end": "104",
+        "startOffset": 0,
+        "endOffset": 75,
+        "text": "This person is very proud and they're showing it with all of these letters.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "13F6FB825F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "105",
+        "end": "105",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "\"Yeet,\" which I've learned is a thing.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "6846269A3F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "106",
+        "end": "106",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "It is both a verb and a noun.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "196BC7339A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "107",
+        "end": "107",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "\"I yeeted the ball, I am yeet.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "AAF01A7A56",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "108",
+        "end": "108",
+        "startOffset": 0,
+        "endOffset": 20,
+        "text": "I think that's true.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "99F5D9CBCE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "109",
+        "end": "109",
+        "startOffset": 0,
+        "endOffset": 30,
+        "text": "I probably got that one wrong.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "706E7EE4C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "110",
+        "end": "110",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "\"That idea is cringe.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5546BB71BC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "111",
+        "end": "111",
+        "startOffset": 0,
+        "endOffset": 7,
+        "text": "\"NASA.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "991184AABD",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "112",
+        "end": "112",
+        "startOffset": 0,
+        "endOffset": 78,
+        "text": "And sometimes these things actually disappear just as quickly as they show up.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "CCEE3C351C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "113",
+        "end": "113",
+        "startOffset": 0,
+        "endOffset": 69,
+        "text": "I'm not allowed to say \"cringe\" anymore, according to my 12-year-old.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "FDF19D1A7A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "114",
+        "end": "114",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Now if anyone's ever gone to another country, you realize some of these things don't track.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "9FA79C0120",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "115",
+        "end": "115",
+        "startOffset": 0,
+        "endOffset": 128,
+        "text": "I have a lot of German colleagues who've told me that there's a phrase that says something like, \"It's all train station to me.\"",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "D81C97B651",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "116",
+        "end": "116",
+        "startOffset": 0,
+        "endOffset": 142,
+        "text": "That is a terrible English translation of a German phrase that means something like, “It’s all Greek.” which also doesn't make a ton of sense.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "3149F61B17",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "117",
+        "end": "117",
+        "startOffset": 0,
+        "endOffset": 92,
+        "text": "So we use these phrases all of the time, and they can infiltrate the ways in which we speak.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "5EE9F47B87",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "118",
+        "end": "118",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "But one thing you probably don't realize is just how quickly they actually develop.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "DAD676D101",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "119",
+        "end": "119",
+        "startOffset": 0,
+        "endOffset": 85,
+        "text": "And so some researchers from Caltech showed this through this very clever experiment.",
+        "paragraphlabels": [
+          "INCOMPLETE"
+        ]
+      },
+      "id": "A277F856B3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 215,
+        "endOffset": 231,
+        "text": "hidden languages",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "F954F5E232",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "120",
+        "end": "120",
+        "startOffset": 0,
+        "endOffset": 232,
+        "text": "They handed people photos of offices that looked nearly identical to each other, and in pairs, they had them describe these photos to one another, and they looked at how quickly they actually came up with their own hidden languages.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B78C30916",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "121",
+        "end": "121",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "So at first they started off pretty slowly.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9F4D47C03C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "122",
+        "end": "122",
+        "startOffset": 0,
+        "endOffset": 76,
+        "text": "\"This one has a computer, three ferns, a cup of coffee, so on and so forth.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "37BF0D6E72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "123",
+        "end": "123",
+        "startOffset": 0,
+        "endOffset": 64,
+        "text": "\"This one has a computer, headphones, a cup of coffee, a phone.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "AC8E469BC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 19,
+        "endOffset": 57,
+        "text": "by overtime I mean a matter of minutes",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "FA4D627040",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "124",
+        "end": "124",
+        "startOffset": 0,
+        "endOffset": 83,
+        "text": "But over time, and by overtime I mean a matter of minutes, they got very efficient.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C7735877BF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "125",
+        "end": "125",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Team A would call this \"wall fern.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8DD15FAAF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "126",
+        "end": "126",
+        "startOffset": 0,
+        "endOffset": 35,
+        "text": "Team B called this one \"tidy vibe.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F3BAD20E6E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "127",
+        "end": "127",
+        "startOffset": 0,
+        "endOffset": 4,
+        "text": "Why?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "A431BDD811",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "128",
+        "end": "128",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Nobody knows.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "25EF68BD75",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "129",
+        "end": "129",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "We just know that they do it.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7B75CFB8C9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "130",
+        "end": "130",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "Team A calls this one “lots of stuff”, and team B calls this one \"wannabe writer.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0A0E0D7BAA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "131",
+        "end": "131",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "Now imagine that we now have someone from another team come join yours.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1B26A76374",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "132",
+        "end": "132",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "Team A is working well together and someone from team B joins that team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D5574D3629",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "133",
+        "end": "133",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "What happens?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "671EBE733C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "134",
+        "end": "134",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "Do they learn their hidden languages?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "B83A8B6701",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "135",
+        "end": "135",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "Do they start over?",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4A04045A5C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 25,
+        "endOffset": 34,
+        "text": "irritated",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FCD3C598AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "136",
+        "end": "136",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "They actually get really irritated with each other pretty quickly for not understanding one another.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E70ADA6EED",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "137",
+        "end": "137",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Team A says, \"It's wall fern.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C06B3B8A94",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "138",
+        "end": "138",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "You know, the wall fern.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1550596361",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "139",
+        "end": "139",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "And team B says something like, \"Stop saying 'wall fern'.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4B04B47BF4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "140",
+        "end": "140",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "Half of them have wall ferns.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "842AE3C22A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "141",
+        "end": "141",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "Tell me if there's a tidy vibe.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3BB8114609",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "142",
+        "end": "142",
+        "startOffset": 0,
+        "endOffset": 189,
+        "text": "So we do not actually realize that these hidden languages are dominating our conversations, and they ended up taking so long to do this, most of them actually didn't finish the task at all.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8B35DFA046",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "143",
+        "end": "143",
+        "startOffset": 0,
+        "endOffset": 90,
+        "text": "Now there’s this huge theme here, in this talk, that we don't know what others don't know.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5475E97CCA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "144",
+        "end": "144",
+        "startOffset": 0,
+        "endOffset": 159,
+        "text": "We don't know if they're on the same page with ostensibly obvious pieces of information, like whether we're using the newton or the pound as our unit of force.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D8419420EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 68,
+        "endOffset": 81,
+        "text": "we don't know",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "CE10C1F429",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "145",
+        "end": "145",
+        "startOffset": 0,
+        "endOffset": 158,
+        "text": "We don't know what the hidden languages are that they're using, and we don't know if they are sharing critical information in the ways that we think they are.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A817D91763",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "So the question is: “What are we supposed to do with all of this mess if we want to make smarter team decisions?”",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "42EF716ADC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "146",
+        "end": "146",
+        "startOffset": 114,
+        "endOffset": 238,
+        "text": "So I think the first thing that we should do is be that annoying person in the room who says things like, \"Let's level set.\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "863454D3D4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "147",
+        "end": "147",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "Which, by the way, is also a hidden language.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "79418CE6C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "148",
+        "end": "148",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "State the obvious.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1E651DB0EA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "149",
+        "end": "149",
+        "startOffset": 0,
+        "endOffset": 113,
+        "text": "It is a good idea to start those meetings, to start those conversations, even if it makes people roll their eyes.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E9A53CD8E0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "150",
+        "end": "150",
+        "startOffset": 0,
+        "endOffset": 137,
+        "text": "That 22nd conversation about the obvious thing that should be going on in that meeting should happen, and it's OK to be the one to do it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "451D09F55D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "151",
+        "end": "151",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "It's OK to be the one to make that the norm in the meeting.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B25A29734D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "152",
+        "end": "152",
+        "startOffset": 0,
+        "endOffset": 84,
+        "text": "Realize that not all critical information appears as such or is obvious to everyone.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "FA90BF54F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "153",
+        "end": "153",
+        "startOffset": 0,
+        "endOffset": 136,
+        "text": "So in the research I talked about, they quite literally handed people all the information they needed to make the right hiring decision.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E16903C634",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "154",
+        "end": "154",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "But that is not the real world.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69C7F45C72",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "155",
+        "end": "155",
+        "startOffset": 0,
+        "endOffset": 19,
+        "text": "We walk into rooms.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "257B5AC598",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "156",
+        "end": "156",
+        "startOffset": 0,
+        "endOffset": 110,
+        "text": "We might not know if our information is critical, we might think it is, but there's a norm against sharing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48382F32F0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "157",
+        "end": "157",
+        "startOffset": 0,
+        "endOffset": 178,
+        "text": "So imagine, for instance, that you are making some really important decision at work and your boss is in the room, and that boss is arguing to give her direct report Tom a raise.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "5E7ADCB007",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "158",
+        "end": "158",
+        "startOffset": 0,
+        "endOffset": 104,
+        "text": "But you just saw Tom come out of her hotel room three times that weekend retreat you guys got back from.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A4C2D5C574",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "159",
+        "end": "159",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Should you share that information?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D5CB8EF9AB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "160",
+        "end": "160",
+        "startOffset": 0,
+        "endOffset": 127,
+        "text": "It feels critical to you, but it could also just be seen as a nasty little nugget of gossip if it's shared to the wrong person.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B284E26B2E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "161",
+        "end": "161",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "So we often don't know, there are norms that we could be violating by sharing critical information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E46659AAA9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "162",
+        "end": "162",
+        "startOffset": 0,
+        "endOffset": 99,
+        "text": "We might be sitting on something important and we have no idea because we are new in the workplace.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "40119367F1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "163",
+        "end": "163",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "Don't assume people are always sharing it.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "602B739C66",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "164",
+        "end": "164",
+        "startOffset": 0,
+        "endOffset": 181,
+        "text": "People are actually more likely to withhold something if they're afraid that they're violating a norm, or if they're afraid it's not going to go down as well as they think it might.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8BAD53E031",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "165",
+        "end": "165",
+        "startOffset": 0,
+        "endOffset": 31,
+        "text": "It's OK to restate information.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "5E1D92FC3D",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "166",
+        "end": "166",
+        "startOffset": 0,
+        "endOffset": 33,
+        "text": "In fact, you should, a few times.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9282EF2925",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "167",
+        "end": "167",
+        "startOffset": 84,
+        "endOffset": 102,
+        "text": "a false assumption",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "89F6D0DBAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "168",
+        "end": "168",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Make sure that information sticks.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F73C828550",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "169",
+        "end": "169",
+        "startOffset": 7,
+        "endOffset": 75,
+        "text": "in the way you wanted it to say, in the way you want it to be heard.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "3E1A091CC4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "170",
+        "end": "170",
+        "startOffset": 0,
+        "endOffset": 81,
+        "text": "Restate it, and do it a couple of times, and do it at the end of that interaction",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E8AA047E0E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "171",
+        "end": "171",
+        "startOffset": 0,
+        "endOffset": 68,
+        "text": "It doesn't get restated, even by a well-meaning member of your team.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "B9110B05EF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "172",
+        "end": "172",
+        "startOffset": 0,
+        "endOffset": 42,
+        "text": "And make it comfortable for people to ask.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "91622B84C0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "173",
+        "end": "173",
+        "startOffset": 1,
+        "endOffset": 27,
+        "text": "What did you mean by that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "22814B7B38",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 49,
+        "endOffset": 91,
+        "text": "sitting on the other end of a conversation",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "45D81536F9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "174",
+        "end": "174",
+        "startOffset": 99,
+        "endOffset": 131,
+        "text": "a lot of jargon is thrown around",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "82677884BB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "175",
+        "end": "175",
+        "startOffset": 33,
+        "endOffset": 59,
+        "text": "What did you mean by that?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "D16E929407",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "176",
+        "end": "176",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "What were those letters?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9FB58336A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "177",
+        "end": "177",
+        "startOffset": 0,
+        "endOffset": 26,
+        "text": "What did that phrase mean?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "35639FF374",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "178",
+        "end": "178",
+        "startOffset": 0,
+        "endOffset": 107,
+        "text": "We will be much less likely to be annoyed with one another when those kinds of conversations are happening.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "DA57B04BAF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "179",
+        "end": "179",
+        "startOffset": 0,
+        "endOffset": 45,
+        "text": "don't say \"wall fern\".",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "E62F6520CB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "180",
+        "end": "180",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "7357C3B3E1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "181",
+        "end": "181",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2812FB1E04",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}

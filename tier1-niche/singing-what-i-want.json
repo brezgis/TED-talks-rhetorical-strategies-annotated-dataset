@@ -1,0 +1,1103 @@
+{
+  "project_id": 20,
+  "project_label": "gemma",
+  "task_id": 7170,
+  "title": "Singing \"What I Want\"",
+  "author": "Nora York",
+  "url": "https://www.ted.com/talks/nora_york_singing_what_i_want",
+  "annotation_id": null,
+  "completed_by": 7,
+  "created_at": "2026-05-07T03:10:03.721199Z",
+  "updated_at": "2026-05-07T03:10:03.721199Z",
+  "lead_time": 36.082,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 159,
+        "endOffset": 341,
+        "text": "I find no peace, and all my war is done; I fear and hope, I burn and freeze like ice; I fly above the wind, and yet I cannot arise; And naught I have, and all the world I seize upon.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DF0F6694DB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 235,
+        "endOffset": 243,
+        "text": "like ice",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0DE5C9FBD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 2,
+        "endOffset": 50,
+        "text": "I want what I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B44CFACC12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have what I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7834091BD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E6BC5D5643",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have what I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E9C8046EE7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "E8C28E5DBF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have what I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FCAE2A6E25",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "FFBB627793",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I don't have",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "B1A6C6ACFA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "It feels like all I got is loss on a bad back",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "8CF10AC609",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Gone with the last train, honey don't you fret",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C98320F60C",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Every cloud has a silver lining",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7581C88128",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "just a little rain, just a little rain, just a little rain",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6AB2A5E0D8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I want what I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "188FD6142F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have what I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1C0EAC6C11",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1384844608",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I don't have",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "5B27ED1739",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "My mind won't stop, and my heart says go",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "90E12AA2A4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Nobody knows how to hold me",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "56BE6B3576",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "My mind won't stop, and my heart says",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "A7C363DD23",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "\"Good things come to those who wait\"",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "B385F6F965",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "And I can't stand in ... ",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F885361E1B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I can't stand in line forever",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "C55B20A5CC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Stand the cold air",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8D4ED4B02B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Glad-handed",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "69C3FE85B0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Sick and tired of the \"Later, maybe\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "BD88B9CFE2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Take it, fake it, take it, take-it-or-leave-it life",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D806B18DD7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "And I gotta just tame it",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "97A6CADE12",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I gotta just name it",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "48923B6E27",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I gotta just seize, so please, oh please, oh please, oh please",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C7A86E66C7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Oh please me right, 'cause",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "60BA3984E2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "My mind won't stop",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "EA7D7F8BA6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "And my heart says go",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "F49A73191E",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Nobody knows how to hold me",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4993D88038",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "My mind won't stop -- and my heart says go-ooooo ...",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "0067BFCACB",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Good things must be here -- yes, right here",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "93741FBCD6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Here, right here, right here",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A3F3CC4A0B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I won't live this life forever",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "E01ED772DE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "One time round is all the offer is",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3639863BE0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Sick and tired of the \"Later, maybe\"",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "309AED9360",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Take it, fake it, make it, leave it life",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "1BCB5ACF33",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "And I gotta just name it, I gotta just claim it",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "6BED9EA022",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I gotta just seize",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3D6519DB6F",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Oh please, oh please, oh please me right",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "ED761A46D2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "I want what I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "673CE5D2E6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have what I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "693DD21BB5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8577E65B39",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I don't have -- you know that",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "C4467C88CF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "My mind won't stop, and my heart says go",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3DAFB00EC3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Nobody knows how to hold me, no",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "4F9B1CDFB7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "My mind won't stop, and my heart says go",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "59502402A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "'Cause I want what I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4898ED674B",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I -- have what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "4A311215C8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A7B00848F6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "F74CE426DF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8A8BDC779A",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "A1A9A4CAF3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have what I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "8A25FCE250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "113D94B179",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I don't have, what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3A56EA27A3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "What I can't have, need what I can't want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "7144DD0701",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "Have but I don't have what I want",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "9F75874719",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 0,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "9739E71866",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}
