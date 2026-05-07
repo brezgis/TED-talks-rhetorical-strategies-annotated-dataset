@@ -1,0 +1,1562 @@
+{
+  "project_id": 20,
+  "project_label": "tier1_niche_modest",
+  "task_id": 7111,
+  "title": "Next up for AI? Dancing robots",
+  "author": "Catie Cuan",
+  "url": "https://www.ted.com/talks/catie_cuan_next_up_for_ai_dancing_robots",
+  "annotation_id": 7,
+  "completed_by": 3,
+  "created_at": "2026-04-17T17:12:41.588460Z",
+  "updated_at": "2026-04-17T17:12:41.588480Z",
+  "lead_time": 2344.688,
+  "result": [
+    {
+      "value": {
+        "start": "0",
+        "end": "0",
+        "startOffset": 0,
+        "endOffset": 22,
+        "text": "I have an unusual job.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "VuZANu6p9t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "1",
+        "end": "1",
+        "startOffset": 0,
+        "endOffset": 28,
+        "text": "I teach robots how to dance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "KtchDP90RQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "2",
+        "end": "2",
+        "startOffset": 0,
+        "endOffset": 82,
+        "text": "In 2017, I transitioned from dancing on stages with humans to dancing with robots.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "D_jBd828Hk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "3",
+        "end": "3",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Big robots, small robots, single-arms and roving robots.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "H5lVmvca41",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "4",
+        "end": "4",
+        "startOffset": 0,
+        "endOffset": 34,
+        "text": "Robots that fly, vacuuming robots.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "XS7iVVvdu7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "5",
+        "end": "5",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "A lot of robots that look like humans.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "YBMoeFjOeT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "6",
+        "end": "6",
+        "startOffset": 0,
+        "endOffset": 29,
+        "text": "And a whole bunch that don't.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "bh3Nj074z0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "7",
+        "end": "7",
+        "startOffset": 0,
+        "endOffset": 103,
+        "text": "I'm pretty sure I've choreographed and danced with more different types of robots than anyone on Earth.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "w_dJPVvmv-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "8",
+        "end": "8",
+        "startOffset": 0,
+        "endOffset": 17,
+        "text": "Why do I do this?",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "E3An4EUMhw",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "9",
+        "end": "9",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "Because robots move and choreographers understand how movement affects us.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "tXezxf1ryv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 3,
+        "endOffset": 42,
+        "text": "a robot slides politely out of a doorwa",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "QAyY2WJmNn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "10",
+        "end": "10",
+        "startOffset": 61,
+        "endOffset": 103,
+        "text": "might make you feel seen and acknowledged.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "O_mOUt9h0g",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "If a robot marches quickly towards you and avoids you at the last second",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "4YPVQzr8NP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "11",
+        "end": "11",
+        "startOffset": 0,
+        "endOffset": 108,
+        "text": "If a robot marches quickly towards you and avoids you at the last second, it might cause revulsion and fear.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6X5e0NespF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "12",
+        "end": "12",
+        "startOffset": 67,
+        "endOffset": 111,
+        "text": "sidewalks to offices, backyards to hospitals",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "1vGh8nlitm",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "13",
+        "end": "13",
+        "startOffset": 0,
+        "endOffset": 94,
+        "text": "And they will be threatening and confusing to us if we do not carefully examine how they move.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "9xb-9li9Vk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "14",
+        "end": "14",
+        "startOffset": 0,
+        "endOffset": 38,
+        "text": "I'm also a roboticist and an engineer.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "OYYOsFfzlu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "15",
+        "end": "15",
+        "startOffset": 0,
+        "endOffset": 57,
+        "text": "I study this connection between robot motion and emotion.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "rvvaFt6TKT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "16",
+        "end": "16",
+        "startOffset": 0,
+        "endOffset": 126,
+        "text": "I combine my expertise in robotics and dance in the emerging field of choreo-robotics, the intersection of dance and robotics.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2UovS72DKP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "17",
+        "end": "17",
+        "startOffset": 0,
+        "endOffset": 67,
+        "text": "Right now, we're giving AI a robot body with physical intelligence.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "cNUoNlymNQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "18",
+        "end": "18",
+        "startOffset": 86,
+        "endOffset": 112,
+        "text": "robots are getting smarter",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "_lfDKZNrWy",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "19",
+        "end": "19",
+        "startOffset": 0,
+        "endOffset": 13,
+        "text": "Much smarter.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "RRTEzNPDlu",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "20",
+        "end": "20",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "Think of what AI has already done to text and video generation.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "4N6C0f9gw7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "21",
+        "end": "21",
+        "startOffset": 12,
+        "endOffset": 34,
+        "text": "scratching the surface",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "olYWa2GM1f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "22",
+        "end": "22",
+        "startOffset": 46,
+        "endOffset": 64,
+        "text": "intelligent robots",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "RVfkakNXYN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "23",
+        "end": "23",
+        "startOffset": 0,
+        "endOffset": 145,
+        "text": "Roboticists already spend a lot of time thinking about movement, but they think about it in terms of efficiency, optimizing for speed or success.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8cIGALmj-0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "24",
+        "end": "24",
+        "startOffset": 0,
+        "endOffset": 18,
+        "text": "That's not enough.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "-WgAuHfeNd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "25",
+        "end": "25",
+        "startOffset": 0,
+        "endOffset": 37,
+        "text": "We need to teach robots how to dance.",
+        "paragraphlabels": [
+          "UNCERTAIN"
+        ]
+      },
+      "id": "k1bUpL082n",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "26",
+        "end": "26",
+        "startOffset": 0,
+        "endOffset": 183,
+        "text": "If a robot can dance, make every movement with intention, agility, balance, emotional expression and grace, I believe they will also become better caregivers, teachers and companions.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "1hehwmwjMI",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "27",
+        "end": "27",
+        "startOffset": 0,
+        "endOffset": 93,
+        "text": "It will help us build better general-purpose robots that we actually want to live amongst us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "uIZ6xTOUdS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "28",
+        "end": "28",
+        "startOffset": 32,
+        "endOffset": 73,
+        "text": "expand the future of intelligent machines",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "ZRq3sy1fX2",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "29",
+        "end": "29",
+        "startOffset": 79,
+        "endOffset": 152,
+        "text": "these highly scripted performances have captured the public's imagination",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "e4VWZ84PpS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "30",
+        "end": "30",
+        "startOffset": 0,
+        "endOffset": 135,
+        "text": "They've made us feel wonder, made us laugh, made us want to dance along, and sometimes made us never want to meet a robot in real life.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "UTGzh_HL-u",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "31",
+        "end": "31",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "Dancing with robots is no longer just about art or entertainment.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "3ivem_xrEa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "32",
+        "end": "32",
+        "startOffset": 135,
+        "endOffset": 189,
+        "text": "applying those lessons to robots in our everyday lives",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "2EWbm2EZoh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "33",
+        "end": "33",
+        "startOffset": 0,
+        "endOffset": 123,
+        "text": "Robotics engineers are beginning to consider emotion and context when designing intelligent machines that interact with us.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "SBpswttXIS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "34",
+        "end": "34",
+        "startOffset": 0,
+        "endOffset": 79,
+        "text": "The choices we make now are going to dictate how we live our lives with robots.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "6ab95VsC4d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "35",
+        "end": "35",
+        "startOffset": 22,
+        "endOffset": 72,
+        "text": "robots will be more welcomed, safe, and delightful",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "dIfmzTtCC0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "36",
+        "end": "36",
+        "startOffset": 0,
+        "endOffset": 46,
+        "text": "Humans will be more empowered and comfortable.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "Tsmwe2WNHx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "37",
+        "end": "37",
+        "startOffset": 0,
+        "endOffset": 91,
+        "text": "Before AI, programmers needed hours to script a simple dance sequence for robot to perform.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "rwJAmezri1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "38",
+        "end": "38",
+        "startOffset": 0,
+        "endOffset": 70,
+        "text": "Just like they needed hours to script the robot to open a single door.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "3Yo9e-QqSk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "39",
+        "end": "39",
+        "startOffset": 0,
+        "endOffset": 139,
+        "text": "With AI, you can teach the robot to open just a few specific doors, and it will learn to open all of them, even ones it hasn't seen before.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "hx6dT_C-Ow",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "40",
+        "end": "40",
+        "startOffset": 0,
+        "endOffset": 25,
+        "text": "It's also true for dance.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "v3BIF-rJ1o",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "41",
+        "end": "41",
+        "startOffset": 0,
+        "endOffset": 163,
+        "text": "You can teach the robot to dance with a specific person, and it will learn how to dance and move with many others in many different environments and circumstances.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "g3Y1FcWHCb",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "42",
+        "end": "42",
+        "startOffset": 0,
+        "endOffset": 74,
+        "text": "This is what I did at Everyday Robots, then a robot AI moonshot at Google.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "lb-hX60Kpj",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "43",
+        "end": "43",
+        "startOffset": 46,
+        "endOffset": 93,
+        "text": "teach 15 robots how to move together as a flock",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0j0YFZuEtn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "44",
+        "end": "44",
+        "startOffset": 0,
+        "endOffset": 179,
+        "text": "We imagined a world where you could walk down a hallway filled with robots, and they would part to make space for you, like a flock of doves or a crowd of people on a city street.",
+        "paragraphlabels": [
+          "HUMOR"
+        ]
+      },
+      "id": "aBLOuWE-4p",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "45",
+        "end": "45",
+        "startOffset": 0,
+        "endOffset": 98,
+        "text": "Where a robot could navigate seamlessly and even beautifully through a busy, chaotic Times Square.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "XaGJa4yrCK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "46",
+        "end": "46",
+        "startOffset": 0,
+        "endOffset": 60,
+        "text": "The world we live in is complicated for robots to understand",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "bLpOeH48_7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "47",
+        "end": "47",
+        "startOffset": 36,
+        "endOffset": 80,
+        "text": "teach the robots how to improvise and react.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "eFhhg-Cd5e",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "48",
+        "end": "48",
+        "startOffset": 0,
+        "endOffset": 153,
+        "text": "This was a massive challenge that had never been done before, and the result is an interactive performance and installation work called Project Starling.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "gv8Bdy7Hs8",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "49",
+        "end": "49",
+        "startOffset": 0,
+        "endOffset": 59,
+        "text": "This took us two years of hardcore engineering to complete.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "fGqpQem4CH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "50",
+        "end": "50",
+        "startOffset": 0,
+        "endOffset": 65,
+        "text": "We trained an AI agent on the preferences of a choreographer, me.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "QcelbDyt6q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "51",
+        "end": "51",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "I chose the most engaging patterns and sequences.",
+        "paragraphlabels": [
+          "UNCERTAIN"
+        ]
+      },
+      "id": "Q5Hhx8vpIo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "52",
+        "end": "52",
+        "startOffset": 0,
+        "endOffset": 73,
+        "text": "We also taught the robots how to recognize and respond to human gestures.",
+        "paragraphlabels": [
+          "UNCERTAIN"
+        ]
+      },
+      "id": "r1VIxweMf0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "53",
+        "end": "53",
+        "startOffset": 21,
+        "endOffset": 67,
+        "text": "we turned the robots into musical instruments.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "dO7UogyxHR",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "54",
+        "end": "54",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Each joint on the robot was mapped to a different sound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "k1LcreGR5a",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "55",
+        "end": "55",
+        "startOffset": 0,
+        "endOffset": 53,
+        "text": "When the robot's torso moved, triggered a bass sound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "ct9lFCgpgT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "56",
+        "end": "56",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "Its hand opening and closing triggered a bell sound.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "e09rB5TqbL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "57",
+        "end": "57",
+        "startOffset": 0,
+        "endOffset": 52,
+        "text": "The robot's actions created its own unique symphony.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "Z5dupf2ylf",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "58",
+        "end": "58",
+        "startOffset": 0,
+        "endOffset": 41,
+        "text": "This is what Project Starling looks like.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "2CE_cABudE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "59",
+        "end": "59",
+        "startOffset": 0,
+        "endOffset": 56,
+        "text": "Our AI generated movement and our robot generated music.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "gLt0M6eYwF",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "60",
+        "end": "60",
+        "startOffset": 32,
+        "endOffset": 164,
+        "text": "I wanted it to feel like stepping out of your normal reality and into a waking dream, one that was so far from where we stand today.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "mwLGhmZ3GN",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "61",
+        "end": "61",
+        "startOffset": 0,
+        "endOffset": 152,
+        "text": "Yet, all the same felt like a world where your kids could grow up and feel calm, where you could be surrounded by machines and it felt natural and safe.",
+        "paragraphlabels": [
+          "UNCERTAIN"
+        ]
+      },
+      "id": "vx-rywbl6d",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "62",
+        "end": "62",
+        "startOffset": 0,
+        "endOffset": 174,
+        "text": "People were drawn to just wander amongst these robots, you know, some were a bit tentative at first, but then they began to engage and explore with curiosity and playfulness.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "YjnHzkEjjX",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "63",
+        "end": "63",
+        "startOffset": 0,
+        "endOffset": 24,
+        "text": "People kept coming back.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "8VQD7QzoML",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "64",
+        "end": "64",
+        "startOffset": 0,
+        "endOffset": 116,
+        "text": "What we learned about gesture, navigation, human interaction and expression can be applied to robots more generally.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "pyldZkJQ7f",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "65",
+        "end": "65",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Think of the following future scenario.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "KIrp59R8m7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "66",
+        "end": "66",
+        "startOffset": 0,
+        "endOffset": 63,
+        "text": "A robot in a senior living facility, waiting in a crowded cafe.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "Tel579KtHL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "67",
+        "end": "67",
+        "startOffset": 72,
+        "endOffset": 131,
+        "text": "the robot understands that you would like a glass of water.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "DDW9pV7Y5Q",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "68",
+        "end": "68",
+        "startOffset": 0,
+        "endOffset": 134,
+        "text": "And when it drives over to you with its glass of water, it nods at the other people it passes and pauses graciously to let them go by.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "KuNPUaOjqx",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "69",
+        "end": "69",
+        "startOffset": 0,
+        "endOffset": 71,
+        "text": "And when it arrives at your table, it places the glass gracefully down.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "tNvBgSgyNS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "70",
+        "end": "70",
+        "startOffset": 0,
+        "endOffset": 49,
+        "text": "And when you thank it, it nods in acknowledgment.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "7GTqRyN23I",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "71",
+        "end": "71",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "Maybe it even performs a small celebratory dance in place.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "NHoBL-HzOJ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "72",
+        "end": "72",
+        "startOffset": 0,
+        "endOffset": 58,
+        "text": "We can choose to build and program robots that we welcome.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "sF7aI0eqE4",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Robots that make us feel understood.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "0_VrnQub_J",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "73",
+        "end": "73",
+        "startOffset": 0,
+        "endOffset": 36,
+        "text": "Robots that make us feel understood.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "3WmShtjvy7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Robots that we want to spend time with.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "Dk6IyDWXu7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "74",
+        "end": "74",
+        "startOffset": 0,
+        "endOffset": 39,
+        "text": "Robots that we want to spend time with.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "1LHW0-r_eZ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "75",
+        "end": "75",
+        "startOffset": 15,
+        "endOffset": 56,
+        "text": "robots that will live and work amongst us",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "aTiV0GJkya",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "77",
+        "end": "77",
+        "startOffset": 0,
+        "endOffset": 43,
+        "text": "Yes, we can have robots that do our chores.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "rM0rn0rNfW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "76",
+        "end": "76",
+        "startOffset": 0,
+        "endOffset": 204,
+        "text": "From Karel Capek's 1920 play \"Rossum's Universal Robots\" to The Jetsons' Rosey the Robot to C-3PO of \"Star Wars\" and even Terminator, these stories have been deeply impactful in what we imagine and build.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "VtxvPcRzrE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "78",
+        "end": "78",
+        "startOffset": 0,
+        "endOffset": 50,
+        "text": "But we can also have robots be our dance partners.",
+        "paragraphlabels": [
+          "UNCERTAIN"
+        ]
+      },
+      "id": "gat-zywS51",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "79",
+        "end": "79",
+        "startOffset": 29,
+        "endOffset": 90,
+        "text": "ceramics to diplomacy, singing in choirs to vertical farming.",
+        "paragraphlabels": [
+          "REP"
+        ]
+      },
+      "id": "uEWzKNWov3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "80",
+        "end": "80",
+        "startOffset": 0,
+        "endOffset": 114,
+        "text": "Imagine a world where robots can do a myriad of things that are functional or creative, and everything in between.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "XGn9V5yfMv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "81",
+        "end": "81",
+        "startOffset": 0,
+        "endOffset": 146,
+        "text": "General-purpose robots are coming, and they will help us to address big demographic challenges like aging populations and massive labor shortages.",
+        "paragraphlabels": [
+          "FIG"
+        ]
+      },
+      "id": "weM1j0G2vp",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "82",
+        "end": "82",
+        "startOffset": 0,
+        "endOffset": 100,
+        "text": "And how they move will unlock whether we let them into our homes and welcome them in our workplaces.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "GswFr0LHF7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "83",
+        "end": "83",
+        "startOffset": 0,
+        "endOffset": 89,
+        "text": "Because we want to feel like we're still marvelously human in this increasingly AI world.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "BDZUpcqQ8-",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "84",
+        "end": "84",
+        "startOffset": 0,
+        "endOffset": 72,
+        "text": "And we can, because we have the power to choreograph the future we want.",
+        "paragraphlabels": [
+          "ENG"
+        ]
+      },
+      "id": "c1qg8UaKBq",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "85",
+        "end": "85",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "Thank you.",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "Bomj7A-7hM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    },
+    {
+      "value": {
+        "start": "86",
+        "end": "86",
+        "startOffset": 0,
+        "endOffset": 10,
+        "text": "(Applause)",
+        "paragraphlabels": [
+          "NONE"
+        ]
+      },
+      "id": "zrxnMNNaCO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "paragraphlabels",
+      "origin": "manual"
+    }
+  ]
+}
